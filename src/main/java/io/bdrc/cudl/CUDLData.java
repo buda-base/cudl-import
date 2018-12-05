@@ -1,0 +1,97 @@
+package io.bdrc.cudl;
+
+import java.io.BufferedWriter;
+import java.io.ByteArrayOutputStream;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Set;
+
+import org.apache.http.HttpResponse;
+import org.apache.http.client.ClientProtocolException;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.HttpClientBuilder;
+
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
+public class CUDLData {
+
+    public static String rootDir="/home/marc/cudl-import/data";
+
+    public static HashMap<String,JsonNode> JSON_INF;
+    public static HashMap<String,String> XML_INF;
+
+    static void loadData() throws ClientProtocolException, IOException {
+        int start=1;
+        int end=20;
+        boolean ok=loadJsonInfo(start, end);
+        while(ok) {
+            start=start+20;
+            end=end+20;
+            ok=loadJsonInfo(start, end);
+        }
+        Set<String> ids=JSON_INF.keySet();
+        for(String id:ids) {
+            System.out.println("Processing >>"+id);
+            loadXMLInfo(id);
+        }
+    }
+
+    private static void loadXMLInfo(String id) throws ClientProtocolException, IOException {
+        if(XML_INF==null) {
+            XML_INF=new HashMap<>();
+        }
+        String url="https://services.cudl.lib.cam.ac.uk/v1/metadata/tei/"+id;
+        HttpClient client=HttpClientBuilder.create().build();
+        HttpGet get=new HttpGet(url);
+        get.addHeader("Accept","application/xml");
+        HttpResponse resp=client.execute(get);
+        ByteArrayOutputStream baos=new ByteArrayOutputStream();
+        resp.getEntity().writeTo(baos);
+        String xml=baos.toString();
+        baos.close();
+        writeFile(id+".xml","xml",xml);
+        XML_INF.put(id,xml);
+    }
+
+
+    private static boolean loadJsonInfo(int start, int end) throws ClientProtocolException, IOException {
+        ObjectMapper mapper=new ObjectMapper();
+        if(JSON_INF==null) {
+            JSON_INF=new HashMap<>();
+        }
+        String url="https://cudl.lib.cam.ac.uk/search/JSON?fileID=&keyword=Bauddha&start="+start+"&end="+end;
+        HttpClient client=HttpClientBuilder.create().build();
+        HttpGet get=new HttpGet(url);
+        get.addHeader("Accept","application/json");
+        HttpResponse resp=client.execute(get);
+        ByteArrayOutputStream baos=new ByteArrayOutputStream();
+        resp.getEntity().writeTo(baos);
+        String json_resp=baos.toString();
+        baos.close();
+        JsonNode node=mapper.readTree(json_resp);
+        List<JsonNode> nodes=node.findValues("item");
+        if(nodes.isEmpty()) {
+            return false;
+        }
+        for(JsonNode item:nodes) {
+            JSON_INF.put(item.findValue("id").get(0).asText(),item);
+            writeFile(item.findValue("id").get(0).asText()+".json","json",item.toString());
+        }
+        return true;
+    }
+
+    private static void writeFile(String filename, String dir, String content) throws IOException {
+        BufferedWriter writer = new BufferedWriter(new FileWriter(rootDir+"/"+dir+"/"+filename));
+        writer.write(content);
+        writer.close();
+    }
+
+    public static void main(String[] args) throws ClientProtocolException, IOException {
+        CUDLData.loadData();
+    }
+
+}
