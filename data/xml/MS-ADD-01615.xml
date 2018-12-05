@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS Add.1615</title>
+                <funder>AHRC</funder>
+                <principal>Vincenzo Vergiani</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+                </address>
+                </pubPlace>
+                <idno>Sanskrit</idno>
+                
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                
+                <msDesc xml:id="Sanskrit" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Additional Manuscripts</collection>
+                        <idno>MS Add.1615</idno>
+                      <altIdentifier type="internal"> 
+                     <collection type="CUL_collection">Sanskrit</collection> 
+                     <idno/> 
+                       </altIdentifier>
+                    </msIdentifier>
+                    
+                    <msContents n="4">
+                        <!--increment n attribute for ms containing multiple ms items-->
+                        <summary>A modern Nepalese multi-text manuscript dated 1803 CE and containing four works: the <title xml:lang="san" type="general">Ratnamālāvadāna</title>, the <title xml:lang="san" type="general">Dvāviṃśatyavadānakathā</title>, 
+                            a yet unidentified <title xml:lang="san" type="general">Work on the Dvādaśatīrthas of Nepal</title> 
+                            and the <title xml:lang="san" type="general">Upoṣadhāvadāna</title>. 
+                            The <title xml:lang="san" type="general">Ratnamālāvadāna</title> is a collection of <term xml:lang="san">avadāna</term>s belonging to the cycle of king Aśoka and the monk
+                            Upagupta. Only 13 <term xml:lang="san">avadāna</term>s have been copied 
+                            in this manuscript (number 1, 2, ,6, ,7, 8, 11, 13, 14, 18, 19, 25, 27 and 28 in Takahata's edition), and some of them are incomplete: 
+                           <list>
+                               <item>on <locus from="35r" to="35v">f. 7v9 [= 35 verso]</locus>, the <title xml:lang="san">Praśnottarāvadāna</title>
+                            ends with stanza  7ab, <hi rend="italic">sarvvasatvahitārthena śrāvastyāṃ va</hi>;
+                               </item>
+                               <item>on <locus from="43r" to="43v">f. 9r4 [= 43bis verso]</locus>, the <title xml:lang="san">Hastakāvadāna</title> 
+                                   (here called <title xml:lang="san">Hastāvadāna</title>) ends with stanza 173abc (<hi rend="italic">tenaiva <sic>bhujate</sic> 
+                                       loke nānyena spṛśyate kvacit_ | abhuktaṃ kṣīyate [9r4] naiva</hi>); 
+                               </item>
+                               <item>on <locus from="61r" to="61v">f. 9r4 [= 61 verso]</locus>, 
+                                   the <title xml:lang="san">Śāntikāvadāna</title> (also called <title xml:lang="san">Śāntiprakāraṇāvadāna</title> 
+                                   and <sic>
+                              <title xml:lang="san">Praśāntakaraṇāvadāna</title>
+                           </sic>) has a lacuna corresponding to ca. the whole verso of the folio. 
+                                   In Takahata's <term xml:lang="lat">editio princeps</term>, the thirteenth <term xml:lang="san">avadāna</term> 
+                                   is called <title xml:lang="san">Vaḍikāvadāna</title>; 
+                                   however, an <term xml:lang="san">avadāna</term> with the title <title xml:lang="san">Śāntikāvadāna</title> is to be found in the manuscript labelled as B by Takahata [1954: v]; 
+                                   </item>
+                               <item>the <title xml:lang="san">Daśaśiro'vadāna</title> has a lacuna stretching over ca. the whole verso of folio <locus from="77v" to="77v">f. 34v10 [= 77 verso]</locus>.
+                                   In the <term xml:lang="lat">editio princeps</term>, the fourteenth <term xml:lang="san">avadāna</term> 
+                                   bears the title <title xml:lang="san">Gāndharvikāvadāna</title> and seems to be a different text; 
+                                   an <term xml:lang="san">avadāna</term> with the title <title xml:lang="san">Daśaśilāvadāna</title>  
+                                   is to be found in the manuscript labelled as B by Takahata [1954: v]; 
+                               </item>
+                               <item>
+                                   the <title xml:lang="san">Somāvādāna</title> ends abruptly on <locus from="90v" to="90v">f. 5v7 [= 90 verso]</locus>.
+                                   No <term xml:lang="san">avadāna</term> with this title is to found title in the <term xml:lang="lat">editio princeps</term>; seemingly, 
+                                   the only manuscript of the <title xml:lang="san">Ratnamālāvadāna</title> containing a story with this title is kept in the Tokyo University Library 
+                                   (No. 27 in Matsunami 1965: 216);
+                               </item>
+                               <item>on <locus from="101r" to="101r">f. 11r3 [= 101 recto]</locus> an <term xml:lang="san">avadāna</term> 
+                                   starts with three lines of the cliché found at the beginning of each story;
+                               </item>
+                               <item>
+                                   an <term xml:lang="san">avadāna</term> not found in the <term xml:lang="lat">editio princeps</term> starts on <locus from="107v" to="107v">ff. 6v6 [= 107 verso]</locus>, 
+                                   and ends abruptly after a few lines on <locus from="108r" to="108r">ff. 7r6 [= 108 recto]</locus>
+                               </item>
+                           </list>
+                            In fact, <quote>the scribe seems to have transcribed what he could find in an imperfect copy; 
+                                so he has written it [i.e. the <title xml:lang="san" type="general">Ratnamālāvadāna</title>] in seven portions of 24, 12, 9, 34, 11, 18 and 7 leaves, respectively, making 109 leaves in all</quote> (Bendall 1883: 139).  
+                            This manuscript has not been used by Takahata for his <term xml:lang="lat">editio princeps</term>.
+                            The second work in the manuscript consists of the first five <term xml:lang="san">kathā</term>s from the <title xml:lang="san" type="general">Dvāviṃśatyavadānakathā</title> 
+                            (the last one is incomplete, and ends with stanza 8abc in Okada 1993: 19; stanza 41abc in Hahn 1983: 335); 
+                            in the manuscript, it is called <title xml:lang="san">Dvāviṃśatidharmaratnāvadāna</title> 
+                            (both in the runnning marginal titles as well as in the final rubrics). The last two works are still unpublished 
+                            (a summary of the content of the <title xml:lang="san" type="general">Upoṣadhāvadāna</title> is provided in Mitra 1882: 265-7).
+                        </summary>
+                        
+                        <msItem n="1" defective="true">
+                            <locus from="1v" to="108r">ff. 1v-108r1 (reference foliation, see under Foliation).</locus>
+                            
+                            
+                            <author>
+                                <name type="person" role="aut" key="local_00000">
+                           <persName xml:lang="san" type="standard">Unknown</persName>
+                                </name>
+                            </author>
+                            
+                            <title xml:lang="san">Ratnamālāvadāna</title>
+                            <title xml:lang="san" type="alt">Avadānaratnamālā</title>
+                            <title xml:lang="san" type="alt">Ratnāvadānamālā</title>
+                            <title xml:lang="san" type="alt">Ratnamālāvadānakathā</title>
+                            <title xml:lang="san" type="alt">Ratnāvadanatatva</title>
+                            <title xml:lang="san" type="alt">Ratnamālā</title>
+                            
+                            
+                            <rubric xml:lang="san">
+                        <locus from="1v" to="1v">[1v1]</locus> 
+                                <g>$</g> oṃ śrīgaṇeśāya namaḥ ||
+                            </rubric>
+                            
+                            <incipit xml:lang="san">
+                        <locus from="1v" to="1v">[1v1]</locus> 
+                                || yaḥ śrīmān sugato buddhaḥ saddharmmadeśako jinaḥ |  
+                                śāsanāni trilokeṣu jayantu [1v2] tasya sarvvadā || 
+                                purāśīt pātalīputre  nagare svarggasannibhe |
+                                aśokanṛparājendras triratnasevakaḥ su¦[1v3]dhī || 
+                                ekasmin samaye tatra sa rājā svajanaiḥ  saha | 
+                                paurikaiś ca sabhāṃ kṛtvā tasthau dharmmasamutsukaḥ ||  
+                                a[1v4]thā'sau sauto<add place="above">3</add>ga<add place="above">2</add> bhi<del type="expincted">gu</del>kṣur 
+                                upagupto jināṃśajaḥ || 
+                                lokān dharmmotsukān dṛṣṭvā samādheḥ sahasotthitaḥ || ¦ 
+                                [1v5] tatsabhāyāṃ samuttīrya siṃhāsane subhāsane | 
+                                bhāsayan <sic>tatsabhā</sic> lokān tasthau pūrṇṇaśudhāṃśuvat_ || 
+                                athāśo¦[1v6]ko mahārājas sāmātyapaurikais saha | 
+                                <sic>pūjāṃgeḥ</sic> pūjayitvā tam upaguptam <sic>avaṃdataḥ</sic> || 
+                                sthitvā bhūmau ca jānu[1v7]bhyām uttarāsaṃgam udvahan_ | 
+                                kṛtāṃjalipuṭo natvā punar evam abhāṣata | 
+                                bhadanta pātum icchāmi <add place="bottom">dharmmāmṛtaṃ 4</add>sukhapradaṃ | [1v8] 
+                                yad uktaṃ śrīmunīndreṇa tat samādeṣṭum arhasi || 
+                                iti tena mahīndreṇa <sic>prārthi</sic> 'sau yatīśvaraḥ | 
+                                upaguptaḥ sa¦[1v9]māmantrya tan nṛpeśaṃ samabravīt_ || 
+                                sādhu sādhu mahārāja śṛṇu dharmmasamāhitaḥ |  
+                                yathā<del type="expuncted">khyā</del> me guruṇā ¦ [1v10] khyātaṃ tathā bhāṣe hite tava ||  
+                                purā'sau bhagavān buddhaḥ śākyasiṃho dayānidhiḥ | 
+                                dharmmarājo jagacchāstā [1v9] sarvajñaḥ sugato jinaḥ ||
+                            </incipit>
+                            
+                            <finalRubric type="section" xml:lang="san">
+                        <locus from="12r" to="12r">[12r5]</locus> 
+                                || <g>@</g> || iti <sic>śrīśīghanokte</sic> śrī avadāna[12r6]ratnamālāyāṃ <sic>kauśīdyavīryyotsāhanāvadānaḥ</sic> prathamo 'dhyāyaḥ ||^^1^^||
+                            </finalRubric>
+                            
+                            <finalRubric type="section" xml:lang="san">
+                        <locus from="23r" to="23r">[23r9]</locus> 
+                                || <g>@</g> || iti <sic>śrīśīghanokte</sic> śrī avadānaratnamālāyāṃ <sic>snātāvanadā</sic> dvitīyo 'dhyāyaḥ
+                            </finalRubric>
+                            
+                            <finalRubric type="section" xml:lang="san">
+                        <locus from="29r" to="29r">[6r4 = 29r4]</locus> 
+                                || <g>@</g> || iti śrī avadānaratnamālāyāṃ [6r5 = 29r5] sūkarīkāvadānaṃ ṣaṣṭhamo dhyāyaḥ || <g>@</g> || <g>@</g> ||
+                            </finalRubric>
+                            
+                            <finalRubric type="section" xml:lang="san">
+                        <locus from="35v" to="35v">[7v2 = 35v2]</locus> 
+                                ||^^^|| iti <sic>śrīśīgha¦¦[7v3 = 35v3]nokte</sic> avadānaratnamālāyāṃ vapuṣmānkumārāvadānaṃ saptamo 'dhyāyaḥ ||^^^|| <g>@</g> ||
+                            </finalRubric>
+                            
+                            <finalRubric type="section" xml:lang="san">
+                        <locus from="62r" to="62r">[19r9 = 62r9]</locus> 
+                                || <g>@</g> || iti śrīghanokte śrī ¦ <locus from="62v" to="62v">[62v1 = 19v1]</locus>  avadānaratnamālāyāṃ 
+                                iti <sic>praśāntakaraṇāvadāna</sic> trayodaśo 'dhyāyaḥ || 13 || <g>@</g> ||
+                            </finalRubric>
+                            
+                            <finalRubric type="section" xml:lang="san">
+                        <locus from="85v" to="85v">[8v5 = 85v5]</locus> 
+                                || <g>@</g> || iti śrīśrīghanokte avadānaratnamālāyāṃ <sic>varavatku¦¦[8v6 = 85v6]mārāvadānaṃ</sic> aṣṭādaśo 'dhyāyaḥ || 18 || <g>@</g> ||
+                            </finalRubric>
+                            
+                            <finalRubric type="section" xml:lang="san">
+                        <locus from="101r" to="101r">[11r2 =  101r2 ]</locus> 
+                                || <g>@</g> || iti śrīśrīghanokte śrī avadānaratnamālāyāṃ <sic>nandāvadānaḥ</sic> paṃca[11r3 = 101r3]viṃśatitamo 'dhyāyaḥ || 25 || <g>@</g> ||
+                            </finalRubric>
+                            
+                            <finalRubric type="section" xml:lang="san">
+                        <locus from="107v" to="107v">[6v6 = 107v6]</locus> 
+                                || iti śrīśrīghanokte śrī avadānaratna[107v7 = 6v7]mālāyāṃ <sic>stūpāvadāna</sic> saptaviṃśatitamo 'dhyāyaḥ || <g>@</g> || 27 ||
+                            </finalRubric>
+                            
+                            <explicit xml:lang="san">
+                        <locus from="107v" to="107v">[6v7 = 107v7]</locus>
+                                athāśoko mahīpālaḥ [6v8 = 107v8]  śrotum anyat subhāṣitaṃ | 
+                                upaguptaguruṃ natvā kṛtāñjalipuṭo 'bravīt_ || 
+                                bhadanta śrotum icchāmi [6v9 = 107v9] punar anyat subhāṣitaṃ | 
+                                tad yathā guruṇākhyātaṃ tathādeṣṭuṃ tvam arhasi || 
+                                iti tenārthitaṃ rājñā śrutvā [6v10 = 107v10] sasugatāṃśaṃ | 
+                                upagupto narendran taṃ samāmantryaivam abravīt_ | 
+                                śṛṇu rājan mayābhāga yathā me guruṇo<locus from="108r" to="108r">[7r1 = 108r1]</locus>ditaṃ | 
+                                tathā hante pravakṣyā śrutvā caivaṃ pracāraya | 
+                                iha kaṣati śarīraṃ kleśarāśinarānāṃ dahati ca paralo[7r2 = 108r2]ke nārake krūravahniḥ | 
+                                śaraṇagamanapuṇyaprāptiśikṣāpādānāṃ | 
+                                prabhavati na tu dehe duḥkhadāhaka[7r3 = 108r3]dācit_ | 
+                                tad yathābhūt samudrānte nā<del type="expuncted">dho</del>godhanābhidhāpurā | 
+                                haṇāratnojjalokakalitā pūrvvavā¦[7r4 = 108r4]saraḥ | 
+                                papatārhaniśaṃ tasya bhavane taptavālukā | 
+                                <sic>yayāgeṣu</sic> bhūjaṃgānāṃ tīvratāpavyathābhavat_ || [7r5 = 108r5] 
+                                kadācit sudhano nāma putraḥ papraccha taṃ priyaḥ | 
+                                sukumāraḥ prakṛtyaiva vālukāparipīḍitaḥ | 
+                                kasmād a[7r6 = 108r6]smān niyaṃtābhavādhake taptavālukā | 
+                                mantramūlaprayogena keneyam upaśāmyati | <unclear reason="script">a</unclear>rtmadatyadhike
+                            </explicit>
+                            
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                        </msItem>
+                        
+                        <msItem n="2" defective="true">
+                            <locus from="109v" to="115v">ff. 109v1-115v11 (reference foliation, see under Foliation).</locus>
+                            
+                            <author>
+                                <name type="person" role="aut" key="local_00000">
+                           <persName xml:lang="san" type="standard">Unknown</persName>
+                                </name>
+                            </author>
+                            
+                            <title xml:lang="san">Dvāviṃśatyavadānakathā</title>
+                            <title xml:lang="san">Dvāviṃśatyavadāna</title>
+                            <title xml:lang="san" type="alt">Dvāviṃśatidharmaratnāvadānakathā</title>
+                            <title xml:lang="san" type="alt">Dvāviṃśatikāvadāna</title>
+                     <!--                            <title xml:lang="san" type="alt">Subhāṣitaratnakaraṇḍakakathā</title>-->
+                            
+                            <rubric xml:lang="san">
+                        <locus from="109v" to="109v">[1v1 = 109v1]</locus> 
+                            <g>$</g>oṃ namaḥ śrīgaṇeśāya namaḥ || 
+                            </rubric>
+                            
+                            <incipit xml:lang="san">
+                        <locus from="109v" to="109v">[1v1 =109v1]</locus> 
+                                natvā śrīśākyaketuṃ suragaṇasahitaṃ devadevādhidevaṃ | 
+                                <sic>saṃsārābdhe</sic> pla[1v2 = 109v2]vatvaṃ sakalaguṇanidhiṃ gautamaṃ buddhanāthaṃ | 
+                                saṃsāre siṃhanādaṃ sakalabhayaharaṃ dharmmacchatraṃ sunī[1v3 = 109v3]ndraṃ | 
+                                vakṣye haṃ dharmmaratnaṃ munivarakathitaṃ <sic>sarvvalokābhirāṣaṃ</sic> || <g>@</g> || 
+                                tadyathā'śokabhūmīndraḥ <sic>ku[1v4 = 109v4]kkuṭārāsaṃsthitaṃ</sic> 
+                                upaguptaṃ punaḥ prāha dvāvimśatikathotsukaḥ || 
+                                bhadanta śrotum icchāmi caityasevākathāṃ śubhāṃ 
+                                api <sic>vaṃ</sic> 
+                        <sic>dharmmapīyūṣaṃ</sic> tvanmukhāmbhojanirggataṃ || 
+                                iti vijñāptim ākarṇṇya ¦ [1v5 = 109v5] <sic>upagupta</sic> samādiśat_ | 
+                                śṛṇv aśoka pravakṣyāmi dvāviṃśatyavadānakaṃ || <g>@</g> || 
+                                tadyathā || vihara[1v6 = 109v6]ti bhagavān sa saṃbuddho lokanāyakaḥ 
+                                rājagṛhe <sic>mahohāse</sic> gṛdhrakūṭe sukhālaye ||
+                            </incipit>
+                            
+                            <finalRubric type="section" xml:lang="san">
+                        <locus from="113r" to="113r">[5r5 = 113r5]</locus> 
+                                || <g>@</g> || iti dvāviṃśatidharmmaratnāvadānakathāyāṃ puṇyaprotsāhāno <add place="margin">nā 4</add>mo 'dhyāyaḥ || [5r6 = 113r6] 
+                                || <g>@</g> || 1 ||
+                            </finalRubric>
+                            
+                            <finalRubric type="section" xml:lang="san">
+                        <locus from="113v" to="113v">[5v5 = 113v5]</locus> 
+                                || iti dvāviṃ¦[5v6 = 113v6]śatidharmmaratnāvadānakathāyāṃ dharmmaśravaṇaprotsāha nāma dvitīyo 'dhyāyaḥ ||
+                            </finalRubric>
+                            
+                            <finalRubric type="section" xml:lang="san">
+                        <locus from="114r" to="114r">[6r4 = 114r4]</locus> 
+                                || <g>@</g> || iti dvāviṃśatidharmmaratnāvadānakathāyāṃ durllabhamānuṣya nāma tṛtī¦[6r5 = 114r5]yo 'dhyāyaḥ || <g>@</g> || 3 ||
+                            </finalRubric>
+                            
+                            <finalRubric type="section" xml:lang="san">
+                        <locus from="115r" to="115r">[7r10 = 115r10]</locus> 
+                                || <g>@</g> || iti [7r11 = 115r11] dvāviṃśatidharmmaratnāvadānakathāyāṃ dānakthā caturtho 'dhyāyaḥ || 4 ||
+                            </finalRubric>
+                            
+                            <finalRubric type="section" xml:lang="san">
+                        <locus from="115r" to="115r">[7r10 = 115r10]</locus> 
+                                || <g>@</g> || iti [7r11 = 115r11] dvāviṃśatidharmmaratnāvadānakathāyāṃ dānakthā caturtho 'dhyāyaḥ || 4 ||
+                            </finalRubric>
+                            
+                            <explicit xml:lang="san">
+                        <locus from="115v" to="115v">[7v11 = 115v11]</locus> 
+                                rūpaṃ vīryyaṃ ca śīlpaṃ ca vihāya <sic>vivasā</sic> narāḥ || paralokam i¦ 
+                            </explicit>
+                            
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                        </msItem>
+                        
+                        <msItem n="3" defective="true">
+                            <locus from="110r" to="129r">ff. 110r1-129r9 (reference foliation, see under Foliation).</locus>
+                            
+                            <author>
+                                <name type="person" role="aut" key="local_00000">
+                           <persName xml:lang="san" type="standard">Unknown</persName>
+                                </name>
+                            </author>
+                            
+                            <title xml:lang="san">Work on the Dvādaśatīrtha of Nepal</title>
+                            <title xml:lang="san" type="alt">Dvādaśatīrthamāhātmya</title>
+                            
+                            <rubric xml:lang="san">
+                        <locus from="116r" to="116r">[1r1 = 116r1]</locus> 
+                                śrīgaṇeśāya namaḥ || 
+                            </rubric>
+                            
+                            <incipit xml:lang="san">
+                        <locus from="116r" to="116r">[1r1 = 116r1]</locus> 
+                                athedāniṃ pravakṣyāmi tīrthāni dvādaśāni ca | śṛṇu maitreya puṇyāni [1r2 = 116r2] tīrthānāñ ca viśeṣataḥ || 
+                                yatra nadīsusaṃbhedas tatra tīrthaḥ pracakṣate | vāgmatyāṃ keśāvatyāṃ [1r3 = 116r3] ca anyanadībhis saṃgame || 
+                                amoghaphaladās aṃge vāgmatyāṃ puṇyatīrthakaḥ | 
+                                daśākuśalahuha[1r4 = 116r4]tranāgo raktas <sic>takṣaka</sic> ca || 
+                                māradārakayās aṃge vāgmatyāṃ śāntatīrthakaḥ | 
+                                rāgādidoṣa[1r5 = 116r5]harttātra śuklo nāgaḥ somaśikhīḥ ||
+                            </incipit>
+                            
+                            <explicit xml:lang="san">
+                        <locus from="129r" to="129r">[14r7 = 129r7]</locus> 
+                                dvitīye vai[14r8 = 129r8]śākhe kṛṣṇe dvitīyā candravārayoḥ | vṛṣākhye mahatsaṃkrāntau manaśilākhye ca tīrthake || 
+                                dvijādayama[14r9 = 129r9]nuṣyāś ca pūrvvavatsnānadānakaṃ | kṛtvā puṇyapraśādāc ca yaśavṛddhiphalaṃ labhet_ ||
+                            </explicit>
+                            
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                        </msItem>
+                        
+                        <msItem n="4" defective="true">
+                            <locus from="130r" to="142r">ff. 130r1-142r11 (reference foliation, see under Foliation).</locus>
+                            
+                            <author>
+                                <name type="person" role="aut" key="local_00000">
+                           <persName xml:lang="san" type="standard">Unknown</persName>
+                                </name>
+                            </author>
+                            
+                            <title xml:lang="san">Upoṣadhāvadāna</title>
+                            <title xml:lang="san" type="alt">Poṣaḍhāvadāna</title>
+                            <title xml:lang="san" type="alt">Vasiṣṭhāvadāna</title>
+                            
+                            <incipit xml:lang="san">
+                        <locus from="130r" to="130r">[1r1 = 130r1]</locus> 
+                                śrūtaṃ gautamayatsarvvaṃ, bhagavatoktaṃ purātaraṃ, adhūnā śrotum icchāmi, 
+                                vidhānaṃ poṣadhasya ca | ka[1r2 = 130r2]tham <sic>ācā</sic>, atraiva, lokeśasya vratottame, 
+                                kṛpālunā hi tat sarvvaṃ, gadamāravidhvaṃ sa ka | kathyam a[1r3 = 130r3]bhavatā, caiva lokeśasya vratottamaḥ | 
+                            </incipit>
+                            
+                            <explicit xml:lang="san">
+                        <locus from="141r" to="141r">[13r6 = 141r6]</locus> 
+                                svasvabhuvanaṃ nivarttiteti || vāṣi[13r6 = 141r6]ṣṭapoṣadhaṃ kṛtvā caturvvarggaphalāpya ca | 
+                                vajamat<del type="expuncted">i</del>īti nāmo hi tathāgatatvam āyayau || <g>@</g> ||
+                            </explicit>
+                            
+                            <finalRubric xml:lang="san">
+                        <locus from="141r" to="141r">[13r6 = 141r6]</locus> 
+                                iti su[13r7 = 141r7]gatavāśiṣṭasaṃvāde upoṣadha nāmo vadānaṃ dvitīyo 'dhyāyaḥ || <g>@</g> || 
+                                samāptam iti upoṣadhāva[13r8 = 141r8]dānaṃ || <g>@</g> ||
+                            </finalRubric>
+                            
+                            <colophon xml:lang="san">
+                        <locus from="141r" to="141r">[13r8 = 141r8]</locus> 
+                                abde naipālike yāte vahniyamagrahayute | māse kṛṣṇe mādhave ca induvārasamanvi[13r9 = 141r9]te || 
+                                likhitaṃ citrānandena | upoṣadhāvadānakaṃ | yadi suddham asuddhaṃ vā sodhanīyaṃ 
+                                <sic>maha<del type="expuncted">bbu</del>dbuddhaiḥ</sic> || <g>@</g> || <g>@</g> || <g>@</g> || 
+                                ye dharmmā hetuprabhāvā tu teṣān tathāgataḥ | hy avadat teṣāṃ yo niro¦
+                            </colophon>
+                            
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                        </msItem>
+                    </msContents>
+                    
+                    <physDesc>
+                        <objectDesc form="pothī"> 
+                            <supportDesc material="nep_multi_layered_black_paper">
+                                <support>Nepalese multi-layered paper (verso sides are yellow-dyed).
+                                    <p>
+                                        <dimensions type="folio" scope="most" unit="cm">
+                                            <height atLeast="14.3" atMost="15.1">12.6</height>
+                                            <width atLeast="26.7" atMost="27.9">26.7-27.9</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                
+                                <extent xml:id="folio" n="143">ff. 143 (folio 18 missing, corresponding to <title xml:lang="san">Snātavadāna</title> 113-135a).</extent>
+                                
+                                <foliation n="1" type="original">Nepālākṣarā numerals, mid-left margin, verso. 
+                                    As a rule, the foliation starts anew from 1 for each new work; the foliation of the 13 <term xml:lang="san">avadāna</term>s 
+                                    of the <title xml:lang="san" type="general">Ratnamālāvadāna</title>, 
+                                    however, sometimes starts from again from 1 every two or three <term xml:lang="san">avadāna</term>s, 
+                                    thus forming groups of  stories 
+                                    (numbered here according to the chapter number as given in Takahata's edition):  
+                                    <list>
+                                        <item>
+                                    <term xml:lang="san">avadāna</term>s 1 and 2; 
+                                        </item>
+                                    <item>
+                                        <term xml:lang="san">avadāna</term>s 6-7 and 8:
+                                    </item>
+                                        <item>
+                                            <term xml:lang="san">avadāna</term> 11;
+                                        </item>
+                                        <item>
+                                            <term xml:lang="san">avadāna</term>s 13 and 14; <term xml:lang="san">avadāna</term>s 18 and 19;
+                                        </item>
+                                        <item>
+                                            <term xml:lang="san">avadāna</term> 25;
+                                        </item>
+                                        <item>
+                                            <term xml:lang="san">avadāna</term>s 27 and 28.
+                                        </item>
+                                    </list>
+                                    For this reason, all references to folios are provided both first with the original foliation, 
+                                    then with the modern continuous foliation in Arabic numerals 
+                                    (for instance, <locus from="34v" to="34v">folio 13r6 [original foliation] = 141r6 [reference foliation]</locus>).
+                                </foliation> 
+                                <foliation n="3" type="modern">Arabic numerals, top right margin, verso (reference foliation).</foliation>
+ 
+                        <!--                                the following element contains free text; however, stick to the set phrases as far as possible!-->
+                                <condition>
+                                    Complete, in good condition.
+                                </condition>
+                            </supportDesc>
+                            
+                           <layoutDesc>
+                               <layout columns="1" writtenLines="10 11">
+<!--                                   the @ruledLines must be used only in those cases when there is actually a ruling, otherwise use the @writtenLines-->
+                                   <dimensions type="written area" unit="cm">
+                                        <height atLeast="9" atMost="10">9-10</height>
+                                        <width atLeast="20" atMost="22.2">26-27</width>
+                                    </dimensions>
+
+                                    <p>10-11 lines per page, approximately 30 to 39 <term xml:lang="san">akṣara</term>s per line.</p>
+                                   <dimensions type="akṣara" unit="mm" n="30 39">
+                                        <height quantity="6">6</height>
+                                    </dimensions>
+                                   
+                                    <dimensions type="interlinear space" scope="most" unit="mm">
+                                        <height quantity="3">3</height>
+                                    </dimensions>
+                                   
+                                    <!--<commentaryForm type=""></commentaryForm>
+                                    <stringHole type="true" quantity="2"> Two string holes. The string holes are approximately in the middle of 2 cm-wide blank spaces 
+                                        framed by double parallel lines in black ink. These are identical to those found on the outer margins of the written area, which is therefore divided into three sections.
+                                    </stringHole>-->
+                                   <p>Double marginal writing
+                                        framelines, impressed frame upper and lower frame lines; no ruling.</p>
+                                </layout>
+                           </layoutDesc>
+                        </objectDesc>
+                        
+                        <handDesc>
+                            <handNote scope="sole" script="nepālākṣarā" medium="blackink">
+                                <desc>Nepālākṣarā  in black ink (slanted). Although the handwriting seems to be irregular, and the <term xml:lang="san">akṣara</term>s 
+                                    often vary in size, the overall impression is that one single scribe was at work 
+                                    (probably working in different phases and with different writing tools). 
+                                </desc>
+                        <!--                                <p><hi rend="bold">Scribe:</hi> <hi rend="bold">Scribe:</hi> <name type="person" subtype="scr" key="local_ VIAF_"><persName xml:lang="san" type="standard"> [scribe name]</persName></name></p>-->
+                            </handNote>
+                        </handDesc>
+                        
+                        <!--<decoDesc>
+                            <decoNote type="miniature">
+                                <desc>On <locus from="1v" to="1v">folio 1v</locus>, .............</desc>
+                            </decoNote>
+                        </decoDesc>-->
+                        
+                        <additions>
+                            All marginal titles have been written on the page in a sort of ornamental position, diagonally to the short side.
+                            <list>
+                                <head>Marginalia</head>
+                                    <item>
+                                        <marginalia type="title">
+                              <title xml:lang="san" type="general">Ratnamālāvadāna</title>: running title for the collection (<term xml:lang="san">śrī avadānaratnamāleti</term>),
+                                            top left margin, verso; running title for the single <term xml:lang="san">avadāna</term>s 
+                                            (<term xml:lang="san">śrī kauśidyāvīryetyādi</term>, <term xml:lang="san">śrī snātāvadāneti</term> etc.),
+                                            bottom left
+                                            margin, verso.
+                                        </marginalia>
+                                    </item>
+                                <item>
+                                    <marginalia type="title">
+                              <title xml:lang="san" type="general">Dvāviṃśatyavadānakathā</title>: 
+                                        running title (<term xml:lang="san">dvāviṃśatidharmmaratnāvadāneti</term>), top left
+                                        margin, verso.</marginalia>
+                                </item>
+                                </list>
+                        </additions>
+                        
+                        <bindingDesc>
+                            <p>
+                        <material>Cardboard cover</material>, library binding.</p>
+                     <!--                            <p>On the <locus from="back cover" to="back cover">outer side of the back cover</locus>, whatnot.</p>-->
+                        </bindingDesc>
+                    </physDesc>
+                    
+                    <history>
+                        <origin>
+                            <origDate calendar="Nepāla" when="1803">923 Nepāla / 1803 CE.</origDate>
+                            <origPlace xml:lang="eng" key="1000132">Nepal.</origPlace>
+                        </origin>
+                        <provenance>Bought by <name type="person" role="col" key="local_00002 VIAF_7477330">
+                        <persName type="standard" xml:lang="eng">Wright,
+                                    Daniel</persName>
+                        <persName type="display" xml:lang="eng">Dr. D.
+                                    Wright</persName>
+                     </name> on behalf of the Cambridge University Library in <date calendar="Gregorian" when="1876">1876</date>.
+                        </provenance>
+                        <acquisition>
+                     <date calendar="Gregorian" when="1876-04-26">26 April 1876 (ULIB 7/3/55 and <stamp>University Library stamp</stamp>).</date>
+                  </acquisition>
+                    </history>
+                    
+                    <additional>
+                        
+                        <adminInfo>
+                            <recordHist>
+                                <source> 
+                           <ref type="biblio" target="Bendall_1883">Bendall (1883: 139-40)</ref>, direct inspection.</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+                        
+                            <listBibl type="ms_descriptions">
+                                <head>Descriptions of the manuscript</head>
+                                
+                                <biblStruct type="manuscript" xml:id="ULIB7355Bradshaw1870">
+                                    <monogr>
+                                        <title level="m">Notes on the collections of Oriental, Thibetan and
+                                            'Additional' manuscripts [unpublished manuscript]</title>
+                                        <author>
+                                            <forename>Henry</forename>
+                                            <surname>ULIB 7/3/55 =
+                                                Bradshaw</surname>
+                                        </author>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <date>1870-80</date>
+                                            <!--<note type="url"
+                                            ><ref target="http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0265%2FULIB%207%2F3%2F55">[link]</ref></note>-->
+                                        </imprint>
+                                    </monogr>
+                                </biblStruct>
+                                
+                                <biblStruct type="manuscript" xml:id="ULIB714Griffith1873">
+                                    <monogr>
+                                        <title level="m">Assorted lists of manuscripts and books, chiefly Oriental,
+                                            acquired by the Library, with related papers</title>
+                                        <author>
+                                            <forename>Ralph T. H.</forename>
+                                            <surname>ULIB 7/1/4 =
+                                                Griffith</surname>
+                                        </author>
+                                        <author>
+                                            <forename>Daniel</forename>
+                                            <surname>Wright</surname>
+                                        </author>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <date>1873</date>
+                                        </imprint>
+                                    </monogr>
+                                    <idno type="callNumber">ULIB 7/1/4</idno>
+                                </biblStruct>
+                                
+                                <biblStruct type="manuscript" xml:id="zoteroItem_243">
+                                    <monogr>
+                                        <title level="m">List Add.923-1827 = List of Additional Manuscripts 923-1827 [unpublished manuscript]</title>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <date>1878</date>
+                                        </imprint>
+                                    </monogr>
+                                    <idno type="callNumber">Handlist_Add_1878</idno>
+                                </biblStruct>
+                                
+                                <biblStruct type="book" xml:id="Bendall1883">
+                                    <monogr>
+                                        <title>Catalogue of the Buddhist Sanskrit Manuscripts in the University Library, Cambridge. 
+                                            With Introductory Notices and Illustrations of the Palæography and Chronology of Nepal and Bengal</title>
+                                        <author>
+                                            <forename>Cecil</forename>
+                                            <surname>Bendall</surname>
+                                        </author>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <publisher>University Press</publisher>
+                                            <date>1883</date>
+                                        </imprint>
+                                    </monogr>
+                                    <idno type="callNumber">Bendall_1883</idno>
+                                </biblStruct>
+                                
+                                <biblStruct type="manuscript" xml:id="Handlist_1900">
+                                    <monogr>
+                                        <title>List of Oriental MSS. Class Catalogue of Oriental MSS. [unpublished manuscript]</title>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <date>1900–</date>
+                                        </imprint>
+                                    </monogr>
+                                    <idno type="callNumber">Handlist_1900</idno>
+                                </biblStruct>
+                            </listBibl>
+                        
+                        <listBibl type="manuscripts">
+                            <head>Manuscripts</head>
+                            
+                            <bibl>
+                        <title xml:lang="san">Ratnamālāvadāna</title>, <orgName>NGMCP</orgName>:
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/H_388-12_Ratnam%C4%81l%C4%81vad%C4%81na">H 388-12</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/D_46-22_Ratnam%C4%81l%C4%81vad%C4%81na">D 46-22</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_2064-2%282%29_Ratnam%C4%81l%C4%81vad%C4%81na">E 2064-2</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_1343-4_Ratnam%C4%81l%C4%81vad%C4%81na">E 1343-4</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_1479-2_%28Ratnam%C4%81l%C4%81vad%C4%81na%29">E 1479-2</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/H_159-9_Ratnam%C4%81l%C4%81vad%C4%81na">H 159-9</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_415-11_Ratnam%C4%81l%C4%81vad%C4%81na">E 415-11</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_417-19_Ratnam%C4%81l%C4%81vad%C4%81na">E 417-19</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/X_1169-1_Ratnam%C4%81l%C4%81vad%C4%81na">X 1169-1</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_2579-5_Ratnam%C4%81l%C4%81vad%C4%81na">E 2579-5</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/A_117-9_Avad%C4%81naratnam%C4%81l%C4%81">A 117-9, NAK 3/596</ref> (<title xml:lang="san">Avadānaratnamālā</title>); 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/D_15-5%281%29_Avad%C4%81naratnam%C4%81l%C4%81">D 15-5</ref>;
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_360-13_Avad%C4%81naratnam%C4%81la">E 360-13</ref> (<title xml:lang="san">Avadānaratnamālā</title>); 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_2064-2%281%29_Kau%C5%9Badyav%C4%ABryots%C4%81han%C4%81vad%C4%81na"> E 2064-2</ref> (<title xml:lang="san">Kauśīdyavīryotsāhanāvadāna</title>).
+                            </bibl>
+                                    
+                            <bibl>
+                                <title xml:lang="san">Ratnamālāvadāna</title>, <placeName>Cambridge</placeName>, <orgName>Cambridge University
+                                    Library</orgName>:  
+                                <ref type="extant_mss"
+                             target="https://cudl.lib.cam.ac.uk/view/MS-ADD-01380-01381/1">Add.1380-1381</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01615/1">Add.1615</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01620/1">Add.1620</ref>.
+                            </bibl>
+                            
+                            <bibl>
+                                <title xml:lang="san">Dvāviṃśatyavadānakathā</title>, 
+                                <orgName>NGMCP</orgName>:   
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/C_17-2_Dv%C4%81vi%E1%B9%83%C5%9Batyavad%C4%81nakath%C4%81"> C 17-2, Kesar 158</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/H_318-41_Dv%C4%81vi%E1%B9%83%C5%9Batyavad%C4%81nakath%C4%81">H 318-41</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_1370-11_Dv%C4%81vi%E1%B9%83%C5%9Baty%28avad%C4%81nakath%C4%81%29">E 1370-11 </ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/D_46-11_Dv%C4%81vi%E1%B9%83%C5%9Batyavad%C4%81nakath%C4%81">D 46-11</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/D_59-5_Dv%C4%81vi%E1%B9%83%C5%9Batyavad%C4%81na">D 59-5</ref> (<title xml:lang="san" type="alt">Dvāviṃśatyavadāna</title>); 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/X_1065-1_Dv%C4%81vi%E1%B9%83%C5%9Batyavad%C4%81na">X 1065-1</ref> (<title xml:lang="san" type="alt">Dvāviṃśatyavadāna</title>); 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/A_120-4_Dv%C4%81vi%E1%B9%83%C5%9Batik%C4%81vad%C4%81na">A 120-4, 4/2460</ref> (<title xml:lang="san" type="alt">Dvāviṃśatikāvadāna</title>); 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/B_96-17_to_B_97-1_Dv%C4%81vi%E1%B9%83%C5%9Batik%C4%81vad%C4%81na"> B 96-17 to B 97-1, 3/291</ref> (<title xml:lang="san" type="alt">Dvāviṃśatikāvadāna</title>); 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/A_121-2_Dv%C4%81vi%E1%B9%83%C5%9Batik%C4%81vad%C4%81na">A 121-2, 3/241</ref> (<title xml:lang="san" type="alt">Dvāviṃśatikāvadāna</title>); 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_1480-5_Dv%C4%81vi%E1%B9%83%C5%9Batipu%E1%B9%87yotsav%C4%81vad%C4%81nas%C5%ABtra"> E 1480-5</ref> (<title xml:lang="san" type="alt">Dvāviṃśatipuṇyotsavāvadānasūtra</title>); 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/D_69-8_Mah%C4%81vidy%C4%81stava">D 69-8</ref>.
+                            </bibl>
+                            
+                            <bibl>
+                                <title xml:lang="san">Dvāviṃśatyavadānakathā</title>, 
+                                <placeName>Cambridge</placeName>, <orgName>Cambridge University
+                                    Library</orgName>:                         
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01274/1">Add.1274</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01327/1">Add.1327</ref>.
+                            </bibl>
+                            
+                            <bibl>
+                                <title xml:lang="san">Upoṣadhāvadāna</title>,  
+                                <orgName>NGMCP</orgName> (some of the manuscripts listed do not contain the same text present in this manuscript, but 
+                                a sort of metrical adaptation of the <term xml:lang="san">avadāna</term> with the tile <title xml:lang="san">Vāsiṣṭhoparipṛṣṭopoṣadhāvadāna</title>):   
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_1044-2_Upo%E1%B9%A3adh%C4%81vad%C4%81na">E 1044-2</ref>; 
+                                
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_1367-6_Upo%E1%B9%A3adh%C4%81vad%C4%81na">E 1367-6 </ref>; 
+                                
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_3344-7_%28V%C4%81%C5%9Bi%E1%B9%A3%E1%B9%ADhoparip%E1%B9%9B%E1%B9%A3%E1%B9%ADha%29Upo%E1%B9%A3adh%C4%81vad%C4%81na">E 3344-7</ref>; 
+                                
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_3345-4_%28V%C4%81%C5%9Bi%E1%B9%A3%E1%B9%ADhoparip%E1%B9%9B%E1%B9%A3%E1%B9%ADha%29Upo%E1%B9%A3adh%C4%81vad%C4%81na">E 3345-4</ref>; 
+                                
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_2295-15_Upo%E1%B9%A3adh%C4%81vad%C4%81na">E 2295-15</ref>; 
+                                
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/A_122-8_Upo%E1%B9%A3a%E1%B8%8Dh%C4%81vad%C4%81na">A 122/8, 3/594</ref>
+                                
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/B_97-10_Po%E1%B9%A3a%E1%B8%8Dh%C4%81vad%C4%81na">B 97-10, 3/290 </ref>; 
+                                
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/X_1412-1_Vasi%E1%B9%A3%E1%B9%ADh%C4%81vad%C4%81na">X 1412-1</ref>; 
+                                
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/X_1135-1_Upo%E1%B9%A3adhavratakath%C4%81">X 1135-1</ref>.
+                            </bibl>
+                            
+                            <bibl>
+                                <title xml:lang="san">Upoṣadhāvadāna</title>,  
+                                <placeName>Cambridge</placeName>, <orgName>Cambridge University
+                                    Library</orgName>: 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01603/1">Add.1603</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01610/1">Add.1610</ref>.
+                            </bibl>
+                            
+                            <bibl>
+                                NCC (<title xml:lang="san">Dvāviṃśatyavadānakathā</title>): vol. 9 p. 204.
+                            </bibl>
+                            
+                            <bibl>
+                                NCC (<title xml:lang="san">Upoṣadhāvadāna</title>): vol. 2 p. 388.
+                            </bibl>
+                            
+                            <bibl>
+                                For other manuscripts of the <title xml:lang="san">Upoṣadhāvadāna</title>, see the records of <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01603/1">Add.1603</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01610/1">Add.1610</ref>.
+                            </bibl>
+                            
+                            <bibl>
+                                For other manuscripts of the <title xml:lang="san">Dvāviṃśatyavadānakathā</title>, see Okada 1993: xi-xiv.
+                            </bibl>
+                        </listBibl>
+                        
+                        
+                        
+                        <listBibl>
+                            <head>Edition(s)</head>
+                            
+                            <biblStruct type="book" xml:id="Takahata1954">
+                                <monogr>
+                                    <title level="m">Ratnamālāvadāna. A Garland of Precious Gems, or, a
+                                        Collection of Edifying Tales, Told in a Metrical Form, Belonging to the
+                                        Mahāyāna</title>
+                                    <author>
+                              <forename>Kanga</forename>
+                              <surname>Takahata</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Tokyo</pubPlace>
+                                        <biblScope type="vol">v. 3</biblScope>
+                                        <publisher>Toyo Bunko</publisher>
+                                        <date>1954</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title level="s">Oriental Library Series D</title>
+                                </series>
+                            </biblStruct>
+                            
+                            <biblStruct type="book" xml:id="Okada1993">
+                                <monogr>
+                                    <title level="m">Dvāviṃśatyavadānakathā: ein mittelalterlicher
+                                        buddhistischer Text zur Spendenfrömmigkeit</title>
+                                    <author>
+                              <forename>Mamiko</forename>
+                              <surname>Okada</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Bonn</pubPlace>
+                                        <biblScope type="vol">Bd. 24</biblScope>
+                                        <publisher>Indica et Tibetica Verlag</publisher>
+                                        <date>1993</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title level="s">Indica et Tibetica</title>
+                                </series>
+                            </biblStruct>
+                            
+                            <bibl>The <title xml:lang="san" type="general">Work on the Dvādaśatīrtha of Nepal</title> 
+                                and the <title xml:lang="san" type="general">Upoṣadhāvadāna</title> are still unpublished.</bibl>
+                            
+                        </listBibl>
+                        
+                        <listBibl> 
+                            <head>Secondary Literature</head>
+                            
+                            <biblStruct type="book" xml:id="Raghavan1949">
+                                <monogr>
+                                    <title level="m">New Catalogus Catalogorum. An Alphabetical
+                                        Register of Sanskrit and Allied Works and Authors.</title>
+                                    <author>
+                              <forename>V. (Venkatarama)</forename>
+                              <surname>NCC =
+                                        Raghavan</surname>
+                           </author>
+                                    <author>
+                              <forename>K.</forename>
+                              <surname>Kunjunni
+                                        Raja</surname>
+                           </author>
+                                    <author>
+                              <forename>N.</forename>
+                              <surname>Veezhinathan</surname>
+                           </author>
+                                    <author>
+                              <forename>Theodor</forename>
+                              <surname>Aufrecht</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Madras</pubPlace>
+                                        <publisher>University of Madras</publisher>
+                                        <date>1949</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                           <title level="s">Madras University Sanskrit
+                                    series</title>
+                        </series>
+                                <idno type="callNumber">011/.31, Z6605.S3 U54 1949</idno>
+                            </biblStruct>
+                            
+                            <biblStruct type="journalArticle" xml:id="Cowell1876">
+                                <analytic>
+                                    <title level="a">Catalogue of Buddhist Sanskrit Manuscripts in the
+                                        Possession of the Royal Asiatic Society (Hodgson Collection)</title>
+                                    <author>
+                              <forename>E. B.</forename>
+                              <surname>Cowell</surname>
+                           </author>
+                                    <author>
+                              <forename>J.</forename>
+                              <surname>Eggeling</surname>
+                           </author>
+                                </analytic>
+                                <monogr>
+                                    <title level="m">Journal of the Royal Asiatic Society of Great Britain and
+                                        Ireland</title>
+                                    <imprint>
+                                        <biblScope type="vol">8</biblScope>
+                                        <biblScope type="issue">1</biblScope>
+                                        <biblScope type="pp">1-52</biblScope>
+                                        <date>1876</date>
+                                        <note type="accessed">2013-12-23 18:23:37</note>
+                                        <note type="url">http://www.jstor.org/stable/25207721</note>
+                                    </imprint>
+                                </monogr>
+                                <idno type="ISSN">0035-869X</idno>
+                            </biblStruct>
+                            
+                            <biblStruct type="book" xml:id="Hahn1983">
+                                <monogr>
+                                    <title level="m">Die Subhāṣitaratnakaraṇḍakakathā: ein spätbuddhistischer
+                                        Text zur Verdienstlehre</title>
+                                    <author>
+                              <forename>Michael</forename>
+                              <surname>Hahn</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Göttingen</pubPlace>
+                                        <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+                                        <date>1983</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title level="s">Nachrichten der Akademie der Wissenschaften zu Göttingen,
+                                        Philologisch-Historische Klasse , ISSN 0065-5287</title>
+                                    <biblScope type="vol">9</biblScope>
+                                </series>
+                            </biblStruct>
+                            
+                            <biblStruct type="book" xml:id="Iwamoto1978">
+                                <monogr>
+                                    <title level="m">Bukkyō setsuwa kenkyū josetsu</title>
+                                    <author>
+                              <forename>Yutaka</forename>
+                              <surname>Iwamoto</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Kyoto</pubPlace>
+                                        <date>1978</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title level="s">Bukkyō setsuwa kenkyū</title>
+                                </series>
+                            </biblStruct>
+                            
+                            
+                            <biblStruct type="book" xml:id="Matsunami1965">
+                                <monogr>
+                                    <title level="m">A Catalogue of the Sanskrit Manuscripts in the Tokyo
+                                        University Library</title>
+                                    <author>
+                              <forename>Seiren</forename>
+                              <surname>Matsunami</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Tokyo</pubPlace>
+                                        <publisher>Suzuki Research Foundation</publisher>
+                                        <date>1965</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="book" xml:id="Mitra1882">
+                                <monogr>
+                                    <title level="m">The Sanskrit Buddhist Literature of Nepal</title>
+                                    <author>
+                              <forename>Rājendralāla</forename>
+                              <surname>Mitra</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Calcutta</pubPlace>
+                                        <publisher>Asiatic Society of Bengal</publisher>
+                                        <date>1882</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="journalArticle" xml:id="Turner1913">
+                                <analytic>
+                                    <title level="a">Notes on the Language of the Dvaviṃśatyavadānakathā</title>
+                                    <author>
+                              <forename>R. L.</forename>
+                              <surname>Turner</surname>
+                           </author>
+                                </analytic>
+                                <monogr>
+                                    <title level="m">Journal of the Royal Asiatic Society of Great Britain and
+                                        Ireland</title>
+                                    <imprint>
+                                        <biblScope type="pp">289-304</biblScope>
+                                        <date>1913</date>
+                                        <note type="accessed">2014-01-10 17:49:11</note>
+                                        <note type="url">http://www.jstor.org/stable/25188967</note>
+                                    </imprint>
+                                </monogr>
+                                <idno type="ISSN">0035-869X</idno>
+                            </biblStruct>
+                            
+                            <biblStruct type="book" xml:id="Zimmermann1975">
+                                <monogr>
+                                    <title level="m">Die Subhāṣita-ratna-karaṇḍaka-kathā (dem Āryaśūra
+                                        zugeschrieben) und ihre tibetanische Übersetzung: ein Vergleich zur
+                                        Darlegung der Irrtumsrisiken bei der Auswertung tibetanischer
+                                        Übersetzungen</title>
+                                    <author>
+                              <forename>Heinz</forename>
+                              <surname>Zimmermann</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Wiesbaden</pubPlace>
+                                        <biblScope type="vol">8</biblScope>
+                                        <publisher>O. Harrassowitz,</publisher>
+                                        <date>1975</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title level="s">Freiburger Beiträge zur Indologie 8</title>
+                                </series>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080761.html">Manuscripts, Sanskrit</ref>
+                        </item>
+                    </list>
+                </keywords>
+                <keywords scheme="local">
+                    <list>
+                        <item>Bauddha</item>
+                        <item>Avadāna, Jātaka</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-01-02">
+                <persName>Camillo Formigatti and Daniele Cuneo.</persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <!--<facsimile>
+        <!-\-here's where we'll list the images, no need to worry about this!-\->
+        <graphic url="[link to image 1]"/>
+        <graphic url="[link to image 2]"/>
+    </facsimile>-->
+    <text>
+        <body>
+            <div>
+                <pb n="cover" facs="#i1"/>
+                <pb n="cover (inside)" facs="#i2"/>
+                <pb n="1r" facs="#i3"/>
+                <pb n="1v" facs="#i4"/>
+                <pb n="2r" facs="#i5"/>
+                <pb n="2v" facs="#i6"/>
+                <pb n="3r" facs="#i7"/>
+                <pb n="3v" facs="#i8"/>
+                <pb n="4r" facs="#i9"/>
+                <pb n="4v" facs="#i10"/>
+                <pb n="5r" facs="#i11"/>
+                <pb n="5v" facs="#i12"/>
+                <pb n="6r" facs="#i13"/>
+                <pb n="6v" facs="#i14"/>
+                <pb n="7r" facs="#i15"/>
+                <pb n="7v" facs="#i16"/>
+                <pb n="8r" facs="#i17"/>
+                <pb n="8v" facs="#i18"/>
+                <pb n="9r" facs="#i19"/>
+                <pb n="9v" facs="#i20"/>
+                <pb n="10r" facs="#i21"/>
+                <pb n="10v" facs="#i22"/>
+                <pb n="11r" facs="#i23"/>
+                <pb n="11v" facs="#i24"/>
+                <pb n="12r" facs="#i25"/>
+                <pb n="12v" facs="#i26"/>
+                <pb n="13r" facs="#i27"/>
+                <pb n="13v" facs="#i28"/>
+                <pb n="14r" facs="#i29"/>
+                <pb n="14v" facs="#i30"/>
+                <pb n="15r" facs="#i31"/>
+                <pb n="15v" facs="#i32"/>
+                <pb n="16r" facs="#i33"/>
+                <pb n="16v" facs="#i34"/>
+                <pb n="17r" facs="#i35"/>
+                <pb n="17v" facs="#i36"/>
+                <pb n="18r" facs="#i37"/>
+                <pb n="18v" facs="#i38"/>
+                <pb n="19r" facs="#i39"/>
+                <pb n="19v" facs="#i40"/>
+                <pb n="20r" facs="#i41"/>
+                <pb n="20v" facs="#i42"/>
+                <pb n="21r" facs="#i43"/>
+                <pb n="21v" facs="#i44"/>
+                <pb n="22r" facs="#i45"/>
+                <pb n="22v" facs="#i46"/>
+                <pb n="23r" facs="#i47"/>
+                <pb n="23v" facs="#i48"/>
+                <pb n="24r" facs="#i49"/>
+                <pb n="24v" facs="#i50"/>
+                <pb n="25r" facs="#i51"/>
+                <pb n="25v" facs="#i52"/>
+                <pb n="26r" facs="#i53"/>
+                <pb n="26v" facs="#i54"/>
+                <pb n="27r" facs="#i55"/>
+                <pb n="27v" facs="#i56"/>
+                <pb n="28r" facs="#i57"/>
+                <pb n="28v" facs="#i58"/>
+                <pb n="29r" facs="#i59"/>
+                <pb n="29v" facs="#i60"/>
+                <pb n="30r" facs="#i61"/>
+                <pb n="30v" facs="#i62"/>
+                <pb n="31r" facs="#i63"/>
+                <pb n="31v" facs="#i64"/>
+                <pb n="32r" facs="#i65"/>
+                <pb n="32v" facs="#i66"/>
+                <pb n="33r" facs="#i67"/>
+                <pb n="33v" facs="#i68"/>
+                <pb n="34r" facs="#i69"/>
+                <pb n="34v" facs="#i70"/>
+                <pb n="35r" facs="#i71"/>
+                <pb n="35v" facs="#i72"/>
+                <pb n="36r" facs="#i73"/>
+                <pb n="36v" facs="#i74"/>
+                <pb n="37r" facs="#i75"/>
+                <pb n="37v" facs="#i76"/>
+                <pb n="38r" facs="#i77"/>
+                <pb n="38v" facs="#i78"/>
+                <pb n="39r" facs="#i79"/>
+                <pb n="39v" facs="#i80"/>
+                <pb n="40r" facs="#i81"/>
+                <pb n="40v" facs="#i82"/>
+                <pb n="41r" facs="#i83"/>
+                <pb n="41v" facs="#i84"/>
+                <pb n="42r" facs="#i85"/>
+                <pb n="42v" facs="#i86"/>
+                <pb n="43r" facs="#i87"/>
+                <pb n="43v" facs="#i88"/>
+                <pb n="44r" facs="#i89"/>
+                <pb n="44v" facs="#i90"/>
+                <pb n="45r" facs="#i91"/>
+                <pb n="45v" facs="#i92"/>
+                <pb n="46r" facs="#i93"/>
+                <pb n="46v" facs="#i94"/>
+                <pb n="47r" facs="#i95"/>
+                <pb n="47v" facs="#i96"/>
+                <pb n="48r" facs="#i97"/>
+                <pb n="48v" facs="#i98"/>
+                <pb n="49r" facs="#i99"/>
+                <pb n="49v" facs="#i100"/>
+                <pb n="50r" facs="#i101"/>
+                <pb n="50v" facs="#i102"/>
+                <pb n="51r" facs="#i103"/>
+                <pb n="51v" facs="#i104"/>
+                <pb n="52r" facs="#i105"/>
+                <pb n="52v" facs="#i106"/>
+                <pb n="53r" facs="#i107"/>
+                <pb n="53v" facs="#i108"/>
+                <pb n="54r" facs="#i109"/>
+                <pb n="54v" facs="#i110"/>
+                <pb n="55r" facs="#i111"/>
+                <pb n="55v" facs="#i112"/>
+                <pb n="56r" facs="#i113"/>
+                <pb n="56v" facs="#i114"/>
+                <pb n="57r" facs="#i115"/>
+                <pb n="57v" facs="#i116"/>
+                <pb n="58r" facs="#i117"/>
+                <pb n="58v" facs="#i118"/>
+                <pb n="59r" facs="#i119"/>
+                <pb n="59v" facs="#i120"/>
+                <pb n="60r" facs="#i121"/>
+                <pb n="60v" facs="#i122"/>
+                <pb n="61r" facs="#i123"/>
+                <pb n="61v" facs="#i124"/>
+                <pb n="62r" facs="#i125"/>
+                <pb n="62v" facs="#i126"/>
+                <pb n="63r" facs="#i127"/>
+                <pb n="63v" facs="#i128"/>
+                <pb n="64r" facs="#i129"/>
+                <pb n="64v" facs="#i130"/>
+                <pb n="65r" facs="#i131"/>
+                <pb n="65v" facs="#i132"/>
+                <pb n="66r" facs="#i133"/>
+                <pb n="66v" facs="#i134"/>
+                <pb n="67r" facs="#i135"/>
+                <pb n="67v" facs="#i136"/>
+                <pb n="68r" facs="#i137"/>
+                <pb n="68v" facs="#i138"/>
+                <pb n="69r" facs="#i139"/>
+                <pb n="69v" facs="#i140"/>
+                <pb n="70r" facs="#i141"/>
+                <pb n="70v" facs="#i142"/>
+                <pb n="71r" facs="#i143"/>
+                <pb n="71v" facs="#i144"/>
+                <pb n="72r" facs="#i145"/>
+                <pb n="72v" facs="#i146"/>
+                <pb n="73r" facs="#i147"/>
+                <pb n="73v" facs="#i148"/>
+                <pb n="74r" facs="#i149"/>
+                <pb n="74v" facs="#i150"/>
+                <pb n="75r" facs="#i151"/>
+                <pb n="75v" facs="#i152"/>
+                <pb n="76r" facs="#i153"/>
+                <pb n="76v" facs="#i154"/>
+                <pb n="77r" facs="#i155"/>
+                <pb n="77v" facs="#i156"/>
+                <pb n="78r" facs="#i157"/>
+                <pb n="78v" facs="#i158"/>
+                <pb n="79r" facs="#i159"/>
+                <pb n="79v" facs="#i160"/>
+                <pb n="80r" facs="#i161"/>
+                <pb n="80v" facs="#i162"/>
+                <pb n="81r" facs="#i163"/>
+                <pb n="81v" facs="#i164"/>
+                <pb n="82r" facs="#i165"/>
+                <pb n="82v" facs="#i166"/>
+                <pb n="83r" facs="#i167"/>
+                <pb n="83v" facs="#i168"/>
+                <pb n="84r" facs="#i169"/>
+                <pb n="84v" facs="#i170"/>
+                <pb n="85r" facs="#i171"/>
+                <pb n="85v" facs="#i172"/>
+                <pb n="86r" facs="#i173"/>
+                <pb n="86v" facs="#i174"/>
+                <pb n="87r" facs="#i175"/>
+                <pb n="87v" facs="#i176"/>
+                <pb n="88r" facs="#i177"/>
+                <pb n="88v" facs="#i178"/>
+                <pb n="89r" facs="#i179"/>
+                <pb n="89v" facs="#i180"/>
+                <pb n="90r" facs="#i181"/>
+                <pb n="90v" facs="#i182"/>
+                <pb n="91r" facs="#i183"/>
+                <pb n="91v" facs="#i184"/>
+                <pb n="92r" facs="#i185"/>
+                <pb n="92v" facs="#i186"/>
+                <pb n="93r" facs="#i187"/>
+                <pb n="93v" facs="#i188"/>
+                <pb n="94r" facs="#i189"/>
+                <pb n="94v" facs="#i190"/>
+                <pb n="95r" facs="#i191"/>
+                <pb n="95v" facs="#i192"/>
+                <pb n="96r" facs="#i193"/>
+                <pb n="96v" facs="#i194"/>
+                <pb n="97r" facs="#i195"/>
+                <pb n="97v" facs="#i196"/>
+                <pb n="98r" facs="#i197"/>
+                <pb n="98v" facs="#i198"/>
+                <pb n="99r" facs="#i199"/>
+                <pb n="99v" facs="#i200"/>
+                <pb n="100r" facs="#i201"/>
+                <pb n="100v" facs="#i202"/>
+                <pb n="101r" facs="#i203"/>
+                <pb n="101v" facs="#i204"/>
+                <pb n="102r" facs="#i205"/>
+                <pb n="102v" facs="#i206"/>
+                <pb n="103r" facs="#i207"/>
+                <pb n="103v" facs="#i208"/>
+                <pb n="104r" facs="#i209"/>
+                <pb n="104v" facs="#i210"/>
+                <pb n="105r" facs="#i211"/>
+                <pb n="105v" facs="#i212"/>
+                <pb n="106r" facs="#i213"/>
+                <pb n="106v" facs="#i214"/>
+                <pb n="107r" facs="#i215"/>
+                <pb n="107v" facs="#i216"/>
+                <pb n="108r" facs="#i217"/>
+                <pb n="108v" facs="#i218"/>
+                <pb n="109r" facs="#i219"/>
+                <pb n="109v" facs="#i220"/>
+                <pb n="110r" facs="#i221"/>
+                <pb n="110v" facs="#i222"/>
+                <pb n="111r" facs="#i223"/>
+                <pb n="111v" facs="#i224"/>
+                <pb n="112r" facs="#i225"/>
+                <pb n="112v" facs="#i226"/>
+                <pb n="113r" facs="#i227"/>
+                <pb n="113v" facs="#i228"/>
+                <pb n="114r" facs="#i229"/>
+                <pb n="114v" facs="#i230"/>
+                <pb n="115r" facs="#i231"/>
+                <pb n="115v" facs="#i232"/>
+                <pb n="116r" facs="#i233"/>
+                <pb n="116v" facs="#i234"/>
+                <pb n="117r" facs="#i235"/>
+                <pb n="117v" facs="#i236"/>
+                <pb n="118r" facs="#i237"/>
+                <pb n="118v" facs="#i238"/>
+                <pb n="119r" facs="#i239"/>
+                <pb n="119v" facs="#i240"/>
+                <pb n="120r" facs="#i241"/>
+                <pb n="120v" facs="#i242"/>
+                <pb n="121r" facs="#i243"/>
+                <pb n="121v" facs="#i244"/>
+                <pb n="122r" facs="#i245"/>
+                <pb n="122v" facs="#i246"/>
+                <pb n="123r" facs="#i247"/>
+                <pb n="123v" facs="#i248"/>
+                <pb n="124r" facs="#i249"/>
+                <pb n="124v" facs="#i250"/>
+                <pb n="125r" facs="#i251"/>
+                <pb n="125v" facs="#i252"/>
+                <pb n="126r" facs="#i253"/>
+                <pb n="126v" facs="#i254"/>
+                <pb n="127r" facs="#i255"/>
+                <pb n="127v" facs="#i256"/>
+                <pb n="128r" facs="#i257"/>
+                <pb n="128v" facs="#i258"/>
+                <pb n="129r" facs="#i259"/>
+                <pb n="129v" facs="#i260"/>
+                <pb n="130r" facs="#i261"/>
+                <pb n="130v" facs="#i262"/>
+                <pb n="131r" facs="#i263"/>
+                <pb n="131v" facs="#i264"/>
+                <pb n="132r" facs="#i265"/>
+                <pb n="132v" facs="#i266"/>
+                <pb n="133r" facs="#i267"/>
+                <pb n="133v" facs="#i268"/>
+                <pb n="134r" facs="#i269"/>
+                <pb n="134v" facs="#i270"/>
+                <pb n="135r" facs="#i271"/>
+                <pb n="135v" facs="#i272"/>
+                <pb n="136r" facs="#i273"/>
+                <pb n="136v" facs="#i274"/>
+                <pb n="137r" facs="#i275"/>
+                <pb n="137v" facs="#i276"/>
+                <pb n="138r" facs="#i277"/>
+                <pb n="138v" facs="#i278"/>
+                <pb n="139r" facs="#i279"/>
+                <pb n="139v" facs="#i280"/>
+                <pb n="140r" facs="#i281"/>
+                <pb n="140v" facs="#i282"/>
+                <pb n="141r" facs="#i283"/>
+                <pb n="141v" facs="#i284"/>
+                <pb n="142r" facs="#i285"/>
+                <pb n="142v" facs="#i286"/>
+                <pb n="143r" facs="#i287"/>
+                <pb n="143v" facs="#i288"/>
+                <pb n="back cover (inside)" facs="#i289"/>
+                <pb n="back cover" facs="#i290"/>
+            </div>
+        </body>
+    </text>
+</TEI>

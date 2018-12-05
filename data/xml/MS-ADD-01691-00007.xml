@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS Add.1691.7</title>
+                <funder>AHRC</funder>
+                <principal>Vincenzo Vergiani</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+                </address>
+                </pubPlace>
+                <idno>Sanskrit</idno>
+                
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made
+                        available for download are licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This
+                        metadata is licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                
+                <msDesc xml:id="Sanskrit" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Additional Manuscripts</collection>
+                        <idno>MS Add.1691.7</idno>
+                      <altIdentifier type="internal"> 
+                     <collection type="CUL_collection">Sanskrit</collection> 
+                     <idno/> 
+                       </altIdentifier>
+                    </msIdentifier>
+                    
+                    <msContents n="1">
+                        <!--increment n attribute for ms containing multiple ms items-->
+                        <summary>A one-leaf fragment of a 15th-century manuscript of the <title xml:lang="san">Cāndravyākaraṇa</title> by the Buddhist grammarian Candragomin, containing the <term>sūtrapāṭha</term> without any commentary. 
+                            The surviving portion begins with the final portion of <title>Cāndravyākaraṇa</title> 5.2.34, <term>na tyādivukopāntaṃ</term>, and ends in the middle of 5.2.73, <term>ṅyāpos tv anāmnor bahulam</term>.</summary>
+                        
+                        <msItem n="1" defective="true">
+                           
+                            <author>
+                                <name type="person" role="aut" key="local_00141 VIAF_46773592">
+                           <persName xml:lang="san" type="standard">Candragomin</persName>
+                        </name>
+                             </author>
+                            
+                            <title xml:lang="san">Cāndravyākaraṇa</title>
+
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                        </msItem>
+                    </msContents>
+                    
+                    <physDesc>
+                        <objectDesc form="tālapatra"> 
+                            <supportDesc material="palm_leaf">
+                                <support> 
+                                    Palm leaf.
+                                    <p>
+                                        <dimensions type="folio" scope="most" unit="cm">
+                                            <height quantity="4.3"> 4.3</height>
+                                            <width quantity="20.6"> 20.6</width>
+                                        </dimensions>
+                                </p>
+                                </support>
+                                
+                                <extent xml:id="folio" n="1"> 1 f.</extent>
+                                
+                                <foliation n="1" type="original">Nepālākṣara numeral 51, mid-right margin, verso.</foliation> 
+                                <foliation n="2" type="original">Nepālākṣara numeral 51, mid-left margin, verso (damaged).</foliation>
+
+                                <condition>
+                                    Incomplete; one right-side corner is damaged, with loss of a few <term>akṣara</term>s, and replaced with translucid paper.   
+                                </condition>
+                            </supportDesc>
+                            
+                           <layoutDesc>
+                               <layout columns="1" writtenLines="5">
+                                     <dimensions type="written area" unit="cm">
+                                        <height quantity="3.2">3.2</height>
+                                       <width quantity="18">18</width>
+                                    </dimensions>
+
+                                    <p>5 lines per page, approximately 30 <term xml:lang="san">akṣara</term>s per line.</p>
+                                   <dimensions type="akṣara" unit="mm" n="X">
+                                        <height quantity="4.5">4.5</height>
+                                    </dimensions>
+                                   
+                                   <stringHole type="true" quantity="1"> One string hole, to the left of the centre, placed inside an approximately 1.8 cm-wide blank space, 
+                                       framed above and below by the uninterrupted top and bottom lines of the text.</stringHole>
+                                    <!--<p>Details on frame, marginal lines, ruling and the like.</p>-->
+                                </layout>
+                           </layoutDesc>
+                        </objectDesc>
+                        
+                        <handDesc>
+                            <handNote scope="sole" script="nepālākṣarā" medium="black_ink">
+                                <desc>Hooked Nepālākṣarā (Bhujimol) in black ink.</desc>
+                                <!--<p><hi rend="bold">Scribe:</hi> <hi rend="bold">Scribe:</hi> <name type="person" subtype="scr" key="local_ VIAF_"><persName xml:lang="san" type="standard"> [scribe name]</persName></name></p>-->
+                            </handNote>
+                        </handDesc>
+                        
+                       
+                        <additions>
+                            <list>
+                                <item>
+                                    Along the left margin of folio <locus from="51r" to="51r">51r</locus>, perpendicular to the text, <term xml:lang="eng">Add 1691.7</term>, in pencil.
+                                </item>
+                            </list>
+                        </additions>
+                        <bindingDesc>
+                            <p>
+                        <material>Paper</material> wrapping, library binding.</p>
+                        </bindingDesc>
+                    </physDesc>
+                    
+                    <history>
+                        <origin>
+                            <origDate calendar="Gregorian" notBefore="1401" notAfter="1500">15th century CE.</origDate>
+                            <origPlace xml:lang="eng" key="1000132">Nepal.</origPlace>
+                        </origin>
+                        <provenance>Bought by <name type="person" role="col" key="local_00002 VIAF_7477330">
+                        <persName type="standard" xml:lang="eng">Wright, Daniel</persName>
+                        <persName type="display" xml:lang="eng">Dr. D. Wright</persName>
+                     </name> in <date calendar="Gregorian" from="1873" to="1876">1873-6</date>.
+                        </provenance>
+                  <!--                        <acquisition><date calendar="Gregorian" when="1873-07-21">XX July XXXX.</date></acquisition>-->
+                    </history>
+                    
+                    <additional>
+                        
+                        <adminInfo>
+                            <recordHist>
+                                <source> 
+                           <ref type="biblio" target="Bendall_1883">Bendall (1883: 181-182)</ref>, direct inspection.</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+                        
+                        <listBibl type="ms_descriptions">
+                            
+                            <head>Descriptions of the manuscript</head>
+                            
+                            <biblStruct type="manuscript" xml:id="ULIB_7355_Bradshaw1870">
+                                <monogr>
+                                    <title level="m">Notes on the collections of Oriental, Thibetan and
+                                        'Additional' manuscripts [unpublished manuscript]</title>
+                                    <author>
+                              <forename>Henry</forename>
+                              <surname>ULIB 7/3/55 =
+                                        Bradshaw</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1870</date>
+                                        <note type="url"> http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0265%2FULIB%207%2F3%2F55</note>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="manuscript" xml:id="zoteroItem_243">
+                                <monogr>
+                                    <title level="m">List of Additional Manuscripts 923-1827 [unpublished manuscript]</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                              <date>1878</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Handlist_Add_1878</idno>
+                            </biblStruct>
+                            
+                            
+                            <!--  <ref type="biblio" target="Bendall_1883"> -->                                
+                            <biblStruct type="book" xml:id="Bendall1883">
+                                <monogr>
+                                    <title>Catalogue of the Buddhist Sanskrit Manuscripts in the University Library, Cambridge. 
+                                        With Introductory Notices and Illustrations of the Palæography and Chronology of Nepal and Bengal</title>
+                                    <author>
+                                        <forename>Cecil</forename>
+                                        <surname>Bendall</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <publisher>University Press</publisher>
+                                        <date>1883</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Bendall_1883</idno>
+                            </biblStruct>
+                            
+                            <biblStruct type="manuscript" xml:id="Handlist_1900">
+                                <monogr>
+                                    <title>List of Oriental MSS. Class Catalogue of Oriental MSS. [unpublished manuscript]</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1900–</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Handlist_1900</idno>
+                            </biblStruct>
+                        </listBibl>
+                        
+                        <listBibl type="manuscripts">
+                            <head>Manuscripts</head>
+                            <bibl>
+                                <orgName>NGMCP</orgName>:
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/w/index.php?title=Special%3ASearch&amp;search=candravyakarana"> 65 listed manuscripts</ref>
+                            </bibl>
+                            <bibl>
+                                <placeName>Cambridge</placeName>, <orgName>Cambridge University Library</orgName>: 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01657-00001/1">Add.1657.1</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01657-00002/1">Add.1657.2</ref>,
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01657-00003/1">Add.1657.3</ref>,
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01691-00005/1">Add.1691.4</ref>,
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01691-00006/1">Add.1691.5</ref>,
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01691-00007/1">Add.1691.6</ref>,
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01705/1">Add.1705</ref>,
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-02192/1">Add.2192</ref>,
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-OR-01278/1">Or.1278</ref>.
+                            </bibl>
+                        </listBibl>
+                        
+                        <listBibl>
+                            <head>Edition(s)</head>
+                            <biblStruct type="book">
+                                <monogr>
+                                    <title>Cândra-Vyākaraṇa. Die Grammatik des Candragomin.</title>
+                                    <editor>
+                              <forename>Bruno</forename>
+                              <surname>Liebich</surname>
+                           </editor> 
+                                    <imprint>
+                              <pubPlace>Leipzig</pubPlace>
+                              <publisher>F.A. Brockhaus</publisher>
+                              <date>1902</date>
+                           </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="book">
+                                <monogr>
+                                    <title>Cândra-Vṛtti. Der Original-Kommentar Candragomins zu seinem grammatischen Sūtra.</title>
+                                    <editor>
+                              <forename>Bruno</forename>
+                              <surname>Liebich</surname>
+                           </editor> 
+                                    <imprint>
+                              <pubPlace>Leipzig</pubPlace>
+                              <publisher>F.A. Brockhaus</publisher>
+                              <date>1918</date>
+                           </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="book" xml:id="Chatterji1953b">
+                                <monogr>
+                                    <title level="m">Cāndravyākaraṇa of Candragomin (2 v.)</title>
+                                    <editor>
+                              <forename>Kshitish
+                                        Chandra</forename>
+                              <surname>Chatterji</surname>
+                           </editor>
+                                    <imprint>
+                                        <pubPlace>Poona</pubPlace>
+                                        <publisher>Deccan College Postgraduate and Research
+                                            Institute</publisher>
+                                        <date>1953-1961</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                        </listBibl>
+                        
+                        <listBibl> 
+                            <head>Secondary Literature</head>
+                            
+                            <biblStruct type="book">
+                                <monogr>
+                                    <title>Das Cândra-Vyākaraṇa.</title>
+                                    <editor>
+                              <forename>Bruno</forename>
+                              <surname>Liebich</surname>
+                           </editor> 
+                                    <imprint>
+                              <pubPlace>Göttingen</pubPlace>
+                              <publisher>Aus den Nachrichten der K. Gesellschaft der Wissenschaften zu Göttingen Philologische-historische Klasse</publisher>
+                              <date>1895</date>
+                           </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="bookSection">
+                                <analytic>
+                                    <title level="a">The Cāndra-Vyākaraṇa. Some questions</title>
+                                    <author>
+                              <forename>Johannes</forename>
+                              <surname>Bronkhorst</surname>
+                           </author>
+                                </analytic>
+                                <monogr>
+                                    <title level="m">Indian linguistic studies: festschrift in honor of George Cardona</title>
+                                    <editor>
+                              <forename>Madhav M.</forename>
+                              <surname>Deshpande</surname>
+                           </editor>
+                                    <editor>
+                              <forename>Peter Edwin </forename>
+                              <surname>Hook</surname>
+                           </editor>
+                                    <imprint>
+                                        <biblScope type="pp">182-201</biblScope>
+                                        <pubPlace>Delhi</pubPlace>
+                                        <publisher>Motilal Banarsidass</publisher>
+                                        <date>2002</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="book">
+                                <monogr>                                   
+                                    <title>A Comparative Study of the Pāṇinian and Cândra Systems of Grammar (Kṛdanta Portion)</title>
+                                    <author>
+                              <forename>P.C.</forename>
+                              <surname>Dash</surname>
+                           </author>
+                                    <imprint>
+                              <pubPlace>New Delhi</pubPlace>
+                              <publisher>Ramanand Vidya Bhavan</publisher>
+                              <date>1986</date>
+                           </imprint>   
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="journalArticle">
+                                <analytic>
+                                    <title level="a">Candra-Gomin</title>
+                                    <author>
+                              <forename>S.K.</forename>
+                              <surname>De</surname>
+                           </author>
+                                </analytic>
+                                <monogr>
+                                    <title level="m">Indian Historical Quarterly. Calcutta</title>
+                                    <imprint>
+                                        <biblScope type="vol">14</biblScope>
+                                        <biblScope type="pp">256-260</biblScope>
+                                        <date>1938</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="bookSection">
+                                <analytic>
+                                    <title level="a">The Chāndra-Vyākaraṇa and the Kāśikā-Vṛtti</title>
+                                    <author>
+                              <forename>Franz</forename>
+                              <surname>Kielhorn</surname>
+                           </author>
+                                </analytic>
+                                <monogr>
+                                    <title level="m">Franz Kielhorn. Kleine Schriften (2 v.)</title>
+                                    <editor>
+                              <forename>Wilhelm</forename>
+                              <surname>Rau</surname>
+                           </editor>
+                                    <imprint>
+                                        <biblScope type="pp">244-246</biblScope>
+                                        <pubPlace>Wiesbaden</pubPlace>
+                                        <publisher>Steiner</publisher>
+                                        <date>1969</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="journalArticle">
+                                <analytic>
+                                    <title level="a">Das Cāndra-Vyākaraṇa</title>
+                                    <author>
+                              <forename>Bruno</forename>
+                              <surname>Liebich</surname>
+                           </author>
+                                </analytic>
+                                <monogr>
+                                    <title level="m">Nachrichten der königl. Gesellschaft der Wissenschaften zu Göttingen, Philologisch-historische Klasse</title>
+                                    <imprint>
+                                        <biblScope type="vol">3</biblScope>
+                                        <biblScope type="pp">308-315</biblScope>
+                                        <date>1895</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="journalArticle">
+                                <analytic>
+                                    <title level="a">Candra-Gomin</title>
+                                    <author>
+                              <forename>Puspa</forename>
+                              <surname>Niyogi</surname>
+                           </author>
+                                </analytic>
+                                <monogr>
+                                    <title level="m">Journal of ancient Indian history</title>
+                                    <imprint>
+                                        <biblScope type="vol">10</biblScope>
+                                        <biblScope type="pp">123-140</biblScope>
+                                        <date>1976-77</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="book">
+                                <monogr>                               
+                                    <title>Studie zum Cāndravyākaraṇa. Eine kritische Bearbeitung von Candra IV.4.52-148 und V.2.</title>
+                                    <author>
+                              <forename>Thomas</forename>
+                              <surname>Oberlies</surname>
+                           </author>
+                                    <imprint>
+                              <pubPlace>Stuttgart</pubPlace>
+                              <publisher>Franz Steiner</publisher>
+                              <date>1989</date>
+                           </imprint>   
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="journalArticle">
+                                <analytic>
+                                    <title level="a">Verschiedene neu-entdeckte Texte des Cāndravyākaraṇa und ihre Verfasser (Studien zum Cāndravyākaraṇa II)</title>
+                                    <author>
+                              <forename>Thomas</forename>
+                              <surname>Oberlies</surname>
+                           </author>
+                                </analytic>
+                                <monogr>
+                                    <title level="m">Studien zur Indologie und Iranistik</title>
+                                    <imprint>
+                                        <biblScope type="vol">16-17</biblScope>
+                                        <biblScope type="pp">161-184</biblScope>
+                                        <date>1992</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="journalArticle">
+                                <analytic>
+                                    <title level="a">Das zeitliche und ideengeschichtliche Verhältnis der Cāndra-Vṛtti zu anderen V(ai)yākaraṇas (Studien zum Cāndravyākaraṇa III)</title>
+                                    <author>
+                              <forename>Thomas</forename>
+                              <surname>Oberlies</surname>
+                           </author>
+                                </analytic>
+                                <monogr>
+                                    <title level="m">Studien zur Indologie und Iranistik</title>
+                                    <imprint>
+                                        <biblScope type="vol">20</biblScope>
+                                        <biblScope type="pp">265-317</biblScope>
+                                        <date>1996</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="bookSection">
+                                <analytic>
+                                    <title level="a">Zum Sūtrapāṭha des Cāndravyākaraṇa (Studien zum Cāndravyākaraṇa IV)</title>
+                                    <author>
+                              <forename>Thomas</forename>
+                              <surname>Oberlies</surname>
+                           </author>
+                                </analytic>
+                                <monogr>
+                                    <title level="m">Jaina-Itihāsa-Ratna. Festschrift für Gustav Roth zum 90. Geburtstag</title>
+                                    <editor>
+                              <forename>Ute</forename>
+                              <surname>Huesken</surname>
+                           </editor>
+                                    <editor>
+                              <forename>Petra</forename>
+                              <surname>Kieffer-Pülz</surname>
+                           </editor>
+                                    <editor>
+                              <forename>Anne</forename>
+                              <surname>Peters</surname>
+                           </editor>
+                                    <imprint>
+                                        <biblScope type="vol">47</biblScope>
+                                        <biblScope type="pp">379-395</biblScope>
+                                        <pubPlace>Marburg</pubPlace>
+                                        <publisher>Indica et Tibetica</publisher>
+                                        <date>2006</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                        </listBibl>
+                        
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080761.html">Manuscripts, Sanskrit</ref>
+                        </item>
+                        <!--<item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh87004934.html">Manuscripts, Prakrit</ref>
+                        </item>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080774.html">Manuscripts, Tamil</ref>
+                        </item>-->
+                    </list>
+                </keywords>
+                <keywords scheme="local">
+                    <list>
+                        <item>Vyākaraṇa</item>
+                        <item>Cāndra</item>
+                        <item>Bauddha</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2014-02-21">
+                <persName>Vincenzo Vergiani.</persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01691-00007-000-00001_files/8/0_0.jpg"
+               rend="landscape"/>
+        <surface n="51r" xml:id="i1">
+            <graphic height="2986px"
+                  width="5605px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01691-00007-000-00001.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01691-00007-000-00001_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="51v" xml:id="i2">
+            <graphic height="2986px"
+                  width="5605px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01691-00007-000-00002.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01691-00007-000-00002_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb n="51r" xml:id="pb-51r" facs="#i1"/>
+                <p>
+               <locus from="51r" to="51r">[51r1]</locus> 
+                    divukopāntaṃ || saṃjñāpūraṇyoḥ|| aca ādaij jhetur aktavikāre || svāṅgādīd <sic>anāmni</sic> || jātir <unclear reason="damaged">aṣphādau</unclear> [1r2]
+                    ca || pumvatsvapadārthajātīyadeśīye<g>%</g>ṣu || tvatalor guṇaḥ || sarvvādayo vṛttimātre ||  tarata¦[1r3] 
+                    <sic>staratama</sic>rūpakalpacelaḍbruvagotra<g>%</g> 
+               <sic>matahatebhyo</sic> hrasvaḥ || vaikācaḥ || ugitaḥ || ūṅa[1r4]
+                    ḥ|| ātmahatojātīyaikārthe cvya<g>%</g>rthe || ghāsakaraviśiṣṭeṣu pumvac ca || <sic>icci</sic> || n<damage type="cellotaped">-2-</damage>
+                    [1r5]ṣṭanaḥ || kapāle havisi || gavi yukte || dveś ca saṃkhyāyāṃ prāk chatādananyārthāśītyoḥ || tre<unclear reason="damaged">-1-</unclear>
+            </p>
+                <pb n="51v" xml:id="pb-51v" facs="#i2"/>
+                <p>
+               <locus from="51v" to="51v">[51v1]</locus>    
+                    [1v1] saḥ || catvariṃśadādau vā || hṛdayasyāṇi hṛt_ || lekhe || lasayatoḥ || pādasyājātagopa[1v2]
+                    hate padaḥ || himahatikāṣiṣṭha¦<g>%</g>nyati pad || ṛcaḥ śi || nasnārśikāyās taḥ <damage type="cellotaped">-1-</damage>[1v3]
+                    dre || yatyavarṇṇe || śirasaḥ śīrṣa¦<g>%</g>n vā ||  <sic>śīrṣyo</sic> cci || nāmny udakasyodaḥ || uttarasya [1v4] 
+                    || vāsavāhane || peṣe <sic>pisau</sic> || eka<g>%</g>
+               <sic>halāde</sic> bhāṇḍe vā || manthodanasaktubinduvajrabhāra[1v5]
+                    hāravīvadhagāheṣu | iko hrasvaḥ | na <sic>cyaṅīyāṇiyuvām</sic> 
+               <sic>abhrukunsādīnāṃ</sic> || ṅyāpos tv anā¦  
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
+<!--a) if the manuscript has final rubrics for sections
+
+b) if the manuscript has a final rubric Y
+
+c) if the manuscript has a colophon: Y
+
+- presence of an introductory formula and/or other types of text (ye dharmā etc.) N
+
+- place of copying (pc) ?
+
+- occasion of copying (oc) N
+
+-date (d) Y
+
+- final formula (śubham astu etc.) N
+
+- name of the scribe(s) (write the full name)-\-> N-->

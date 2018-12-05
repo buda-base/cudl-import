@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS Add.1628</title>
+            <funder>AHRC</funder>
+            <principal>Vincenzo Vergiani</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>Sanskrit</idno>
+
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made
+                  available for download are licensed under a Creative Commons
+                  Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This metadata is
+                  licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported
+                  License.</licence>
+            </availability>
+
+
+         </publicationStmt>
+         <sourceDesc>
+
+            <msDesc xml:id="Sanskrit" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <collection>Additional Manuscripts</collection>
+                  <idno>MS Add.1628</idno>
+                  <altIdentifier type="internal">
+                     <collection type="CUL_collection">Sanskrit</collection>
+                     <idno/>
+                  </altIdentifier>
+               </msIdentifier>
+
+               <msContents n="1">
+                  <!--increment n attribute for ms containing multiple ms items-->
+                  <summary>A Nepalese composite paper manuscript with the <title xml:lang="san">Abhisamayālaṅkāra</title> and the <title xml:lang="san">Prajñāpāramitāstotra</title> preceding the <title xml:lang="san">Pañcaviṃśatisāhasrikā Prajñāpāramitā</title>. The kernel of the manuscript
+                        (<locus from="412r" to="559v">ff. 412-559</locus>) consists of <quote>paper
+                        of the 17th or beginning of the 18th century; the rest is recent
+                        supply</quote> (Bendall 1883: 144).
+                     <!--[the revised edition by Haribhadra] according to Sparham!!!!!!!!!--></summary>
+
+                  <msItem n="1" defective="unknown">
+                     <locus from="1v" to="9r">ff. 1v1-9r1</locus>
+                     <author>
+                        <name type="person" role="aut" key="local_00000">
+                           <persName xml:lang="san" type="standard">Unknown</persName>
+                        </name>
+                     </author>
+                     <title xml:lang="san">Abhisamayālaṅkāra</title>
+                     <title xml:lang="san" type="alt">Prajñāpāramitopadeśaśāstra</title>
+                     <textLang mainLang="san">Sanskrit.</textLang>
+                  </msItem>
+
+                  <msItem n="2" defective="false">
+                     <!--repeat the <msItem> element for every work in the ms; 
+                           change the @defective to the following values: if the ms is complete, "false", if incomplete, "true"; 
+                           if you are unsure, choose "inapplicable", DO NOT use unknown;
+                           use <locus> element in the case of multiple msItems to indicate range in manuscript, otherwise delete it-->
+                     <locus from="9r" to="9v">ff. 9r1-9v3</locus>
+
+                     <author>
+                        <name type="person" role="aut" key="local_ 00232">
+                           <persName xml:lang="san" type="standard">Rāhulabhadra</persName>
+                        </name>
+                     </author>
+                     <respStmt>
+                        <resp>Also attributed to </resp>
+                        <name type="person" role="aut" key="local_00231 VIAF_8711937">
+                           <persName xml:lang="san" type="standard">Nāgārjuna</persName>.</name>
+                     </respStmt>
+                     <!--the following elements are optional, delete if not used-->
+
+
+                     <title xml:lang="san">Prajñāpāramitāstotra</title>
+                     <!--the following elements are optional, delete if not used-->
+                     <title xml:lang="san" type="alt">Nirvikalpastuti</title>
+                     <title xml:lang="san" type="alt">Nirvikalpastava</title>
+                     <title xml:lang="san" type="alt">Prajñāpāramitādevyā Ekaviṃśatistotra</title>
+                     <title xml:lang="san" type="alt">Prajñāpāramitaikaviṃśatistotra</title>
+                     <title xml:lang="xct" type="alt">Shes rab kyi pha rol tu phyin pa'i bstod
+                        pa</title>
+                     <title xml:lang="xct" type="alt">Rnam par mi rtog pa'i bstod pa</title>
+                  </msItem>
+
+                  <msItem n="3" defective="unknown">
+                     <locus from="9v" to="594r">ff. 9v3-594r3</locus>
+                     <author>
+                        <name type="person" role="aut" key="local_00000">
+                           <persName xml:lang="san" type="standard">Unknown</persName>
+                        </name>
+                     </author>
+                     <title xml:lang="san">Pañcaviṃśatisāhasrikā Prajñāpāramitā</title>
+                     <textLang mainLang="san">Sanskrit.</textLang>
+                  </msItem>
+               </msContents>
+
+               <physDesc>
+                  <objectDesc form="pothī">
+                     <supportDesc material="nep_multi_layered_paper">
+                        <support> Nepalese multi-layered paper (at least two different types).
+                                 <p>
+                              <dimensions type="folio" scope="most" unit="cm">
+                                 <height quantity="9.3">9.3</height>
+                                 <width quantity="43.3">43.3</width>
+                              </dimensions>
+                           </p>
+                        </support>
+
+                        <extent xml:id="folio" n="594">594 ff.</extent>
+                        <foliation n="1" type="original">Nepālākṣarā letter-numerals, mid-left
+                           margin, verso.</foliation>
+                        <foliation n="1" type="original">Tiny Nepālākṣarā numerals (marking the
+                           change of scribe), bottom right corner, verso.</foliation>
+
+                        <condition>Complete, in good condition.</condition>
+                     </supportDesc>
+
+                     <layoutDesc>
+                        <layout columns="1" ruledLines="9">
+                           <!--<dimensions type="written area" unit="cm">
+<height quantity="X"></height>
+<width atLeast="X" atMost="X"></width>
+</dimensions>-->
+                           <p>9 lines per page.</p>
+                           <!--<dimensions type="akṣara" unit="mm" n="X">
+<height quantity="X">X</height>
+</dimensions>
+
+<dimensions type="interlinear space" scope="most" unit="mm">
+<height quantity="X">X</height>
+</dimensions>-->
+                           <!--<commentaryForm type=""></commentaryForm>
+<stringHole type="true" quantity="2"> Two string holes framed by double parallel lines in black ink. 
+<dimensions type="string hole spaces" scope="most" unit="cm">
+<height quantity="2.5">2.5</height>
+<width quantity="1.5">1.5</width>
+<depth quantity="10.5">10.5</depth>
+</dimensions>
+</stringHole>-->
+                           <!--<p>Details on frame, marginal lines, ruling and the like.</p>-->
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+
+                  <handDesc>
+                     <handNote scope="sole" script="nepālākṣarā" medium="blackink">
+                        <desc>Nepālākṣarā in black ink (several hands).</desc>
+                     </handNote>
+                  </handDesc>
+                  <!--<additions>
+<list>
+<head>Marginalia</head>
+<item>
+<marginalia type="corrections">On the bottom right margin of folio <locus from="61r" to="61r">61r5</locus>, ..... .</marginalia>
+</item>
+<item>
+<marginalia type="annotations">On the top right margin of folio <locus from="61r" to="61r">61r5</locus>, ..... .</marginalia>
+</item>
+</list>
+</additions>-->
+                  <bindingDesc>
+                     <p>
+                        <material>Cardboard cover</material>, library binding.</p>
+                     <!--<p>On the <locus from="back cover" to="back cover">outer side of the back cover</locus>, whatnot.</p>-->
+                  </bindingDesc>
+               </physDesc>
+
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" from="1601" to="1900">17th-18th century (kernel);
+                        19th century (dependent codicological units).</origDate>
+                     <origPlace xml:lang="eng" key="1000132">Nepal</origPlace>. </origin>
+                  <provenance>Bought by <name type="person" role="col" key="local_00002 VIAF_7477330">
+                        <persName type="standard" xml:lang="eng">Wright, Daniel</persName>
+                        <persName type="display" xml:lang="eng">Dr. D. Wright</persName>
+                     </name> in <date when="1876">1876</date>.</provenance>
+                  <acquisition>
+                     <date calendar="Gregorian" when="1876-04-26">26 April 1876 (ULIB
+                        7/3/55, <stamp>University Library stamp</stamp>).</date>
+                  </acquisition>
+               </history>
+               <additional>
+
+                  <adminInfo>
+                     <recordHist>
+                        <source>Bendall (1883), direct inspection.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge
+                              University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+
+                  <listBibl type="ms_descriptions">
+                     <head>Descriptions of the manuscript</head>
+
+                     <biblStruct type="manuscript" xml:id="ULIB7355Bradshaw1870">
+                        <monogr>
+                           <title level="m">Notes on the collections of Oriental, Thibetan and
+                              'Additional' manuscripts [unpublished manuscript]</title>
+                           <author>
+                              <forename>Henry</forename>
+                              <surname>ULIB 7/3/55 = Bradshaw</surname>
+                           </author>
+                           <imprint>
+                              <pubPlace>Cambridge</pubPlace>
+                              <date>1870-80</date>
+
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+
+                     <biblStruct type="manuscript" xml:id="ULIB714Griffith1873">
+                        <monogr>
+                           <title level="m">Assorted lists of manuscripts and books, chiefly
+                              Oriental, acquired by the Library, with related papers</title>
+                           <author>
+                              <forename>Ralph T. H.</forename>
+                              <surname>ULIB 7/1/4 = Griffith</surname>
+                           </author>
+                           <author>
+                              <forename>Daniel</forename>
+                              <surname>Wright</surname>
+                           </author>
+                           <imprint>
+                              <pubPlace>Cambridge</pubPlace>
+                              <date>1873</date>
+                           </imprint>
+                        </monogr>
+                        <idno type="callNumber">ULIB 7/1/4</idno>
+                     </biblStruct>
+
+                     <biblStruct type="manuscript" xml:id="zoteroItem_243">
+                        <monogr>
+                           <title level="m">List Add.923-1827 = List of Additional Manuscripts
+                              923-1827 [unpublished manuscript]</title>
+                           <imprint>
+                              <pubPlace>Cambridge</pubPlace>
+                              <date>1878</date>
+                           </imprint>
+                        </monogr>
+                        <idno type="callNumber">Handlist_Add_1878</idno>
+                     </biblStruct>
+
+                     <biblStruct type="book" xml:id="Bendall1883">
+                        <monogr>
+                           <title>Catalogue of the Buddhist Sanskrit Manuscripts in the University
+                              Library, Cambridge. With Introductory Notices and Illustrations of the
+                              Palæography and Chronology of Nepal and Bengal</title>
+                           <author>
+                              <forename>Cecil</forename>
+                              <surname>Bendall</surname>
+                           </author>
+                           <imprint>
+                              <pubPlace>Cambridge</pubPlace>
+                              <publisher>University Press</publisher>
+                              <date>1883</date>
+                           </imprint>
+                        </monogr>
+                        <idno type="callNumber">Bendall_1883</idno>
+                     </biblStruct>
+
+                     <biblStruct type="manuscript" xml:id="Handlist_1900">
+                        <monogr>
+                           <title>List of Oriental MSS. Class Catalogue of Oriental MSS.
+                              [unpublished manuscript]</title>
+                           <imprint>
+                              <pubPlace>Cambridge</pubPlace>
+                              <date>1900–</date>
+                           </imprint>
+                        </monogr>
+                        <idno type="callNumber">Handlist_1900</idno>
+                     </biblStruct>
+                  </listBibl>
+
+                  <!--<listBibl type="manuscripts">
+<head>Manuscripts</head>
+
+<bibl>
+<placeName>Cambridge</placeName>, <orgName>Cambridge University Library</orgName>: 
+<ref type="extant_mss" target="">Add.XXX</ref>, 
+<ref type="extant_mss" target="">Add.XXX</ref>.
+</bibl>
+</listBibl>-->
+
+
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85080761.html">Manuscripts, Sanskrit</ref>
+                  </item>
+               </list>
+            </keywords>
+            <keywords scheme="local">
+               <list>
+                  <item>Bauddha</item>
+                  <item>Mahāyāna</item>
+                  <item>Sūtra</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2014-05-22">
+            <persName>Camillo Formigatti and Daniele Cuneo.</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="cover" xml:id="pb-cover" facs="#i1"/>
+            <pb n="cover (inside)" xml:id="pb-cover-inside" facs="#i2"/>
+            <pb n="1r" xml:id="pb-1r" facs="#i3"/>
+            <pb n="1v" xml:id="pb-1v" facs="#i4"/>
+            <pb n="2r" xml:id="pb-2r" facs="#i5"/>
+            <pb n="2v" xml:id="pb-2v" facs="#i6"/>
+            <pb n="3r" xml:id="pb-3r" facs="#i7"/>
+            <pb n="3v" xml:id="pb-3v" facs="#i8"/>
+            <pb n="4r" xml:id="pb-4r" facs="#i9"/>
+            <pb n="4v" xml:id="pb-4v" facs="#i10"/>
+            <pb n="5r" xml:id="pb-5r" facs="#i11"/>
+            <pb n="5v" xml:id="pb-5v" facs="#i12"/>
+            <pb n="6r" xml:id="pb-6r" facs="#i13"/>
+            <pb n="6v" xml:id="pb-6v" facs="#i14"/>
+            <pb n="7r" xml:id="pb-7r" facs="#i15"/>
+            <pb n="7v" xml:id="pb-7v" facs="#i16"/>
+            <pb n="8r" xml:id="pb-8r" facs="#i17"/>
+            <pb n="8v" xml:id="pb-8v" facs="#i18"/>
+            <pb n="9r" xml:id="pb-9r" facs="#i19"/>
+            <pb n="9v" xml:id="pb-9v" facs="#i20"/>
+            <pb n="10r" xml:id="pb-10r" facs="#i21"/>
+            <pb n="10v" xml:id="pb-10v" facs="#i22"/>
+            <pb n="11r" xml:id="pb-11r" facs="#i23"/>
+            <pb n="11v" xml:id="pb-11v" facs="#i24"/>
+            <pb n="12r" xml:id="pb-12r" facs="#i25"/>
+            <pb n="12v" xml:id="pb-12v" facs="#i26"/>
+            <pb n="13r" xml:id="pb-13r" facs="#i27"/>
+            <pb n="13v" xml:id="pb-13v" facs="#i28"/>
+            <pb n="14r" xml:id="pb-14r" facs="#i29"/>
+            <pb n="14v" xml:id="pb-14v" facs="#i30"/>
+            <pb n="15r" xml:id="pb-15r" facs="#i31"/>
+            <pb n="15v" xml:id="pb-15v" facs="#i32"/>
+            <pb n="16r" xml:id="pb-16r" facs="#i33"/>
+            <pb n="16v" xml:id="pb-16v" facs="#i34"/>
+            <pb n="17r" xml:id="pb-17r" facs="#i35"/>
+            <pb n="17v" xml:id="pb-17v" facs="#i36"/>
+            <pb n="18r" xml:id="pb-18r" facs="#i37"/>
+            <pb n="18v" xml:id="pb-18v" facs="#i38"/>
+            <pb n="19r" xml:id="pb-19r" facs="#i39"/>
+            <pb n="19v" xml:id="pb-19v" facs="#i40"/>
+            <pb n="20r" xml:id="pb-20r" facs="#i41"/>
+            <pb n="20v" xml:id="pb-20v" facs="#i42"/>
+            <pb n="21r" xml:id="pb-21r" facs="#i43"/>
+            <pb n="21v" xml:id="pb-21v" facs="#i44"/>
+            <pb n="22r" xml:id="pb-22r" facs="#i45"/>
+            <pb n="22v" xml:id="pb-22v" facs="#i46"/>
+            <pb n="23r" xml:id="pb-23r" facs="#i47"/>
+            <pb n="23v" xml:id="pb-23v" facs="#i48"/>
+            <pb n="24r" xml:id="pb-24r" facs="#i49"/>
+            <pb n="24v" xml:id="pb-24v" facs="#i50"/>
+            <pb n="25r" xml:id="pb-25r" facs="#i51"/>
+            <pb n="25v" xml:id="pb-25v" facs="#i52"/>
+            <pb n="26r" xml:id="pb-26r" facs="#i53"/>
+            <pb n="26v" xml:id="pb-26v" facs="#i54"/>
+            <pb n="27r" xml:id="pb-27r" facs="#i55"/>
+            <pb n="27v" xml:id="pb-27v" facs="#i56"/>
+            <pb n="28r" xml:id="pb-28r" facs="#i57"/>
+            <pb n="28v" xml:id="pb-28v" facs="#i58"/>
+            <pb n="29r" xml:id="pb-29r" facs="#i59"/>
+            <pb n="29v" xml:id="pb-29v" facs="#i60"/>
+            <pb n="30r" xml:id="pb-30r" facs="#i61"/>
+            <pb n="30v" xml:id="pb-30v" facs="#i62"/>
+            <pb n="31r" xml:id="pb-31r" facs="#i63"/>
+            <pb n="31v" xml:id="pb-31v" facs="#i64"/>
+            <pb n="32r" xml:id="pb-32r" facs="#i65"/>
+            <pb n="32v" xml:id="pb-32v" facs="#i66"/>
+            <pb n="33r" xml:id="pb-33r" facs="#i67"/>
+            <pb n="33v" xml:id="pb-33v" facs="#i68"/>
+            <pb n="34r" xml:id="pb-34r" facs="#i69"/>
+            <pb n="34v" xml:id="pb-34v" facs="#i70"/>
+            <pb n="35r" xml:id="pb-35r" facs="#i71"/>
+            <pb n="35v" xml:id="pb-35v" facs="#i72"/>
+            <pb n="36r" xml:id="pb-36r" facs="#i73"/>
+            <pb n="36v" xml:id="pb-36v" facs="#i74"/>
+            <pb n="37r" xml:id="pb-37r" facs="#i75"/>
+            <pb n="37v" xml:id="pb-37v" facs="#i76"/>
+            <pb n="38r" xml:id="pb-38r" facs="#i77"/>
+            <pb n="38v" xml:id="pb-38v" facs="#i78"/>
+            <pb n="39r" xml:id="pb-39r" facs="#i79"/>
+            <pb n="39v" xml:id="pb-39v" facs="#i80"/>
+            <pb n="40r" xml:id="pb-40r" facs="#i81"/>
+            <pb n="40v" xml:id="pb-40v" facs="#i82"/>
+            <pb n="41r" xml:id="pb-41r" facs="#i83"/>
+            <pb n="41v" xml:id="pb-41v" facs="#i84"/>
+            <pb n="42r" xml:id="pb-42r" facs="#i85"/>
+            <pb n="42v" xml:id="pb-42v" facs="#i86"/>
+            <pb n="43r" xml:id="pb-43r" facs="#i87"/>
+            <pb n="43v" xml:id="pb-43v" facs="#i88"/>
+            <pb n="44r" xml:id="pb-44r" facs="#i89"/>
+            <pb n="44v" xml:id="pb-44v" facs="#i90"/>
+            <pb n="45r" xml:id="pb-45r" facs="#i91"/>
+            <pb n="45v" xml:id="pb-45v" facs="#i92"/>
+            <pb n="46r" xml:id="pb-46r" facs="#i93"/>
+            <pb n="46v" xml:id="pb-46v" facs="#i94"/>
+            <pb n="47r" xml:id="pb-47r" facs="#i95"/>
+            <pb n="47v" xml:id="pb-47v" facs="#i96"/>
+            <pb n="48r" xml:id="pb-48r" facs="#i97"/>
+            <pb n="48v" xml:id="pb-48v" facs="#i98"/>
+            <pb n="49r" xml:id="pb-49r" facs="#i99"/>
+            <pb n="49v" xml:id="pb-49v" facs="#i100"/>
+            <pb n="50r" xml:id="pb-50r" facs="#i101"/>
+            <pb n="50v" xml:id="pb-50v" facs="#i102"/>
+            <pb n="51r" xml:id="pb-51r" facs="#i103"/>
+            <pb n="51v" xml:id="pb-51v" facs="#i104"/>
+            <pb n="52r" xml:id="pb-52r" facs="#i105"/>
+            <pb n="52v" xml:id="pb-52v" facs="#i106"/>
+            <pb n="53r" xml:id="pb-53r" facs="#i107"/>
+            <pb n="53v" xml:id="pb-53v" facs="#i108"/>
+            <pb n="54r" xml:id="pb-54r" facs="#i109"/>
+            <pb n="54v" xml:id="pb-54v" facs="#i110"/>
+            <pb n="55r" xml:id="pb-55r" facs="#i111"/>
+            <pb n="55v" xml:id="pb-55v" facs="#i112"/>
+            <pb n="56r" xml:id="pb-56r" facs="#i113"/>
+            <pb n="56v" xml:id="pb-56v" facs="#i114"/>
+            <pb n="57r" xml:id="pb-57r" facs="#i115"/>
+            <pb n="57v" xml:id="pb-57v" facs="#i116"/>
+            <pb n="58r" xml:id="pb-58r" facs="#i117"/>
+            <pb n="58v" xml:id="pb-58v" facs="#i118"/>
+            <pb n="59r" xml:id="pb-59r" facs="#i119"/>
+            <pb n="59v" xml:id="pb-59v" facs="#i120"/>
+            <pb n="60r" xml:id="pb-60r" facs="#i121"/>
+            <pb n="60v" xml:id="pb-60v" facs="#i122"/>
+            <pb n="61r" xml:id="pb-61r" facs="#i123"/>
+            <pb n="61v" xml:id="pb-61v" facs="#i124"/>
+            <pb n="62r" xml:id="pb-62r" facs="#i125"/>
+            <pb n="62v" xml:id="pb-62v" facs="#i126"/>
+            <pb n="63r" xml:id="pb-63r" facs="#i127"/>
+            <pb n="63v" xml:id="pb-63v" facs="#i128"/>
+            <pb n="64r" xml:id="pb-64r" facs="#i129"/>
+            <pb n="64v" xml:id="pb-64v" facs="#i130"/>
+            <pb n="65r" xml:id="pb-65r" facs="#i131"/>
+            <pb n="65v" xml:id="pb-65v" facs="#i132"/>
+            <pb n="66r" xml:id="pb-66r" facs="#i133"/>
+            <pb n="66v" xml:id="pb-66v" facs="#i134"/>
+            <pb n="67r" xml:id="pb-67r" facs="#i135"/>
+            <pb n="67v" xml:id="pb-67v" facs="#i136"/>
+            <pb n="68r" xml:id="pb-68r" facs="#i137"/>
+            <pb n="68v" xml:id="pb-68v" facs="#i138"/>
+            <pb n="69r" xml:id="pb-69r" facs="#i139"/>
+            <pb n="69v" xml:id="pb-69v" facs="#i140"/>
+            <pb n="70r" xml:id="pb-70r" facs="#i141"/>
+            <pb n="70v" xml:id="pb-70v" facs="#i142"/>
+            <pb n="71r" xml:id="pb-71r" facs="#i143"/>
+            <pb n="71v" xml:id="pb-71v" facs="#i144"/>
+            <pb n="72r" xml:id="pb-72r" facs="#i145"/>
+            <pb n="72v" xml:id="pb-72v" facs="#i146"/>
+            <pb n="73r" xml:id="pb-73r" facs="#i147"/>
+            <pb n="73v" xml:id="pb-73v" facs="#i148"/>
+            <pb n="74r" xml:id="pb-74r" facs="#i149"/>
+            <pb n="74v" xml:id="pb-74v" facs="#i150"/>
+            <pb n="75r" xml:id="pb-75r" facs="#i151"/>
+            <pb n="75v" xml:id="pb-75v" facs="#i152"/>
+            <pb n="76r" xml:id="pb-76r" facs="#i153"/>
+            <pb n="76v" xml:id="pb-76v" facs="#i154"/>
+            <pb n="77r" xml:id="pb-77r" facs="#i155"/>
+            <pb n="77v" xml:id="pb-77v" facs="#i156"/>
+            <pb n="78r" xml:id="pb-78r" facs="#i157"/>
+            <pb n="78v" xml:id="pb-78v" facs="#i158"/>
+            <pb n="79r" xml:id="pb-79r" facs="#i159"/>
+            <pb n="79v" xml:id="pb-79v" facs="#i160"/>
+            <pb n="80r" xml:id="pb-80r" facs="#i161"/>
+            <pb n="80v" xml:id="pb-80v" facs="#i162"/>
+            <pb n="81r" xml:id="pb-81r" facs="#i163"/>
+            <pb n="81v" xml:id="pb-81v" facs="#i164"/>
+            <pb n="82r" xml:id="pb-82r" facs="#i165"/>
+            <pb n="82v" xml:id="pb-82v" facs="#i166"/>
+            <pb n="83r" xml:id="pb-83r" facs="#i167"/>
+            <pb n="83v" xml:id="pb-83v" facs="#i168"/>
+            <pb n="84r" xml:id="pb-84r" facs="#i169"/>
+            <pb n="84v" xml:id="pb-84v" facs="#i170"/>
+            <pb n="85r" xml:id="pb-85r" facs="#i171"/>
+            <pb n="85v" xml:id="pb-85v" facs="#i172"/>
+            <pb n="86r" xml:id="pb-86r" facs="#i173"/>
+            <pb n="86v" xml:id="pb-86v" facs="#i174"/>
+            <pb n="87r" xml:id="pb-87r" facs="#i175"/>
+            <pb n="87v" xml:id="pb-87v" facs="#i176"/>
+            <pb n="88r" xml:id="pb-88r" facs="#i177"/>
+            <pb n="88v" xml:id="pb-88v" facs="#i178"/>
+            <pb n="89r" xml:id="pb-89r" facs="#i179"/>
+            <pb n="89v" xml:id="pb-89v" facs="#i180"/>
+            <pb n="90r" xml:id="pb-90r" facs="#i181"/>
+            <pb n="90v" xml:id="pb-90v" facs="#i182"/>
+            <pb n="91r" xml:id="pb-91r" facs="#i183"/>
+            <pb n="91v" xml:id="pb-91v" facs="#i184"/>
+            <pb n="92r" xml:id="pb-92r" facs="#i185"/>
+            <pb n="92v" xml:id="pb-92v" facs="#i186"/>
+            <pb n="93r" xml:id="pb-93r" facs="#i187"/>
+            <pb n="93v" xml:id="pb-93v" facs="#i188"/>
+            <pb n="94r" xml:id="pb-94r" facs="#i189"/>
+            <pb n="94v" xml:id="pb-94v" facs="#i190"/>
+            <pb n="95r" xml:id="pb-95r" facs="#i191"/>
+            <pb n="95v" xml:id="pb-95v" facs="#i192"/>
+            <pb n="96r" xml:id="pb-96r" facs="#i193"/>
+            <pb n="96v" xml:id="pb-96v" facs="#i194"/>
+            <pb n="97r" xml:id="pb-97r" facs="#i195"/>
+            <pb n="97v" xml:id="pb-97v" facs="#i196"/>
+            <pb n="98r" xml:id="pb-98r" facs="#i197"/>
+            <pb n="98v" xml:id="pb-98v" facs="#i198"/>
+            <pb n="99r" xml:id="pb-99r" facs="#i199"/>
+            <pb n="99v" xml:id="pb-99v" facs="#i200"/>
+            <pb n="100r" xml:id="pb-100r" facs="#i201"/>
+            <pb n="100v" xml:id="pb-100v" facs="#i202"/>
+            <pb n="101r" xml:id="pb-101r" facs="#i203"/>
+            <pb n="101v" xml:id="pb-101v" facs="#i204"/>
+            <pb n="102r" xml:id="pb-102r" facs="#i205"/>
+            <pb n="102v" xml:id="pb-102v" facs="#i206"/>
+            <pb n="103r" xml:id="pb-103r" facs="#i207"/>
+            <pb n="103v" xml:id="pb-103v" facs="#i208"/>
+            <pb n="104r" xml:id="pb-104r" facs="#i209"/>
+            <pb n="104v" xml:id="pb-104v" facs="#i210"/>
+            <pb n="105r" xml:id="pb-105r" facs="#i211"/>
+            <pb n="105v" xml:id="pb-105v" facs="#i212"/>
+            <pb n="106r" xml:id="pb-106r" facs="#i213"/>
+            <pb n="106v" xml:id="pb-106v" facs="#i214"/>
+            <pb n="107r" xml:id="pb-107r" facs="#i215"/>
+            <pb n="107v" xml:id="pb-107v" facs="#i216"/>
+            <pb n="108r" xml:id="pb-108r" facs="#i217"/>
+            <pb n="108v" xml:id="pb-108v" facs="#i218"/>
+            <pb n="109r" xml:id="pb-109r" facs="#i219"/>
+            <pb n="109v" xml:id="pb-109v" facs="#i220"/>
+            <pb n="110r" xml:id="pb-110r" facs="#i221"/>
+            <pb n="110v" xml:id="pb-110v" facs="#i222"/>
+            <pb n="111r" xml:id="pb-111r" facs="#i223"/>
+            <pb n="111v" xml:id="pb-111v" facs="#i224"/>
+            <pb n="112r" xml:id="pb-112r" facs="#i225"/>
+            <pb n="112v" xml:id="pb-112v" facs="#i226"/>
+            <pb n="113r" xml:id="pb-113r" facs="#i227"/>
+            <pb n="113v" xml:id="pb-113v" facs="#i228"/>
+            <pb n="114r" xml:id="pb-114r" facs="#i229"/>
+            <pb n="114v" xml:id="pb-114v" facs="#i230"/>
+            <pb n="115r" xml:id="pb-115r" facs="#i231"/>
+            <pb n="115v" xml:id="pb-115v" facs="#i232"/>
+            <pb n="116r" xml:id="pb-116r" facs="#i233"/>
+            <pb n="116v" xml:id="pb-116v" facs="#i234"/>
+            <pb n="117r" xml:id="pb-117r" facs="#i235"/>
+            <pb n="117v" xml:id="pb-117v" facs="#i236"/>
+            <pb n="118r" xml:id="pb-118r" facs="#i237"/>
+            <pb n="118v" xml:id="pb-118v" facs="#i238"/>
+            <pb n="119r" xml:id="pb-119r" facs="#i239"/>
+            <pb n="119v" xml:id="pb-119v" facs="#i240"/>
+            <pb n="120r" xml:id="pb-120r" facs="#i241"/>
+            <pb n="120v" xml:id="pb-120v" facs="#i242"/>
+            <pb n="121r" xml:id="pb-121r" facs="#i243"/>
+            <pb n="121v" xml:id="pb-121v" facs="#i244"/>
+            <pb n="122r" xml:id="pb-122r" facs="#i245"/>
+            <pb n="122v" xml:id="pb-122v" facs="#i246"/>
+            <pb n="123r" xml:id="pb-123r" facs="#i247"/>
+            <pb n="123v" xml:id="pb-123v" facs="#i248"/>
+            <pb n="124r" xml:id="pb-124r" facs="#i249"/>
+            <pb n="124v" xml:id="pb-124v" facs="#i250"/>
+            <pb n="125r" xml:id="pb-125r" facs="#i251"/>
+            <pb n="125v" xml:id="pb-125v" facs="#i252"/>
+            <pb n="126r" xml:id="pb-126r" facs="#i253"/>
+            <pb n="126v" xml:id="pb-126v" facs="#i254"/>
+            <pb n="127r" xml:id="pb-127r" facs="#i255"/>
+            <pb n="127v" xml:id="pb-127v" facs="#i256"/>
+            <pb n="128r" xml:id="pb-128r" facs="#i257"/>
+            <pb n="128v" xml:id="pb-128v" facs="#i258"/>
+            <pb n="129r" xml:id="pb-129r" facs="#i259"/>
+            <pb n="129v" xml:id="pb-129v" facs="#i260"/>
+            <pb n="130r" xml:id="pb-130r" facs="#i261"/>
+            <pb n="130v" xml:id="pb-130v" facs="#i262"/>
+            <pb n="131r" xml:id="pb-131r" facs="#i263"/>
+            <pb n="131v" xml:id="pb-131v" facs="#i264"/>
+            <pb n="132r" xml:id="pb-132r" facs="#i265"/>
+            <pb n="132v" xml:id="pb-132v" facs="#i266"/>
+            <pb n="133r" xml:id="pb-133r" facs="#i267"/>
+            <pb n="133v" xml:id="pb-133v" facs="#i268"/>
+            <pb n="134r" xml:id="pb-134r" facs="#i269"/>
+            <pb n="134v" xml:id="pb-134v" facs="#i270"/>
+            <pb n="135r" xml:id="pb-135r" facs="#i271"/>
+            <pb n="135v" xml:id="pb-135v" facs="#i272"/>
+            <pb n="136r" xml:id="pb-136r" facs="#i273"/>
+            <pb n="136v" xml:id="pb-136v" facs="#i274"/>
+            <pb n="137r" xml:id="pb-137r" facs="#i275"/>
+            <pb n="137v" xml:id="pb-137v" facs="#i276"/>
+            <pb n="138r" xml:id="pb-138r" facs="#i277"/>
+            <pb n="138v" xml:id="pb-138v" facs="#i278"/>
+            <pb n="139r" xml:id="pb-139r" facs="#i279"/>
+            <pb n="139v" xml:id="pb-139v" facs="#i280"/>
+            <pb n="140r" xml:id="pb-140r" facs="#i281"/>
+            <pb n="140v" xml:id="pb-140v" facs="#i282"/>
+            <pb n="141r" xml:id="pb-141r" facs="#i283"/>
+            <pb n="141v" xml:id="pb-141v" facs="#i284"/>
+            <pb n="142r" xml:id="pb-142r" facs="#i285"/>
+            <pb n="142v" xml:id="pb-142v" facs="#i286"/>
+            <pb n="143r" xml:id="pb-143r" facs="#i287"/>
+            <pb n="143v" xml:id="pb-143v" facs="#i288"/>
+            <pb n="144r" xml:id="pb-144r" facs="#i289"/>
+            <pb n="144v" xml:id="pb-144v" facs="#i290"/>
+            <pb n="145r" xml:id="pb-145r" facs="#i291"/>
+            <pb n="145v" xml:id="pb-145v" facs="#i292"/>
+            <pb n="146r" xml:id="pb-146r" facs="#i293"/>
+            <pb n="146v" xml:id="pb-146v" facs="#i294"/>
+            <pb n="147r" xml:id="pb-147r" facs="#i295"/>
+            <pb n="147v" xml:id="pb-147v" facs="#i296"/>
+            <pb n="148r" xml:id="pb-148r" facs="#i297"/>
+            <pb n="148v" xml:id="pb-148v" facs="#i298"/>
+            <pb n="149r" xml:id="pb-149r" facs="#i299"/>
+            <pb n="149v" xml:id="pb-149v" facs="#i300"/>
+            <pb n="150r" xml:id="pb-150r" facs="#i301"/>
+            <pb n="150v" xml:id="pb-150v" facs="#i302"/>
+            <pb n="151r" xml:id="pb-151r" facs="#i303"/>
+            <pb n="151v" xml:id="pb-151v" facs="#i304"/>
+            <pb n="152r" xml:id="pb-152r" facs="#i305"/>
+            <pb n="152v" xml:id="pb-152v" facs="#i306"/>
+            <pb n="153r" xml:id="pb-153r" facs="#i307"/>
+            <pb n="153v" xml:id="pb-153v" facs="#i308"/>
+            <pb n="154r" xml:id="pb-154r" facs="#i309"/>
+            <pb n="154v" xml:id="pb-154v" facs="#i310"/>
+            <pb n="155r" xml:id="pb-155r" facs="#i311"/>
+            <pb n="155v" xml:id="pb-155v" facs="#i312"/>
+            <pb n="156r" xml:id="pb-156r" facs="#i313"/>
+            <pb n="156v" xml:id="pb-156v" facs="#i314"/>
+            <pb n="157r" xml:id="pb-157r" facs="#i315"/>
+            <pb n="157v" xml:id="pb-157v" facs="#i316"/>
+            <pb n="158r" xml:id="pb-158r" facs="#i317"/>
+            <pb n="158v" xml:id="pb-158v" facs="#i318"/>
+            <pb n="159r" xml:id="pb-159r" facs="#i319"/>
+            <pb n="159v" xml:id="pb-159v" facs="#i320"/>
+            <pb n="160r" xml:id="pb-160r" facs="#i321"/>
+            <pb n="160v" xml:id="pb-160v" facs="#i322"/>
+            <pb n="161r" xml:id="pb-161r" facs="#i323"/>
+            <pb n="161v" xml:id="pb-161v" facs="#i324"/>
+            <pb n="162r" xml:id="pb-162r" facs="#i325"/>
+            <pb n="162v" xml:id="pb-162v" facs="#i326"/>
+            <pb n="163r" xml:id="pb-163r" facs="#i327"/>
+            <pb n="163v" xml:id="pb-163v" facs="#i328"/>
+            <pb n="164r" xml:id="pb-164r" facs="#i329"/>
+            <pb n="164v" xml:id="pb-164v" facs="#i330"/>
+            <pb n="165r" xml:id="pb-165r" facs="#i331"/>
+            <pb n="165v" xml:id="pb-165v" facs="#i332"/>
+            <pb n="166r" xml:id="pb-166r" facs="#i333"/>
+            <pb n="166v" xml:id="pb-166v" facs="#i334"/>
+            <pb n="167r" xml:id="pb-167r" facs="#i335"/>
+            <pb n="167v" xml:id="pb-167v" facs="#i336"/>
+            <pb n="168r" xml:id="pb-168r" facs="#i337"/>
+            <pb n="168v" xml:id="pb-168v" facs="#i338"/>
+            <pb n="169r" xml:id="pb-169r" facs="#i339"/>
+            <pb n="169v" xml:id="pb-169v" facs="#i340"/>
+            <pb n="170r" xml:id="pb-170r" facs="#i341"/>
+            <pb n="170v" xml:id="pb-170v" facs="#i342"/>
+            <pb n="171r" xml:id="pb-171r" facs="#i343"/>
+            <pb n="171v" xml:id="pb-171v" facs="#i344"/>
+            <pb n="172r" xml:id="pb-172r" facs="#i345"/>
+            <pb n="172v" xml:id="pb-172v" facs="#i346"/>
+            <pb n="173r" xml:id="pb-173r" facs="#i347"/>
+            <pb n="173v" xml:id="pb-173v" facs="#i348"/>
+            <pb n="174r" xml:id="pb-174r" facs="#i349"/>
+            <pb n="174v" xml:id="pb-174v" facs="#i350"/>
+            <pb n="175r" xml:id="pb-175r" facs="#i351"/>
+            <pb n="175v" xml:id="pb-175v" facs="#i352"/>
+            <pb n="176r" xml:id="pb-176r" facs="#i353"/>
+            <pb n="176v" xml:id="pb-176v" facs="#i354"/>
+            <pb n="177r" xml:id="pb-177r" facs="#i355"/>
+            <pb n="177v" xml:id="pb-177v" facs="#i356"/>
+            <pb n="178r" xml:id="pb-178r" facs="#i357"/>
+            <pb n="178v" xml:id="pb-178v" facs="#i358"/>
+            <pb n="179r" xml:id="pb-179r" facs="#i359"/>
+            <pb n="179v" xml:id="pb-179v" facs="#i360"/>
+            <pb n="180r" xml:id="pb-180r" facs="#i361"/>
+            <pb n="180v" xml:id="pb-180v" facs="#i362"/>
+            <pb n="181r" xml:id="pb-181r" facs="#i363"/>
+            <pb n="181v" xml:id="pb-181v" facs="#i364"/>
+            <pb n="182r" xml:id="pb-182r" facs="#i365"/>
+            <pb n="182v" xml:id="pb-182v" facs="#i366"/>
+            <pb n="183r" xml:id="pb-183r" facs="#i367"/>
+            <pb n="183v" xml:id="pb-183v" facs="#i368"/>
+            <pb n="184r" xml:id="pb-184r" facs="#i369"/>
+            <pb n="184v" xml:id="pb-184v" facs="#i370"/>
+            <pb n="185r" xml:id="pb-185r" facs="#i371"/>
+            <pb n="185v" xml:id="pb-185v" facs="#i372"/>
+            <pb n="186r" xml:id="pb-186r" facs="#i373"/>
+            <pb n="186v" xml:id="pb-186v" facs="#i374"/>
+            <pb n="187r" xml:id="pb-187r" facs="#i375"/>
+            <pb n="187v" xml:id="pb-187v" facs="#i376"/>
+            <pb n="188r" xml:id="pb-188r" facs="#i377"/>
+            <pb n="188v" xml:id="pb-188v" facs="#i378"/>
+            <pb n="189r" xml:id="pb-189r" facs="#i379"/>
+            <pb n="189v" xml:id="pb-189v" facs="#i380"/>
+            <pb n="190r" xml:id="pb-190r" facs="#i381"/>
+            <pb n="190v" xml:id="pb-190v" facs="#i382"/>
+            <pb n="191r" xml:id="pb-191r" facs="#i383"/>
+            <pb n="191v" xml:id="pb-191v" facs="#i384"/>
+            <pb n="192r" xml:id="pb-192r" facs="#i385"/>
+            <pb n="192v" xml:id="pb-192v" facs="#i386"/>
+            <pb n="193r" xml:id="pb-193r" facs="#i387"/>
+            <pb n="193v" xml:id="pb-193v" facs="#i388"/>
+            <pb n="194r" xml:id="pb-194r" facs="#i389"/>
+            <pb n="194v" xml:id="pb-194v" facs="#i390"/>
+            <pb n="195r" xml:id="pb-195r" facs="#i391"/>
+            <pb n="195v" xml:id="pb-195v" facs="#i392"/>
+            <pb n="196r" xml:id="pb-196r" facs="#i393"/>
+            <pb n="196v" xml:id="pb-196v" facs="#i394"/>
+            <pb n="197r" xml:id="pb-197r" facs="#i395"/>
+            <pb n="197v" xml:id="pb-197v" facs="#i396"/>
+            <pb n="198r" xml:id="pb-198r" facs="#i397"/>
+            <pb n="198v" xml:id="pb-198v" facs="#i398"/>
+            <pb n="199r" xml:id="pb-199r" facs="#i399"/>
+            <pb n="199v" xml:id="pb-199v" facs="#i400"/>
+            <pb n="200r" xml:id="pb-200r" facs="#i401"/>
+            <pb n="200v" xml:id="pb-200v" facs="#i402"/>
+            <pb n="201r" xml:id="pb-201r" facs="#i403"/>
+            <pb n="201v" xml:id="pb-201v" facs="#i404"/>
+            <pb n="202r" xml:id="pb-202r" facs="#i405"/>
+            <pb n="202v" xml:id="pb-202v" facs="#i406"/>
+            <pb n="203r" xml:id="pb-203r" facs="#i407"/>
+            <pb n="203v" xml:id="pb-203v" facs="#i408"/>
+            <pb n="204r" xml:id="pb-204r" facs="#i409"/>
+            <pb n="204v" xml:id="pb-204v" facs="#i410"/>
+            <pb n="205r" xml:id="pb-205r" facs="#i411"/>
+            <pb n="205v" xml:id="pb-205v" facs="#i412"/>
+            <pb n="206r" xml:id="pb-206r" facs="#i413"/>
+            <pb n="206v" xml:id="pb-206v" facs="#i414"/>
+            <pb n="207r" xml:id="pb-207r" facs="#i415"/>
+            <pb n="207v" xml:id="pb-207v" facs="#i416"/>
+            <pb n="208r" xml:id="pb-208r" facs="#i417"/>
+            <pb n="208v" xml:id="pb-208v" facs="#i418"/>
+            <pb n="209r" xml:id="pb-209r" facs="#i419"/>
+            <pb n="209v" xml:id="pb-209v" facs="#i420"/>
+            <pb n="210r" xml:id="pb-210r" facs="#i421"/>
+            <pb n="210v" xml:id="pb-210v" facs="#i422"/>
+            <pb n="211r" xml:id="pb-211r" facs="#i423"/>
+            <pb n="211v" xml:id="pb-211v" facs="#i424"/>
+            <pb n="212r" xml:id="pb-212r" facs="#i425"/>
+            <pb n="212v" xml:id="pb-212v" facs="#i426"/>
+            <pb n="213r" xml:id="pb-213r" facs="#i427"/>
+            <pb n="213v" xml:id="pb-213v" facs="#i428"/>
+            <pb n="214r" xml:id="pb-214r" facs="#i429"/>
+            <pb n="214v" xml:id="pb-214v" facs="#i430"/>
+            <pb n="215r" xml:id="pb-215r" facs="#i431"/>
+            <pb n="215v" xml:id="pb-215v" facs="#i432"/>
+            <pb n="216r" xml:id="pb-216r" facs="#i433"/>
+            <pb n="216v" xml:id="pb-216v" facs="#i434"/>
+            <pb n="217r" xml:id="pb-217r" facs="#i435"/>
+            <pb n="217v" xml:id="pb-217v" facs="#i436"/>
+            <pb n="218r" xml:id="pb-218r" facs="#i437"/>
+            <pb n="218v" xml:id="pb-218v" facs="#i438"/>
+            <pb n="219r" xml:id="pb-219r" facs="#i439"/>
+            <pb n="219v" xml:id="pb-219v" facs="#i440"/>
+            <pb n="220r" xml:id="pb-220r" facs="#i441"/>
+            <pb n="220v" xml:id="pb-220v" facs="#i442"/>
+            <pb n="221r" xml:id="pb-221r" facs="#i443"/>
+            <pb n="221v" xml:id="pb-221v" facs="#i444"/>
+            <pb n="222r" xml:id="pb-222r" facs="#i445"/>
+            <pb n="222v" xml:id="pb-222v" facs="#i446"/>
+            <pb n="223r" xml:id="pb-223r" facs="#i447"/>
+            <pb n="223v" xml:id="pb-223v" facs="#i448"/>
+            <pb n="224r" xml:id="pb-224r" facs="#i449"/>
+            <pb n="224v" xml:id="pb-224v" facs="#i450"/>
+            <pb n="225r" xml:id="pb-225r" facs="#i451"/>
+            <pb n="225v" xml:id="pb-225v" facs="#i452"/>
+            <pb n="226r" xml:id="pb-226r" facs="#i453"/>
+            <pb n="226v" xml:id="pb-226v" facs="#i454"/>
+            <pb n="227r" xml:id="pb-227r" facs="#i455"/>
+            <pb n="227v" xml:id="pb-227v" facs="#i456"/>
+            <pb n="228r" xml:id="pb-228r" facs="#i457"/>
+            <pb n="228v" xml:id="pb-228v" facs="#i458"/>
+            <pb n="229r" xml:id="pb-229r" facs="#i459"/>
+            <pb n="229v" xml:id="pb-229v" facs="#i460"/>
+            <pb n="230r" xml:id="pb-230r" facs="#i461"/>
+            <pb n="230v" xml:id="pb-230v" facs="#i462"/>
+            <pb n="231r" xml:id="pb-231r" facs="#i463"/>
+            <pb n="231v" xml:id="pb-231v" facs="#i464"/>
+            <pb n="232r" xml:id="pb-232r" facs="#i465"/>
+            <pb n="232v" xml:id="pb-232v" facs="#i466"/>
+            <pb n="233r" xml:id="pb-233r" facs="#i467"/>
+            <pb n="233v" xml:id="pb-233v" facs="#i468"/>
+            <pb n="234r" xml:id="pb-234r" facs="#i469"/>
+            <pb n="234v" xml:id="pb-234v" facs="#i470"/>
+            <pb n="235r" xml:id="pb-235r" facs="#i471"/>
+            <pb n="235v" xml:id="pb-235v" facs="#i472"/>
+            <pb n="236r" xml:id="pb-236r" facs="#i473"/>
+            <pb n="236v" xml:id="pb-236v" facs="#i474"/>
+            <pb n="237r" xml:id="pb-237r" facs="#i475"/>
+            <pb n="237v" xml:id="pb-237v" facs="#i476"/>
+            <pb n="238r" xml:id="pb-238r" facs="#i477"/>
+            <pb n="238v" xml:id="pb-238v" facs="#i478"/>
+            <pb n="239r" xml:id="pb-239r" facs="#i479"/>
+            <pb n="239v" xml:id="pb-239v" facs="#i480"/>
+            <pb n="240r" xml:id="pb-240r" facs="#i481"/>
+            <pb n="240v" xml:id="pb-240v" facs="#i482"/>
+            <pb n="241r" xml:id="pb-241r" facs="#i483"/>
+            <pb n="241v" xml:id="pb-241v" facs="#i484"/>
+            <pb n="242r" xml:id="pb-242r" facs="#i485"/>
+            <pb n="242v" xml:id="pb-242v" facs="#i486"/>
+            <pb n="243r" xml:id="pb-243r" facs="#i487"/>
+            <pb n="243v" xml:id="pb-243v" facs="#i488"/>
+            <pb n="244r" xml:id="pb-244r" facs="#i489"/>
+            <pb n="244v" xml:id="pb-244v" facs="#i490"/>
+            <pb n="245r" xml:id="pb-245r" facs="#i491"/>
+            <pb n="245v" xml:id="pb-245v" facs="#i492"/>
+            <pb n="246r" xml:id="pb-246r" facs="#i493"/>
+            <pb n="246v" xml:id="pb-246v" facs="#i494"/>
+            <pb n="247r" xml:id="pb-247r" facs="#i495"/>
+            <pb n="247v" xml:id="pb-247v" facs="#i496"/>
+            <pb n="248r" xml:id="pb-248r" facs="#i497"/>
+            <pb n="248v" xml:id="pb-248v" facs="#i498"/>
+            <pb n="249r" xml:id="pb-249r" facs="#i499"/>
+            <pb n="249v" xml:id="pb-249v" facs="#i500"/>
+            <pb n="250r" xml:id="pb-250r" facs="#i501"/>
+            <pb n="250v" xml:id="pb-250v" facs="#i502"/>
+            <pb n="251r" xml:id="pb-251r" facs="#i503"/>
+            <pb n="251v" xml:id="pb-251v" facs="#i504"/>
+            <pb n="252r" xml:id="pb-252r" facs="#i505"/>
+            <pb n="252v" xml:id="pb-252v" facs="#i506"/>
+            <pb n="253r" xml:id="pb-253r" facs="#i507"/>
+            <pb n="253v" xml:id="pb-253v" facs="#i508"/>
+            <pb n="254r" xml:id="pb-254r" facs="#i509"/>
+            <pb n="254v" xml:id="pb-254v" facs="#i510"/>
+            <pb n="255r" xml:id="pb-255r" facs="#i511"/>
+            <pb n="255v" xml:id="pb-255v" facs="#i512"/>
+            <pb n="256r" xml:id="pb-256r" facs="#i513"/>
+            <pb n="256v" xml:id="pb-256v" facs="#i514"/>
+            <pb n="257r" xml:id="pb-257r" facs="#i515"/>
+            <pb n="257v" xml:id="pb-257v" facs="#i516"/>
+            <pb n="258r" xml:id="pb-258r" facs="#i517"/>
+            <pb n="258v" xml:id="pb-258v" facs="#i518"/>
+            <pb n="259r" xml:id="pb-259r" facs="#i519"/>
+            <pb n="259v" xml:id="pb-259v" facs="#i520"/>
+            <pb n="260r" xml:id="pb-260r" facs="#i521"/>
+            <pb n="260v" xml:id="pb-260v" facs="#i522"/>
+            <pb n="261r" xml:id="pb-261r" facs="#i523"/>
+            <pb n="261v" xml:id="pb-261v" facs="#i524"/>
+            <pb n="262r" xml:id="pb-262r" facs="#i525"/>
+            <pb n="262v" xml:id="pb-262v" facs="#i526"/>
+            <pb n="263r" xml:id="pb-263r" facs="#i527"/>
+            <pb n="263v" xml:id="pb-263v" facs="#i528"/>
+            <pb n="264r" xml:id="pb-264r" facs="#i529"/>
+            <pb n="264v" xml:id="pb-264v" facs="#i530"/>
+            <pb n="265r" xml:id="pb-265r" facs="#i531"/>
+            <pb n="265v" xml:id="pb-265v" facs="#i532"/>
+            <pb n="266r" xml:id="pb-266r" facs="#i533"/>
+            <pb n="266v" xml:id="pb-266v" facs="#i534"/>
+            <pb n="267r" xml:id="pb-267r" facs="#i535"/>
+            <pb n="267v" xml:id="pb-267v" facs="#i536"/>
+            <pb n="268r" xml:id="pb-268r" facs="#i537"/>
+            <pb n="268v" xml:id="pb-268v" facs="#i538"/>
+            <pb n="269r" xml:id="pb-269r" facs="#i539"/>
+            <pb n="269v" xml:id="pb-269v" facs="#i540"/>
+            <pb n="270r" xml:id="pb-270r" facs="#i541"/>
+            <pb n="270v" xml:id="pb-270v" facs="#i542"/>
+            <pb n="271r" xml:id="pb-271r" facs="#i543"/>
+            <pb n="271v" xml:id="pb-271v" facs="#i544"/>
+            <pb n="272r" xml:id="pb-272r" facs="#i545"/>
+            <pb n="272v" xml:id="pb-272v" facs="#i546"/>
+            <pb n="273r" xml:id="pb-273r" facs="#i547"/>
+            <pb n="273v" xml:id="pb-273v" facs="#i548"/>
+            <pb n="274r" xml:id="pb-274r" facs="#i549"/>
+            <pb n="274v" xml:id="pb-274v" facs="#i550"/>
+            <pb n="275r" xml:id="pb-275r" facs="#i551"/>
+            <pb n="275v" xml:id="pb-275v" facs="#i552"/>
+            <pb n="276r" xml:id="pb-276r" facs="#i553"/>
+            <pb n="276v" xml:id="pb-276v" facs="#i554"/>
+            <pb n="277r" xml:id="pb-277r" facs="#i555"/>
+            <pb n="277v" xml:id="pb-277v" facs="#i556"/>
+            <pb n="278r" xml:id="pb-278r" facs="#i557"/>
+            <pb n="278v" xml:id="pb-278v" facs="#i558"/>
+            <pb n="279r" xml:id="pb-279r" facs="#i559"/>
+            <pb n="279v" xml:id="pb-279v" facs="#i560"/>
+            <pb n="280r" xml:id="pb-280r" facs="#i561"/>
+            <pb n="280v" xml:id="pb-280v" facs="#i562"/>
+            <pb n="281r" xml:id="pb-281r" facs="#i563"/>
+            <pb n="281v" xml:id="pb-281v" facs="#i564"/>
+            <pb n="282r" xml:id="pb-282r" facs="#i565"/>
+            <pb n="282v" xml:id="pb-282v" facs="#i566"/>
+            <pb n="283r" xml:id="pb-283r" facs="#i567"/>
+            <pb n="283v" xml:id="pb-283v" facs="#i568"/>
+            <pb n="284r" xml:id="pb-284r" facs="#i569"/>
+            <pb n="284v" xml:id="pb-284v" facs="#i570"/>
+            <pb n="285r" xml:id="pb-285r" facs="#i571"/>
+            <pb n="285v" xml:id="pb-285v" facs="#i572"/>
+            <pb n="286r" xml:id="pb-286r" facs="#i573"/>
+            <pb n="286v" xml:id="pb-286v" facs="#i574"/>
+            <pb n="287r" xml:id="pb-287r" facs="#i575"/>
+            <pb n="287v" xml:id="pb-287v" facs="#i576"/>
+            <pb n="288r" xml:id="pb-288r" facs="#i577"/>
+            <pb n="288v" xml:id="pb-288v" facs="#i578"/>
+            <pb n="289r" xml:id="pb-289r" facs="#i579"/>
+            <pb n="289v" xml:id="pb-289v" facs="#i580"/>
+            <pb n="290r" xml:id="pb-290r" facs="#i581"/>
+            <pb n="290v" xml:id="pb-290v" facs="#i582"/>
+            <pb n="291r" xml:id="pb-291r" facs="#i583"/>
+            <pb n="291v" xml:id="pb-291v" facs="#i584"/>
+            <pb n="292r" xml:id="pb-292r" facs="#i585"/>
+            <pb n="292v" xml:id="pb-292v" facs="#i586"/>
+            <pb n="293r" xml:id="pb-293r" facs="#i587"/>
+            <pb n="293v" xml:id="pb-293v" facs="#i588"/>
+            <pb n="294r" xml:id="pb-294r" facs="#i589"/>
+            <pb n="294v" xml:id="pb-294v" facs="#i590"/>
+            <pb n="295r" xml:id="pb-295r" facs="#i591"/>
+            <pb n="295v" xml:id="pb-295v" facs="#i592"/>
+            <pb n="296r" xml:id="pb-296r" facs="#i593"/>
+            <pb n="296v" xml:id="pb-296v" facs="#i594"/>
+            <pb n="297r" xml:id="pb-297r" facs="#i595"/>
+            <pb n="297v" xml:id="pb-297v" facs="#i596"/>
+            <pb n="298r" xml:id="pb-298r" facs="#i597"/>
+            <pb n="298v" xml:id="pb-298v" facs="#i598"/>
+            <pb n="299r" xml:id="pb-299r" facs="#i599"/>
+            <pb n="299v" xml:id="pb-299v" facs="#i600"/>
+            <pb n="300r" xml:id="pb-300r" facs="#i601"/>
+            <pb n="300v" xml:id="pb-300v" facs="#i602"/>
+            <pb n="301r" xml:id="pb-301r" facs="#i603"/>
+            <pb n="301v" xml:id="pb-301v" facs="#i604"/>
+            <pb n="302r" xml:id="pb-302r" facs="#i605"/>
+            <pb n="302v" xml:id="pb-302v" facs="#i606"/>
+            <pb n="303r" xml:id="pb-303r" facs="#i607"/>
+            <pb n="303v" xml:id="pb-303v" facs="#i608"/>
+            <pb n="304r" xml:id="pb-304r" facs="#i609"/>
+            <pb n="304v" xml:id="pb-304v" facs="#i610"/>
+            <pb n="305r" xml:id="pb-305r" facs="#i611"/>
+            <pb n="305v" xml:id="pb-305v" facs="#i612"/>
+            <pb n="306r" xml:id="pb-306r" facs="#i613"/>
+            <pb n="306v" xml:id="pb-306v" facs="#i614"/>
+            <pb n="307r" xml:id="pb-307r" facs="#i615"/>
+            <pb n="307v" xml:id="pb-307v" facs="#i616"/>
+            <pb n="308r" xml:id="pb-308r" facs="#i617"/>
+            <pb n="308v" xml:id="pb-308v" facs="#i618"/>
+            <pb n="309r" xml:id="pb-309r" facs="#i619"/>
+            <pb n="309v" xml:id="pb-309v" facs="#i620"/>
+            <pb n="310r" xml:id="pb-310r" facs="#i621"/>
+            <pb n="310v" xml:id="pb-310v" facs="#i622"/>
+            <pb n="311r" xml:id="pb-311r" facs="#i623"/>
+            <pb n="311v" xml:id="pb-311v" facs="#i624"/>
+            <pb n="312r" xml:id="pb-312r" facs="#i625"/>
+            <pb n="312v" xml:id="pb-312v" facs="#i626"/>
+            <pb n="313r" xml:id="pb-313r" facs="#i627"/>
+            <pb n="313v" xml:id="pb-313v" facs="#i628"/>
+            <pb n="314r" xml:id="pb-314r" facs="#i629"/>
+            <pb n="314v" xml:id="pb-314v" facs="#i630"/>
+            <pb n="315r" xml:id="pb-315r" facs="#i631"/>
+            <pb n="315v" xml:id="pb-315v" facs="#i632"/>
+            <pb n="316r" xml:id="pb-316r" facs="#i633"/>
+            <pb n="316v" xml:id="pb-316v" facs="#i634"/>
+            <pb n="317r" xml:id="pb-317r" facs="#i635"/>
+            <pb n="317v" xml:id="pb-317v" facs="#i636"/>
+            <pb n="318r" xml:id="pb-318r" facs="#i637"/>
+            <pb n="318v" xml:id="pb-318v" facs="#i638"/>
+            <pb n="319r" xml:id="pb-319r" facs="#i639"/>
+            <pb n="319v" xml:id="pb-319v" facs="#i640"/>
+            <pb n="320r" xml:id="pb-320r" facs="#i641"/>
+            <pb n="320v" xml:id="pb-320v" facs="#i642"/>
+            <pb n="321r" xml:id="pb-321r" facs="#i643"/>
+            <pb n="321v" xml:id="pb-321v" facs="#i644"/>
+            <pb n="322r" xml:id="pb-322r" facs="#i645"/>
+            <pb n="322v" xml:id="pb-322v" facs="#i646"/>
+            <pb n="323r" xml:id="pb-323r" facs="#i647"/>
+            <pb n="323v" xml:id="pb-323v" facs="#i648"/>
+            <pb n="324r" xml:id="pb-324r" facs="#i649"/>
+            <pb n="324v" xml:id="pb-324v" facs="#i650"/>
+            <pb n="325r" xml:id="pb-325r" facs="#i651"/>
+            <pb n="325v" xml:id="pb-325v" facs="#i652"/>
+            <pb n="326r" xml:id="pb-326r" facs="#i653"/>
+            <pb n="326v" xml:id="pb-326v" facs="#i654"/>
+            <pb n="327r" xml:id="pb-327r" facs="#i655"/>
+            <pb n="327v" xml:id="pb-327v" facs="#i656"/>
+            <pb n="328r" xml:id="pb-328r" facs="#i657"/>
+            <pb n="328v" xml:id="pb-328v" facs="#i658"/>
+            <pb n="329r" xml:id="pb-329r" facs="#i659"/>
+            <pb n="329v" xml:id="pb-329v" facs="#i660"/>
+            <pb n="330r" xml:id="pb-330r" facs="#i661"/>
+            <pb n="330v" xml:id="pb-330v" facs="#i662"/>
+            <pb n="331r" xml:id="pb-331r" facs="#i663"/>
+            <pb n="331v" xml:id="pb-331v" facs="#i664"/>
+            <pb n="332r" xml:id="pb-332r" facs="#i665"/>
+            <pb n="332v" xml:id="pb-332v" facs="#i666"/>
+            <pb n="333r" xml:id="pb-333r" facs="#i667"/>
+            <pb n="333v" xml:id="pb-333v" facs="#i668"/>
+            <pb n="334r" xml:id="pb-334r" facs="#i669"/>
+            <pb n="334v" xml:id="pb-334v" facs="#i670"/>
+            <pb n="335r" xml:id="pb-335r" facs="#i671"/>
+            <pb n="335v" xml:id="pb-335v" facs="#i672"/>
+            <pb n="336r" xml:id="pb-336r" facs="#i673"/>
+            <pb n="336v" xml:id="pb-336v" facs="#i674"/>
+            <pb n="337r" xml:id="pb-337r" facs="#i675"/>
+            <pb n="337v" xml:id="pb-337v" facs="#i676"/>
+            <pb n="338r" xml:id="pb-338r" facs="#i677"/>
+            <pb n="338v" xml:id="pb-338v" facs="#i678"/>
+            <pb n="339r" xml:id="pb-339r" facs="#i679"/>
+            <pb n="339v" xml:id="pb-339v" facs="#i680"/>
+            <pb n="340r" xml:id="pb-340r" facs="#i681"/>
+            <pb n="340v" xml:id="pb-340v" facs="#i682"/>
+            <pb n="341r" xml:id="pb-341r" facs="#i683"/>
+            <pb n="341v" xml:id="pb-341v" facs="#i684"/>
+            <pb n="342r" xml:id="pb-342r" facs="#i685"/>
+            <pb n="342v" xml:id="pb-342v" facs="#i686"/>
+            <pb n="343r" xml:id="pb-343r" facs="#i687"/>
+            <pb n="343v" xml:id="pb-343v" facs="#i688"/>
+            <pb n="344r" xml:id="pb-344r" facs="#i689"/>
+            <pb n="344v" xml:id="pb-344v" facs="#i690"/>
+            <pb n="345r" xml:id="pb-345r" facs="#i691"/>
+            <pb n="345v" xml:id="pb-345v" facs="#i692"/>
+            <pb n="346r" xml:id="pb-346r" facs="#i693"/>
+            <pb n="346v" xml:id="pb-346v" facs="#i694"/>
+            <pb n="347r" xml:id="pb-347r" facs="#i695"/>
+            <pb n="347v" xml:id="pb-347v" facs="#i696"/>
+            <pb n="348r" xml:id="pb-348r" facs="#i697"/>
+            <pb n="348v" xml:id="pb-348v" facs="#i698"/>
+            <pb n="349r" xml:id="pb-349r" facs="#i699"/>
+            <pb n="349v" xml:id="pb-349v" facs="#i700"/>
+            <pb n="350r" xml:id="pb-350r" facs="#i701"/>
+            <pb n="350v" xml:id="pb-350v" facs="#i702"/>
+            <pb n="351r" xml:id="pb-351r" facs="#i703"/>
+            <pb n="351v" xml:id="pb-351v" facs="#i704"/>
+            <pb n="352r" xml:id="pb-352r" facs="#i705"/>
+            <pb n="352v" xml:id="pb-352v" facs="#i706"/>
+            <pb n="353r" xml:id="pb-353r" facs="#i707"/>
+            <pb n="353v" xml:id="pb-353v" facs="#i708"/>
+            <pb n="354r" xml:id="pb-354r" facs="#i709"/>
+            <pb n="354v" xml:id="pb-354v" facs="#i710"/>
+            <pb n="355r" xml:id="pb-355r" facs="#i711"/>
+            <pb n="355v" xml:id="pb-355v" facs="#i712"/>
+            <pb n="356r" xml:id="pb-356r" facs="#i713"/>
+            <pb n="356v" xml:id="pb-356v" facs="#i714"/>
+            <pb n="357r" xml:id="pb-357r" facs="#i715"/>
+            <pb n="357v" xml:id="pb-357v" facs="#i716"/>
+            <pb n="358r" xml:id="pb-358r" facs="#i717"/>
+            <pb n="358v" xml:id="pb-358v" facs="#i718"/>
+            <pb n="359r" xml:id="pb-359r" facs="#i719"/>
+            <pb n="359v" xml:id="pb-359v" facs="#i720"/>
+            <pb n="360r" xml:id="pb-360r" facs="#i721"/>
+            <pb n="360v" xml:id="pb-360v" facs="#i722"/>
+            <pb n="361r" xml:id="pb-361r" facs="#i723"/>
+            <pb n="361v" xml:id="pb-361v" facs="#i724"/>
+            <pb n="362r" xml:id="pb-362r" facs="#i725"/>
+            <pb n="362v" xml:id="pb-362v" facs="#i726"/>
+            <pb n="363r" xml:id="pb-363r" facs="#i727"/>
+            <pb n="363v" xml:id="pb-363v" facs="#i728"/>
+            <pb n="364r" xml:id="pb-364r" facs="#i729"/>
+            <pb n="364v" xml:id="pb-364v" facs="#i730"/>
+            <pb n="365r" xml:id="pb-365r" facs="#i731"/>
+            <pb n="365v" xml:id="pb-365v" facs="#i732"/>
+            <pb n="366r" xml:id="pb-366r" facs="#i733"/>
+            <pb n="366v" xml:id="pb-366v" facs="#i734"/>
+            <pb n="367r" xml:id="pb-367r" facs="#i735"/>
+            <pb n="367v" xml:id="pb-367v" facs="#i736"/>
+            <pb n="368r" xml:id="pb-368r" facs="#i737"/>
+            <pb n="368v" xml:id="pb-368v" facs="#i738"/>
+            <pb n="369r" xml:id="pb-369r" facs="#i739"/>
+            <pb n="369v" xml:id="pb-369v" facs="#i740"/>
+            <pb n="370r" xml:id="pb-370r" facs="#i741"/>
+            <pb n="370v" xml:id="pb-370v" facs="#i742"/>
+            <pb n="371r" xml:id="pb-371r" facs="#i743"/>
+            <pb n="371v" xml:id="pb-371v" facs="#i744"/>
+            <pb n="372r" xml:id="pb-372r" facs="#i745"/>
+            <pb n="372v" xml:id="pb-372v" facs="#i746"/>
+            <pb n="373r" xml:id="pb-373r" facs="#i747"/>
+            <pb n="373v" xml:id="pb-373v" facs="#i748"/>
+            <pb n="374r" xml:id="pb-374r" facs="#i749"/>
+            <pb n="374v" xml:id="pb-374v" facs="#i750"/>
+            <pb n="375r" xml:id="pb-375r" facs="#i751"/>
+            <pb n="375v" xml:id="pb-375v" facs="#i752"/>
+            <pb n="376r" xml:id="pb-376r" facs="#i753"/>
+            <pb n="376v" xml:id="pb-376v" facs="#i754"/>
+            <pb n="377r" xml:id="pb-377r" facs="#i755"/>
+            <pb n="377v" xml:id="pb-377v" facs="#i756"/>
+            <pb n="378r" xml:id="pb-378r" facs="#i757"/>
+            <pb n="378v" xml:id="pb-378v" facs="#i758"/>
+            <pb n="379r" xml:id="pb-379r" facs="#i759"/>
+            <pb n="379v" xml:id="pb-379v" facs="#i760"/>
+            <pb n="380r" xml:id="pb-380r" facs="#i761"/>
+            <pb n="380v" xml:id="pb-380v" facs="#i762"/>
+            <pb n="381r" xml:id="pb-381r" facs="#i763"/>
+            <pb n="381v" xml:id="pb-381v" facs="#i764"/>
+            <pb n="382r" xml:id="pb-382r" facs="#i765"/>
+            <pb n="382v" xml:id="pb-382v" facs="#i766"/>
+            <pb n="383r" xml:id="pb-383r" facs="#i767"/>
+            <pb n="383v" xml:id="pb-383v" facs="#i768"/>
+            <pb n="384r" xml:id="pb-384r" facs="#i769"/>
+            <pb n="384v" xml:id="pb-384v" facs="#i770"/>
+            <pb n="385r" xml:id="pb-385r" facs="#i771"/>
+            <pb n="385v" xml:id="pb-385v" facs="#i772"/>
+            <pb n="386r" xml:id="pb-386r" facs="#i773"/>
+            <pb n="386v" xml:id="pb-386v" facs="#i774"/>
+            <pb n="387r" xml:id="pb-387r" facs="#i775"/>
+            <pb n="387v" xml:id="pb-387v" facs="#i776"/>
+            <pb n="388r" xml:id="pb-388r" facs="#i777"/>
+            <pb n="388v" xml:id="pb-388v" facs="#i778"/>
+            <pb n="389r" xml:id="pb-389r" facs="#i779"/>
+            <pb n="389v" xml:id="pb-389v" facs="#i780"/>
+            <pb n="390r" xml:id="pb-390r" facs="#i781"/>
+            <pb n="390v" xml:id="pb-390v" facs="#i782"/>
+            <pb n="391r" xml:id="pb-391r" facs="#i783"/>
+            <pb n="391v" xml:id="pb-391v" facs="#i784"/>
+            <pb n="392r" xml:id="pb-392r" facs="#i785"/>
+            <pb n="392v" xml:id="pb-392v" facs="#i786"/>
+            <pb n="393r" xml:id="pb-393r" facs="#i787"/>
+            <pb n="393v" xml:id="pb-393v" facs="#i788"/>
+            <pb n="394r" xml:id="pb-394r" facs="#i789"/>
+            <pb n="394v" xml:id="pb-394v" facs="#i790"/>
+            <pb n="395r" xml:id="pb-395r" facs="#i791"/>
+            <pb n="395v" xml:id="pb-395v" facs="#i792"/>
+            <pb n="396r" xml:id="pb-396r" facs="#i793"/>
+            <pb n="396v" xml:id="pb-396v" facs="#i794"/>
+            <pb n="397r" xml:id="pb-397r" facs="#i795"/>
+            <pb n="397v" xml:id="pb-397v" facs="#i796"/>
+            <pb n="398r" xml:id="pb-398r" facs="#i797"/>
+            <pb n="398v" xml:id="pb-398v" facs="#i798"/>
+            <pb n="399r" xml:id="pb-399r" facs="#i799"/>
+            <pb n="399v" xml:id="pb-399v" facs="#i800"/>
+            <pb n="400r" xml:id="pb-400r" facs="#i801"/>
+            <pb n="400v" xml:id="pb-400v" facs="#i802"/>
+            <pb n="401r" xml:id="pb-401r" facs="#i803"/>
+            <pb n="401v" xml:id="pb-401v" facs="#i804"/>
+            <pb n="402r" xml:id="pb-402r" facs="#i805"/>
+            <pb n="402v" xml:id="pb-402v" facs="#i806"/>
+            <pb n="403r" xml:id="pb-403r" facs="#i807"/>
+            <pb n="403v" xml:id="pb-403v" facs="#i808"/>
+            <pb n="404r" xml:id="pb-404r" facs="#i809"/>
+            <pb n="404v" xml:id="pb-404v" facs="#i810"/>
+            <pb n="405r" xml:id="pb-405r" facs="#i811"/>
+            <pb n="405v" xml:id="pb-405v" facs="#i812"/>
+            <pb n="406r" xml:id="pb-406r" facs="#i813"/>
+            <pb n="406v" xml:id="pb-406v" facs="#i814"/>
+            <pb n="407r" xml:id="pb-407r" facs="#i815"/>
+            <pb n="407v" xml:id="pb-407v" facs="#i816"/>
+            <pb n="408r" xml:id="pb-408r" facs="#i817"/>
+            <pb n="408v" xml:id="pb-408v" facs="#i818"/>
+            <pb n="409r" xml:id="pb-409r" facs="#i819"/>
+            <pb n="409v" xml:id="pb-409v" facs="#i820"/>
+            <pb n="410r" xml:id="pb-410r" facs="#i821"/>
+            <pb n="410v" xml:id="pb-410v" facs="#i822"/>
+            <pb n="411r" xml:id="pb-411r" facs="#i823"/>
+            <pb n="411v" xml:id="pb-411v" facs="#i824"/>
+            <pb n="412r" xml:id="pb-412r" facs="#i825"/>
+            <pb n="412v" xml:id="pb-412v" facs="#i826"/>
+            <pb n="413r" xml:id="pb-413r" facs="#i827"/>
+            <pb n="413v" xml:id="pb-413v" facs="#i828"/>
+            <pb n="414r" xml:id="pb-414r" facs="#i829"/>
+            <pb n="414v" xml:id="pb-414v" facs="#i830"/>
+            <pb n="415r" xml:id="pb-415r" facs="#i831"/>
+            <pb n="415v" xml:id="pb-415v" facs="#i832"/>
+            <pb n="416r" xml:id="pb-416r" facs="#i833"/>
+            <pb n="416v" xml:id="pb-416v" facs="#i834"/>
+            <pb n="417r" xml:id="pb-417r" facs="#i835"/>
+            <pb n="417v" xml:id="pb-417v" facs="#i836"/>
+            <pb n="418r" xml:id="pb-418r" facs="#i837"/>
+            <pb n="418v" xml:id="pb-418v" facs="#i838"/>
+            <pb n="419r" xml:id="pb-419r" facs="#i839"/>
+            <pb n="419v" xml:id="pb-419v" facs="#i840"/>
+            <pb n="420r" xml:id="pb-420r" facs="#i841"/>
+            <pb n="420v" xml:id="pb-420v" facs="#i842"/>
+            <pb n="421r" xml:id="pb-421r" facs="#i843"/>
+            <pb n="421v" xml:id="pb-421v" facs="#i844"/>
+            <pb n="422r" xml:id="pb-422r" facs="#i845"/>
+            <pb n="422v" xml:id="pb-422v" facs="#i846"/>
+            <pb n="423r" xml:id="pb-423r" facs="#i847"/>
+            <pb n="423v" xml:id="pb-423v" facs="#i848"/>
+            <pb n="424r" xml:id="pb-424r" facs="#i849"/>
+            <pb n="424v" xml:id="pb-424v" facs="#i850"/>
+            <pb n="425r" xml:id="pb-425r" facs="#i851"/>
+            <pb n="425v" xml:id="pb-425v" facs="#i852"/>
+            <pb n="426r" xml:id="pb-426r" facs="#i853"/>
+            <pb n="426v" xml:id="pb-426v" facs="#i854"/>
+            <pb n="427r" xml:id="pb-427r" facs="#i855"/>
+            <pb n="427v" xml:id="pb-427v" facs="#i856"/>
+            <pb n="428r" xml:id="pb-428r" facs="#i857"/>
+            <pb n="428v" xml:id="pb-428v" facs="#i858"/>
+            <pb n="429r" xml:id="pb-429r" facs="#i859"/>
+            <pb n="429v" xml:id="pb-429v" facs="#i860"/>
+            <pb n="430r" xml:id="pb-430r" facs="#i861"/>
+            <pb n="430v" xml:id="pb-430v" facs="#i862"/>
+            <pb n="431r" xml:id="pb-431r" facs="#i863"/>
+            <pb n="431v" xml:id="pb-431v" facs="#i864"/>
+            <pb n="432r" xml:id="pb-432r" facs="#i865"/>
+            <pb n="432v" xml:id="pb-432v" facs="#i866"/>
+            <pb n="433r" xml:id="pb-433r" facs="#i867"/>
+            <pb n="433v" xml:id="pb-433v" facs="#i868"/>
+            <pb n="434r" xml:id="pb-434r" facs="#i869"/>
+            <pb n="434v" xml:id="pb-434v" facs="#i870"/>
+            <pb n="435r" xml:id="pb-435r" facs="#i871"/>
+            <pb n="435v" xml:id="pb-435v" facs="#i872"/>
+            <pb n="436r" xml:id="pb-436r" facs="#i873"/>
+            <pb n="436v" xml:id="pb-436v" facs="#i874"/>
+            <pb n="437r" xml:id="pb-437r" facs="#i875"/>
+            <pb n="437v" xml:id="pb-437v" facs="#i876"/>
+            <pb n="438r" xml:id="pb-438r" facs="#i877"/>
+            <pb n="438v" xml:id="pb-438v" facs="#i878"/>
+            <pb n="439r" xml:id="pb-439r" facs="#i879"/>
+            <pb n="439v" xml:id="pb-439v" facs="#i880"/>
+            <pb n="440r" xml:id="pb-440r" facs="#i881"/>
+            <pb n="440v" xml:id="pb-440v" facs="#i882"/>
+            <pb n="441r" xml:id="pb-441r" facs="#i883"/>
+            <pb n="441v" xml:id="pb-441v" facs="#i884"/>
+            <pb n="442r" xml:id="pb-442r" facs="#i885"/>
+            <pb n="442v" xml:id="pb-442v" facs="#i886"/>
+            <pb n="443r" xml:id="pb-443r" facs="#i887"/>
+            <pb n="443v" xml:id="pb-443v" facs="#i888"/>
+            <pb n="444r" xml:id="pb-444r" facs="#i889"/>
+            <pb n="444v" xml:id="pb-444v" facs="#i890"/>
+            <pb n="445r" xml:id="pb-445r" facs="#i891"/>
+            <pb n="445v" xml:id="pb-445v" facs="#i892"/>
+            <pb n="446r" xml:id="pb-446r" facs="#i893"/>
+            <pb n="446v" xml:id="pb-446v" facs="#i894"/>
+            <pb n="447r" xml:id="pb-447r" facs="#i895"/>
+            <pb n="447v" xml:id="pb-447v" facs="#i896"/>
+            <pb n="448r" xml:id="pb-448r" facs="#i897"/>
+            <pb n="448v" xml:id="pb-448v" facs="#i898"/>
+            <pb n="449r" xml:id="pb-449r" facs="#i899"/>
+            <pb n="449v" xml:id="pb-449v" facs="#i900"/>
+            <pb n="450r" xml:id="pb-450r" facs="#i901"/>
+            <pb n="450v" xml:id="pb-450v" facs="#i902"/>
+            <pb n="451r" xml:id="pb-451r" facs="#i903"/>
+            <pb n="451v" xml:id="pb-451v" facs="#i904"/>
+            <pb n="452r" xml:id="pb-452r" facs="#i905"/>
+            <pb n="452v" xml:id="pb-452v" facs="#i906"/>
+            <pb n="453r" xml:id="pb-453r" facs="#i907"/>
+            <pb n="453v" xml:id="pb-453v" facs="#i908"/>
+            <pb n="454r" xml:id="pb-454r" facs="#i909"/>
+            <pb n="454v" xml:id="pb-454v" facs="#i910"/>
+            <pb n="455r" xml:id="pb-455r" facs="#i911"/>
+            <pb n="455v" xml:id="pb-455v" facs="#i912"/>
+            <pb n="456r" xml:id="pb-456r" facs="#i913"/>
+            <pb n="456v" xml:id="pb-456v" facs="#i914"/>
+            <pb n="457r" xml:id="pb-457r" facs="#i915"/>
+            <pb n="457v" xml:id="pb-457v" facs="#i916"/>
+            <pb n="458r" xml:id="pb-458r" facs="#i917"/>
+            <pb n="458v" xml:id="pb-458v" facs="#i918"/>
+            <pb n="459r" xml:id="pb-459r" facs="#i919"/>
+            <pb n="459v" xml:id="pb-459v" facs="#i920"/>
+            <pb n="460r" xml:id="pb-460r" facs="#i921"/>
+            <pb n="460v" xml:id="pb-460v" facs="#i922"/>
+            <pb n="461r" xml:id="pb-461r" facs="#i923"/>
+            <pb n="461v" xml:id="pb-461v" facs="#i924"/>
+            <pb n="462r" xml:id="pb-462r" facs="#i925"/>
+            <pb n="462v" xml:id="pb-462v" facs="#i926"/>
+            <pb n="463r" xml:id="pb-463r" facs="#i927"/>
+            <pb n="463v" xml:id="pb-463v" facs="#i928"/>
+            <pb n="464r" xml:id="pb-464r" facs="#i929"/>
+            <pb n="464v" xml:id="pb-464v" facs="#i930"/>
+            <pb n="465r" xml:id="pb-465r" facs="#i931"/>
+            <pb n="465v" xml:id="pb-465v" facs="#i932"/>
+            <pb n="466r" xml:id="pb-466r" facs="#i933"/>
+            <pb n="466v" xml:id="pb-466v" facs="#i934"/>
+            <pb n="467r" xml:id="pb-467r" facs="#i935"/>
+            <pb n="467v" xml:id="pb-467v" facs="#i936"/>
+            <pb n="468r" xml:id="pb-468r" facs="#i937"/>
+            <pb n="468v" xml:id="pb-468v" facs="#i938"/>
+            <pb n="469r" xml:id="pb-469r" facs="#i939"/>
+            <pb n="469v" xml:id="pb-469v" facs="#i940"/>
+            <pb n="470r" xml:id="pb-470r" facs="#i941"/>
+            <pb n="470v" xml:id="pb-470v" facs="#i942"/>
+            <pb n="471r" xml:id="pb-471r" facs="#i943"/>
+            <pb n="471v" xml:id="pb-471v" facs="#i944"/>
+            <pb n="472r" xml:id="pb-472r" facs="#i945"/>
+            <pb n="472v" xml:id="pb-472v" facs="#i946"/>
+            <pb n="473r" xml:id="pb-473r" facs="#i947"/>
+            <pb n="473v" xml:id="pb-473v" facs="#i948"/>
+            <pb n="474r" xml:id="pb-474r" facs="#i949"/>
+            <pb n="474v" xml:id="pb-474v" facs="#i950"/>
+            <pb n="475r" xml:id="pb-475r" facs="#i951"/>
+            <pb n="475v" xml:id="pb-475v" facs="#i952"/>
+            <pb n="476r" xml:id="pb-476r" facs="#i953"/>
+            <pb n="476v" xml:id="pb-476v" facs="#i954"/>
+            <pb n="477r" xml:id="pb-477r" facs="#i955"/>
+            <pb n="477v" xml:id="pb-477v" facs="#i956"/>
+            <pb n="478r" xml:id="pb-478r" facs="#i957"/>
+            <pb n="478v" xml:id="pb-478v" facs="#i958"/>
+            <pb n="479r" xml:id="pb-479r" facs="#i959"/>
+            <pb n="479v" xml:id="pb-479v" facs="#i960"/>
+            <pb n="480r" xml:id="pb-480r" facs="#i961"/>
+            <pb n="480v" xml:id="pb-480v" facs="#i962"/>
+            <pb n="481r" xml:id="pb-481r" facs="#i963"/>
+            <pb n="481v" xml:id="pb-481v" facs="#i964"/>
+            <pb n="482r" xml:id="pb-482r" facs="#i965"/>
+            <pb n="482v" xml:id="pb-482v" facs="#i966"/>
+            <pb n="483r" xml:id="pb-483r" facs="#i967"/>
+            <pb n="483v" xml:id="pb-483v" facs="#i968"/>
+            <pb n="484r" xml:id="pb-484r" facs="#i969"/>
+            <pb n="484v" xml:id="pb-484v" facs="#i970"/>
+            <pb n="485r" xml:id="pb-485r" facs="#i971"/>
+            <pb n="485v" xml:id="pb-485v" facs="#i972"/>
+            <pb n="486r" xml:id="pb-486r" facs="#i973"/>
+            <pb n="486v" xml:id="pb-486v" facs="#i974"/>
+            <pb n="487r" xml:id="pb-487r" facs="#i975"/>
+            <pb n="487v" xml:id="pb-487v" facs="#i976"/>
+            <pb n="488r" xml:id="pb-488r" facs="#i977"/>
+            <pb n="488v" xml:id="pb-488v" facs="#i978"/>
+            <pb n="489r" xml:id="pb-489r" facs="#i979"/>
+            <pb n="489v" xml:id="pb-489v" facs="#i980"/>
+            <pb n="490r" xml:id="pb-490r" facs="#i981"/>
+            <pb n="490v" xml:id="pb-490v" facs="#i982"/>
+            <pb n="491r" xml:id="pb-491r" facs="#i983"/>
+            <pb n="491v" xml:id="pb-491v" facs="#i984"/>
+            <pb n="492r" xml:id="pb-492r" facs="#i985"/>
+            <pb n="492v" xml:id="pb-492v" facs="#i986"/>
+            <pb n="493r" xml:id="pb-493r" facs="#i987"/>
+            <pb n="493v" xml:id="pb-493v" facs="#i988"/>
+            <pb n="494r" xml:id="pb-494r" facs="#i989"/>
+            <pb n="494v" xml:id="pb-494v" facs="#i990"/>
+            <pb n="495r" xml:id="pb-495r" facs="#i991"/>
+            <pb n="495v" xml:id="pb-495v" facs="#i992"/>
+            <pb n="496r" xml:id="pb-496r" facs="#i993"/>
+            <pb n="496v" xml:id="pb-496v" facs="#i994"/>
+            <pb n="497r" xml:id="pb-497r" facs="#i995"/>
+            <pb n="497v" xml:id="pb-497v" facs="#i996"/>
+            <pb n="498r" xml:id="pb-498r" facs="#i997"/>
+            <pb n="498v" xml:id="pb-498v" facs="#i998"/>
+            <pb n="499r" xml:id="pb-499r" facs="#i999"/>
+            <pb n="499v" xml:id="pb-499v" facs="#i1000"/>
+            <pb n="500r" xml:id="pb-500r" facs="#i1001"/>
+            <pb n="500v" xml:id="pb-500v" facs="#i1002"/>
+            <pb n="501r" xml:id="pb-501r" facs="#i1003"/>
+            <pb n="501v" xml:id="pb-501v" facs="#i1004"/>
+            <pb n="502r" xml:id="pb-502r" facs="#i1005"/>
+            <pb n="502v" xml:id="pb-502v" facs="#i1006"/>
+            <pb n="503r" xml:id="pb-503r" facs="#i1007"/>
+            <pb n="503v" xml:id="pb-503v" facs="#i1008"/>
+            <pb n="504r" xml:id="pb-504r" facs="#i1009"/>
+            <pb n="504v" xml:id="pb-504v" facs="#i1010"/>
+            <pb n="505r" xml:id="pb-505r" facs="#i1011"/>
+            <pb n="505v" xml:id="pb-505v" facs="#i1012"/>
+            <pb n="506r" xml:id="pb-506r" facs="#i1013"/>
+            <pb n="506v" xml:id="pb-506v" facs="#i1014"/>
+            <pb n="507r" xml:id="pb-507r" facs="#i1015"/>
+            <pb n="507v" xml:id="pb-507v" facs="#i1016"/>
+            <pb n="508r" xml:id="pb-508r" facs="#i1017"/>
+            <pb n="508v" xml:id="pb-508v" facs="#i1018"/>
+            <pb n="509r" xml:id="pb-509r" facs="#i1019"/>
+            <pb n="509v" xml:id="pb-509v" facs="#i1020"/>
+            <pb n="510r" xml:id="pb-510r" facs="#i1021"/>
+            <pb n="510v" xml:id="pb-510v" facs="#i1022"/>
+            <pb n="511r" xml:id="pb-511r" facs="#i1023"/>
+            <pb n="511v" xml:id="pb-511v" facs="#i1024"/>
+            <pb n="512r" xml:id="pb-512r" facs="#i1025"/>
+            <pb n="512v" xml:id="pb-512v" facs="#i1026"/>
+            <pb n="513r" xml:id="pb-513r" facs="#i1027"/>
+            <pb n="513v" xml:id="pb-513v" facs="#i1028"/>
+            <pb n="514r" xml:id="pb-514r" facs="#i1029"/>
+            <pb n="514v" xml:id="pb-514v" facs="#i1030"/>
+            <pb n="515r" xml:id="pb-515r" facs="#i1031"/>
+            <pb n="515v" xml:id="pb-515v" facs="#i1032"/>
+            <pb n="516r" xml:id="pb-516r" facs="#i1033"/>
+            <pb n="516v" xml:id="pb-516v" facs="#i1034"/>
+            <pb n="517r" xml:id="pb-517r" facs="#i1035"/>
+            <pb n="517v" xml:id="pb-517v" facs="#i1036"/>
+            <pb n="518r" xml:id="pb-518r" facs="#i1037"/>
+            <pb n="518v" xml:id="pb-518v" facs="#i1038"/>
+            <pb n="519r" xml:id="pb-519r" facs="#i1039"/>
+            <pb n="519v" xml:id="pb-519v" facs="#i1040"/>
+            <pb n="520r" xml:id="pb-520r" facs="#i1041"/>
+            <pb n="520v" xml:id="pb-520v" facs="#i1042"/>
+            <pb n="521r" xml:id="pb-521r" facs="#i1043"/>
+            <pb n="521v" xml:id="pb-521v" facs="#i1044"/>
+            <pb n="522r" xml:id="pb-522r" facs="#i1045"/>
+            <pb n="522v" xml:id="pb-522v" facs="#i1046"/>
+            <pb n="523r" xml:id="pb-523r" facs="#i1047"/>
+            <pb n="523v" xml:id="pb-523v" facs="#i1048"/>
+            <pb n="524r" xml:id="pb-524r" facs="#i1049"/>
+            <pb n="524v" xml:id="pb-524v" facs="#i1050"/>
+            <pb n="525r" xml:id="pb-525r" facs="#i1051"/>
+            <pb n="525v" xml:id="pb-525v" facs="#i1052"/>
+            <pb n="526r" xml:id="pb-526r" facs="#i1053"/>
+            <pb n="526v" xml:id="pb-526v" facs="#i1054"/>
+            <pb n="527r" xml:id="pb-527r" facs="#i1055"/>
+            <pb n="527v" xml:id="pb-527v" facs="#i1056"/>
+            <pb n="528r" xml:id="pb-528r" facs="#i1057"/>
+            <pb n="528v" xml:id="pb-528v" facs="#i1058"/>
+            <pb n="529r" xml:id="pb-529r" facs="#i1059"/>
+            <pb n="529v" xml:id="pb-529v" facs="#i1060"/>
+            <pb n="530r" xml:id="pb-530r" facs="#i1061"/>
+            <pb n="530v" xml:id="pb-530v" facs="#i1062"/>
+            <pb n="531r" xml:id="pb-531r" facs="#i1063"/>
+            <pb n="531v" xml:id="pb-531v" facs="#i1064"/>
+            <pb n="532r" xml:id="pb-532r" facs="#i1065"/>
+            <pb n="532v" xml:id="pb-532v" facs="#i1066"/>
+            <pb n="533r" xml:id="pb-533r" facs="#i1067"/>
+            <pb n="533v" xml:id="pb-533v" facs="#i1068"/>
+            <pb n="534r" xml:id="pb-534r" facs="#i1069"/>
+            <pb n="534v" xml:id="pb-534v" facs="#i1070"/>
+            <pb n="535r" xml:id="pb-535r" facs="#i1071"/>
+            <pb n="535v" xml:id="pb-535v" facs="#i1072"/>
+            <pb n="536r" xml:id="pb-536r" facs="#i1073"/>
+            <pb n="536v" xml:id="pb-536v" facs="#i1074"/>
+            <pb n="537r" xml:id="pb-537r" facs="#i1075"/>
+            <pb n="537v" xml:id="pb-537v" facs="#i1076"/>
+            <pb n="538r" xml:id="pb-538r" facs="#i1077"/>
+            <pb n="538v" xml:id="pb-538v" facs="#i1078"/>
+            <pb n="539r" xml:id="pb-539r" facs="#i1079"/>
+            <pb n="539v" xml:id="pb-539v" facs="#i1080"/>
+            <pb n="540r" xml:id="pb-540r" facs="#i1081"/>
+            <pb n="540v" xml:id="pb-540v" facs="#i1082"/>
+            <pb n="541r" xml:id="pb-541r" facs="#i1083"/>
+            <pb n="541v" xml:id="pb-541v" facs="#i1084"/>
+            <pb n="542r" xml:id="pb-542r" facs="#i1085"/>
+            <pb n="542v" xml:id="pb-542v" facs="#i1086"/>
+            <pb n="543r" xml:id="pb-543r" facs="#i1087"/>
+            <pb n="543v" xml:id="pb-543v" facs="#i1088"/>
+            <pb n="544r" xml:id="pb-544r" facs="#i1089"/>
+            <pb n="544v" xml:id="pb-544v" facs="#i1090"/>
+            <pb n="545r" xml:id="pb-545r" facs="#i1091"/>
+            <pb n="545v" xml:id="pb-545v" facs="#i1092"/>
+            <pb n="546r" xml:id="pb-546r" facs="#i1093"/>
+            <pb n="546v" xml:id="pb-546v" facs="#i1094"/>
+            <pb n="547r" xml:id="pb-547r" facs="#i1095"/>
+            <pb n="547v" xml:id="pb-547v" facs="#i1096"/>
+            <pb n="548r" xml:id="pb-548r" facs="#i1097"/>
+            <pb n="548v" xml:id="pb-548v" facs="#i1098"/>
+            <pb n="549r" xml:id="pb-549r" facs="#i1099"/>
+            <pb n="549v" xml:id="pb-549v" facs="#i1100"/>
+            <pb n="550r" xml:id="pb-550r" facs="#i1101"/>
+            <pb n="550v" xml:id="pb-550v" facs="#i1102"/>
+            <pb n="551r" xml:id="pb-551r" facs="#i1103"/>
+            <pb n="551v" xml:id="pb-551v" facs="#i1104"/>
+            <pb n="552r" xml:id="pb-552r" facs="#i1105"/>
+            <pb n="552v" xml:id="pb-552v" facs="#i1106"/>
+            <pb n="553r" xml:id="pb-553r" facs="#i1107"/>
+            <pb n="553v" xml:id="pb-553v" facs="#i1108"/>
+            <pb n="554r" xml:id="pb-554r" facs="#i1109"/>
+            <pb n="554v" xml:id="pb-554v" facs="#i1110"/>
+            <pb n="555r" xml:id="pb-555r" facs="#i1111"/>
+            <pb n="555v" xml:id="pb-555v" facs="#i1112"/>
+            <pb n="556r" xml:id="pb-556r" facs="#i1113"/>
+            <pb n="556v" xml:id="pb-556v" facs="#i1114"/>
+            <pb n="557r" xml:id="pb-557r" facs="#i1115"/>
+            <pb n="557v" xml:id="pb-557v" facs="#i1116"/>
+            <pb n="558r" xml:id="pb-558r" facs="#i1117"/>
+            <pb n="558v" xml:id="pb-558v" facs="#i1118"/>
+            <pb n="559r" xml:id="pb-559r" facs="#i1119"/>
+            <pb n="559v" xml:id="pb-559v" facs="#i1120"/>
+            <pb n="560r" xml:id="pb-560r" facs="#i1121"/>
+            <pb n="560v" xml:id="pb-560v" facs="#i1122"/>
+            <pb n="561r" xml:id="pb-561r" facs="#i1123"/>
+            <pb n="561v" xml:id="pb-561v" facs="#i1124"/>
+            <pb n="562r" xml:id="pb-562r" facs="#i1125"/>
+            <pb n="562v" xml:id="pb-562v" facs="#i1126"/>
+            <pb n="563r" xml:id="pb-563r" facs="#i1127"/>
+            <pb n="563v" xml:id="pb-563v" facs="#i1128"/>
+            <pb n="564r" xml:id="pb-564r" facs="#i1129"/>
+            <pb n="564v" xml:id="pb-564v" facs="#i1130"/>
+            <pb n="565r" xml:id="pb-565r" facs="#i1131"/>
+            <pb n="565v" xml:id="pb-565v" facs="#i1132"/>
+            <pb n="566r" xml:id="pb-566r" facs="#i1133"/>
+            <pb n="566v" xml:id="pb-566v" facs="#i1134"/>
+            <pb n="567r" xml:id="pb-567r" facs="#i1135"/>
+            <pb n="567v" xml:id="pb-567v" facs="#i1136"/>
+            <pb n="568r" xml:id="pb-568r" facs="#i1137"/>
+            <pb n="568v" xml:id="pb-568v" facs="#i1138"/>
+            <pb n="569r" xml:id="pb-569r" facs="#i1139"/>
+            <pb n="569v" xml:id="pb-569v" facs="#i1140"/>
+            <pb n="570r" xml:id="pb-570r" facs="#i1141"/>
+            <pb n="570v" xml:id="pb-570v" facs="#i1142"/>
+            <pb n="571r" xml:id="pb-571r" facs="#i1143"/>
+            <pb n="571v" xml:id="pb-571v" facs="#i1144"/>
+            <pb n="572r" xml:id="pb-572r" facs="#i1145"/>
+            <pb n="572v" xml:id="pb-572v" facs="#i1146"/>
+            <pb n="573r" xml:id="pb-573r" facs="#i1147"/>
+            <pb n="573v" xml:id="pb-573v" facs="#i1148"/>
+            <pb n="574r" xml:id="pb-574r" facs="#i1149"/>
+            <pb n="574v" xml:id="pb-574v" facs="#i1150"/>
+            <pb n="575r" xml:id="pb-575r" facs="#i1151"/>
+            <pb n="575v" xml:id="pb-575v" facs="#i1152"/>
+            <pb n="576r" xml:id="pb-576r" facs="#i1153"/>
+            <pb n="576v" xml:id="pb-576v" facs="#i1154"/>
+            <pb n="577r" xml:id="pb-577r" facs="#i1155"/>
+            <pb n="577v" xml:id="pb-577v" facs="#i1156"/>
+            <pb n="578r" xml:id="pb-578r" facs="#i1157"/>
+            <pb n="578v" xml:id="pb-578v" facs="#i1158"/>
+            <pb n="579r" xml:id="pb-579r" facs="#i1159"/>
+            <pb n="579v" xml:id="pb-579v" facs="#i1160"/>
+            <pb n="580r" xml:id="pb-580r" facs="#i1161"/>
+            <pb n="580v" xml:id="pb-580v" facs="#i1162"/>
+            <pb n="581r" xml:id="pb-581r" facs="#i1163"/>
+            <pb n="581v" xml:id="pb-581v" facs="#i1164"/>
+            <pb n="582r" xml:id="pb-582r" facs="#i1165"/>
+            <pb n="582v" xml:id="pb-582v" facs="#i1166"/>
+            <pb n="583r" xml:id="pb-583r" facs="#i1167"/>
+            <pb n="583v" xml:id="pb-583v" facs="#i1168"/>
+            <pb n="584r" xml:id="pb-584r" facs="#i1169"/>
+            <pb n="584v" xml:id="pb-584v" facs="#i1170"/>
+            <pb n="585r" xml:id="pb-585r" facs="#i1171"/>
+            <pb n="585v" xml:id="pb-585v" facs="#i1172"/>
+            <pb n="586r" xml:id="pb-586r" facs="#i1173"/>
+            <pb n="586v" xml:id="pb-586v" facs="#i1174"/>
+            <pb n="587r" xml:id="pb-587r" facs="#i1175"/>
+            <pb n="587v" xml:id="pb-587v" facs="#i1176"/>
+            <pb n="588r" xml:id="pb-588r" facs="#i1177"/>
+            <pb n="588v" xml:id="pb-588v" facs="#i1178"/>
+            <pb n="589r" xml:id="pb-589r" facs="#i1179"/>
+            <pb n="589v" xml:id="pb-589v" facs="#i1180"/>
+            <pb n="590r" xml:id="pb-590r" facs="#i1181"/>
+            <pb n="590v" xml:id="pb-590v" facs="#i1182"/>
+            <pb n="591r" xml:id="pb-591r" facs="#i1183"/>
+            <pb n="591v" xml:id="pb-591v" facs="#i1184"/>
+            <pb n="592r" xml:id="pb-592r" facs="#i1185"/>
+            <pb n="592v" xml:id="pb-592v" facs="#i1186"/>
+            <pb n="593r" xml:id="pb-593r" facs="#i1187"/>
+            <pb n="593v" xml:id="pb-593v" facs="#i1188"/>
+            <pb n="594r" xml:id="pb-594r" facs="#i1189"/>
+            <pb n="594v" xml:id="pb-594v" facs="#i1190"/>
+
+         </div>
+      </body>
+   </text>
+
+</TEI>

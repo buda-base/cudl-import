@@ -1,0 +1,1669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS Add.1656</title>
+                <funder>AHRC</funder>
+                <principal>Vincenzo Vergiani</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+                </address>
+                </pubPlace>
+                <idno>Sanskrit</idno>
+                
+                <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                
+                <msDesc xml:id="Sanskrit" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Additional Manuscripts</collection>
+                        <idno>MS Add.1656</idno>
+                    <altIdentifier type="internal"> 
+                     <collection type="CUL_collection">Sanskrit</collection> 
+                     <idno/> 
+                  </altIdentifier>
+                    </msIdentifier>
+                  
+                    <msContents defective="true">
+                        <summary> The <title xml:lang="san" type="general">Pañcarakṣā</title> corpus
+                            ("Five Protections") consists of the <title xml:lang="san">Mahāpratisarā</title>, <title xml:lang="san">Mahāmāyūrī</title>,
+                                <title xml:lang="san">Mahāsāhasrapramardanī</title>, <title xml:lang="san">Mahāmantrānusāriṇī</title>, and <title xml:lang="san">Mahāśītavatī</title>. The earliest evidence for texts grouped
+                            together as the "Five Great Dhāraṇīs" comes from Tibetan catalogues
+                            around 800 CE, but this compendium is somewhat different from the
+                            surviving Sanskrit collection, which is preserved in manuscripts dating
+                            back to the eleventh century. These scriptures include spells,
+                            enumerations of benefits and ritual instructions for use. With the
+                            course of time all of them became deified and five related goddesses
+                            emerged. It is, however, important to note that the texts themselves do
+                            not have any references to these goddesses. This ancient composite palm-leaf
+                            manuscript has been dated to the 13th century by Bendall (1883: 157),
+                            although the colophon in the third codicological unit bears the date of 518 Nepāla Saṃvat, i.e
+                            1398 CE. The colophon mentions also the reign of king <name type="person" role="oth" key="local_00316 VIAF_135621462">
+                        <persName xml:lang="eng" type="standard">Jayasthitimalla</persName>
+                     </name>, who however reigned between
+                            1382 and 1395. According to Bendall (1883: 157), <quote>[t]he colophon
+                                records that the MS. was the offering of one Lalitakramā.</quote>
+                            However, <term xml:lang="san">Lalitakramā</term> is not the name of a
+                            person, but one of the ancient names of modern-day Patan (see for
+                            instance Petech 1984: 185), and the colophon merely mentions the place in
+                            which the manuscript was given as a gift of charity (<hi rend="italic">deyadharmo 'yam pravaramahāyāyinaḥ
+                                śrīsrīlalitakramāyāṃ śrīśrīmāṇīśamāttaramahāvihāre</hi>).
+                            Many folios of the manuscript are later supplies in paper. At the
+                            beginning of each <term xml:lang="san">dhāraṇī</term>, a space was left
+                            blank for a miniature that, however, was never painted. The last page of
+                            the manuscript has been "written on the back of a leaf (of an avadāna?),
+                            which is in the same hand (viz., that of the xiiith cent.) as the bulk
+                            of the MS., but is not divided into columns, as that is (Bendall 1883:
+                            157)". Actually, the verso of this folio contains a part of the <title xml:lang="san">Mahāpratisarā</title>.
+                        </summary>
+                        
+                        <msItem n="1">
+
+                            <author>
+                                <name type="person" role="aut" key="local_00000">
+                           <persName xml:lang="eng" type="standard">‏Unknown</persName>
+                        </name>
+                            </author>
+                        
+                            <title xml:lang="san">Pañcarakṣā</title>
+
+                            <rubric n="unit1">
+                        <locus from="1v" to="1v">[1v1, first codicological unit (kernel)]</locus> 
+                                <g>§</g> namo bhagavatyai āryamahāpratisarāyai || </rubric>
+                            
+                            <incipit xml:lang="san" n="unit1">
+                        <locus from="1v" to="1v">[1v1, first
+                                    codicological unit (kernel)]</locus> evaṃ <g>%</g>
+                                <graphic/>[<hi rend="italic">space left blank for a miniature</hi>]<graphic/>
+                                <g>%</g> mayā śrutam ekasmin samaye bhagavān
+                                mahāvajrameruśi[1v2]kharakūṭāgāre viharati sma ||
+                                    mahāvajrasamādhibhū<g>%</g>
+                                <graphic/>[<hi rend="italic">space left blank for a miniature</hi>]<graphic/>
+                                <g>%</g> mipratisthāne mahāvajrakalpasamalaṃkṛte |</incipit>
+                            
+                            <finalRubric type="section" n="unit1">
+                        <locus from="32r" to="32r">[32r2,
+                                    first codicological unit (kernel)]</locus> || <g>@</g> || <g>%</g> āryamahāpratisarāmahāvidyārajñī ḥ ka:<g>%</g>lpa samāptaḥ || <g>@</g> || <g>@</g> || </finalRubric>
+                            
+                            <finalRubric type="section" n="unit1">
+                        <locus from="76r" to="76r">[76r1,
+                                    first codicological unit (kernel)]</locus> || <g>@</g> || āryama[76r2]hāsāhasrapramarddanīnāma mahāvirajñī <g>%</g> samāptaḥ || <g>%</g> ||</finalRubric>
+                            
+                            <explicit type="section" n="unit1">
+                        <locus from="131v" to="131v">[131v2,
+                                    first codicological unit (kernel)]</locus> || <g>@</g> || <g>%</g> āryaśrīmahāmāyūrī vidyārājñī avinaṣṭā yakṣamu<g>%</g>khāt pratilabdhā samāptaḥ || <g>@</g> || śubhaṃ ||</explicit>
+                            
+                            <finalRubric type="section" n="unit1">
+                        <locus from="138v" to="138v">[138v3, first codicological unit
+                                (kernel)]</locus> || <g>@</g> || [138v4] āryamahāmantrānusāriṇī vidyārā pari<g>%</g>samāptāḥ || ^^^ ||</finalRubric>
+                            
+                            <explicit xml:lang="san" n="unit2">
+                        <locus from="142v" to="142v">[142v5,
+                                    second codicological unit]</locus> || <g>@</g> || idam avocad
+                                bhagavān āttamanā āyu<g>%</g>ṣmān_ rāhulaḥ sā ca sarvāvatī parṣat
+                                    sadevamānuṣāsu<g>%</g>ragaṃdharvaś ca loko bhagavato bhāṣitam
+                                abhyanaṃdann iti</explicit>
+                            
+                            <finalRubric n="unit2">
+                        <locus facs="142v" to="142v">[142v5, second
+                                    codicological unit]</locus> ā:
+                            </finalRubric>
+                            
+                            <finalRubric n="unit3">
+                        <locus facs="143r" to="143r">[143r1, third
+                                    codicological unit]</locus> ryamahāśītavatī nāma 
+                                mahāvidyārājñī mahānusaṃsāra<g>%</g>kṣāsūtraṃ samāptaṃ || ^^^ ||
+                                āryamahāpratisarā | ā<g>%</g>ryamahāsāhasrapramarddanī |
+                                āryamahāmāyurī | [143r2] āryamahāmantrānusāriṇī | āryamahāśitavatī
+                                    <g>%</g> etāni pañca ra¦ || ^^^ || kṣāsutrāṇi samāptāni ||
+                            </finalRubric>
+                            
+                            <colophon n="unit3">
+                        <locus facs="143r" to="143r">[143r2, third
+                                    codicological unit]</locus> ye dharmmā hetuprabhāvā
+                                hetun teṣān tathāgato hy avadat te[143r3]ṣāñ ca yo nirodhaḥ evamvādī
+                                mahāsramaṇaḥ || deya<unclear reason="faded">dharmmo¦</unclear>
+                                <g>%</g> yam pravaramahāyāyinaḥ śrīsrīlalitakramāyāṃ 
+                                    śrīśrīmā¦<g>%</g>ṇīśamāttaramahāvihāre | śrīp<subst>
+                                    <del>i</del>
+                                    <add>ī</add>
+                                </subst>thavihārapradhā[143r4]namahāyātraśrīte | pūjasampad atra puṇyaṃ
+                                tad abhavat cāryo<g>%</g>pādhyāyamātāpitṛpūrvvaṅgamaṅ kṛtvā
+                                sakalasatvarāśer_ a<g>%</g>nuttarajñānaphalaprāptam iti <choice>
+                                    <orig>rājādhirājaparame[143r5]śvaraparabhaṭṭarakaśrīśrījayasthitimalladevavijaya<g>%</g>rājye</orig>
+                                    <reg type="hyphenated">rājādhirājaparame[143r5]śvara-parabhaṭṭarakaśrīśrījayasthitimalladevavijaya<g>%</g>rājye</reg>
+                                </choice> || <g>$</g> śreyo samvat_ 518 kāratika kṛṣṇadaśamyāṃ
+                                    uttara<g>%</g>phālguṇīnakṣatre budhavāsare likhitam idaṃ sa
+                                    <unclear>-2-</unclear> [143r6] <unclear>-9-</unclear> 
+                        <unclear reason="faded">sāstra</unclear> ||
+                                likhitam idaṃ <unclear reason="faded">samada<g>%</g>ttanavaḥ</unclear> || <g>@</g>
+                                ||
+                                <!--CHECKED-->
+                            </colophon>
+                            
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                        </msItem>
+                    </msContents>
+                    
+                    <physDesc>
+                        <p>Composite manuscript consisting of three codicological units. The
+                            second and third codicological units are dependent units; the second unit
+                            consists of paper supplies for folios 14-16, 18-19, 22-24, 41, 45, 56,
+                            60-61, 65, 78, 81, 107-109, 111-112, 130, 131-132, and of the original
+                            paper restorations of the kernel; the third unit is simply the last palm-leaf 
+                            folio.</p>
+                        <objectDesc form="tālapatra"> 
+                            <supportDesc material="mixed">
+                                <support>Palm-leaf and paper.
+                                <p>All codicological units have the same size.
+                                    <dimensions type="folio" unit="cm">
+                                        <height quantity="5.3">5.3</height>
+                                        <width quantity="33.3">33.3</width>
+                                    </dimensions>
+                                </p>
+                                </support>
+                                
+                                <extent xml:id="folio" n="143">143 ff. </extent>
+                                
+                                <!--<foliation n="1" type="original">Nepālākṣarā letter-numerals, mid-left margin, verso.</foliation>
+                                <foliation n="2" type="original">Nepālākṣarā numerals, mid-right margin, verso.</foliation>-->
+                        <!--                                <foliation n="3" type="additional">Nepalākṣara numerals, top right margin, verso (Continous foliation: 1-94, damaged in some folios).</foliation>-->
+                                <!--<foliation n="4" type="modern"><p>TO BE FOLIATED</p></foliation> -->
+                                
+                        <!--                                <condition>
+                                    Complete, in generally good condition. Many folios are wor 
+                                </condition>-->
+                            </supportDesc>
+                            
+                     <!--                           <layoutDesc>
+                               <layout columns="1" writtenLines="5">
+                                   <dimensions type="written area" unit="cm">
+                                       <height quantity="3.8">3.8</height>
+                                       <width quantity="24.5">24.5</width>
+                                   </dimensions>
+                                   <p>5 lines per page, approximately 55 <term xml:lang="san">akṣara</term>s per line.</p>
+                                   <!-\- <locus>[locus if refers only to part of MS]</locus>-\->
+                                    <dimensions type="akṣara" unit="mm">
+                                        <height quantity="5">5</height>
+                                    </dimensions>
+                                   <dimensions type="interlinear space" unit="mm">
+                                       <height quantity="2">2</height>
+                                   </dimensions>                        
+                                   <stringHole type="true" quantity="2"> Two string holes. They are approximately in the middle of 2 to 2 cm-wide blank space.
+                                   </stringHole>
+<!-\-                                   <commentaryForm type="Continous"></commentaryForm>-\->
+                                   <!-\-<p>Marginal frame lines in black ink, A pair of two parallel lines divided by a wider space; ruling.</p>-\->
+                                   <p>Double marginal frame lines. Single frame lines for the blank spaces around the string holes. Ruling.</p>
+                                </layout>
+                           </layoutDesc>    -->                        
+                        </objectDesc>
+                        
+                  <!--                        <handDesc>
+                            <handNote scope="sole" script="rañjanā" medium="blackink">
+                                <desc>Rañjanā in black ink.</desc>
+<!-\-                                <p><hi rend="bold">Scribe:</hi> <persName xml:lang="san" type="standard" key="local_00296">Lāvaṇyavimala</persName></p>  -\->
+                            </handNote>
+                        </handDesc>-->
+                        
+                  <!--                        <decoDesc>
+                            <decoNote type="miniature">
+                                <desc>Both the inner covers bear polichrome miniatures.
+                                    <list>
+                                        <item>
+                                            On the <locus from="cover (inside)" to="cover (inside)">inner side of the front cover</locus>, representations of the five Buddhas of directions (Ratnasambhava in yellow; Akṣobhya in blue; Vairocana in white; Amitābha in red; Amoghasiddhi in green). 
+                                        </item>
+                                        <item>
+                                            On the <locus from="back cover (inside)" to="back cover (inside)">inner side of the back cover</locus>, 
+                                            representations of the five goddesses invoked for protection in the text, with colours matching the five Buddhas of directions.
+                                        </item>
+                                        </list>
+                                </desc>
+                            </decoNote>
+                        </decoDesc>-->
+                        
+                  <!--                        <additions>
+                                                        
+                            <list>
+                                <item>
+                                    On <locus from="1r" to="1r">the recto of the first folio</locus>, an invocation in Nepālākṣarā reads: oṃ namo buddhāyaḥ ||
+                                </item>
+<!-\-                                <item>
+                                    On the <locus from="back cover (inside)" to="back cover (inside)">inner side of the back cover</locus>, an invocation, almost completely faded, and the complete alphabet, clearly readable, then started over again but not completed. 
+                                </item>-\->
+                           </list>
+                            
+                            <head>Marginalia</head>
+                            <list>
+                            <item>
+                                <marginalia type="corrections">Many marginal corrections throught the manuscript.</marginalia>
+                            </item>   
+                            </list>
+                        </additions>--> 
+                        
+                        <bindingDesc>
+                            <p>
+                        <material>Wood cover</material>: one original cover, but not
+                                belonging to this manuscript, as it is only 4cm high and bears
+                                only one string hole; one library cover.</p>
+                            <stringHole type="true" quantity="1">One string hole.</stringHole>
+                     <!--                            <decoNote type="miniature">
+                                <desc>Both the inner covers bear polichrome miniatures.
+                                    <list>
+                                        <item>
+                                            On the <locus from="cover (inside)" to="cover (inside)">inner side of the front cover</locus>, representations of nine Buddhas. 
+                                        </item>
+                                        <item>
+                                            On the <locus from="back cover (inside)" to="back cover (inside)">inner side of the back cover</locus>, representations of nine goddesses of protection.
+                                        </item>
+                                    </list>
+                                </desc>
+                            </decoNote>
+                            <decoNote type="other">
+                                <desc>On the <locus from="back cover" to="back cover">outer side of the back cover</locus>, traces of materials smeared on the manuscript during worship rites.</desc>
+                            </decoNote>-->
+                        </bindingDesc>
+                    </physDesc>
+                    
+                    <history>
+                        <origin>
+                            <origDate calendar="Gregorian" notBefore="1201" notAfter="1400">13th-14th century (see the date for each codicological unit; the
+                                second unit consists of modern paper replacements).
+                                <!--OR 13th century, according to Bendall. What do you think?-->
+                            </origDate>
+                            <origPlace xml:lang="eng" key="1000132">Nepāl</origPlace>, <origPlace xml:lang="san" key="1083300">Pātan</origPlace>. </origin>
+                        <provenance>Bought by <name type="person" role="col" key="local_ 00002 VIAF_7477330">
+                        <persName type="standard" xml:lang="eng">Wright, Daniel</persName>
+                        <persName type="display" xml:lang="eng">Dr. D. Wright</persName>
+                     </name> on behalf of the
+                            Cambridge University Library in <date calendar="Gregorian" when="1876">1876</date>.</provenance>
+                        <acquisition>
+                            <date calendar="Gregorian" when="1876-04-26">26 April 1876 (ULIB 7/3/55)</date> 
+                            <date calendar="Gregorian" when="1876-08-03">3 August 1876 <stamp>University Library stamp</stamp>).</date>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                           <ref target="#Bendall1883">Bendall (1883: 157)</ref>, direct inspection.</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+                        
+                        <listBibl type="ms_descriptions">
+                            <head>Descriptions of the manuscript</head>
+                            
+                            <biblStruct type="manuscript" xml:id="ULIB7355Bradshaw1870">
+                                <monogr>
+                                    <title level="m">Notes on the collections of Oriental, Thibetan and
+                                        'Additional' manuscripts [unpublished manuscript]</title>
+                                    <author>
+                                        <forename>Henry</forename>
+                                        <surname>ULIB 7/3/55 =
+                                            Bradshaw</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1870-80</date>
+                                        <!--<note type="url"
+                                            ><ref target="http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0265%2FULIB%207%2F3%2F55">[link]</ref></note>-->
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="manuscript" xml:id="ULIB714Griffith1873">
+                                <monogr>
+                                    <title level="m">Assorted lists of manuscripts and books, chiefly Oriental,
+                                        acquired by the Library, with related papers [unpublished manuscript]</title>
+                                    <author>
+                                        <forename>Ralph T. H.</forename>
+                                        <surname>ULIB 7/1/4 =
+                                            Griffith</surname>
+                                    </author>
+                                    <author>
+                                        <forename>Daniel</forename>
+                                        <surname>Wright</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1873</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">ULIB 7/1/4</idno>
+                            </biblStruct>
+                            
+                            <biblStruct type="manuscript" xml:id="zoteroItem_243">
+                                <monogr>
+                                    <title level="m">List of Additional Manuscripts 923-1827 [unpublished manuscript]</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                              <date>1878</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Handlist_Add_1878</idno>
+                            </biblStruct>
+                            
+                            
+                            <!--  <ref type="biblio" target="Bendall_1883"> -->                                
+                            <biblStruct type="book" xml:id="Bendall1883">
+                                <monogr>
+                                    <title>Catalogue of the Buddhist Sanskrit Manuscripts in the University Library, Cambridge. 
+                                        With Introductory Notices and Illustrations of the Palæography and Chronology of Nepal and Bengal</title>
+                                    <author>
+                                        <forename>Cecil</forename>
+                                        <surname>Bendall</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <publisher>University Press</publisher>
+                                        <date>1883</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Bendall_1883</idno>
+                            </biblStruct>
+                            
+                            <biblStruct type="manuscript" xml:id="Handlist_1900">
+                                <monogr>
+                                    <title>List of Oriental MSS. Class Catalogue of Oriental MSS. [unpublished manuscript]</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1900–</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Handlist_1900</idno>
+                            </biblStruct>
+                     <!--                            <!-\- <ref type="biblio" target="Losty_1982">31</ref> -\->
+                            <biblStruct type="book" xml:id="Losty1982">
+                                <monogr>
+                                    <title>The Art of the Book in India</title>
+                                    <author>
+                                        <forename>Jeremiah P</forename>
+                                        <surname>Losty</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>London</pubPlace>
+                                        <publisher>British Library</publisher>
+                                        <date>1982</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Losty_1982</idno>
+                            </biblStruct>
+                            
+                            <!-\-  <ref type="biblio" target="Mevissen_1989"></ref> -\->
+                            <biblStruct type="book" xml:id="Mevissen1989">
+                                <monogr>
+                                    <title>Studies in Pancaraksa Manuscript Painting</title>
+                                    <author>
+                                        <forename>Gerd J.R</forename>
+                                        <surname>Mevissen</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Reinbek</pubPlace>
+                                        <publisher>Wezler</publisher>
+                                        <date>1989</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <!-\- <ref type="biblio" target="Zwalf_1985"></ref> -\->
+                            <biblStruct type="book" xml:id="Zwalf1985">
+                                <monogr>
+                                    <title>Buddhism. Art and Faith</title>
+                                    <editor>
+                                        <forename>W.</forename>
+                                        <surname>Zwalf</surname>
+                                    </editor>
+                                    <imprint>
+                                        <pubPlace>London</pubPlace>
+                                        <publisher>British Museum Publications for the Trustees of the British Museum and the British Library Board</publisher>
+                                        <date>1985</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Zwalf_1985</idno>
+                            </biblStruct>
+                            
+                            <!-\- <ref type="biblio" target="Pal_2006"></ref> -\->
+                            <biblStruct type="bookSection" xml:id="Pal2006">
+                                <analytic>
+                                    <title>Queen Uḍḍākā's Illuminated Manuscript</title>
+                                    <author>
+                                        <forename>Pratapaditya</forename>
+                                        <surname>Pal</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Indian Numismatics, HIstory, Art and Culture: Essays in Honur of Dr. Parameshwari Lal Gupta</title>
+                                    <editor>
+                                        <forename>David W.</forename>
+                                        <surname>Macdowall</surname>
+                                    </editor>
+                                    <imprint>
+                                        <pubPlace>New Delhi</pubPlace>
+                                        <biblScope type="pp">291-296</biblScope>
+                                        <date>2006</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Pal_2006</idno>
+                            </biblStruct>
+                            -->
+                        </listBibl>
+                        
+                        <listBibl type="manuscripts">
+                            <head>Manuscripts</head>
+                            <bibl>
+                        <placeName>Cambridge</placeName>
+                        <orgName>, Cambridge University Library</orgName>: 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01164-00001/1">MS Add.1164.1</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01325/1">MS Add.1325</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01395/1">MS Add.1395</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01460/1">MS Add.1460</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01475-00001/1">MS Add.1475.1</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01476-00001/1">MS Add.1476.1</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01550/1">MS Add.1550</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01644/1">MS Add.1644</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01647/1">MS Add.1647</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01662/1">MS Add.1662</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01688/1">MS Add.1688</ref>,                                 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01701-00001/1">MS Add.1701.1</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-02196-00001/1">MS Add.2196.1</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-OR-00130/1">MS Or.130</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-OR-00752-00002/1">MS Or.752.2</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-OR-01810/1">MS Or.1810</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-OR-01811/1">MS Or.1811</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-OR-01812-00001/1">MS Or.1812.1</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-OR-02258/1">MS Or.2258</ref>.</bibl>
+                            
+                            <!--<bibl>
+                                <ref type="biblio" target="#Sastri1905">Śāstri 1905: 36 (1113 ca)</ref>
+                            </bibl>-->
+                            
+                            <bibl>
+                                <placeName>Oxford</placeName>
+                        <orgName>, Bodleian Library</orgName>: <ref type="extant_mss">MS No. 1448</ref>, Sansk.a. 8 (R).
+                            </bibl>
+                            <bibl>
+                                <placeName>London</placeName>
+                        <orgName>, British Library</orgName>: <ref type="extant_mss">MS No. Or.3346</ref>.
+                            </bibl>
+                            <bibl>
+                                <placeName>Kolkata</placeName>
+                        <orgName>, Asiatic Society of Bengal</orgName>: <ref type="extant_mss">MS No. 4078</ref>.
+                            </bibl>
+                            <bibl>
+                        <orgName>NGMCP</orgName>:
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/w/index.php?title=Special%3ASearch&amp;profile=advanced&amp;search=pancaraksa+catalogued&amp;fulltext=Search&amp;ns0=1&amp;redirs=1&amp;profile=advanced">27 catalogued mss</ref>.
+                            </bibl>
+                        </listBibl>
+                        
+                        <listBibl type="editions">
+                            
+                            <head>Edition(s)</head>
+                            <!--  <ref type="biblio" target="Iwamoto_1937a"></ref> -->
+                            <biblStruct type="book" xml:id="Iwamoto1937a">
+                                <monogr>
+                                    <title>Mahasahasrapramardani</title>
+                                    <author>
+                                        <forename>Yutaka</forename>
+                                        <surname>Iwamoto</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Kyoto</pubPlace>
+                                        <publisher>Iwamoto Yutaka</publisher>
+                                        <date>1937</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Iwamoto_1937</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Iwamoto_1937b"></ref> -->
+                            <biblStruct type="book" xml:id="Iwamoto1937b">
+                                <monogr>
+                                    <title>Kleinere Dhāṛaṇī Texte. Mahāśītavatī</title>
+                                    <author>
+                                        <forename>Yutaka</forename>
+                                        <surname>Iwamoto</surname>
+                                    </author>
+                                    <imprint>
+                                        <date>1937</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>Beitraege zur Indologie</title>
+                                </series>
+                                <idno type="callNumber">Iwamoto_1937</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Iwamoto_1938"></ref> -->
+                            <biblStruct type="book" xml:id="Iwamoto1938">
+                                <monogr>
+                                    <title>Mahapratisara</title>
+                                    <author>
+                                        <forename>Yutaka</forename>
+                                        <surname>Iwamoto</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Kyoto</pubPlace>
+                                        <publisher>Shobundo Shoten</publisher>
+                                        <date>1938</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Iwamoto_1938</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Takubo_1972"></ref> -->
+                            <biblStruct type="book" xml:id="Takubo1972">
+                                <monogr>
+                                    <title>Arya-maha-Mayuri Vidya-Rajñi</title>
+                                    <author>
+                                        <forename>Shuyo</forename>
+                                        <surname>Takubo</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Tokyo</pubPlace>
+                                        <publisher>Sankibo</publisher>
+                                        <date>1972</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Takubo_1972</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Chandra_1981"></ref> -->
+                            <biblStruct type="book" xml:id="Chandra1981b">
+                                <monogr>
+                                    <title>Pañca-Rakṣā, Two Sanskrit Manuscripts from Nepal</title>
+                                    <author>
+                                        <forename>Lokesh</forename>
+                                        <surname>Chandra</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>New Delhi</pubPlace>
+                                        <date>1981</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Chandra_1981</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Sasani_1999"></ref> -->
+                            <biblStruct type="journalArticle" xml:id="Śāsanī1999">
+                                <analytic>
+                                    <title>Āryamahāpratisarāvidyārājñīdhāraṇī. Āryapratisarākalpadhāraṇī</title>
+                                    <author>
+                                        <forename>Thinley R</forename>
+                                        <surname>Śāsanī</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Dhīḥ</title>
+                                    <imprint>
+                                        <biblScope type="vol">28</biblScope>
+                                        <biblScope type="pp">127-142</biblScope>
+                                        <date>1999</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Sasani_1999</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Sakya_2004"></ref> -->
+                            <biblStruct type="book" xml:id="Śākya2004">
+                                <monogr>
+                                    <title>Pañcarakṣā Sūtra</title>
+                                    <author>
+                                        <forename>Min Bahadur</forename>
+                                        <surname>Śākya</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Lalitpur</pubPlace>
+                                        <date>2004</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Sakya_2004</idno>
+                            </biblStruct>
+                        </listBibl>
+                        
+                        <listBibl type="secondary_literature">
+                            <head>Secondary literature</head>
+                            
+                            <!-- <ref type="biblio" target="Aalto_1954"></ref> -->
+                            <biblStruct type="journalArticle" xml:id="Aalto1954">
+                                <analytic>
+                                    <title>Prolegomena to an Edition of the Pañcarakṣā</title>
+                                    <author>
+                                        <forename>Pentti</forename>
+                                        <surname>Aalto</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Studia Orientalia Fennica</title>
+                                    <imprint>
+                                        <biblScope type="vol">19</biblScope>
+                                        <biblScope type="pp">5-48</biblScope>
+                                        <publisher>unpublished</publisher>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Aalto_1954</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Bhattacharyya_1972"></ref> -->
+                            <biblStruct type="bookSection" xml:id="Bhattacharyya1972">
+                                <analytic>
+                                    <title>The Five Protective Goddesses of Buddhism</title>
+                                    <author>
+                                        <forename>Dipak C</forename>
+                                        <surname>Bhattacharyya</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Aspects of Indian Art</title>
+                                    <editor>
+                                        <forename>Pratapaditya</forename>
+                                        <surname>Pal</surname>
+                                    </editor>
+                                    <imprint>
+                                        <pubPlace>Leiden</pubPlace>
+                                        <biblScope type="pp">85-92</biblScope>
+                                        <date>1972</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Bhattacharyya_1972</idno>
+                            </biblStruct>
+                            
+                            <!--  <ref type="biblio" target="Davidson_2009"></ref> -->
+                            <biblStruct type="journalArticle" xml:id="Davidson2009">
+                                <analytic>
+                                    <title>Studies in Dhāraṇī Literature I: Revisiting the Meaning of the Term Dhāraṇī</title>
+                                    <author>
+                                        <forename>Ronald</forename>
+                                        <surname>Davidson</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Journal of Indian Philosophy</title>
+                                    <imprint>
+                                        <biblScope type="vol">37</biblScope>
+                                        <biblScope type="issue">2</biblScope>
+                                        <biblScope type="pp">97-147</biblScope>
+                                        <date>2009</date>
+                                        <note type="accessed">2012-03-22 12:44:55</note>
+                                        <note type="url">http://www.springerlink.com/content/h0245040774k3513/abstract/</note>
+                                    </imprint>
+                                </monogr>
+                                <idno type="DOI">10.1007/s10781-008-9054-8</idno>
+                                <idno type="callNumber">Davidson_2009</idno>
+                            </biblStruct>
+                            
+                            
+                            <!-- <ref type="biblio" target="Hidas_2003"></ref> -->
+                            <biblStruct type="journalArticle" xml:id="Hidas2003">
+                                <analytic>
+                                    <title>Preliminary Notes on the Mahāpratisarā Mahāvidyārājñī, A Buddhist Protective Text from the Pañcarakṣā-collection</title>
+                                    <author>
+                                        <forename>Gergely</forename>
+                                        <surname>Hidas</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Berliner Indologische Studien</title>
+                                    <imprint>
+                                        <biblScope type="vol">15-17</biblScope>
+                                        <biblScope type="pp">263-284</biblScope>
+                                        <date>2003</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Hidas_2003</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Hidas_2007"></ref> -->
+                            <biblStruct type="bookSection" xml:id="Hidas2007">
+                                <analytic>
+                                    <title>Remarks on the Use of the Dhāraṇis and Mantras of the Mahāpratisarā-Mahāvidyārājñī</title>
+                                    <author>
+                                        <forename>Gergely</forename>
+                                        <surname>Hidas</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Indian Languages and Texts through the Ages. Essays of Hungarian Indologists in Honour of Prof. Csaba Töttössy</title>
+                                    <editor>
+                                        <forename>Csaba</forename>
+                                        <surname>Dezső</surname>
+                                    </editor>
+                                    <imprint>
+                                        <pubPlace>Delhi</pubPlace>
+                                        <biblScope type="pp">185-207</biblScope>
+                                        <date>2007</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Hidas_2007</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Hidas_2010"></ref> -->
+                            <biblStruct type="journalArticle" xml:id="Hidas2010">
+                                <analytic>
+                                    <title>Mahāpratisarāvidyāvidhi, The Spell-manual of the Great Amulet</title>
+                                    <author>
+                                        <forename>Gergely</forename>
+                                        <surname>Hidas</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Acta Orientalia Academiae Scientiarum Hungaricae</title>
+                                    <imprint>
+                                        <biblScope type="vol">63</biblScope>
+                                        <biblScope type="pp">473-484</biblScope>
+                                        <date>2010</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Hidas_2010</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Hidas_2012"></ref> -->
+                            <biblStruct type="book" xml:id="Hidas2012">
+                                <monogr>
+                                    <title>Mahāpratisarā-Mahāvidyārājñi = the Great Amulet, Great Queen of Spells: Introduction, Critical Editions and Annotated Translation</title>
+                                    <author>
+                                        <forename>Gergely</forename>
+                                        <surname>Hidas</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>New Delhi</pubPlace>
+                                        <publisher>International Academy of Indian Culture and Aditya Prakashan</publisher>
+                                        <date>2012</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>Śata-piṭaka series: Indo-Asian literatures</title>
+                                    <biblScope type="vol">v. 636</biblScope>
+                                </series>
+                                <idno type="callNumber">Hidas_2012</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Bethlenfalvy_2005"></ref> -->
+                            <biblStruct type="book" xml:id="Mȯnkhsaĭkhan2005">
+                                <monogr>
+                                    <title>Pan̆caraksȧ: A Mongolian Translation from 1345</title>
+                                    <respStmt>
+                                        <resp>contributor</resp>
+                                        <persName>
+                                            <forename>S.</forename>
+                                            <surname>Mȯnkhsaĭkhan</surname>
+                                        </persName>
+                                    </respStmt>
+                                    <imprint>
+                                        <pubPlace>[Ulaanbaatar]-Budapest</pubPlace>
+                                        <publisher>State Central Library of Mongolia; Research Group for Altaic Studies, Hungarian Academy of Sciences</publisher>
+                                        <date>2005</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>Treasures of Mongolian culture and Tibeto-Mongolian Buddhism</title>
+                                    <biblScope type="vol">v. 3</biblScope>
+                                </series>
+                                <idno type="callNumber">Bethlenfalvy_2005</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Sen_1965"></ref> -->
+                            <biblStruct type="bookSection" xml:id="Sen1965">
+                                <analytic>
+                                    <title>On Dhāraṇī and Pratisarā</title>
+                                    <author>
+                                        <forename>Sukumar</forename>
+                                        <surname>Sen</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Studies of Esoteric Buddhism and Tantrism</title>
+                                    <editor>
+                                        <forename>Matsunaga</forename>
+                                        <surname>Yukei</surname>
+                                    </editor>
+                                    <imprint>
+                                        <pubPlace>Koyasan</pubPlace>
+                                        <biblScope type="pp">67-72</biblScope>
+                                        <date>1965</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Sen_1965</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Thapa_1998"></ref> -->
+                            <biblStruct type="bookSection" xml:id="Thapa1998">
+                                <analytic>
+                                    <title>Depiction of Stories and Thematic Elaboration in the Āryamahāpratisarā Sūtra</title>
+                                    <author>
+                                        <forename>Shanker</forename>
+                                        <surname>Thapa</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Light of Wisdom</title>
+                                    <imprint>
+                                        <biblScope type="pp">1-10</biblScope>
+                                        <publisher>Rangjung Yeshe Publications</publisher>
+                                        <date>1998</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Thapa_1998</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Waddell_1912"></ref> -->
+                            <biblStruct type="journalArticle" xml:id="Waddell1912">
+                                <analytic>
+                                    <title>The "dharani" cult in Buddhism; its origin, deified literature and images.</title>
+                                    <author>
+                                        <forename>L. A</forename>
+                                        <surname>Waddell</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Ostasiatische Zeitschrift</title>
+                                    <imprint>
+                                        <biblScope type="vol">1</biblScope>
+                                        <biblScope type="pp">155-195</biblScope>
+                                        <date>1912</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Waddell_1912</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Waddell_1914"></ref> -->
+                            <biblStruct type="journalArticle" xml:id="Waddell1914">
+                                <analytic>
+                                    <title>"Dhârani," or, Indian Buddhist protective spells</title>
+                                    <author>
+                                        <forename>L. A</forename>
+                                        <surname>Waddell</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Indian Antiquary</title>
+                                    <imprint>
+                                        <biblScope type="vol">43</biblScope>
+                                        <biblScope type="pp">37-95</biblScope>
+                                        <date>1914</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Waddell_1914</idno>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+                    
+                    
+                    
+                    <msPart n="1">
+                        <altIdentifier type="internal">
+                            <idno>First codicological unit (kernel)</idno>
+                        </altIdentifier>
+                        
+                        <physDesc>
+                            <objectDesc form="tālapatra"> 
+                                <supportDesc material="corypha_palm_leaf">
+                                    <support>Palm leaf (Corypha).
+                                    </support>
+                                    
+                                    <extent xml:id="folio" n="118"> 118 ff.</extent>
+                                    
+                                    <foliation n="1" type="original">Nepālākṣarā letter-numerals, mid-left margin, verso.</foliation>
+                                    <foliation n="2" type="original">Nepālākṣarā numerals, mid-right margin, verso.</foliation>
+                                        
+                           <!--                                    <foliation n="1" type="original">Letter numbers, mid-left margin, verso.</foliation>
+                                    <foliation n="2" type="original">Devanāgarī numerals, mid-right margin, verso.</foliation>
+                                    <foliation n="3" type="modern">Arabic numerals, top right margin, verso.</foliation> 
+                                    -->
+                                    <!--                                the following element contains free text; however, stick to the set phrases as far as possible!-->
+                                    <condition> Incomplete, in passable condition. The text is very
+                                        often faded or smudged, and quite often retraced. Many
+                                        original paper restorations of worn-out edges, with the
+                                        missing part of the text written in Nepālākṣara; these restorations most probably belong to the second
+                                        codicological unit.</condition>
+                                </supportDesc>
+                                
+                                    <layoutDesc>
+                                        <layout pseudocolumns="3" writtenLines="5">
+                                            <dimensions type="written" subtype="Pseudocolumn_1" unit="cm">
+                                                <height quantity="3">3</height>
+                                                <width quantity="8">ca. 8</width> 
+                                            </dimensions>
+                                            <dimensions type="written" subtype="Pseudocolumn_2" unit="cm">
+                                                <height quantity="3">3</height>
+                                                <width quantity="9">ca. 9</width>
+                                            </dimensions>
+                                            <dimensions type="written" subtype="Pseudocolumn_3" unit="cm">
+                                                <height quantity="3">3</height>
+                                                <width quantity="8">ca. 8</width>
+                                            </dimensions>
+                                            <p>5 lines per page, approximately 52 <hi rend="italic">akṣara</hi>s per line.</p>
+                                            <dimensions type="akṣara" unit="mm" n="52">
+                                                <height quantity="4">4</height>
+                                            </dimensions>
+                                            <dimensions type="interlinear" unit="mm">
+                                                <height quantity="1">1</height>
+                                            </dimensions>                        
+                                            <p>The layout of the
+                                            page is normally divided into three pseudocolumns. Each
+                                            pseudocolumn is delimited by double frame lines on both
+                                            sides; each of the two different foliations are further
+                                            delimited by double lines, respectively on the left side
+                                            (for the letter-numerals on the mid-left margin) and
+                                            right side (for the numerals on the mid-right margin).
+                                            Although most probably belonging to this codicological unit,
+                                                <locus from="46r" to="46v">folio 46</locus> and
+                                                <locus from="97r" to="97v">folio 97</locus> have a
+                                            different layout, with two string holes approximately in
+                                            the middle of a square blank space (height 2cm, width
+                                            2-2.5cm). Some elaborate <hi rend="italic">puṣpikā</hi>s. </p>
+                                            <stringHole type="true" quantity="2"> Two string holes approximately
+                                            in the middle of a blank column-like space.
+                                                <dimensions type="string hole spaces" scope="most" unit="cm">
+                                                    <width quantity="2.5">2.5</width>
+                                                </dimensions>
+                                            </stringHole>
+                                        </layout>
+                                    </layoutDesc>          
+                            </objectDesc>
+                            
+                            <handDesc n="2">
+                                <handNote xml:id="Eirsp-1"
+                                  scope="major"
+                                  script="nepālākṣarā"
+                                  medium="blackink">
+                                    <desc>First hand: hooked Nepālākṣarā
+                                        (Bhujimol) in black ink (main text); quite a few passages
+                                        have been retraced, probably by the same hand that wrote the second
+                                        codicological unit (see for instance the transition from
+                                            <locus from="19v" to="19v">f. 19v5</locus> to <locus from="20r" to="20r">f. 20r1</locus>, <hi rend="italic">samya
+                                            va</hi> [for samyag eva] <hi rend="italic">paripāci</hi>[20r1]<hi rend="italic">tāni 
+                                                bhaviṣyanti ativṛṣṭyānāvṛṣṭidoṣāḥ</hi>, where on <locus from="21r" to="21r">f. 21 r</locus> the first words <hi rend="italic">tāni 
+                                                    bhaviṣyanti ativṛṣṭyā</hi> have been retraced (and <hi rend="italic">tāni 
+                                                        bha</hi> even added on the margin).
+                                    </desc>
+                                </handNote>
+                                <handNote xml:id="Eirsp-2"
+                                  scope="minor"
+                                  script="nepālākṣarā"
+                                  medium="blackink">
+                                    <desc>Second hand: Nepālākṣarā in black ink (marginal corrections).</desc>
+                                </handNote>
+                            </handDesc>
+                     <!--                            
+                            <decoDesc>
+                                <decoNote type="miniature">
+                                    <desc>On <locus from="1v" to="1v">folio 1v</locus>, .............</desc>
+                                </decoNote>
+                            </decoDesc>
+                            -->
+                            <additions>
+                                <list>
+                                    <item> On <locus from="33r" to="33r">33r</locus>, an invocation in
+                                        Nepālākṣarā script : [l1] <g>$</g> oṃ āḥ huṃ || śubham astu || 
+                                            [l2] <g>$</g> jīrṇṇo<add place="below">dhā</add>raka aśanyācāryyaśrībṛhaspatiṃ jaro || śubham astu ||
+                                        <g>@</g>
+                                    </item>
+                                    
+                                    <!--                                <item>
+                                    On the <locus from="back cover (inside)" to="back cover (inside)">inner side of the back cover</locus>, an invocation, almost completely faded, and the complete alphabet, clearly readable, then started over again but not completed. 
+                                </item>-->
+                                </list>
+                                
+                              
+                                <list>
+                                    <head>Marginalia</head>
+                                    <item>
+                                        <marginalia type="corrections">Rare marginal corrections (and possibly annotations) throughout the manuscript.</marginalia>
+                                    </item> 
+                           <!--                                    <item>
+                                        <marginalia type="annotations">Many marginal annotations throughout the manuscript.</marginalia>
+                                    </item>-->   
+                                </list>
+                            </additions>
+                            
+                     <!--                            <bindingDesc>
+                                <p><material>Wood cover</material>, original binding.</p>
+                                <p>On the <locus from="back cover" to="back cover">outer side of the back cover</locus>, whatnot.</p>
+                            </bindingDesc>-->
+                        </physDesc>
+                        
+                        <history>
+                            <origin>
+                                <origDate calendar="Nepāla" when="1398">13th century (Bendall 1883:
+                                    157); 518 Nepāla / 1398 CE (according to the colophon in the
+                                    third codicological unit).
+                                    <!--OR 13th century, according to Bendall. What do you think?--></origDate>
+                            </origin>
+                            
+                        </history>
+                    </msPart>
+                    
+                    <msPart n="2">
+                        <altIdentifier type="internal">
+                            <idno>Second codicological unit</idno>
+                        </altIdentifier>
+                        
+                        <physDesc>
+                            <objectDesc form="pothī"> 
+                                <supportDesc material="nep_multi_layered_paper">
+                                    <support>Nepalese multi-layered paper.
+<!--                                        <p>
+                                            <dimensions type="folio" scope="most" unit="cm">
+                                                <height quantity="X">ca. X</height>
+                                                <width quantity="X">ca. X</width>
+                                            </dimensions>
+                                            <!-\-                                        ALTERNATIVELY, if you give a range use the following pattern:-\->
+                                            <dimensions type="folio" scope="range" unit="cm">
+                                                <height atLeast="X" atMost="Y">ca. X-Y</height>
+                                                <width atLeast="X" atMost="Y">ca. X-Y</width>
+                                            </dimensions>
+                                        </p>-->
+                                    </support>
+                                    
+                                    <extent xml:id="folio" n="1"> 24 ff. (folios 14-16, 18-19, 22-24, 41, 45, 56, 60-61, 65, 78, 81, 107-109, 111-112, 130, 131-132.)</extent>
+                                    
+                                    <foliation n="1" type="original">Nepālākṣarā letter-numerals, mid-left margin, verso.</foliation>
+                                    <foliation n="1" type="original">Nepālākṣarā numerals, mid-right margin, verso.</foliation>
+
+                                    
+                                    <!--                                the following element contains free text; however, stick to the set phrases as far as possible!-->
+                                    <condition>
+                                        Paper supply, in good condition.
+                                    </condition>
+                                </supportDesc>
+                                
+                                <layoutDesc>                     
+                                    <layout pseudocolumns="3" writtenLines="5">
+                                        <dimensions type="written" subtype="Pseudocolumn_1" unit="cm">
+                                            <height quantity="3">3</height>
+                                            <width quantity="7.5">ca. 7.5</width> 
+                                        </dimensions>
+                                        <dimensions type="written" subtype="Pseudocolumn_2" unit="cm">
+                                            <height quantity="3">3</height>
+                                            <width quantity="9">ca. 9</width>
+                                        </dimensions>
+                                        <dimensions type="written" subtype="Pseudocolumn_3" unit="cm">
+                                            <height quantity="3">3</height>
+                                            <width quantity="7.5">ca. 7.5</width>
+                                        </dimensions>
+                                        <p>5 lines per page, approximately 48 <hi rend="italic">akṣara</hi>s per line.</p>
+                                        <dimensions type="akṣara" unit="mm" n="48">
+                                            <height quantity="5">5</height>
+                                        </dimensions>
+                                        <dimensions type="interlinear" unit="mm">
+                                            <height quantity="1">1</height>
+                                        </dimensions>      
+                                        <p>The layout of the page is divided into three pseudocolumns, each delimited by  Two pairs of double frame lines.</p>
+                                        <stringHole type="true" quantity="2"> Two string holes approximately in the middle of a blank column-like space.
+                                            <dimensions type="string hole spaces" scope="most" unit="cm">
+                                                <width quantity="2.5">2.5</width>
+                                            </dimensions>
+                                        </stringHole>
+                                        
+                                    </layout>
+                                </layoutDesc>
+                            </objectDesc>
+                            
+                            <handDesc>
+                                <handNote scope="sole" script="nepālākṣarā" medium="blackink">
+                                    <desc>Nepālākṣarā in black ink. </desc>
+                           <!--                                    <p><hi rend="bold">Scribe:</hi> <hi rend="bold">Scribe:</hi> <name type="person" subtype="scr" key="local_ VIAF_"><persName xml:lang="san" type="standard"> [scribe name]</persName></name></p>-->
+                                </handNote>
+                            </handDesc>
+                            
+                     <!--                            <decoDesc>
+                                <decoNote type="miniature">
+                                    <desc>On <locus from="1v" to="1v">folio 1v</locus>, .............</desc>
+                                </decoNote>
+                            </decoDesc>-->
+                     <!--                            
+                            <additions>
+                                <list>
+                                    <head>Marginalia</head>
+                                    <item>
+                                        <marginalia type="corrections">On the bottom right margin of folio <locus from="61r" to="61r">61r5</locus>, ..... .</marginalia>
+                                    </item>
+                                    <item>
+                                        <marginalia type="annotations">On the top right margin of folio <locus from="61r" to="61r">61r5</locus>, ..... .</marginalia>
+                                    </item>
+                                </list>
+                            </additions>-->
+                     <!--                            <bindingDesc>
+                                <p><material>Wood cover</material>, original binding.</p>
+                                <p>On the <locus from="back cover" to="back cover">outer side of the back cover</locus>, whatnot.</p>
+                            </bindingDesc>-->
+                        </physDesc>
+                        
+                        <history>
+                            <origin>
+                                <origDate calendar="Gregorian" notBefore="1601" notAfter="1800">18th-19th century.</origDate>
+                            </origin>
+                        </history>
+                    </msPart>  
+                    
+                    <msPart n="3">
+                        <altIdentifier type="internal">
+                            <idno>Third codicological unit</idno>
+                        </altIdentifier>
+                        
+                        <physDesc>
+                            <objectDesc form="tālapatra"> 
+                                <supportDesc material="corypha_palm_leaf">
+                                    <support>Palm-leaf (Corypha).
+                                        <!--                                        <p>
+                                            <dimensions type="folio" scope="most" unit="cm">
+                                                <height quantity="X">ca. X</height>
+                                                <width quantity="X">ca. X</width>
+                                            </dimensions>
+                                            <!-\-                                        ALTERNATIVELY, if you give a range use the following pattern:-\->
+                                            <dimensions type="folio" scope="range" unit="cm">
+                                                <height atLeast="X" atMost="Y">ca. X-Y</height>
+                                                <width atLeast="X" atMost="Y">ca. X-Y</width>
+                                            </dimensions>
+                                        </p>-->
+                                    </support>
+                                    
+                                    <extent xml:id="folio" n="1"> 1 f.</extent>
+                                    
+                                    <!--                                    <foliation n="1" type="original">Letter numbers, mid-left margin, verso.</foliation>
+                                    <foliation n="2" type="original">Devanāgarī numerals, mid-right margin, verso.</foliation>
+                                    <foliation n="3" type="modern">Arabic numerals, top right margin, verso.</foliation> 
+                                    -->
+                                    <!--                                the following element contains free text; however, stick to the set phrases as far as possible!-->
+                                    <condition>
+                                        The text is faded and sometimes retraced.
+                                    </condition>
+                                </supportDesc>
+                                
+                                <layoutDesc>
+                                    <layout pseudocolumns="3" writtenLines="5">
+                                        <dimensions type="written" subtype="Pseudocolumn_1" unit="cm">
+                                            <height quantity="3.5">3.5</height>
+                                            <width quantity="8">8</width> 
+                                        </dimensions>
+                                        <dimensions type="written" subtype="Pseudocolumn_2" unit="cm">
+                                            <height quantity="3">3</height>
+                                            <width quantity="9">9</width>
+                                        </dimensions>
+                                        <dimensions type="written" subtype="Pseudocolumn_3" unit="cm">
+                                            <height quantity="3">3</height>
+                                            <width quantity="7.6">7.6</width>
+                                        </dimensions>
+                                        <p>5 lines per page, approximately 57 <hi rend="italic">akṣara</hi>s per line.</p>
+                                        <dimensions type="akṣara" unit="mm" n="57">
+                                            <height quantity="4">4</height>
+                                        </dimensions>
+                                        <dimensions type="interlinear" unit="mm">
+                                            <height quantity="1">1</height>
+                                        </dimensions>                        
+                                        <p>The layout of the
+                                            page is divided into three pseudocolumns, each pseudocolumn is
+                                            delimited by double frame lines on both sides.
+                                        </p>
+                                        <stringHole type="true" quantity="2"> Two string holes approximately
+                                            in the middle of a blank column-like space.
+                                            <dimensions type="string hole spaces" scope="most" unit="cm">
+                                                <width quantity="2">2</width>
+                                            </dimensions>
+                                        </stringHole>
+                                    </layout>
+                                </layoutDesc>          
+                            </objectDesc>
+                            
+                            <handDesc n="1">
+                                <handNote xml:id="Eirsp-1"
+                                  scope="major"
+                                  script="nepālākṣarā"
+                                  medium="blackink">
+                                    <desc>First hand: hooked Nepālākṣarā (Bhujimol) in black ink.</desc>
+                                </handNote>
+                                <handNote xml:id="Eirsp-2"
+                                  scope="minor"
+                                  script="nepālākṣarā"
+                                  medium="blackink">
+                                    <desc>Second hand: hooked Nepālākṣarā (Bhujimol) in black ink (deleted text on the verso).</desc>
+                                </handNote>
+                            </handDesc>
+                            <!--                            
+                            <decoDesc>
+                                <decoNote type="miniature">
+                                    <desc>On <locus from="1v" to="1v">folio 1v</locus>, .............</desc>
+                                </decoNote>
+                            </decoDesc>
+                            -->
+                            <additions> This folio originally belonged to another manuscript of the
+                                    <title xml:lang="san">Pañcarakṣā</title>, since on the verso (numbered
+                                19 with a foliation in Nepālākṣarā numerals on the mid-right margin) 
+                                a part of the <title xml:lang="san">Mahāpratisarā</title> is found (as it
+                                stands in the manuscript, from <hi rend="italic">°khaṇḍako dattādāyī
+                                    sukhādvārahārikaḥ saṃghikaṃ cāturdiśikaṃ gaṇaprāptañ ca yad
+                                    dravyan tat paudgalikaṃ kṛtvā sarvam adhiṣṭhāya takṣayati</hi> to <hi rend="italic">tasyā eva rātryāḥ atyayātra svapasthitaḥ smṛtiḥ
+                                        kālagataḥ | sat asmin kadravare utsṛṣṭa avīcau<sic/>
+                                        ma<damage>-8-</damage>
+                        </hi>).
+                                <!--<list>
+                                    <item> On <locus from="33r" to="33r">33r</locus>, an invocation in
+                                        Nepālākṣarā script : [l1] <g>$</g> oṃ āḥ huṃ || śubham astu || 
+                                        [l2] <g>$</g> jīrṇṇo<add place="below">dhā</add>raka aśanyācāryyaśrībṛhaspatiṃ jaro || śubham astu ||
+                                        <g>@</g>
+                                    </item>
+                                    
+                                    <!-\-                                <item>
+                                    On the <locus from="back cover (inside)" to="back cover (inside)">inner side of the back cover</locus>, an invocation, almost completely faded, and the complete alphabet, clearly readable, then started over again but not completed. 
+                                </item>-\->
+                                </list>
+                                
+                                <head>Marginalia</head>
+                                <list>
+                                    <item>
+                                        <marginalia type="corrections">Rare marginal corrections (and possibly annotations) throughout the manuscript.</marginalia>
+                                    </item> 
+                                    <!-\-                                    <item>
+                                        <marginalia type="annotations">Many marginal annotations throughout the manuscript.</marginalia>
+                                    </item>-\->   
+                                </list>-->
+                            </additions>
+                            
+                            <!--                            <bindingDesc>
+                                <p><material>Wood cover</material>, original binding.</p>
+                                <p>On the <locus from="back cover" to="back cover">outer side of the back cover</locus>, whatnot.</p>
+                            </bindingDesc>-->
+                        </physDesc>
+                        
+                                                <history>
+                            <origin>
+                                <origDate calendar="Gregorian" notBefore="1382" notAfter="1395">probably 1382-1395, during the reign of Jayasthitimalla
+                                    (see the colophon in this codicological
+                                    unit).</origDate>
+                            </origin>
+                        </history>
+                    </msPart>
+                    
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080761.html">Manuscripts, Sanskrit</ref>
+                        </item>
+                    </list>
+                </keywords>
+                <keywords scheme="local">
+                    <list>
+                        <item>Bauddha</item>
+                        <item>Bauddha Tantra</item>
+                        <item>Dhāraṇī</item>
+                    </list>
+                </keywords>
+            </textClass>
+            
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-11-07">
+                <persName>Daniele Cuneo and Camillo Formigatti.</persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <!--
+    <facsimile>
+    </facsimile>
+    -->
+    <text>
+        <body>
+            <div>
+                <pb n="cover" facs="#i1"/>
+                <pb n="cover (inside)" facs="#i2"/>
+                <pb n="1r" facs="#i3"/>
+                <pb n="1v" facs="#i4"/>
+                <pb n="2r" facs="#i5"/>
+                <pb n="2v" facs="#i6"/>
+                <pb n="3r" facs="#i7"/>
+                <pb n="3v" facs="#i8"/>
+                <pb n="4r" facs="#i9"/>
+                <pb n="4v" facs="#i10"/>
+                <pb n="5r" facs="#i11"/>
+                <pb n="5v" facs="#i12"/>
+                <pb n="6r" facs="#i13"/>
+                <pb n="6v" facs="#i14"/>
+                <pb n="7r" facs="#i15"/>
+                <pb n="7v" facs="#i16"/>
+                <pb n="8r" facs="#i17"/>
+                <pb n="8v" facs="#i18"/>
+                <pb n="9r" facs="#i19"/>
+                <pb n="9v" facs="#i20"/>
+                <pb n="10r" facs="#i21"/>
+                <pb n="10v" facs="#i22"/>
+                <pb n="11r" facs="#i23"/>
+                <pb n="11v" facs="#i24"/>
+                <pb n="12r" facs="#i25"/>
+                <pb n="12v" facs="#i26"/>
+                <pb n="13r" facs="#i27"/>
+                <pb n="13v" facs="#i28"/>
+                <pb n="14r" facs="#i29"/>
+                <pb n="14v" facs="#i30"/>
+                <pb n="15r" facs="#i31"/>
+                <pb n="15v" facs="#i32"/>
+                <pb n="16r" facs="#i33"/>
+                <pb n="16v" facs="#i34"/>
+                <pb n="17r" facs="#i35"/>
+                <pb n="17v" facs="#i36"/>
+                <pb n="18r" facs="#i37"/>
+                <pb n="18v" facs="#i38"/>
+                <pb n="19r" facs="#i39"/>
+                <pb n="19v" facs="#i40"/>
+                <pb n="20r" facs="#i41"/>
+                <pb n="20v" facs="#i42"/>
+                <pb n="21r" facs="#i43"/>
+                <pb n="21v" facs="#i44"/>
+                <pb n="22r" facs="#i45"/>
+                <pb n="22v" facs="#i46"/>
+                <pb n="23r" facs="#i47"/>
+                <pb n="23v" facs="#i48"/>
+                <pb n="24r" facs="#i49"/>
+                <pb n="24v" facs="#i50"/>
+                <pb n="25r" facs="#i51"/>
+                <pb n="25v" facs="#i52"/>
+                <pb n="26r" facs="#i53"/>
+                <pb n="26v" facs="#i54"/>
+                <pb n="27r" facs="#i55"/>
+                <pb n="27v" facs="#i56"/>
+                <pb n="28r" facs="#i57"/>
+                <pb n="28v" facs="#i58"/>
+                <pb n="29r" facs="#i59"/>
+                <pb n="29v" facs="#i60"/>
+                <pb n="30r" facs="#i61"/>
+                <pb n="30v" facs="#i62"/>
+                <pb n="31r" facs="#i63"/>
+                <pb n="31v" facs="#i64"/>
+                <pb n="32r" facs="#i65"/>
+                <pb n="32v" facs="#i66"/>
+                <pb n="33r" facs="#i67"/>
+                <pb n="33v" facs="#i68"/>
+                <pb n="34r" facs="#i69"/>
+                <pb n="34v" facs="#i70"/>
+                <pb n="35r" facs="#i71"/>
+                <pb n="35v" facs="#i72"/>
+                <pb n="36r" facs="#i73"/>
+                <pb n="36v" facs="#i74"/>
+                <pb n="37r" facs="#i75"/>
+                <pb n="37v" facs="#i76"/>
+                <pb n="38r" facs="#i77"/>
+                <pb n="38v" facs="#i78"/>
+                <pb n="39r" facs="#i79"/>
+                <pb n="39v" facs="#i80"/>
+                <pb n="40r" facs="#i81"/>
+                <pb n="40v" facs="#i82"/>
+                <pb n="41r" facs="#i83"/>
+                <pb n="41v" facs="#i84"/>
+                <pb n="42r" facs="#i85"/>
+                <pb n="42v" facs="#i86"/>
+                <pb n="43r" facs="#i87"/>
+                <pb n="43v" facs="#i88"/>
+                <pb n="44r" facs="#i89"/>
+                <pb n="44v" facs="#i90"/>
+                <pb n="45r" facs="#i91"/>
+                <pb n="45v" facs="#i92"/>
+                <pb n="46r" facs="#i93"/>
+                <pb n="46v" facs="#i94"/>
+                <pb n="47r" facs="#i95"/>
+                <pb n="47v" facs="#i96"/>
+                <pb n="48r" facs="#i97"/>
+                <pb n="48v" facs="#i98"/>
+                <pb n="49r" facs="#i99"/>
+                <pb n="49v" facs="#i100"/>
+                <pb n="50r" facs="#i101"/>
+                <pb n="50v" facs="#i102"/>
+                <pb n="51r" facs="#i103"/>
+                <pb n="51v" facs="#i104"/>
+                <pb n="52r" facs="#i105"/>
+                <pb n="52v" facs="#i106"/>
+                <pb n="53r" facs="#i107"/>
+                <pb n="53v" facs="#i108"/>
+                <pb n="54r" facs="#i109"/>
+                <pb n="54v" facs="#i110"/>
+                <pb n="55r" facs="#i111"/>
+                <pb n="55v" facs="#i112"/>
+                <pb n="56r" facs="#i113"/>
+                <pb n="56v" facs="#i114"/>
+                <pb n="57r" facs="#i115"/>
+                <pb n="57v" facs="#i116"/>
+                <pb n="58r" facs="#i117"/>
+                <pb n="58v" facs="#i118"/>
+                <pb n="59r" facs="#i119"/>
+                <pb n="59v" facs="#i120"/>
+                <pb n="60r" facs="#i121"/>
+                <pb n="60v" facs="#i122"/>
+                <pb n="61r" facs="#i123"/>
+                <pb n="61v" facs="#i124"/>
+                <pb n="62r" facs="#i125"/>
+                <pb n="62v" facs="#i126"/>
+                <pb n="63r" facs="#i127"/>
+                <pb n="63v" facs="#i128"/>
+                <pb n="64r" facs="#i129"/>
+                <pb n="64v" facs="#i130"/>
+                <pb n="65r" facs="#i131"/>
+                <pb n="65v" facs="#i132"/>
+                <pb n="66r" facs="#i133"/>
+                <pb n="66v" facs="#i134"/>
+                <pb n="67r" facs="#i135"/>
+                <pb n="67v" facs="#i136"/>
+                <pb n="68r" facs="#i137"/>
+                <pb n="68v" facs="#i138"/>
+                <pb n="69r" facs="#i139"/>
+                <pb n="69v" facs="#i140"/>
+                <pb n="70r" facs="#i141"/>
+                <pb n="70v" facs="#i142"/>
+                <pb n="71r" facs="#i143"/>
+                <pb n="71v" facs="#i144"/>
+                <pb n="72r" facs="#i145"/>
+                <pb n="72v" facs="#i146"/>
+                <pb n="73r" facs="#i147"/>
+                <pb n="73v" facs="#i148"/>
+                <pb n="74r" facs="#i149"/>
+                <pb n="74v" facs="#i150"/>
+                <pb n="75r" facs="#i151"/>
+                <pb n="75v" facs="#i152"/>
+                <pb n="76r" facs="#i153"/>
+                <pb n="76v" facs="#i154"/>
+                <pb n="77r" facs="#i155"/>
+                <pb n="77v" facs="#i156"/>
+                <pb n="78r" facs="#i157"/>
+                <pb n="78v" facs="#i158"/>
+                <pb n="79r" facs="#i159"/>
+                <pb n="79v" facs="#i160"/>
+                <pb n="80r" facs="#i161"/>
+                <pb n="80v" facs="#i162"/>
+                <pb n="81r" facs="#i163"/>
+                <pb n="81v" facs="#i164"/>
+                <pb n="82r" facs="#i165"/>
+                <pb n="82v" facs="#i166"/>
+                <pb n="83r" facs="#i167"/>
+                <pb n="83v" facs="#i168"/>
+                <pb n="84r" facs="#i169"/>
+                <pb n="84v" facs="#i170"/>
+                <pb n="85r" facs="#i171"/>
+                <pb n="85v" facs="#i172"/>
+                <pb n="86r" facs="#i173"/>
+                <pb n="86v" facs="#i174"/>
+                <pb n="87r" facs="#i175"/>
+                <pb n="87v" facs="#i176"/>
+                <pb n="88r" facs="#i177"/>
+                <pb n="88v" facs="#i178"/>
+                <pb n="89r" facs="#i179"/>
+                <pb n="89v" facs="#i180"/>
+                <pb n="90r" facs="#i181"/>
+                <pb n="90v" facs="#i182"/>
+                <pb n="91r" facs="#i183"/>
+                <pb n="91v" facs="#i184"/>
+                <pb n="92r" facs="#i185"/>
+                <pb n="92v" facs="#i186"/>
+                <pb n="93r" facs="#i187"/>
+                <pb n="93v" facs="#i188"/>
+                <pb n="94r" facs="#i189"/>
+                <pb n="94v" facs="#i190"/>
+                <pb n="95r" facs="#i191"/>
+                <pb n="95v" facs="#i192"/>
+                <pb n="96r" facs="#i193"/>
+                <pb n="96v" facs="#i194"/>
+                <pb n="97r" facs="#i195"/>
+                <pb n="97v" facs="#i196"/>
+                <pb n="98r" facs="#i197"/>
+                <pb n="98v" facs="#i198"/>
+                <pb n="99r" facs="#i199"/>
+                <pb n="99v" facs="#i200"/>
+                <pb n="100r" facs="#i201"/>
+                <pb n="100v" facs="#i202"/>
+                <pb n="101r" facs="#i203"/>
+                <pb n="101v" facs="#i204"/>
+                <pb n="102r" facs="#i205"/>
+                <pb n="102v" facs="#i206"/>
+                <pb n="103r" facs="#i207"/>
+                <pb n="103v" facs="#i208"/>
+                <pb n="104r" facs="#i209"/>
+                <pb n="104v" facs="#i210"/>
+                <pb n="105r" facs="#i211"/>
+                <pb n="105v" facs="#i212"/>
+                <pb n="106r" facs="#i213"/>
+                <pb n="106v" facs="#i214"/>
+                <pb n="107r" facs="#i215"/>
+                <pb n="107v" facs="#i216"/>
+                <pb n="108r" facs="#i217"/>
+                <pb n="108v" facs="#i218"/>
+                <pb n="109r" facs="#i219"/>
+                <pb n="109v" facs="#i220"/>
+                <pb n="110r" facs="#i221"/>
+                <pb n="110v" facs="#i222"/>
+                <pb n="111r" facs="#i223"/>
+                <pb n="111v" facs="#i224"/>
+                <pb n="112r" facs="#i225"/>
+                <pb n="112v" facs="#i226"/>
+                <pb n="113r" facs="#i227"/>
+                <pb n="113v" facs="#i228"/>
+                <pb n="114r" facs="#i229"/>
+                <pb n="114v" facs="#i230"/>
+                <pb n="115r" facs="#i231"/>
+                <pb n="115v" facs="#i232"/>
+                <pb n="116r" facs="#i233"/>
+                <pb n="116v" facs="#i234"/>
+                <pb n="117r" facs="#i235"/>
+                <pb n="117v" facs="#i236"/>
+                <pb n="118r" facs="#i237"/>
+                <pb n="118v" facs="#i238"/>
+                <pb n="119r" facs="#i239"/>
+                <pb n="119v" facs="#i240"/>
+                <pb n="120r" facs="#i241"/>
+                <pb n="120v" facs="#i242"/>
+                <pb n="121r" facs="#i243"/>
+                <pb n="121v" facs="#i244"/>
+                <pb n="122r" facs="#i245"/>
+                <pb n="122v" facs="#i246"/>
+                <pb n="123r" facs="#i247"/>
+                <pb n="123v" facs="#i248"/>
+                <pb n="124r" facs="#i249"/>
+                <pb n="124v" facs="#i250"/>
+                <pb n="125r" facs="#i251"/>
+                <pb n="125v" facs="#i252"/>
+                <pb n="126r" facs="#i253"/>
+                <pb n="126v" facs="#i254"/>
+                <pb n="127r" facs="#i255"/>
+                <pb n="127v" facs="#i256"/>
+                <pb n="128r" facs="#i257"/>
+                <pb n="128v" facs="#i258"/>
+                <pb n="129r" facs="#i259"/>
+                <pb n="129v" facs="#i260"/>
+                <pb n="130r" facs="#i261"/>
+                <pb n="130v" facs="#i262"/>
+                <pb n="131r" facs="#i263"/>
+                <pb n="131v" facs="#i264"/>
+                <pb n="132r" facs="#i265"/>
+                <pb n="132v" facs="#i266"/>
+                <pb n="133r" facs="#i267"/>
+                <pb n="133v" facs="#i268"/>
+                <pb n="134r" facs="#i269"/>
+                <pb n="134v" facs="#i270"/>
+                <pb n="135r" facs="#i271"/>
+                <pb n="135v" facs="#i272"/>
+                <pb n="136r" facs="#i273"/>
+                <pb n="136v" facs="#i274"/>
+                <pb n="137r" facs="#i275"/>
+                <pb n="137v" facs="#i276"/>
+                <pb n="138r" facs="#i277"/>
+                <pb n="138v" facs="#i278"/>
+                <pb n="139r" facs="#i279"/>
+                <pb n="139v" facs="#i280"/>
+                <pb n="140r" facs="#i281"/>
+                <pb n="140v" facs="#i282"/>
+                <pb n="141r" facs="#i283"/>
+                <pb n="141v" facs="#i284"/>
+                <pb n="142r" facs="#i285"/>
+                <pb n="142v" facs="#i286"/>
+                <pb n="143r" facs="#i287"/>
+                <pb n="143v" facs="#i288"/>       
+            <pb n="back cover (inside)" facs="#i289"/>
+            <pb n="back cover" facs="#i290"/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS Add.1680.2.4</title>
+                <funder>AHRC</funder>
+                <principal>Vincenzo Vergiani</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+                </address>
+                </pubPlace>
+                <idno>Sanskrit</idno>
+                
+                <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                
+                <msDesc xml:id="Sanskrit" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Additional Manuscripts</collection>
+                        <idno>MS Add.1680.2.4</idno>
+                    <altIdentifier type="internal"> 
+                     <collection type="CUL_collection">sanskrit</collection> 
+                     <idno/> 
+                  </altIdentifier>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary> The <title xml:lang="san">Avadānaśataka</title> is an ancient
+                            collection of Buddhist legends, its first redaction dating to the first
+                            centuries of the CE. It was translated into Chinese and Tibetan during
+                            the first millennium CE, gaining large popularity across Asia. This
+                            Nepalese incomplete palm-leaf manuscript consists of one single folio (numbered 2) 
+                            containing part of the <title xml:lang="san">Guḍaśālāvadāna</title>, the forty-first story in the
+                            collection. This folio is part of a bundle of
+                            nine folios possibly from four different manuscripts, containing parts
+                            of five stories from the <title xml:lang="san">Avadānaśataka</title>.
+                            They were used by Speyer for his edition of the <title xml:lang="san">Avadānaśataka</title> and were given the siglum F. 
+                            <p>A complete
+                                diplomatic transcription of this fragment is provided in the section "View more options."</p>
+                        </summary>
+                        
+                        <msItem n="1" defective="true">
+                            <author>
+                                <name type="person" role="aut" key="local_00000">
+                           <persName xml:lang="eng" type="standard">‏Unknown.</persName>
+                        </name>
+                            </author>
+                            
+                            <title xml:lang="san">Avadānaśataka</title>
+                            <title type="alt" xml:lang="san">Śatakāvadāna</title>
+                            
+                            
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                            
+                            <filiation>
+                                <!--<p>Antigraph: E 1554-24 (NGMCP), see  <ref type="biblio" target="#Demoto2006">Demoto 2006: 214-5</ref>, 
+                                    <quote>After having compared one third of this ms with Speyer's
+                                        edition we gained the impression that the new manuscript is
+                                        the direct source of B.</quote> 
+                                    (B is Speyer's siglum for Add.1611, see <ref type="biblio" target="#Speyer1902">Speyer 1902: CIII</ref>: <quote>B = Cambr. Add.1611</quote>).</p>-->
+                                <p>This manuscript belongs to a different line of
+                                    transmission than <ref type="extant_mss"
+                                target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01611/1">CUL
+                                        Add.1611</ref>, on which the text edited by Speyer is based
+                                        (Add.1680.2 <quote>is the only source independent
+                                        from B</quote> (<ref type="biblio" target="#Demoto2006">Demoto 2006: 208</ref>); see also <ref type="biblio" target="#Speyer1902">Speyer 1902: CIII-CVII</ref>:
+                                        <quote>the Avadānaśataka text rests on one MS, the Cambridge
+                                        Add.1611 [...] The other three MSS I have collated, CDP have
+                                        been copied from it </quote>.)
+                                    <!--<list>
+                                        <item>
+                                            <ref type="extant_mss"
+                                                target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01386/1"
+                                            />Add.1386 = C in Speyer's edition (<ref type="biblio"
+                                                target="#Speyer1902">Speyer 1902: CV</ref>) </item>
+                                        <item> Hodgson manuscript in the India Office Library = D in
+                                            Speyer's edition (<ref type="biblio"
+                                                target="#Speyer1902">Speyer 1902: CV</ref>) </item>
+                                        <item> Hodgson manuscript D. 122 in the Bibliothèque
+                                            Nationale, Paris = P in Speyer's edition (<ref
+                                                type="biblio" target="#Speyer1902">Speyer 1902:
+                                                CVI</ref>). </item>
+                                    </list>-->
+                                </p>
+                            </filiation>
+                        </msItem>
+                    </msContents>
+                    
+                    <physDesc>
+                        <objectDesc form="tālapatra"> 
+                            <supportDesc material="corypha_palm_leaf">
+                                <support> Palm leaf (Corypha). 
+                                    <p>
+                                        <dimensions type="folio" scope="most" unit="cm">
+                                            <height quantity="5">ca 5</height>
+                                            <width quantity="32">ca 32</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                
+                                <extent xml:id="folio" n="1">1 ff.</extent>
+                                
+                                <foliation n="1" type="original">Nepālākṣarā numerals, mid-right margin, verso.</foliation>
+                                
+                                <condition>
+                                    Incomplete, worm-eaten and with frayed margins.
+                                </condition>
+                            </supportDesc>
+                            
+                           <layoutDesc>
+                               <layout columns="1" writtenLines="6">
+                                   <!--<dimensions type="written area" unit="cm">
+                                       <height>5</height>
+                                       <width>32</width>
+                                   </dimensions>-->
+                                   <p>6 lines per page, approximately 66 <term xml:lang="san">akṣara</term>s per line.</p>
+                                   <!--<dimensions type="akṣara" unit="mm" n="66">
+                                       <height>3</height>
+                                   </dimensions>-->
+                                   <!--<dimensions type="interlinear space" unit="mm">
+                                       <height>2</height>
+                                   </dimensions>--> 
+                                   <stringHole type="true" quantity="1"> One string hole, approximately in the center of a square space delimited by ruled lines.
+                                       <!--<dimensions type="string hole space" scope="most" unit="cm">
+                                           <height atLeast="2" atMost="2.5">2-2.5</height>
+                                           <width quantity="2.5">2.5</width>
+                                       </dimensions>-->
+                                   </stringHole>
+                                   <p>The manuscript is very carefully written, the lines and the written area are very regular, 
+                                       even without marginal frame lines and without ruling.</p>
+                               </layout>
+                           </layoutDesc>
+                        </objectDesc>
+                        
+                        <handDesc hands="1">
+                            <handNote scope="sole" script="nepālākṣarā" medium="blackink">
+                                <desc>Nepālākṣarā in black ink.</desc>
+                            </handNote>
+                        </handDesc>
+                        
+                        <!--<decoDesc>
+                            <decoNote type="illustration">
+                                <desc>Yes (only on folio 1v)</desc>
+                            </decoNote>
+                            </decoDesc>-->
+                        
+                        <!--<additions>
+                            <list>
+                                <head>Marginalia</head>
+                                <item>
+                                    <marginalia type="corrections">Some corrections added in the margins.</marginalia>
+                                </item>
+                            </list>
+                            </additions>-->
+                        
+                        <bindingDesc>
+                            <p>
+                                <material>Cardboard box</material>, library binding.</p>
+                            <p>The manuscript is kept in a cardboard box together with other palm-leaf fragmentary manuscripts (see Bendall 1883: 167-71); 
+                                each single fragment or bundle of fragments is wrapped in a paper sheet with the classmark written in pencil.</p>
+                        </bindingDesc>
+                    </physDesc>
+                    
+                    <history>
+                        <origin>
+                            <origDate calendar="Gregorian" notBefore="1301" notAfter="1500">14th-15th century.</origDate>
+                            <origPlace xml:lang="eng" key="1000132">Nepal.</origPlace>
+                        </origin>
+                        <provenance>Bought by <name type="person" role="dnr" key="local_00002 VIAF_7477330">
+                            <persName type="standard" xml:lang="eng">Wright, Daniel</persName>
+                            <persName type="display" xml:lang="eng">Dr. D. Wright</persName>
+                        </name> in <date calendar="Gregorian" from="1873" to="1876">1873-6</date>.
+                        </provenance>
+                        <acquisition>
+                            <date calendar="Gregorian" when="1875-12">December 1875 (ULIB
+                                7/3/55).</date>
+                        </acquisition>
+                    </history>
+                    
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <ref type="biblio" target="Bendall1883">Bendall (1883:
+                                        168)</ref>, <ref type="biblio" target="Speyer1902">Speyer (1902: CVI-CVII)</ref>, direct inspection.</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+                        
+                        <listBibl type="ms_descriptions">
+                            <head>Descriptions of the manuscript</head>
+                            
+                            <biblStruct type="manuscript" xml:id="ULIB7355Bradshaw1870">
+                                <monogr>
+                                    <title level="m">Notes on the collections of Oriental, Thibetan and
+                                        'Additional' manuscripts [unpublished manuscript]</title>
+                                    <author>
+                              <forename>Henry</forename>
+                              <surname>ULIB 7/3/55 =
+                                        Bradshaw</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1870-80</date>
+                                        <!--<note type="url"
+                                            ><ref target="http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0265%2FULIB%207%2F3%2F55">[link]</ref></note>-->
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="manuscript" xml:id="ULIB714Griffith1873">
+                                <monogr>
+                                    <title level="m">Assorted lists of manuscripts and books, chiefly Oriental,
+                                        acquired by the Library, with related papers</title>
+                                    <author>
+                              <forename>Ralph T. H.</forename>
+                              <surname>ULIB 7/1/4 =
+                                        Griffith</surname>
+                           </author>
+                                    <author>
+                              <forename>Daniel</forename>
+                              <surname>Wright</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1873</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">ULIB 7/1/4</idno>
+                            </biblStruct>
+                            
+                            <biblStruct type="manuscript" xml:id="zoteroItem_243">
+                        <monogr>
+                            <title level="m">List Add.923-1827 = List of Additional Manuscripts 923-1827 [unpublished manuscript]</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1878</date>
+                                    </imprint>
+                                </monogr>
+                        <idno type="callNumber">Handlist_Add_1878</idno>
+                     </biblStruct>
+                            
+                     <biblStruct type="manuscript" xml:id="Handlist_1900">
+                        <monogr>
+                           <title>List of Oriental MSS. Class Catalogue of Oriental MSS. [unpublished manuscript]</title>
+                           <imprint>
+                              <pubPlace>Cambridge</pubPlace>
+                              <date>1900–</date>
+                           </imprint>
+                        </monogr>
+                        <idno type="callNumber">Handlist_1900</idno>
+                     </biblStruct>
+                            
+                            <biblStruct type="book" xml:id="Bendall1883">
+                                <monogr>
+                                    <title>Catalogue of the Buddhist Sanskrit Manuscripts in the University Library, Cambridge. 
+                                        With Introductory Notices and Illustrations of the Palæography and Chronology of Nepal and Bengal</title>
+                                    <author>
+                                        <forename>Cecil</forename>
+                                        <surname>Bendall</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <publisher>University Press</publisher>
+                                        <date>1883</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Bendall_1883</idno>
+                            </biblStruct>
+                            
+                            <bibl>
+                                <ref type="biblio" target="#Speyer1902">Speyer 1902: CIII-CV.</ref>
+                            </bibl>
+                        </listBibl>
+                        
+                        <listBibl type="manuscripts">
+                            <head>Manuscripts</head>
+                            <bibl>
+                                <placeName>Cambridge</placeName>, <orgName>Cambridge University
+                                    Library</orgName>: <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01386/1">Add.
+                                        1386</ref>, <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01611/1">Add.
+                                    1611</ref>. </bibl>
+                            <bibl>
+                                <orgName>NGMCP</orgName>: <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/B_101-20_Avad%C4%81na%C5%9Bataka">B 101-20, NAK 1099</ref>; <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/A_118-4_Avad%C4%81na%C5%9Bataka">A 118-4, NAK 5/245</ref>; <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/B_95-11_Avad%C4%81na%C5%9Bataka">B 95-11, NAK 3/299</ref>; <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_664-2_Avad%C4%81na%C5%9Bataka">E 664-2</ref>; <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_1554-24_Avad%C4%81na%C5%9Bataka">E 1554-24</ref>; <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_1344-4_Avad%C4%81na%C5%9Bataka">E 1344-4</ref>; <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/D_42-11_Avad%C4%81na%C5%9Bataka">D 42-11</ref>; <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/A_918-3_Avad%C4%81na%C5%9Bataka">A 918-3, NAK 3/591</ref>; <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/A_844-8_Avad%C4%81na%C5%9Bataka">A 844-8</ref>; <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/X_1071-1_Avad%C4%81na%C5%9Bataka">X 1071-1</ref>. </bibl>
+                            <bibl>
+                                <orgName>Schøyen Collection</orgName>: fragments no. 2382/42 and
+                                2381/217. </bibl>
+                        </listBibl>
+                        
+                        <listBibl>
+                            <head>Edition(s)</head>
+                            <biblStruct type="book" xml:id="Speyer1902">
+                                <monogr>
+                                    <title>Avadānaçataka. A Century of Edifying Tales Belonging to the Hīnayāna</title>
+                                    <editor>
+                                        <forename>Jakob Samuel</forename>
+                                        <surname>Speyer</surname>
+                                    </editor>
+                                    <imprint>
+                                        <pubPlace>St.-Pétersbourg</pubPlace>
+                                        <publisher>Académie Impériale des Sciences</publisher>
+                                        <date>1902</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Speyer_1902</idno>
+                            </biblStruct>
+                        </listBibl>
+                        
+                        <listBibl> 
+                            <head>Secondary Literature</head>
+                            <bibl>
+                                <ref target="http://homepage3.nifty.com/indology/avadanasataka.html">
+                                    A detailed bibliography on the work (with a list of other manuscripts) is given on K. Okano's website (in Japanese)</ref>
+                            </bibl>                         
+                            
+                            <biblStruct type="book" xml:id="Braarvig2006">
+                                <monogr>
+                                    <title>Buddhist Manuscripts. Volume 3</title>
+                                    <editor>
+                                        <forename>Jens</forename>
+                                        <surname>Braarvig</surname>
+                                    </editor>
+                                    <imprint>
+                                        <pubPlace>Oslo</pubPlace>
+                                        <publisher>Hermes Pub.</publisher>
+                                        <date>2006</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>Manuscripts in the Schøyen Collection</title>
+                                </series>
+                                <idno type="callNumber">Schoyen_2006</idno>
+                            </biblStruct>
+                            
+                            <biblStruct type="bookSection" xml:id="Demoto2006">
+                                <analytic>
+                                    <title>Fragments of the Avadānaśataka</title>
+                                    <author>
+                                        <forename>Mitsuyo</forename>
+                                        <surname>Demoto</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Buddhist Manuscripts</title>
+                                    <imprint>
+                                        <pubPlace>Oslo</pubPlace>
+                                        <biblScope type="vol">III</biblScope>
+                                        <biblScope type="pp">207-244</biblScope>
+                                        <publisher>Hermes Publishing</publisher>
+                                        <date>2006</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>Manuscripts in the Schøyen Collection</title>
+                                </series>
+                                <idno type="callNumber">Demoto_2006</idno>
+                            </biblStruct>
+                            
+                            <biblStruct type="book" xml:id="Feer1891">
+                                <monogr>
+                                    <title>Avadâna-Çataka. Cent légendes Bouddhiques traduites du sanskrit par Léon Feer</title>
+                                    <author>
+                                        <forename>Léon</forename>
+                                        <surname>Feer</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Paris</pubPlace>
+                                        <publisher>E. Leroux</publisher>
+                                        <date>1891</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>Annales du Musée Guimet 18</title>
+                                </series>
+                                <idno type="callNumber">Feer_1891</idno>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            <taxonomy>
+               <bibl>Image Role Typology</bibl>
+               <category xml:id="document-thumbnail">
+                  <catDesc>document-thumbnail</catDesc>
+               </category>
+               <category xml:id="download">
+                  <catDesc>download</catDesc>
+               </category>
+               <category xml:id="thumbnail">
+                  <catDesc>thumbnail</catDesc>
+               </category>
+            </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080761.html">Manuscripts, Sanskrit</ref>
+                        </item>
+                    </list>
+                </keywords>
+                <keywords scheme="local">
+                    <list>
+                        <item>Bauddha</item>
+                        <item>Avadāna, Jātaka</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-03-22">
+                <persName>Camillo Formigatti.</persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+      <graphic decls="#document-thumbnail"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01680-00002-00004-000-00001_files/8/0_0.jpg"
+               rend="landscape"/>
+      <surface n="2r" xml:id="i1">
+         <graphic height="3334px"
+                  width="8759px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01680-00002-00004-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01680-00002-00004-000-00001_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="2v" xml:id="i2">
+         <graphic height="3334px"
+                  width="8759px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01680-00002-00004-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01680-00002-00004-000-00002_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      
+   </facsimile>
+    <text>
+        <body>
+         <div>
+            <pb xml:id="pb-2r" n="2r" facs="#i1"/>
+             <p>[2r1]ś ca bhājanībhavanti | yāvad apareṇa
+                 samayenāyuṣmān mahāmodgalyāyanaḥ pretacārikāṃ carann adrākṣīt pretaṃ
+                 parvvatakūṭaprakhyaṃ samudrasadṛśakukṣiṃ sūcīcchidropamamu<damage>khaṃ
+                     sva</damage>keśasaṃcha¦[2r2]nnam ādīptasamyakprajvalitam ekajvālībhūtaṃ
+                 dhyāyantam ārttasvaraṃ kra¦<g>%</g>ndantaṃ duḥkhāṃ tīvrāṃ kharāṃ kaṭukām
+                 samanāpāṃ vedanām anubhavantam yena yenoccārapraśrāvabhūmis tena
+                 te[2r3]nānvāhiṇḍyamānaṃ tad api kṛcchreṇāsādayantaṃ tataḥ sthaviraḥ pretaṃ
+                 pa<g>%</g>praccha kin te bhoḥ karmma kṛtaṃ yenaivaṃvidhāṃ duḥkhāṃ tīvrāṃ
+                 kharāṃ kaṭukām ananāpāṃ vedanāṃ vedayasa iti | [2r4] preta āha | āditye hi
+                 samudgate na hi dīpena prayojanam bhagavanta<g>%</g>m etam arthaṃ paripṛccha sa
+                 te asmākīnāṃ karmmaplotiṃ vyākari<add place="top">ṣyatī 4</add>ti | athāyuṣmān
+                 mahāmaudgalyāyano ye¦[2r5]na bhagavāṃs tenopasaṃkrāntaḥ tena khalu samayena
+                 bhagavān pratisaṃ<g>%</g>layanād vyutthāya catasṛṇāṃ parṣadāṃ madhuramadhuran
+                 dharmman deśayati kṣaudraṃ <sic>madhvikamaneḍakam</sic> anekaśatā ca [2r6]
+                 parṣad bhagavataḥ <sic>śakāśān</sic> madhuramadhuran dharmmaṃ | śṛṇoty
+                 anijyamānair indriyaiḥ tato buddhā bhagavantaḥ pūrvvālāpinaḥ priyālāpinaḥ |
+                 ehīti svāgatavādinaḥ smitapūrvvaṅgamāś ca tatra bha</p>
+             
+            <pb xml:id="pb-2v" n="2v" facs="#i2"/>
+             
+             <p>gavān āyuṣmantaṃ mahāmaudgalyāyanam idam avocat_ | ehi
+                 maudgalyāyana svāgatan te kutas tvam etarhy āgacchasīti | maudgalyāyana āha |
+                 āgacchāmy ahaṃ bhadanta pretacārikāyāḥ tatrāhaṃ preta[2v2]m adrākṣaṃ
+                 sūcī<damage>cchidro</damage>pa<add place="top">ma 2</add>mukhaṃ
+                 parvvatopamakukṣiṃ svakeśasaṃchannaṃ du¦<g>%</g>rgandhaṃ paramadurgandhaṃ | āha
+                 ca | viśuṣkakaṇṭhoṣṭhapuṭaḥ suduḥkhitaḥ praviddhaśailopamacarvitāśrayaḥ |
+                 sva¦[2v3]keśasañchannamukho digambaraḥ susūkṣmasūcīsadṛśānanaḥ kṛśaḥ <g>%</g> |
+                 nagnaḥ svakeśasañchanno 'sthiyantravaducchritaḥ | kapālapāṇir ghoraś ca krandaṃ
+                 samabhidhāvati | bubhukṣayā [2v4] <sic>pi<damage>pā</damage>śayā</sic> klānto
+                 vyasanapīḍitaḥ | ārttasvaraṃ kraṃdamāno duḥkhāṃ <g>%</g> vedati vedanāṃ | kin
+                 tena prakṛtaṃ pāpaṃ martyaloke sudāruṇam iti || bhagavān āha | pāpakārī
+                 maud_[2v5]galyāyana <damage>śṛṇu, sādhu ca su</damage>ṣṭhu ca manasi kuru
+                 bhāṣiṣye | bhūtapūrvvaṃ ¦ <g>%</g> maudgalyāyana rājagṛhe nagare 'nyataraḥ śreṣṭhī āḍhyo
+                 mahādhano mahābhogo vistīrṇṇaviśālapari[2v6]graho vaiśravaṇadhanasamudito
+                 vaiśravaṇadhanapratisparddhī tasya pañcamātrāṇīkṣuśālaśatāni yatra cekṣuḥ
+                 pīḍyante asati ca buddhānām utpāde pratyekabuddhā loka utpa<damage>dyante
+                     hīna</damage>dī</p>
+             
+             
+         </div>
+      </body>
+    </text>
+</TEI>

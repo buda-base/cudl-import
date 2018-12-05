@@ -2,12 +2,14 @@ package io.bdrc.cudl;
 
 import java.io.BufferedWriter;
 import java.io.ByteArrayOutputStream;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Set;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.HttpClient;
@@ -84,6 +86,15 @@ public class CUDLData {
         return true;
     }
 
+    public static JsonNode getNodeFromFile(String filename) throws IOException {
+        ObjectMapper mapper=new ObjectMapper();
+        return mapper.readTree(FileUtils.readFileToString(new File(filename),"UTF-8"));
+    }
+
+    public static String getXMLFileContents(String filename) throws IOException {
+        return FileUtils.readFileToString(new File(filename),"UTF-8");
+    }
+
     private static void writeFile(String filename, String dir, String content) throws IOException {
         BufferedWriter writer = new BufferedWriter(new FileWriter(rootDir+"/"+dir+"/"+filename));
         writer.write(content);
@@ -91,7 +102,8 @@ public class CUDLData {
     }
 
     public static void main(String[] args) throws ClientProtocolException, IOException {
-        CUDLData.loadData();
+        //CUDLData.loadData();
+        System.out.println(CUDLData.getXMLFileContents(rootDir+"/xml/MS-ADD-01398.xml"));
     }
 
 }

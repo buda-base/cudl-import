@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS Add.1380-Add.1381</title>
+                <funder>AHRC</funder>
+                <principal>Vincenzo Vergiani</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+                </address>
+                </pubPlace>
+                <idno>Sanskrit</idno>
+                
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                
+                <msDesc xml:id="Sanskrit" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Additional Manuscripts</collection>
+                        <idno>MS Add.1380-Add.1381</idno>
+                      <altIdentifier type="internal"> 
+                     <collection type="CUL_collection">Sanskrit</collection> 
+                     <idno/> 
+                       </altIdentifier>
+                    </msIdentifier>
+                    
+                    <msContents n="2">
+                        <!--increment n attribute for ms containing multiple ms items-->
+                        <summary>A modern manuscript containing the <title xml:lang="san">Kauśīdyavīryotsāhanāvadāna</title> and the <title xml:lang="san">Snātāvadāna</title>. In Bendall's catalogue (1883)
+                            this manuscript is described under two different classmarks, Add.1380
+                                (<title xml:lang="san">Snātāvadāna</title>) and Add.1381 (<title xml:lang="san" type="alt">
+                        <sic>Kauśighavīryotsāhanāvadāna</sic>
+                     </title>), as if it were
+                            two distinct manuscripts. However, many common features points to the
+                            fact that they are two parts of one single manuscript (paper, folio dimensions,
+                            layout and script are identical in the two). Moreover, in Add.1381 the
+                            foliation ends with 11, while in Add.1380 it begins with 12 (and not
+                            11, as stated in Bendall 1883: 80). These two <term xml:lang="san">avadāna</term>s belong to the cycle of king Aśoka and the monk
+                            Upagupta, and are versified versions from the <title xml:lang="san" type="other">Ratnāvadānamālā</title>. In the edition by Takahata (1954), the
+                            frame story of the <title xml:lang="san">Kauśīdyavīryotsāhanāvadāna</title> consists of only four stanzas
+                            and is different from the one found in the present manuscript. His
+                            edition is based mainly on a manuscript kept in the Kyōto University
+                            Library, but in the critical apparatus he states that the longer version
+                            in nine stanzas is witnessed in four other manuscripts used by him (it
+                            is also present in a manuscript microfilmed by the Nepal-German Manuscripts Preservation Project
+                            [NGMCP] with reel No. A 117-9, acc. No. NAK
+                            3/596, and the title <title xml:lang="san" type="other">Avadānaratnamālā</title>). Parallel versions of the stories can be
+                            found in other collections, like the <title xml:lang="san" type="other">Avadānaśataka</title> (II.3, <title xml:lang="san">Snātāvadāna</title>; I.3, <title xml:lang="san" type="other">Kuśīdāvadāna</title>). The title <sic>Kauśighavīryotsāhanāvadāna</sic> given in the
+                            manuscript is wrong due to trivial scribal errors (<hi rend="italic">i</hi> instead of
+                            <hi rend="italic">ī</hi>, and the common misreading of <hi rend="italic">gha</hi> for <hi rend="italic">dya</hi>, two <term xml:lang="san">akṣara</term>s very similar in Nepalese scripts).</summary>
+                        
+                        
+                        <msItem n="1" defective="false">
+                            <!--repeat the <msItem> element for every work in the ms; 
+                           change the @defective to the following values: if the ms is complete, "false", if incomplete, "true"; 
+                           if you are unsure, choose "inapplicable", DO NOT use unknown;
+                           use <locus> element in the case of multiple msItems to indicate range in manuscript, otherwise delete it-->
+                            <locus from="1v" to="1v">ff. 1v1-11v8</locus>
+                            
+                            <author>
+                                <name type="person" role="aut" key="local_00000">
+                           <persName xml:lang="san" type="standard">Unknown</persName>
+                                </name>
+                            </author>
+                            
+                            <title xml:lang="san">Kauśīdyavīryotsāhanāvadāna</title>
+                            <title xml:lang="san" type="alt">
+                        <sic>Kauśighavīryotsāhanāvadāna</sic> (final rubric)</title>
+                            
+                            <rubric xml:lang="san">
+                        <locus from="1v" to="1v">[1v1]</locus> 
+                                namaḥ śrīsarvabuddhabodhisatvebhyaḥ ||
+                            </rubric>
+                            
+                            <incipit xml:lang="san">
+                        <locus from="1v" to="1v">[1v1]</locus> 
+                                || yaḥ śrīmān sugato buddhaḥ saddharmadeśako jinaḥ || śāsanāni trilokeṣu
+                                jayantu tasya sarvadā || purā[1v2]sīt pātalīputr<subst>
+                           <del>a</del>
+                           <add>e</add>
+                        </subst> 
+                                nagare svargasaṃnibhe || aśoko nṛparājendraḥ
+                                triratnasevakaḥ sudhīḥ || ekasmiṃ samaye tatra sa rājā svajanaiḥ
+                                saha || pau[1v3]rikaiś ca sabhāṃ kṛtvā tasthau dharmasamutsukaḥ ||
+                                athāsau saugato bhikṣur upagupto jināṃśajaḥ || lokān dharmotsukān
+                                dṛṣṭvā samādheḥ saha[1v4]sotthitaḥ || tatsabhāyāṃ samuttīrya
+                                siṃhāsane śubhāsane || bhāsayaṃ <sic>tatsubhālokāṃ</sic> tasthau
+                                pūrṇṇaśudhāṃśuvat_ || athāśoko mahārā[1v5]jaḥ
+                                    sāmātyapaurikai<add>ḥ</add> saha || pūjāṃgaiḥ pūjayitvā tam_
+                                upaguptam avandata || sthitvā <sic>bhūmā ca</sic> jānubhyām
+                                uttarāsaṃgam udvahan_ || kṛtāñja[1v6]lipuṭo natvā punar evam
+                                abhāṣata || bhadanta pātum icchāmi dharmāmṛtaṃ sukhapradaṃ || yad
+                                uktaṃ śrīmunīndreṇa tat samādeṣṭum arhasi || i[1v7]ti tena
+                                mahīndreṇa prārthite sau yatīśvaraḥ || upaguptaḥ samāmantrya taṃ
+                                nṛpeśaṃ samabravīt_ || 
+                                sādhu sādhu mahārāja śṛṇu dharmaṃ <sic>samā[1v8]hita</sic> || 
+                                yathā me guruṇādiṣṭaṃ tathā bhāṣitaṃ tava || 
+                                purāsau bhagavān buddhaḥ śākyasiṃho dayānidhiḥ || dharmarājo
+                                jagacchāstā sarvajña<add>ḥ</add> [1v9] sugato jinaḥ ||
+                            </incipit>
+                            
+                            <explicit xml:lang="san">
+                        <locus from="11v" to="11v">[11v6]</locus> 
+                                tat <sic>kauśidyāvadānaṃ</sic> munivarakathitaṃ śraddhayā yaḥ śṛṇoti 
+                                śrutvā yaḥ śrāvayed yaḥ pratidinam ani[11v7]śaṃ buddhasevānuraktaḥ || 
+                                hitvā kleśāṃ praduṣṭān sakalakalivalān mārapakṣāṃś ca jitvā ● 
+                                pāraṃ gatvā guṇābdher vrajati sa subhagaṃ śrī[11v8]ghanasya caritraṃ ||
+                            </explicit>
+                            
+                            <finalRubric xml:lang="san">
+                        <locus from="11v" to="11v">[11v8]</locus> 
+                                || iti <sic>kauśighavīryotsāhanāvadānaṃ</sic> samāptaṃ ||^^^<g>@</g>^^^||^^^śubham_
+                            </finalRubric>
+                            
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                        </msItem>
+                        
+                        <msItem n="2" defective="false">
+                            <!--repeat the <msItem> element for every work in the ms; 
+                           change the @defective to the following values: if the ms is complete, "false", if incomplete, "true"; 
+                           if you are unsure, choose "inapplicable", DO NOT use unknown;
+                           use <locus> element in the case of multiple msItems to indicate range in manuscript, otherwise delete it-->
+                            <locus from="12r" to="22r">ff. 12r1-22r6</locus>
+                            
+                            <author>
+                                <name type="person" role="aut" key="local_00000">
+                           <persName xml:lang="san" type="standard">Unknown</persName>
+                                </name>
+                            </author>
+                            
+                            <title xml:lang="san">Snātāvadāna</title>
+                            
+                            <rubric xml:lang="san">
+                        <locus from="1v" to="1v">[12r1]</locus> 
+                                oṃ namo <sic>ratnatrayāyaḥ</sic> ||
+                            </rubric>
+                            
+                            <incipit xml:lang="san">
+                        <locus from="12r" to="12r">[12r1]</locus> 
+                                || athāśoko nṛpendro sau saddharmacaraṇotsavaḥ || 
+                                upaguptaṃ guruṃ natvā kṛtāṃjalipuṭo vadat_ || 
+                                bhadanta śro[12r2]tum icchāmi punar anyat subhāṣitaṃ || 
+                                yathā te guruṇā khyātaṃ tathā me <sic>ṣyātum</sic> arhasi || 
+                                iti tena nṛpeśena prārthyamāno jināṃśajaḥ || 
+                                upa[12r3]guptaḥ sa āmantrya taṃ kṣitīśaṃ samabravīt_ || 
+                            </incipit>
+                            
+                            <explicit xml:lang="san">
+                        <locus from="22r" to="22r">[22r4]</locus> 
+                                iti tena samādiṣṭam upaguptena <sic>śāsina</sic> || 
+                                <sic>śrutvāśokā</sic> nṛpo [22r5] stv evam ity anandat sapārṣikaḥ || 
+                                snātāvadānaṃ tad idaṃ niśamya ye śrāvayanti pratibodhalokān_ || 
+                                te pāpanirmuktaviśuddhade[22r6]hāḥ prayānti nūnaṃ sugatālayeṣu || 
+                            </explicit>
+                            
+                            <finalRubric xml:lang="san">
+                        <locus from="22r" to="22r">[22r6]</locus> 
+                            || iti snātāvadānaṃ samāptaṃ ||^^^||^^^<g>@</g>^^^|| śubhaṃ
+                            </finalRubric>
+                            
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                        </msItem>
+                    </msContents>
+                    
+                    <physDesc>
+                        <objectDesc form="pothī"> 
+                            <supportDesc material="nep_multi_layered_black_paper">
+                                <support>Nepalese multi-layered paper (verso sides are yellow-dyed).
+                                    <p>
+                                        <dimensions type="folio" scope="most" unit="cm">
+                                            <height quantity="13"> 13</height>
+                                            <width quantity="34.7"> 34.7</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                
+                                <extent xml:id="folio" n="22"> 22 ff.</extent>
+                                
+                                <foliation n="1" type="original">Nepālākṣarā numerals, top-left margin, verso (under marginal invocation <term xml:lang="san">śrīḥ</term>).</foliation>
+                                <foliation n="2" type="original">Nepālākṣarā numerals, bottom right margin, verso (under marginal invocation <term xml:lang="san">guruḥ</term>).</foliation> 
+ 
+                        <!--                                the following element contains free text; however, stick to the set phrases as far as possible!-->
+                                <condition>
+                                    Complete, in good condition.
+                                </condition>
+                            </supportDesc>
+                            
+                           <layoutDesc>
+                               <layout columns="1" writtenLines="9">
+<!--                                   the @ruledLines must be used only in those cases when there is actually a ruling, otherwise use the @writtenLines-->
+                                   <dimensions type="written area" unit="cm">
+                                        <height quantity="7.8">7.8</height>
+                                        <width atLeast="26" atMost="27">26-27</width>
+                                    </dimensions>
+
+                                    <p>9 lines per page, approximately 47 <term xml:lang="san">akṣara</term>s per line.</p>
+                                   <dimensions type="akṣara" unit="mm" n="47">
+                                        <height quantity="5">5</height>
+                                    </dimensions>
+                                   
+                                    <dimensions type="interlinear space" scope="most" unit="mm">
+                                        <height atLeast="3" atMost="5">3-5</height>
+                                    </dimensions>
+                                   
+                                    <!--<commentaryForm type=""></commentaryForm>
+                                    <stringHole type="true" quantity="2"> Two string holes. The string holes are approximately in the middle of 2 cm-wide blank spaces 
+                                        framed by double parallel lines in black ink. These are identical to those found on the outer margins of the written area, which is therefore divided into three sections.
+                                    </stringHole>-->
+                                   <p>Impressed marginal writing
+                                        frame, and on some folios additional quadruple marginal
+                                        frame lines; no ruling. The written area is 26 x 7.8cm on the
+                                        folios with only impressed writing frame, otherwise is ca
+                                        26.5-27 x 7.8cm. </p>
+                                </layout>
+                           </layoutDesc>
+                        </objectDesc>
+                        
+                        <handDesc>
+                            <handNote scope="sole" script="nepālākṣarā" medium="blackink">
+                                <desc>Nepālākṣarā  in black ink. </desc>
+                        <!--                                <p><hi rend="bold">Scribe:</hi> <hi rend="bold">Scribe:</hi> <name type="person" subtype="scr" key="local_ VIAF_"><persName xml:lang="san" type="standard"> [scribe name]</persName></name></p>-->
+                            </handNote>
+                        </handDesc>
+                        
+                        <!--<decoDesc>
+                            <decoNote type="miniature">
+                                <desc>On <locus from="1v" to="1v">folio 1v</locus>, .............</desc>
+                            </decoNote>
+                        </decoDesc>-->
+                        
+                        <additions>
+                            <list>
+                                <head>Marginalia</head>
+                                    <item>
+                                        <marginalia type="invocations">Invocation (<term xml:lang="san">śrīḥ</term>), top left
+                                        margin, verso.</marginalia>
+                                    </item>  
+                                <item>
+                                    <marginalia type="invocations">Invocation (<term xml:lang="san">guruḥ</term>), bottom right 
+                                        margin, verso.</marginalia>
+                                </item>  
+                                </list>
+                        </additions>
+                        
+                        <bindingDesc>
+                            <p>
+                        <material>Cardboard cover</material>, library binding.</p>
+                     <!--                            <p>On the <locus from="back cover" to="back cover">outer side of the back cover</locus>, whatnot.</p>-->
+                        </bindingDesc>
+                    </physDesc>
+                    
+                    <history>
+                        <origin>
+                            <origDate calendar="Gregorian" notBefore="1701" notAfter="1900">18th-19th century; 19th century (LVP).</origDate>
+                            <origPlace xml:lang="eng" key="1000132">Nepal.</origPlace>
+                        </origin>
+                        <provenance>Bought by <name type="person" role="col" key="local_00002 VIAF_7477330">
+                        <persName type="standard" xml:lang="eng">Wright,
+                                    Daniel</persName>
+                        <persName type="display" xml:lang="eng">Dr. D.
+                                        Wright</persName>
+                     </name> on behalf of the Cambridge University Library in <date calendar="Gregorian" when="1875">1875</date>.
+                        </provenance>
+                        <acquisition>
+                     <date calendar="Gregorian" when="1875-10-27">27 October 1875 (ULIB 7/3/55 and <stamp>University Library stamp</stamp>).</date>
+                  </acquisition>
+                    </history>
+                    
+                    <additional>
+                        
+                        <adminInfo>
+                            <recordHist>
+                                <source> 
+                           <ref type="biblio" target="Bendall_1883">Bendall (1883:
+                                        80-1)</ref>, <ref type="biblio" target="LVP_Add.1380_Add.1381">LVP Add.1380 and Add.1381</ref>, direct inspection.</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+                        
+                            <listBibl type="ms_descriptions">
+                                <head>Descriptions of the manuscript</head>
+                                
+                                <biblStruct type="manuscript" xml:id="ULIB7355Bradshaw1870">
+                                    <monogr>
+                                        <title level="m">Notes on the collections of Oriental, Thibetan and
+                                            'Additional' manuscripts [unpublished manuscript]</title>
+                                        <author>
+                                            <forename>Henry</forename>
+                                            <surname>ULIB 7/3/55 =
+                                                Bradshaw</surname>
+                                        </author>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <date>1870-80</date>
+                                            <!--<note type="url"
+                                            ><ref target="http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0265%2FULIB%207%2F3%2F55">[link]</ref></note>-->
+                                        </imprint>
+                                    </monogr>
+                                </biblStruct>
+                                
+                                <biblStruct type="manuscript" xml:id="ULIB714Griffith1873">
+                                    <monogr>
+                                        <title level="m">Assorted lists of manuscripts and books, chiefly Oriental,
+                                            acquired by the Library, with related papers</title>
+                                        <author>
+                                            <forename>Ralph T. H.</forename>
+                                            <surname>ULIB 7/1/4 =
+                                                Griffith</surname>
+                                        </author>
+                                        <author>
+                                            <forename>Daniel</forename>
+                                            <surname>Wright</surname>
+                                        </author>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <date>1873</date>
+                                        </imprint>
+                                    </monogr>
+                                    <idno type="callNumber">ULIB 7/1/4</idno>
+                                </biblStruct>
+                                
+                                <biblStruct type="manuscript" xml:id="zoteroItem_243">
+                                    <monogr>
+                                        <title level="m">List Add.923-1827 = List of Additional Manuscripts 923-1827 [unpublished manuscript]</title>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <date>1878</date>
+                                        </imprint>
+                                    </monogr>
+                                    <idno type="callNumber">Handlist_Add_1878</idno>
+                                </biblStruct>
+                                
+                                <biblStruct type="book" xml:id="Bendall1883">
+                                    <monogr>
+                                        <title>Catalogue of the Buddhist Sanskrit Manuscripts in the University Library, Cambridge. 
+                                            With Introductory Notices and Illustrations of the Palæography and Chronology of Nepal and Bengal</title>
+                                        <author>
+                                            <forename>Cecil</forename>
+                                            <surname>Bendall</surname>
+                                        </author>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <publisher>University Press</publisher>
+                                            <date>1883</date>
+                                        </imprint>
+                                    </monogr>
+                                    <idno type="callNumber">Bendall_1883</idno>
+                                </biblStruct>
+                                
+                                <biblStruct type="manuscript" xml:id="Handlist_1900">
+                                    <monogr>
+                                        <title>List of Oriental MSS. Class Catalogue of Oriental MSS. [unpublished manuscript]</title>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <date>1900–</date>
+                                        </imprint>
+                                    </monogr>
+                                    <idno type="callNumber">Handlist_1900</idno>
+                                </biblStruct>
+                                
+                                <biblStruct type="manuscript" xml:id="de_La_Vallée_Poussin1916">
+                                    <monogr>
+                                        <title>U[niversity.L[ibrary].C[ambridge]. Catalogue of Sanskrit MSS [unpublished card catalogue]</title>
+                                        <author>
+                                            <forename>Louis</forename>
+                                            <surname>LVP = de La Vallée Poussin</surname>
+                                        </author>
+                                        <author>
+                                            <forename>Caroline Mary</forename>
+                                            <surname>Ridding</surname>
+                                        </author>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <date>1916</date>
+                                        </imprint>
+                                    </monogr>
+                                    <idno type="callNumber">LVP</idno>
+                                </biblStruct>
+                            </listBibl>
+                        
+                        <listBibl type="manuscripts">
+                            <head>Manuscripts</head>
+                            <bibl>
+                                <orgName>NGMCP</orgName>: 
+                                <title xml:lang="san">Avadānaratnamālā</title>: 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/A_117-9_Avad%C4%81naratnam%C4%81l%C4%81">A 117-9, NAK 3/596</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/D_15-5%281%29_Avad%C4%81naratnam%C4%81l%C4%81">D 15-5</ref>;
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_360-13_Avad%C4%81naratnam%C4%81la">E 360-13</ref>. 
+                                <title xml:lang="san">Ratnamālāvadāna</title>:
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/H_388-12_Ratnam%C4%81l%C4%81vad%C4%81na">H 388-12</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/D_46-22_Ratnam%C4%81l%C4%81vad%C4%81na">D 46-22</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_2064-2%282%29_Ratnam%C4%81l%C4%81vad%C4%81na">E 2064-2</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_1343-4_Ratnam%C4%81l%C4%81vad%C4%81na">E 1343-4</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_1479-2_%28Ratnam%C4%81l%C4%81vad%C4%81na%29">E 1479-2</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/H_159-9_Ratnam%C4%81l%C4%81vad%C4%81na">H 159-9</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_415-11_Ratnam%C4%81l%C4%81vad%C4%81na">E 415-11</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_417-19_Ratnam%C4%81l%C4%81vad%C4%81na">E 417-19</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/X_1169-1_Ratnam%C4%81l%C4%81vad%C4%81na">X 1169-1</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_2579-5_Ratnam%C4%81l%C4%81vad%C4%81na">E 2579-5</ref>.
+                                
+                                <title xml:lang="san">Kauśīdyavīryotsāhanāvadāna</title>: 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_2064-2%281%29_Kau%C5%9Badyav%C4%ABryots%C4%81han%C4%81vad%C4%81na"> E 2064-2</ref>.
+                            </bibl>
+                                    
+                            <bibl>
+                                <placeName>Cambridge</placeName>, <orgName>Cambridge University
+                                    Library</orgName>: <title xml:lang="san">Ratnāvadānamālā</title>: 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01592/1">Add.1592</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01615/1">Add.1615</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01620/1">Add.1620</ref>.
+                            </bibl>
+                        </listBibl>
+                        
+                        <listBibl>
+                            <head>Edition(s)</head>
+                            <biblStruct type="book" xml:id="Takahata1954">
+                                <monogr>
+                                    <title level="m">Ratnamālāvadāna. A Garland of Precious Gems, or, a
+                                        Collection of Edifying Tales, Told in a Metrical Form, Belonging to the
+                                        Mahāyāna</title>
+                                    <author>
+                              <forename>Kanga</forename>
+                              <surname>Takahata</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Tokyo</pubPlace>
+                                        <biblScope type="vol">v. 3</biblScope>
+                                        <publisher>Toyo Bunko</publisher>
+                                        <date>1954</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title level="s">Oriental Library series D</title>
+                                </series>
+                            </biblStruct>
+                        </listBibl>
+                        
+                        <listBibl> 
+                            <head>Secondary Literature</head>
+                            
+                            <bibl>
+                                <ref target="http://homepage3.nifty.com/indology/ratnavadanamala.html">
+                                    A detailed bibliography on the work (with a list of other manuscripts) is given on K. Okano's website (in Japanese)</ref>
+                            </bibl>
+                            
+                            <biblStruct type="book" xml:id="Iwamoto1978">
+                                <monogr>
+                                    <title level="m">Bukkyō setsuwa kenkyū josetsu</title>
+                                    <author>
+                              <forename>Yutaka</forename>
+                              <surname>Iwamoto</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Kyoto</pubPlace>
+                                        <date>1978</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title level="s">Bukkyō setsuwa kenkyū</title>
+                                </series>
+                            </biblStruct>
+                            
+                            <biblStruct type="book" xml:id="Mitra1882">
+                                <monogr>
+                                    <title level="m">The Sanskrit Buddhist Literature of Nepal</title>
+                                    <author>
+                              <forename>Rājendralāla</forename>
+                              <surname>Mitra</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Calcutta</pubPlace>
+                                        <publisher>Asiatic Society of Bengal</publisher>
+                                        <date>1882</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080761.html">Manuscripts, Sanskrit</ref>
+                        </item>
+                    </list>
+                </keywords>
+                <keywords scheme="local">
+                    <list>
+                        <item>Bauddha</item>
+                        <item>Avadāna, Jātaka</item>
+                        <item/>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-11-21">
+                <persName>Camillo Formigatti and Daniele Cuneo.</persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <!--here's where we'll list the images, no need to worry about this!-->
+        <graphic url="[link to image 1]"/>
+        <graphic url="[link to image 2]"/>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb n="cover" facs="#i1"/>
+                <pb n="cover (inside)" facs="#i2"/>
+                <pb n="1r" facs="#i3"/>
+                <pb n="1v" facs="#i4"/>
+                <pb n="2r" facs="#i5"/>
+                <pb n="2v" facs="#i6"/>
+                <pb n="3r" facs="#i7"/>
+                <pb n="3v" facs="#i8"/>
+                <pb n="4r" facs="#i9"/>
+                <pb n="4v" facs="#i10"/>
+                <pb n="5r" facs="#i11"/>
+                <pb n="5v" facs="#i12"/>
+                <pb n="6r" facs="#i13"/>
+                <pb n="6v" facs="#i14"/>
+                <pb n="7r" facs="#i15"/>
+                <pb n="7v" facs="#i16"/>
+                <pb n="8r" facs="#i17"/>
+                <pb n="8v" facs="#i18"/>
+                <pb n="9r" facs="#i19"/>
+                <pb n="9v" facs="#i20"/>
+                <pb n="10r" facs="#i21"/>
+                <pb n="10v" facs="#i22"/>
+                <pb n="11r" facs="#i23"/>
+                <pb n="11v" facs="#i24"/>
+                <pb n="12r" facs="#i25"/>
+                <pb n="12v" facs="#i26"/>
+                <pb n="13r" facs="#i27"/>
+                <pb n="13v" facs="#i28"/>
+                <pb n="14r" facs="#i29"/>
+                <pb n="14v" facs="#i30"/>
+                <pb n="15r" facs="#i31"/>
+                <pb n="15v" facs="#i32"/>
+                <pb n="16r" facs="#i33"/>
+                <pb n="16v" facs="#i34"/>
+                <pb n="17r" facs="#i35"/>
+                <pb n="17v" facs="#i36"/>
+                <pb n="18r" facs="#i37"/>
+                <pb n="18v" facs="#i38"/>
+                <pb n="19r" facs="#i39"/>
+                <pb n="19v" facs="#i40"/>
+                <pb n="20r" facs="#i41"/>
+                <pb n="20v" facs="#i42"/>
+                <pb n="21r" facs="#i43"/>
+                <pb n="21v" facs="#i44"/>
+                <pb n="22r" facs="#i45"/>
+                <pb n="22v" facs="#i46"/>
+                <pb n="back cover (inside)" facs="#i47"/>
+                <pb n="back cover" facs="#i48"/>
+            </div>
+        </body>
+    </text>
+</TEI>

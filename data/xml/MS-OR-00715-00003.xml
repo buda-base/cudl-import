@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS Or.715.3</title>
+                <funder>AHRC</funder>
+                <principal>Vincenzo Vergiani</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+                </address>
+                </pubPlace>
+                <idno>Sanskrit</idno>
+                
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                
+                <msDesc xml:id="Sanskrit" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Oriental Manuscripts</collection>
+                        <idno>MS Or.715.3</idno>
+                        <altIdentifier type="internal">
+                            <collection type="CUL_collection">Sanskrit</collection>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents n="2">
+                        <!--increment n attribute for ms containing multiple ms items-->
+                        <summary> This fragmentary palm-leaf manuscript is part of a bundle of a few manuscripts
+                            (Or.715), all seemingly composed of collections of Buddhist <term xml:lang="san">stotra</term>s. Five different manuscripts, all
+                            from around the 12th-13th century, have been tentatively identified on
+                            paleographical and codicological grounds. Further research might shed more light on the
+                            subdivision of the whole manuscript bundle. 
+                        </summary>
+                        <msItem n="1" defective="false">
+                            <!--repeat the <msItem> element for every work in the ms; 
+                           change the @defective to the following values: if the ms is complete, "false", if incomplete, "true"; 
+                           if you are unsure, choose "inapplicable", DO NOT use unknown;
+                           use <locus> element in the case of multiple msItems to indicate range in manuscript, otherwise delete it-->
+                            <author>
+                                <name type="person" role="aut" key="local_00299 VIAF_266223825">
+                                    <persName xml:lang="san" type="standard">Unknown</persName>
+                                </name>
+                            </author>
+                            <title xml:lang="san">Buddhist Stotras</title>
+                            <!--the following elements are optional, delete if not used--><incipit xml:lang="san">
+                        <locus from="Xv" to="Xv">[Xr1]</locus>
+                                <g>$</g>
+                                jayabhānubhāskaradivākaradivyamūrti¦<g>%</g>trailokyadīptijayabhātimāmarīci
+                                |</incipit>
+                     <!--                            <explicit xml:lang="san"><locus from="89v" to="89v"
+                                    >[29r5]</locus> bhuvanam iti śirasā vandya
+                                sarpaṇam</explicit><colophon xml:lang="san"><locus from="90r"
+                                    to="90r">[29r5]</locus> śrīmatāryāvalokiteśvarabhaṭārakasya
+                                Khasarpaṇastotraṃ samāptam</colophon> (715.4)-->
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="tālapatra">
+                            <supportDesc material="palm_leaf">
+                                <support>Palm leaf.<p>
+                                    <dimensions type="folio" scope="range" unit="cm">
+                                        <height unit="cm" quantity="4.3">4.3</height>
+                                        <width quantity="27.2">27.2</width>
+                                    </dimensions>
+                                    </p>
+                                </support>
+                                <extent xml:id="folio" n="1"> 1 ff.</extent>
+                                <foliation n="1" type="original">No Foliation.</foliation>
+                                <!--                                the following element contains free text; however, stick to the set phrases as far as possible!-->
+                                <condition> Incomplete, in reasonable condition. The top margin of the verso is 
+                                    somewhat effaced. </condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout pseudocolumns="2" writtenLines="5">
+                                    <dimensions type="written" subtype="Pseudocolumn_1" unit="cm">
+                                        <height quantity="2.5">2.5</height>
+                                        <width quantity="7">7</width> 
+                                    </dimensions>
+                                    <dimensions type="written" subtype="Pseudocolumn_2" unit="cm">                                        
+                                        <height quantity="2.5">2.5</height>
+                                        <width quantity="14.5">14.5</width>
+                                    </dimensions>
+                                    <p>5 lines per page, approximately 42 <term xml:lang="san">akṣara</term>s per line.</p>
+                                    <dimensions type="akṣara" unit="mm" n="X">
+                                        <height quantity="5">5</height>
+                                    </dimensions>
+                                    <dimensions type="interlinear space" scope="most" unit="mm">
+                                        <height quantity="2">2</height>
+                                    </dimensions>
+                                    <stringHole type="true" quantity="2"> One string hole towards
+                                        the left of centre. The string holes are approximately in
+                                        the middle of 2 cm-wide blank spaces. </stringHole>
+                                    <!--                                    <p>Details on frame, marginal lines, ruling and the like.</p>-->
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scope="major" script="nepālākṣarā" medium="blackink">
+                                <desc>Hooked Nepālākṣarā in black ink. </desc>
+                            </handNote>
+                        </handDesc>
+                  <!--                        <decoDesc>
+                            <decoNote type="miniature">
+                                <desc>On <locus from="1v" to="1v">folio 1v</locus>,
+                                    .............</desc>
+                            </decoNote>
+                        </decoDesc>-->
+                  <!--                        <additions> on the front and back cover<list>
+                                <head>Marginalia</head>
+                                <item>
+                                    <marginalia type="corrections">Some marginal corrections.</marginalia>
+                                </item>
+                            </list>
+                        </additions>-->
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate calendar="Gregorian" notBefore="1101" notAfter="1300">ca. 12th-13th c.</origDate>
+                            <origPlace xml:lang="eng" key="1000132">Nepal.</origPlace>
+                        </origin>
+                        <provenance>Bought by <name type="person" role="dnr" key="local_00002 VIAF_7477330">
+                        <persName type="standard" xml:lang="eng">Wright, Daniel</persName>
+                        <persName type="display" xml:lang="eng">Dr. D. Wright</persName>
+                     </name> in <date calendar="Gregorian" from="1873" to="1876">1873-6</date>. </provenance>
+                  <!--                        <acquisition><date calendar="Gregorian" when="1873-07-21">XX July XXXX
+                                    (<stamp>University Library stamp</stamp>).</date></acquisition>-->
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>Direct inspection.</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+                        <listBibl type="ms_descriptions">
+                            <head>Descriptions of the manuscript</head>
+                            <biblStruct type="manuscript" xml:id="Handlist_1900">
+                                <monogr>
+                                    <title>List of Oriental MSS. Class Catalogue of Oriental
+                                        MSS.</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1900–</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Handlist_1900</idno>
+                            </biblStruct>
+                           <!-- <biblStruct type="manuscript" xml:id="de_La_Vallée_Poussin1916">
+                                <monogr>
+                                    <title>U[niversity.L[ibrary].C[ambridge]. Catalogue of Sanskrit
+                                        MSS [unpublished card catalogue]</title>
+                                    <author>
+                                        <forename>Louis</forename>
+                                        <surname>LVP = de La Vallée Poussin</surname>
+                                    </author>
+                                    <author>
+                                        <forename>Caroline Mary</forename>
+                                        <surname>Ridding</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1916</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">LVP</idno>
+                            </biblStruct>-->
+                        </listBibl>
+                  <!--                        <listBibl type="manuscripts">
+                            <head>Manuscripts</head>
+                            <bibl>
+                                <orgName>NGMCP</orgName>: <ref type="extant_mss" target=""> XX
+                                    listed manuscripts</ref>
+                                <ref type="extant_mss" target=""> X catalogued manuscripts</ref>
+                            </bibl>
+                            <bibl>
+                                <placeName>Cambridge</placeName>, <orgName>Cambridge University
+                                    Library</orgName>: <ref type="extant_mss" target="">Add.
+                                    XXX</ref>, <ref type="extant_mss" target="">Add. XXX</ref>.
+                            </bibl>
+                        </listBibl>-->
+                        <listBibl>
+                            <head>Edition(s)</head>
+                            <bibl>No edition is known.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080761.html">Manuscripts, Sanskrit</ref>
+                        </item>
+                  <!--                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh87004934.html">Manuscripts, Prakrit</ref>
+                        </item>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080774.html">Manuscripts, Tamil</ref>
+                        </item>-->
+                    </list>
+                </keywords>
+                <keywords scheme="local">
+                    <list>
+                        <item>Bauddha</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-10-01">
+                <persName>Gergely Hidas, Daniele Cuneo and Camillo Formigatti.</persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+      <graphic decls="#document-thumbnail"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00715-00003-000-00001_files/8/0_0.jpg"
+               rend="landscape"/>
+      <surface n="Xr" xml:id="i1">
+         <graphic height="2398px"
+                  width="8121px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00715-00003-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00715-00003-000-00001_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="Xv" xml:id="i2">
+         <graphic height="2398px"
+                  width="8121px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00715-00003-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00715-00003-000-00002_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+   </facsimile>
+    <text>
+        <body>
+         <div>
+            <pb xml:id="pb-Xr" n="Xr" facs="#i1"/>
+            <pb xml:id="pb-Xv" n="Xv" facs="#i2"/>
+         </div>
+      </body>
+    </text>
+</TEI>
+<!--a) if the manuscript has final rubrics for sections
+
+b) if the manuscript has a final rubric
+
+c) if the manuscript has a colophon:
+
+- presence of an introductory formula and/or other types of text (ye dharmā etc.) (form; formye)
+
+- place of copying (pc)
+
+- occasion of copying (oc)
+
+-date (d)
+
+- final formula (śubham astu etc.) (ff)
+
+- name of the scribe(s) (write the full name)-->

@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS Or.117</title>
+                <funder>AHRC</funder>
+                <principal>Vincenzo Vergiani</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+                </address>
+                </pubPlace>
+                <idno>Sanskrit</idno>
+                
+                <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                
+                <msDesc xml:id="Sanskrit" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Oriental Manuscripts</collection>
+                        <idno>MS Or.117</idno>
+                    <altIdentifier type="internal"> 
+                     <collection type="CUL_collection">Sanskrit</collection> 
+                     <idno/> 
+                  </altIdentifier>
+                    </msIdentifier>
+                  
+                    <msContents defective="true">
+                        <summary>
+                            The <title xml:lang="san">Vasudhāradhāraṇī</title>, dedicated to Vasudhārā, the <term xml:lang="san">bodhisattva</term> of wealth, prosperity, and abundance (who has a strong following among the Newar Buddhists of the Kathmandu valley), is taught by the Buddha in Kauśāmbī to the rich merchant and layman Sucandra. 
+                            He has been reduced to poverty and so requests a sermon from the Lord so that he may provide for his own family and so that all beings may become prosperous.
+                            This scripture includes a <term xml:lang="san">dhāraṇī</term> along with enumerations of benefits and ritual instructions for use. 
+                            As testified also by this paper manuscript, dated 1740 CE and clearly written in a jaina scriptorium, the Buddhist <title xml:lang="san">Vasudhāradhāraṇī</title> is a text in use also within Jainism (See Jaini 1968).
+                        </summary>
+                        
+                        <msItem n="1">
+
+                            <author>
+                                <name type="person" role="aut" key="local_00000">
+                           <persName xml:lang="eng" type="standard">‏Unknown</persName>
+                        </name>
+                            </author>
+                        
+                            <title xml:lang="san">Vasudhārādhāraṇī</title>
+                            <title xml:lang="san" type="alt">Vasudhāraṇī</title>
+                            <title xml:lang="san" type="alt">Vasudhārādhāraṇīsūtra</title>
+
+                            <rubric>
+                        <locus from="1v" to="1v">[1v1]</locus> 
+                                || <g>bhale</g> || śrī arhaṃ namaḥ || namo arīhaṃtāṇaṃ || 
+                                saṃsāradvayadainyasya | pratihantṛ divāvahe | 
+                                vasudhāre¦[1v2]sudhādhāre | nama<del>ḥ</del>s tubhyaṃ kṛpāmahe || 1 ||
+                            </rubric>
+                            
+                            <incipit xml:lang="san">
+                        <locus from="1v" to="1v">[1v2]</locus> 
+                                evaṃ mayā śrutam ekasmin_ | samaye bhagavān_ | kośāmbyā¦[1v3]mahānagaryām viharati sma kaṃṭakasaṃjñake | mahāvanavaragho|sitārāmo mahābhikṣusaṃghena || [1v4]
+                                sārdhaṃ <sic>paṃcamātrai</sic> bhikṣuśataiḥ sma|bahulaiś ca tapo<g>%</g>dhanair bodhīsatveḥ mahāsatve | sarvvaśuddhadharmagu¦[1v5]ṇasamanugataiḥ parīvṛttaḥ | puraskṛto <sic>dharma</sic> 
+                        <g>%</g> deśayati sma  
+                            </incipit>
+                            
+                            <incipit xml:base="san" type="section">
+                        <locus from="1v" to="1v">[1v5]</locus> tena punaḥ | khalu | samayena [1v6] kausāmbyāṃ mahānagaryāṃ | sucaṃdro nāma gṛ<del>%</del>hapati | prativasati sma |</incipit>
+                            
+                            <explicit xml:lang="san">
+                        <locus from="8v" to="8v">[8v5]</locus> 
+                                i[8v6]dam <sic>evo</sic> | bhagavān āttamanāḥ | ā<g>%</g>yuṣmān ā|nandas te ca bhikṣavas te ca [18v7] bodhisatvāḥ | sā ca sarvāvatī parṣa<g>%</g>t_ sadevamānuṣā|suragandharvaś ca | lo[18v8]ko 
+                                bhagavato | bhāṣitam abhyanaṃdann i<g>%</g>tiḥ ||
+                            </explicit>
+                                                        
+                            <finalRubric xml:lang="san">
+                        <locus from="8v" to="8v">[8v8]</locus> iti vasudhārā prabhāvā saṃpūrṇā [8v9] || </finalRubric>
+                            
+                            <colophon xml:lang="san">
+                        <locus from="8v" to="8v">[8v9]</locus> saṃvat_ 1797 nāvarṣe vaiśāṣa śudi 2 gurau laṣitā lakṣmīvijayena [8v10]
+                                śrīsuratibiṃdire || vācyamānā ciraṃ jayantu || leṣakapāṭhakayoge || [8v11] 
+                                subha bhavantu ḥ || śrī ba ḥ || kalyāṇam astūṃ ḥ || śrī ba ḥ || śrīr astūṃ ḥ || hrīṃ
+                            </colophon>
+                            
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                        </msItem>
+                    </msContents>
+                    
+                    <physDesc>
+                        <objectDesc form="pothī"> 
+                            <supportDesc material="paper">
+                                <support>Paper.
+                                <p>
+                                    <dimensions type="folio" unit="cm">
+                                        <height quantity="11.5">11.5</height>
+                                        <width quantity="26.3">26.3</width>
+                                    </dimensions>
+                                </p>
+                                </support>
+                                
+                                <extent n="8">8 ff.</extent>
+                                
+                                
+                        <!--                                <foliation n="1" type="original">Letter-numeral (<term xml:lang="san">śrī</term>), mid-left margin, verso (<locus from="1v" to="1v">f. 1v</locus>).</foliation>-->
+                                <foliation n="1" type="original">Jaina Devanāgāri numerals, bottom right margin, verso.</foliation>
+                        <!--                                <foliation n="2" type="original">Nepalākṣara numerals, bottom right corner, verso (1-56, starting from folio 99 and marking the second hand).</foliation>-->
+                                <!--<foliation n="4" type="modern"><p>TO BE FOLIATED</p></foliation> -->
+                                
+                                <condition>
+                                    Complete, in generally good condition.
+                                </condition>
+                            </supportDesc>
+                            
+                           <layoutDesc>
+                               <layout columns="1" writtenLines="11">
+                                   <dimensions type="written area" unit="cm">
+                                       <height quantity="8.5">8.5</height>
+                                       <width quantity="20.5">20.5</width>
+                                   </dimensions>
+                                   <p>11 lines per page, approximately 31 <term xml:lang="san">akṣara</term>s per line.</p>
+                                    <dimensions type="akṣara" unit="mm" n="31">
+                                        <height quantity="6">6</height>
+                                    </dimensions>
+                                   <dimensions type="interlinear space" unit="mm">
+                                       <height quantity="2.5">2.5</height>
+                                   </dimensions>                        
+                                   <stringHole type="false" quantity="1">One string-hole shaped blank space.</stringHole>
+                           <!--                                   <commentaryForm type="Continous"></commentaryForm>-->
+                                   <p>Triple marginal frame lines in red ink. Rubrics and <term xml:lang="san">daṇḍa</term>s in red ink. The numerals of the foliation are inscribed in a square in red ink.</p>
+                                </layout>
+                           </layoutDesc>                            
+                        </objectDesc>
+                        
+                        
+                        <handDesc>
+                            <handNote scope="sole" script="devanāgarī" medium="blackandredink">
+                                <desc>Devanāgarī in black and red ink.</desc>
+                                <p>
+                           <hi rend="bold">Scribe:</hi> 
+                           <name type="person" role="scr" key="local_00328">
+                              <persName xml:lang="san" type="standard">Lakṣmīvijaya</persName>
+                           </name>.</p>
+                            </handNote> 
+                        </handDesc>
+                  <!--                
+                        <decoDesc>
+                            <decoNote type="miniature">
+                                <desc>The beginnings of the various <term xml:lang="san">dhāraṇi</term>s are decorated with polichrome miniatures of approximately 7 cm in width, put in the centre of the page and protected by a layer of Japanese paper..  
+                                    <list>
+                                        <item>
+                                            On <locus from="1v" to="1v">f. 1v</locus>, representation of the goddess Pratisarā.
+                                        </item>
+                                        <item>
+                                            On <locus from="38v" to="38v">f. 38v</locus>, representation of the goddess Sāhasrapramardanī.
+                                        </item>
+                                        <item>
+                                            On <locus from="78v" to="78v">f. 78v</locus>, representation of the goddess Māyūrī. 
+                                        </item>
+                                        <item>
+                                            On <locus from="142v" to="142v">f. 142v</locus>, representation the goddess Śītavatī.
+                                        </item>
+                                        <item>
+                                            On <locus from="147v" to="147v">f. 147v</locus>, representation of the goddess Mantrānusāraṇī.
+                                        </item>
+                                    </list>
+                                    
+                                </desc>
+                            </decoNote>
+                        </decoDesc>
+                        -->
+                        <additions>
+                            <list>
+                                <item>
+                                    On <locus from="8v" to="8v">folio 8 verso</locus>, an addition, in pencil on the left margin, with the number of pages, lines, <term xml:lang="san">akṣara</term>s and <term xml:lang="san">śloka</term>s: 8 - 11 - 29, 150.
+                                </item>
+                                <item>
+                                    On the <locus from="papersleeve" to="papersleeve">paper sleeve</locus>, the title (<title xml:lang="san">vasudhārā—</title>), the number of pages, lines and <term xml:lang="san">akṣara</term>s (pa° 8 - 11 - 29), the number of <term xml:lang="san">śloka</term> (ślo° 150) and the date (saṃ° 17<subst>
+                              <del>4</del>
+                              <add>9</add>
+                           </subst>7).
+                                </item>
+                            </list>
+                            <list>
+                                <head>Marginalia</head>
+                                <item>
+                                    <marginalia type="annotations">One marginal annotation (See <locus from="2r" to="2r">2r</locus>).</marginalia>
+                                </item>
+                            </list>
+                        </additions> 
+                        
+                        <bindingDesc>
+                            <p>
+                        <material>Paper</material> sleeve, original binding. <material>Cardboard cover</material>, library binding.</p>
+                        </bindingDesc>
+
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate calendar="Vikrama" when="1740">1797 Vikrama / 1740 CE.</origDate>
+                            <origPlace xml:lang="eng" key="">Suratibindira.</origPlace>
+                        </origin>
+                        <provenance>Bought by <name type="person" role="col" key="local_00001 VIAF_37227422">
+                        <persName xml:lang="eng" type="display">Prof. C. Bendall</persName>
+                        <persName xml:lang="eng" type="standard">Bendall, Cecil</persName>
+                     </name>
+                            in <date calendar="Gregorian" from="1898" to="1899">1898-9</date>.</provenance>
+                        <!--                        <acquisition><date calendar="Gregorian" when="1875-12-09">9 December 1875</date> (<stamp>University Library stamp</stamp>).</acquisition>-->
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>Direct inspection.</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+                        
+                        <listBibl type="ms_descriptions">
+                            
+                            <head>Descriptions of the manuscript</head>
+                            
+                            <biblStruct type="manuscript" xml:id="ULIB_7355_Bradshaw1870">
+                                <monogr>
+                                    <title level="m">Notes on the collections of Oriental, Thibetan and
+                                        'Additional' manuscripts [unpublished manuscript]</title>
+                                    <author>
+                              <forename>Henry</forename>
+                              <surname>ULIB 7/3/55 =
+                                        Bradshaw</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1870</date>
+                                        <note type="url"> http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0265%2FULIB%207%2F3%2F55</note>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                     <!--                          
+                            <biblStruct type="manuscript" xml:id="zoteroItem_243">
+                                <monogr>
+                                    <title level="m">List of Additional Manuscripts 923-1827 [unpublished manuscript]</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace><date>1878</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Handlist_Add_1878</idno>
+                            </biblStruct>-->
+                            
+                            
+                            <!--  <ref type="biblio" target="Bendall_1883"> -->                                
+                     <!--                            <biblStruct type="book" xml:id="Bendall1883">
+                                <monogr>
+                                    <title>Catalogue of the Buddhist Sanskrit Manuscripts in the University Library, Cambridge. 
+                                        With Introductory Notices and Illustrations of the Palæography and Chronology of Nepal and Bengal</title>
+                                    <author>
+                                        <forename>Cecil</forename>
+                                        <surname>Bendall</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <publisher>University Press</publisher>
+                                        <date>1883</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Bendall_1883</idno>
+                            </biblStruct>-->
+                            
+                            <biblStruct type="manuscript" xml:id="Handlist_1900">
+                                <monogr>
+                                    <title>List of Oriental MSS. Class Catalogue of Oriental MSS. [unpublished manuscript]</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1900–</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Handlist_1900</idno>
+                            </biblStruct>
+                            
+                     <!--                            <!-\- <ref type="biblio" target="Losty_1982">31</ref> -\->
+                            <biblStruct type="book" xml:id="Losty1982">
+                                <monogr>
+                                    <title>The Art of the Book in India</title>
+                                    <author>
+                                        <forename>Jeremiah P</forename>
+                                        <surname>Losty</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>London</pubPlace>
+                                        <publisher>British Library</publisher>
+                                        <date>1982</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Losty_1982</idno>
+                            </biblStruct>
+                            
+                            <!-\-  <ref type="biblio" target="Mevissen_1989"></ref> -\->
+                            <biblStruct type="book" xml:id="Mevissen1989">
+                                <monogr>
+                                    <title>Studies in Pancaraksa Manuscript Painting</title>
+                                    <author>
+                                        <forename>Gerd J.R</forename>
+                                        <surname>Mevissen</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Reinbek</pubPlace>
+                                        <publisher>Wezler</publisher>
+                                        <date>1989</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <!-\- <ref type="biblio" target="Zwalf_1985"></ref> -\->
+                            <biblStruct type="book" xml:id="Zwalf1985">
+                                <monogr>
+                                    <title>Buddhism. Art and Faith</title>
+                                    <editor>
+                                        <forename>W.</forename>
+                                        <surname>Zwalf</surname>
+                                    </editor>
+                                    <imprint>
+                                        <pubPlace>London</pubPlace>
+                                        <publisher>British Museum Publications for the Trustees of the British Museum and the British Library Board</publisher>
+                                        <date>1985</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Zwalf_1985</idno>
+                            </biblStruct>
+                            
+                            <!-\- <ref type="biblio" target="Pal_2006"></ref> -\->
+                            <biblStruct type="bookSection" xml:id="Pal2006">
+                                <analytic>
+                                    <title>Queen Uḍḍākā's Illuminated Manuscript</title>
+                                    <author>
+                                        <forename>Pratapaditya</forename>
+                                        <surname>Pal</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Indian Numismatics, HIstory, Art and Culture: Essays in Honur of Dr. Parameshwari Lal Gupta</title>
+                                    <editor>
+                                        <forename>David W.</forename>
+                                        <surname>Macdowall</surname>
+                                    </editor>
+                                    <imprint>
+                                        <pubPlace>New Delhi</pubPlace>
+                                        <biblScope type="pp">291-296</biblScope>
+                                        <date>2006</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Pal_2006</idno>
+                            </biblStruct>-->
+                        </listBibl>
+                        
+                        <listBibl type="manuscripts">
+                            <head>Manuscripts</head>
+                            <bibl>
+                        <placeName>Cambridge</placeName>
+                        <orgName>, Cambridge University Library</orgName>: 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01355/1">MS Add.1355</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01690-00001/1">MS Add.1690.01</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-02198/1">MS Add.2198</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-OR-00142-00001/1">MS Or.142.01</ref>, 
+                                <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-OR-00142-00002/1">MS Or.142.02</ref>.
+                            </bibl>
+                     <!--                            <bibl>
+                                <ref type="biblio" target="#Sastri1905">Śāstri 1905: 36 (1113 ca)</ref>
+                            </bibl>
+                            <bibl>
+                                <placeName>Oxford</placeName><orgName>, Bodleian Library</orgName>: <ref type="extant_mss" target="">MS No. 1448</ref>, Sansk.a. 8 (R).
+                            </bibl>
+                            <bibl>
+                                <placeName>London</placeName><orgName>, British Library</orgName>: <ref type="extant_mss" target="">MS No. Or.3346</ref>.
+                            </bibl>
+                            <bibl>
+                                <placeName>Kolkata</placeName><orgName>, Asiatic Society of Bengal</orgName>: <ref type="extant_mss" target="">MS No. 4078</ref>.
+                            </bibl>-->
+                            <bibl>
+                        <orgName>NGMCP</orgName>:
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/w/index.php?title=Special%3ASearch&amp;profile=advanced&amp;search=Vasudharadharani&amp;fulltext=Search&amp;ns0=1&amp;redirs=1&amp;profile=advanced">10 mss</ref>.
+                            </bibl>
+                        </listBibl>
+                        
+                        <listBibl type="editions">
+                            
+                            <head>Edition(s)</head>
+                            
+                            <biblStruct type="bookSection" xml:id="Jaini1968">
+                                <analytic>
+                                    <title>Vasudhārā-dhāraṇī: A Buddhist work in use among the Jainas of Gujerat</title>
+                                    <author>
+                                        <forename>Padmanabh S.</forename>
+                                        <surname>Jaini</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Shri Mahavir Jaina Vidyalaya Golden Jubilee Volume, Part 1</title>
+                                    <!--                                    <editor>
+                                        <forename>Pratapaditya</forename>
+                                        <surname>Pal</surname>
+                                    </editor>-->
+                                    <imprint>
+                                        <pubPlace>Bombay</pubPlace>
+                                        <biblScope type="pp">30-45</biblScope>
+                                        <date>1968</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            
+                            <biblStruct type="journalArticle" xml:id="SamtenBahulkar2007">
+                                <analytic>
+                                    <title>Vasudhārādhāraṇīsūtra</title>
+                                    <author>
+                                        <forename>Ngawang</forename>
+                                        <surname>Samten</surname>
+                                    </author>
+                                    <author>
+                                        <forename>S. S.</forename>
+                                        <surname>Bahulkar</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Dhīḥ</title>
+                                    <imprint>
+                                        <biblScope type="vol">44</biblScope>
+                                        <biblScope type="pp">129-147</biblScope>
+                                        <date>2007</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                        </listBibl>
+                            
+                        <listBibl type="secondary_literature">
+                            
+                            <head>Secondary literature</head>
+                            
+                            <!-- <ref type="biblio" target="Aalto_1954"></ref> -->
+                     <!--                            <biblStruct type="journalArticle" xml:id="Aalto1954">
+                                <analytic>
+                                    <title>Prolegomena to an Edition of the Pañcarakṣā</title>
+                                    <author>
+                                        <forename>Pentti</forename>
+                                        <surname>Aalto</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Studia Orientalia Fennica</title>
+                                    <imprint>
+                                        <biblScope type="vol">19</biblScope>
+                                        <biblScope type="pp">5-48</biblScope>
+                                        <publisher>unpublished</publisher>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Aalto_1954</idno>
+                            </biblStruct>-->
+                            
+                            <!-- <ref type="biblio" target="Bhattacharyya_1972"></ref> -->
+                     <!--                            <biblStruct type="bookSection" xml:id="Bhattacharyya1972">
+                                <analytic>
+                                    <title>The Five Protective Goddesses of Buddhism</title>
+                                    <author>
+                                        <forename>Dipak C</forename>
+                                        <surname>Bhattacharyya</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Aspects of Indian Art</title>
+                                    <editor>
+                                        <forename>Pratapaditya</forename>
+                                        <surname>Pal</surname>
+                                    </editor>
+                                    <imprint>
+                                        <pubPlace>Leiden</pubPlace>
+                                        <biblScope type="pp">85-92</biblScope>
+                                        <date>1972</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Bhattacharyya_1972</idno>
+                            </biblStruct>-->
+                            
+                            <!--  <ref type="biblio" target="Davidson_2009"></ref> -->
+                            <biblStruct type="journalArticle" xml:id="Davidson2009">
+                                <analytic>
+                                    <title>Studies in Dhāraṇī Literature I: Revisiting the Meaning of the Term Dhāraṇī</title>
+                                    <author>
+                                        <forename>Ronald</forename>
+                                        <surname>Davidson</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Journal of Indian Philosophy</title>
+                                    <imprint>
+                                        <biblScope type="vol">37</biblScope>
+                                        <biblScope type="issue">2</biblScope>
+                                        <biblScope type="pp">97-147</biblScope>
+                                        <date>2009</date>
+                                        <note type="accessed">2012-03-22 12:44:55</note>
+                                        <note type="url">http://www.springerlink.com/content/h0245040774k3513/abstract/</note>
+                                    </imprint>
+                                </monogr>
+                                <idno type="DOI">10.1007/s10781-008-9054-8</idno>
+                                <idno type="callNumber">Davidson_2009</idno>
+                            </biblStruct>
+                            
+                            
+                            <!-- <ref type="biblio" target="Hidas_2003"></ref> -->
+                     <!--                            <biblStruct type="journalArticle" xml:id="Hidas2003">
+                                <analytic>
+                                    <title>Preliminary Notes on the Mahāpratisarā Mahāvidyārājñī, A Buddhist Protective Text from the Pañcarakṣā-collection</title>
+                                    <author>
+                                        <forename>Gergely</forename>
+                                        <surname>Hidas</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Berliner Indologische Studien</title>
+                                    <imprint>
+                                        <biblScope type="vol">15-17</biblScope>
+                                        <biblScope type="pp">263-284</biblScope>
+                                        <date>2003</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Hidas_2003</idno>
+                            </biblStruct>-->
+                            
+                            <!-- <ref type="biblio" target="Hidas_2007"></ref> -->
+                     <!--                            <biblStruct type="bookSection" xml:id="Hidas2007">
+                                <analytic>
+                                    <title>Remarks on the Use of the Dhāraṇis and Mantras of the Mahāpratisarā-Mahāvidyārājñī</title>
+                                    <author>
+                                        <forename>Gergely</forename>
+                                        <surname>Hidas</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Indian Languages and Texts through the Ages. Essays of Hungarian Indologists in Honour of Prof. Csaba Töttössy</title>
+                                    <editor>
+                                        <forename>Csaba</forename>
+                                        <surname>Dezső</surname>
+                                    </editor>
+                                    <imprint>
+                                        <pubPlace>Delhi</pubPlace>
+                                        <biblScope type="pp">185-207</biblScope>
+                                        <date>2007</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Hidas_2007</idno>
+                            </biblStruct>-->
+                            
+                            <!-- <ref type="biblio" target="Hidas_2010"></ref> -->
+                     <!--                            <biblStruct type="journalArticle" xml:id="Hidas2010">
+                                <analytic>
+                                    <title>Mahāpratisarāvidyāvidhi, The Spell-manual of the Great Amulet</title>
+                                    <author>
+                                        <forename>Gergely</forename>
+                                        <surname>Hidas</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Acta Orientalia Academiae Scientiarum Hungaricae</title>
+                                    <imprint>
+                                        <biblScope type="vol">63</biblScope>
+                                        <biblScope type="pp">473-484</biblScope>
+                                        <date>2010</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Hidas_2010</idno>
+                            </biblStruct>-->
+                            
+                            <!-- <ref type="biblio" target="Hidas_2012"></ref> -->
+                            <biblStruct type="book" xml:id="Hidas2012">
+                                <monogr>
+                                    <title>Mahāpratisarā-Mahāvidyārājñi = the Great Amulet, Great Queen of Spells: Introduction, Critical Editions and Annotated Translation</title>
+                                    <author>
+                                        <forename>Gergely</forename>
+                                        <surname>Hidas</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>New Delhi</pubPlace>
+                                        <publisher>International Academy of Indian Culture and Aditya Prakashan</publisher>
+                                        <date>2012</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>Śata-piṭaka series: Indo-Asian literatures</title>
+                                    <biblScope type="vol">v. 636</biblScope>
+                                </series>
+                                <idno type="callNumber">Hidas_2012</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Bethlenfalvy_2005"></ref> -->
+                     <!--                            <biblStruct type="book" xml:id="Mȯnkhsaĭkhan2005">
+                                <monogr>
+                                    <title>Pan̆caraksȧ: A Mongolian Translation from 1345</title>
+                                    <respStmt>
+                                        <resp>contributor</resp>
+                                        <persName>
+                                            <forename>S.</forename>
+                                            <surname>Mȯnkhsaĭkhan</surname>
+                                        </persName>
+                                    </respStmt>
+                                    <imprint>
+                                        <pubPlace>[Ulaanbaatar]-Budapest</pubPlace>
+                                        <publisher>State Central Library of Mongolia; Research Group for Altaic Studies, Hungarian Academy of Sciences</publisher>
+                                        <date>2005</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>Treasures of Mongolian culture and Tibeto-Mongolian Buddhism</title>
+                                    <biblScope type="vol">v. 3</biblScope>
+                                </series>
+                                <idno type="callNumber">Bethlenfalvy_2005</idno>
+                            </biblStruct>-->
+                            
+                            <!-- <ref type="biblio" target="Sen_1965"></ref> -->
+                     <!--                            <biblStruct type="bookSection" xml:id="Sen1965">
+                                <analytic>
+                                    <title>On Dhāraṇī and Pratisarā</title>
+                                    <author>
+                                        <forename>Sukumar</forename>
+                                        <surname>Sen</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Studies of Esoteric Buddhism and Tantrism</title>
+                                    <editor>
+                                        <forename>Matsunaga</forename>
+                                        <surname>Yukei</surname>
+                                    </editor>
+                                    <imprint>
+                                        <pubPlace>Koyasan</pubPlace>
+                                        <biblScope type="pp">67-72</biblScope>
+                                        <date>1965</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Sen_1965</idno>
+                            </biblStruct>-->
+                            
+                            <!-- <ref type="biblio" target="Thapa_1998"></ref> -->
+                     <!--                            <biblStruct type="bookSection" xml:id="Thapa1998">
+                                <analytic>
+                                    <title>Depiction of Stories and Thematic Elaboration in the Āryamahāpratisarā Sūtra</title>
+                                    <author>
+                                        <forename>Shanker</forename>
+                                        <surname>Thapa</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Light of Wisdom</title>
+                                    <imprint>
+                                        <biblScope type="pp">1-10</biblScope>
+                                        <publisher>Rangjung Yeshe Publications</publisher>
+                                        <date>1998</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Thapa_1998</idno>
+                            </biblStruct>-->
+                            
+                            <!-- <ref type="biblio" target="Waddell_1912"></ref> -->
+                            <biblStruct type="journalArticle" xml:id="Waddell1912">
+                                <analytic>
+                                    <title>The "dharani" cult in Buddhism; its origin, deified literature and images.</title>
+                                    <author>
+                                        <forename>L. A</forename>
+                                        <surname>Waddell</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Ostasiatische Zeitschrift</title>
+                                    <imprint>
+                                        <biblScope type="vol">1</biblScope>
+                                        <biblScope type="pp">155-195</biblScope>
+                                        <date>1912</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Waddell_1912</idno>
+                            </biblStruct>
+                            
+                            <!-- <ref type="biblio" target="Waddell_1914"></ref> -->
+                            <biblStruct type="journalArticle" xml:id="Waddell1914">
+                                <analytic>
+                                    <title>"Dhârani," or, Indian Buddhist protective spells</title>
+                                    <author>
+                                        <forename>L. A</forename>
+                                        <surname>Waddell</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Indian Antiquary</title>
+                                    <imprint>
+                                        <biblScope type="vol">43</biblScope>
+                                        <biblScope type="pp">37-95</biblScope>
+                                        <date>1914</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Waddell_1914</idno>
+                            </biblStruct>
+                        </listBibl>
+                        
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080761.html">Manuscripts, Sanskrit</ref>
+                        </item>
+                    </list>
+                </keywords>
+                <keywords scheme="local">
+                    <list>
+                        <item>Bauddha</item>
+                        <item>Bauddha Tantra</item>
+                        <item>Dhāraṇī</item>
+                        <item>Jaina</item>
+                    </list>
+                </keywords>
+            </textClass>
+            
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-12-16">
+                <persName>Daniele Cuneo and Camillo Formigatti.</persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+   <!-- <facsimile>
+
+    </facsimile>-->
+    <text>
+        <body>
+            <div>
+            <pb n="papersleeve" facs="#i1"/>
+            <pb n="1r" facs="#i2"/>
+            <pb n="1v" facs="#i3"/>
+            <pb n="2r" facs="#i4"/>
+            <pb n="2v" facs="#i5"/>
+            <pb n="3r" facs="#i6"/>
+            <pb n="3v" facs="#i7"/>
+            <pb n="4r" facs="#i8"/>
+            <pb n="4v" facs="#i9"/>
+            <pb n="5r" facs="#i10"/>
+            <pb n="5v" facs="#i11"/>
+            <pb n="6r" facs="#i12"/>
+            <pb n="6v" facs="#i13"/>
+            <pb n="7r" facs="#i14"/>
+            <pb n="7v" facs="#i15"/>
+            <pb n="8r" facs="#i16"/>
+            <pb n="8v" facs="#i17"/>
+            </div>
+        </body>
+    </text>
+</TEI>

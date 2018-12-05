@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS Or.144</title>
+                <funder>AHRC</funder>
+                <principal>Vincenzo Vergiani</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+                </address>
+                </pubPlace>
+                <idno>Sanskrit</idno>
+                
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made
+                        available for download are licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This
+                        metadata is licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                
+                <msDesc xml:id="Sanskrit" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Oriental Manuscripts</collection>
+                        <idno>MS Or.144</idno>
+                        <altIdentifier type="internal">
+                            <collection type="CUL_collection">Sanskrit</collection>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents n="10">
+                        <!--increment n attribute for ms containing multiple ms items-->
+                        <summary> These six Nepalese palm-leaf folios, probably dated to the 13th or 14th century, preserve some of the <term xml:lang="san">Homapañjikā</term>
+                            section of Kuladatta's <title xml:lang="san">Kriyāsaṃgrahapañjikā</title>, a work on Buddhist tantric rituals from
+                            ca. the 12th century. </summary>
+                        <msItem n="1" defective="false">
+                            <!--repeat the <msItem> element for every work in the ms; 
+                           change the @defective to the following values: if the ms is complete, "false", if incomplete, "true"; 
+                           if you are unsure, choose "inapplicable", DO NOT use unknown;
+                           use <locus> element in the case of multiple msItems to indicate range in manuscript, otherwise delete it-->
+                            <author>
+                                <name type="person" role="aut" key="local_00439">
+                                    <persName xml:lang="san" type="standard">Kuladatta</persName>
+                                </name>
+                            </author>
+                            <title xml:lang="san">Kriyāsaṃgrahapañjikā</title>
+                            <!--the following elements are optional, delete if not used-->
+                            <incipit xml:lang="san">
+                        <locus from="3r" to="3r">[3r1]</locus>ḥ oṃ
+                                vyajanā || bhāvanā || tatra jvalitāgnimadhe paṃkārajaṃ padmam ālambya 
+                                tadupari raṃjātāgnimaṇḍale rūkārodbhavaṃ pitavarṇṇam ekamukhaṃ
+                                caturbbhu[3r2]jaṃ vāme daṇḍakamaṇḍalūdhara | savovaradākṣamā<g>%</g>lādharam || 
+                                pītāmbarābharaṇayajñopavītinaṃ | tinetraṃ jaṭāmakuṭadhāriṇaṃ 
+                                vajrasattvā[3r3]laṃkṛtamolinaṃ samayāgni vibhāvya ||</incipit>
+                            <explicit xml:lang="san">
+                        <locus from="8r" to="8r">[8r2]</locus>
+                                vajra[8r3]satvavāraṃ parijapya satākṣaram paṭhitvā bali<g>%</g>n
+                                dadyāt_</explicit>
+                            <finalRubric xml:lang="san" type="section">
+                        <locus from="8r" to="8r">[8r3]</locus> homapañjikā samāpta || śubham astu ||
+                                <g>@</g> ||</finalRubric>
+                            <incipit xml:lang="san">
+                        <locus from="8r" to="8r">[8r4] </locus>
+                                <g>$</g> anena stuṣito vajri jñānavahni pratoṣaye¦<g>%</g>t | śāsato hi
+                                jinatusta tustacāmī karaprabhā | [...]</incipit>
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="tālapatra">
+                            <supportDesc material="palm_leaf">
+                                <support>Palm leaf.<p>
+                                        <dimensions type="folio" scope="range" unit="cm">
+                                            <height quantity="4.2">4.2</height>
+                                            <width quantity="27.5">27.5</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent xml:id="folio" n="6"> 6 ff. (numbered 3-8)</extent>
+                                <foliation n="1" type="original">Nepālākṣarā letter numerals, mid-left margin,
+                                    verso.</foliation>
+                                <foliation n="2" type="original">Nepālākṣarā numerals, mid-right margin, verso.</foliation>
+                                <!--                                the following element contains free text; however, stick to the set phrases as far as possible!-->
+                                <condition> Incomplete, in relatively good condition. Margins are damaged but
+                                    no <term xml:lang="san">akṣara</term>s missing. A few folios are
+                                    somewhat effaced and thus difficult to read. </condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1" writtenLines="5">
+                                    <!--                                   the @ruledLines must be used only in those cases when there is actually a ruling, otherwise use the @writtenLines-->
+                                    <dimensions type="written area" unit="cm">
+                                        <height quantity="2.5">2.5</height>
+                                        <width quantity="24.5">24.5</width>
+                                    </dimensions>
+                                    <p>5 lines per page, approximately 60 <term xml:lang="san">akṣara</term>s per line.</p>
+                                    <dimensions type="akṣara" unit="mm" n="60">
+                                        <height quantity="4">4</height>
+                                    </dimensions>
+                                    <dimensions type="interlinear space" scope="most" unit="mm">
+                                        <height quantity="2">2</height>
+                                    </dimensions>
+                                    <stringHole type="true" quantity="2"> One string hole slightly
+                                        left of the center of the folio, approximately in the middle of square blank space. 
+                                        <dimensions type="string hole spaces" scope="most" unit="cm">
+                                            <height quantity="1.8">1.8</height>
+                                            <width quantity="2">2</width>
+                                        </dimensions>
+                                    </stringHole>
+                                    <p>Double marginal frame lines in black ink.</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scope="major" script="nepālākṣarā" medium="blackink">
+                                <desc>Hooked Nepālākṣarā in black ink. </desc>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <list>
+                                <head>Marginalia</head>
+                                <item>
+                                    <marginalia type="corrections">Few corrections.</marginalia>
+                                </item>
+                            </list>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate calendar="Nepali" when="1794">ca. 13th-14th century.</origDate>
+                            <origPlace xml:lang="eng" key="1000132">Nepal.</origPlace>
+                        </origin>
+                        <provenance>Bought by 
+                            <name type="person" role="dnr" key="local_00001 VIAF_37227422">
+                                <persName xml:lang="eng" type="display">Prof. C. Bendall</persName>
+                                <persName xml:lang="eng" type="standard">Bendall, Cecil</persName>
+                            </name> in 
+                            <date calendar="Gregorian" from="1898" to="1899">1898-9</date>, probably in <origPlace xml:lang="eng" key="1000132">Nepal</origPlace>.</provenance>
+                        <acquisition>
+                            <date calendar="Gregorian" notBefore="1899">after 1899</date>.</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>Direct inspection.</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+                        <listBibl type="ms_descriptions">
+                            
+                            <head>Descriptions of the manuscript</head>
+                            
+                            <biblStruct type="manuscript" xml:id="Handlist_1900">
+                                <monogr>
+                                    <title>List of Oriental MSS. Class Catalogue of Oriental MSS. [unpublished manuscript]</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1900–</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Handlist_1900</idno>
+                            </biblStruct>
+                        </listBibl>
+                        
+                        <listBibl type="manuscripts">
+                            <head>Manuscripts</head>
+                            <bibl>
+                                <orgName>NGMCP</orgName>: <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/w/index.php?title=Special%3ASearch&amp;profile=advanced&amp;search=kriyasangraha*&amp;fulltext=Search&amp;ns0=1&amp;redirs=1&amp;profile=advanced"> 27 manuscripts.</ref>
+                            </bibl>
+                            <bibl>
+                                <placeName>Cambridge</placeName>, <orgName>Cambridge University
+                                    Library</orgName>: <ref type="extant_mss"
+                             target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01646/1">Add.1646</ref>, <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-OR-00149/1">Or.149</ref>.
+                            </bibl>
+                        </listBibl>
+                        <listBibl>
+                            <head>Edition(s)</head>
+                            <biblStruct type="book" xml:id="Tanemura2004">
+                                <monogr>
+                                    <title level="m">Kuladatta's Kriyāsaṃgrahapañjikā: a critical edition and
+                                        annotated translation of selected sections</title>
+                                    <author>
+                              <forename>Ryugen</forename>
+                              <surname>Tanemura</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Groningen</pubPlace>
+                                        <biblScope type="vol">v. 19</biblScope>
+                                        <publisher>Egbert Forsten</publisher>
+                                        <date>2004</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                           <title level="s">Groningen Oriental studies</title>
+                        </series>
+                            </biblStruct>
+                        </listBibl>
+                  <!--                        <listBibl>
+                            <head>Secondary Literature</head>
+                            <ref type="biblio" target="Name_19XX"/>
+                            <biblStruct/>
+                            <biblStruct/>
+                        </listBibl>-->
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080761.html">Manuscripts, Sanskrit</ref>
+                        </item>
+                    </list>
+                </keywords>
+                <keywords scheme="local">
+                    <list>
+                        <item>Bauddha</item>
+                        <item>Tantra</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-08-05">
+                <persName>Gergely Hidas.</persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+      <graphic decls="#document-thumbnail"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00001_files/8/0_0.jpg"
+               rend="landscape"/>
+      <surface n="3r" xml:id="i1">
+         <graphic height="3206px"
+                  width="8201px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00001_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="3v" xml:id="i2">
+         <graphic height="3206px"
+                  width="8201px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00002_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="4r" xml:id="i3">
+         <graphic height="3206px"
+                  width="8201px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00003.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00003_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="4v" xml:id="i4">
+         <graphic height="3206px"
+                  width="8201px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00004.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00004_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="5r" xml:id="i5">
+         <graphic height="3206px"
+                  width="8201px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00005.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00005_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="5v" xml:id="i6">
+         <graphic height="3206px"
+                  width="8201px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00006.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00006_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="6r" xml:id="i7">
+         <graphic height="3206px"
+                  width="8201px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00007.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00007_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="6v" xml:id="i8">
+         <graphic height="3206px"
+                  width="8201px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00008.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00008_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="7r" xml:id="i9">
+         <graphic height="3206px"
+                  width="8201px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00009.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00009_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="7v" xml:id="i10">
+         <graphic height="3206px"
+                  width="8201px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00010.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00010_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="8r" xml:id="i11">
+         <graphic height="3206px"
+                  width="8201px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00011.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00011_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="8v" xml:id="i12">
+         <graphic height="3206px"
+                  width="8201px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00012.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-00144-000-00012_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+   </facsimile>
+    <text>
+        <body>
+         <div>
+            <pb xml:id="pb-3r" n="3r" facs="#i1"/>
+            <pb xml:id="pb-3v" n="3v" facs="#i2"/>
+            <pb xml:id="pb-4r" n="4r" facs="#i3"/>
+            <pb xml:id="pb-4v" n="4v" facs="#i4"/>
+            <pb xml:id="pb-5r" n="5r" facs="#i5"/>
+            <pb xml:id="pb-5v" n="5v" facs="#i6"/>
+            <pb xml:id="pb-6r" n="6r" facs="#i7"/>
+            <pb xml:id="pb-6v" n="6v" facs="#i8"/>
+            <pb xml:id="pb-7r" n="7r" facs="#i9"/>
+            <pb xml:id="pb-7v" n="7v" facs="#i10"/>
+            <pb xml:id="pb-8r" n="8r" facs="#i11"/>
+            <pb xml:id="pb-8v" n="8v" facs="#i12"/>
+         </div>
+      </body>
+    </text>
+</TEI>
+<!--a) if the manuscript has final rubrics for sections
+
+b) if the manuscript has a final rubric
+
+c) if the manuscript has a colophon:
+
+- presence of an introductory formula and/or other types of text (ye dharmā etc.) (form; formye)
+
+- place of copying (pc)
+
+- occasion of copying (oc)
+
+-date (d)
+
+- final formula (śubham astu etc.) (ff)
+
+- name of the scribe(s) (write the full name)-->

@@ -1,0 +1,2150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS Add.864</title>
+                <funder>AHRC</funder>
+                <principal>Vincenzo Vergiani</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+                </address>
+                </pubPlace>
+                <idno>Sanskrit</idno>
+                
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made
+                        available for download are licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This
+                        metadata is licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                
+                <msDesc xml:id="Sanskrit" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Additional Manuscripts</collection>
+                        <idno>MS Add.864</idno>
+                      <altIdentifier type="internal"> 
+                     <collection type="CUL_collection">Sanskrit</collection> 
+                     <idno/> 
+                       </altIdentifier>
+                    </msIdentifier>
+                    
+                    <msContents n="1">
+                        <!--increment n attribute for ms containing multiple ms items-->
+                        <summary>A masterfully crafted 17th-century Nepalese accordion book, completely consisting of polychrome drawings, for a total of one-hundred and forty-four illuminated pages of an extremely vivid grace and an exuberant, expressionistic character.
+                            The paintings represent stories of both sacred and secular nature, often narrated along multiple pages, sometimes divided in two or three frames with the story evolving and the movement shifting from one composition to another. 
+                            The stories are mostly taken from Brahmanical sources (the <title xml:lang="san">Bhāgavatapurāṇa</title>, the <title xml:lang="san">Mahābhārata</title>, the <title xml:lang="san">Rāmāyaṇa</title> and the <title xml:lang="san">Vetālapañcaviṃśati</title>) with the exception of "the Buddhist Kinnarī Jātaka, a subject of abiding interest in Nepal. (Pal 1978: 98)"  
+                            The pictures are often endowed with captions in Sanskrit, sometimes mixed with Newari words, in Nepālākṣarā script. 
+                            Some folios display representations of some of the Mahāsiddhas, while others show horses from the <title xml:lang="san">Aśvaśāstra</title> and sevaral scenes with various animals. 
+                            This comparatively rare typology of manuscript, completely given over to pictures, is usually dubbed as <title xml:lang="san" type="general">Kalāpustaka</title>. 
+                            Some other instances of thoroughly illuminated books are known from Nepal, but only a manuscript from the National Art Gallery at Bhadgaon matches the present manuscript in beauty and elaboration. 
+                            The date of the present manuscript is established on both paleographical and iconographical grounds on the basis of close similarities to the Bhatgaon manuscript, which is dated 1594 CE. 
+                            As Pal (1967: 32) argues, "considering the richness and superb qualities" of its paintings, it is likely that this manuscript has "been a royal commission, probably of king Jayajitāmitramalla around the year A.D. 1600."
+                        </summary>
+                        
+                        <msItem n="1" defective="inapplicable">
+                            <!--repeat the <msItem> element for every work in the ms; 
+                           change the @defective to the following values: if the text is complete, "false", if incomplete, "true"; 
+                           if you are unsure, choose "inapplicable", DO NOT use unknown;
+                           use <locus> element in the case of multiple msItems to indicate range in manuscript, otherwise delete it-->
+
+                            
+                            <author>
+                                <name type="person" role="aut" key="local_00000">
+                           <persName xml:lang="san" type="standard">Unknown</persName>
+                                </name>
+                            </author>
+                            
+                            <title xml:lang="san">Kalāpustaka</title>
+                            <!--the following elements are optional, delete if not used-->
+                            
+                     <!--                            
+                            <rubric xml:lang="san"><locus from="Xv" to="Xv">[XvY]</locus> </rubric>
+                            <incipit xml:lang="san"><locus from="Xv" to="Xv">[XvY]</locus><graphic/>[<hi rend="italic">miniature</hi>]<graphic/></incipit>
+                            
+                            <finalRubric type="section" xml:lang="san"><locus from="3r" to="3"></locus>|| <g>@</g>|| </finalRubric>
+                            
+                            <explicit xml:lang="san"><locus from="89v" to="89v">[89v5]</locus></explicit>
+                            
+                            <finalRubric xml:lang="san"><locus from="90r" to="90r">[90r2]</locus></finalRubric>
+                            
+                           <colophon xml:lang="san"><locus from="90r" to="90r">[90r2]</locus></colophon>-->
+                            
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                        </msItem>
+                    </msContents>
+                    
+                    <physDesc>
+                        <objectDesc form="accordion_book"> 
+                            <supportDesc material="paper">
+                                <support>Paper.
+                                    <p>
+                                        <dimensions type="folio" scope="most" unit="cm">
+                                            <height quantity="7.3"> 7.3</height>
+                                            <width quantity="22.3">22.3</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                
+                                <extent xml:id="folio" n="72"> 72 ff.</extent>
+                                
+                        <!--                                <foliation n="1" type="original">Letter numerals, mid-left margin, verso.</foliation>
+                                <foliation n="2" type="original">Devanāgarī numerals, mid-right margin, verso.</foliation>
+                                <foliation n="3" type="modern">Arabic numerals, top right margin, verso.</foliation> -->
+ 
+                        <!--                                the following element contains free text; however, stick to the set phrases as far as possible!-->
+                                <condition>
+                                    Complete, in good condition.
+                                </condition>
+                            </supportDesc>
+                            
+                           <layoutDesc>
+                               <layout columns="1" writtenLines="0 1">
+<!--                                   the @ruledLines must be used only in those cases when there is actually a ruling, otherwise use the @writtenLines-->
+<!--                                   <dimensions type="written area" unit="cm">
+                                        <height quantity=""></height>
+                                        <width atLeast="X" atMost="X"></width>
+                                    </dimensions>-->
+
+                                    <p>Many pages have 1 line of caption (rarely 2), with a maximum of approximately 45 <term xml:lang="san">akṣara</term>s per line.</p>
+                                   <dimensions type="akṣara" unit="mm" n="X">
+                                        <height quantity="4">4</height>
+                                    </dimensions>
+                                   
+                                    <dimensions type="interlinear space" scope="most" unit="mm">
+                                        <height quantity="4">4</height>
+                                    </dimensions>
+                           <!--
+                                   
+                                    <p>Details on frame, marginal lines, ruling and the like.</p>-->
+                                </layout>
+                           </layoutDesc>
+                        </objectDesc>
+                         
+                         
+                        <handDesc>
+                            <handNote scope="sole" script="nepālākṣarā" medium="goldenink">
+                                <desc>Nepālākṣarā in golden ink.</desc>
+                        <!--                                <p><hi rend="bold">Scribe:</hi> <name type="person" subtype="scr" key="local_ VIAF_"><persName xml:lang="san" type="standard"> [scribe name]</persName></name></p>-->
+                            </handNote>
+                        </handDesc>
+                        
+                        <decoDesc>
+                            <decoNote type="miniature">
+                                <desc>
+                                <list>
+                                    <item>On <locus from="1" to="1">page 1</locus>, the opening auspicious scene: five deities with their respective consorts and mythical vehicles, seating in five niches in some sort of highly decorated arched porch. In the middle, Śiva with Umā, on Nāndin. To the left, Brahmā with his consort, on the Haṃsa. Further to the left, Gaṇeśa on the mouse. To the right, Viṣṇu and Lakṣmī, on Garuḍa. Further to the right, Skanda on the peacock. </item>
+                                    <item>On <locus from="2" to="2">page 2</locus>, to the left, the representation known as <term xml:lang="san">paramātman</term> or <term xml:lang="san">viṣṇu nyagrodhaśāyin</term>: Viṣṇu is reclining on a Banyan tree while the sage Mārkaṇḍeya is represented twice, first as emaciated sage adoring the god and then jubilant in the water after discovering the universe in Viṣṇu's mouth; to the right, the representation known as <term xml:lang="san">yoganidrā</term> or <term xml:lang="san">śeṣaśayana</term>: Viṣṇu lying on Ananta, with Brahmā seated on a lotus coming out of Viṣṇu's navel. The caption in Nepālākṣarā characters reads: <term xml:lang="san">svasṛṣṭam idam āpīya śayānaṃ saha śaktitaḥ | tad ante bodhayāṃ cakrus talliṃgaiḥ śrutayaḥ <damage>-1-</damage>raṁ</term>. It corresponds closely to <title xml:lang="san">Bhāgavatapurāṇa</title> 10.87.12</item>
+                                    <item>On <locus from="3" to="3">page 3</locus>, the scene of the <term xml:lang="san">samudramanthana</term>, the churning of the ocean of milk, with the mount Mandara as a churning stick, the nāga Vāsuki as the rope, and the gods and the demons pulling on the two sides.</item>
+                                    <item>On <locus from="4" to="4">page 4</locus>, the painting is divided in two scenes: to the left, the gems (<term xml:lang="san">ratna</term>s) coming out of the churning of the ocean of milk, among which only some are represented: the horse Uccaiḥśrava, which will be taken by Sūrya (seen in an inset), the elephant Airāvata and Śrī, who is depicted on the very left as she ie being taken by Viṣṇu; to the right, adored by Brahmā and Viṣṇu, Śiva has just drunk the deadliest of the "gems", the poison known as <term xml:lang="san">halāhala</term> or <term xml:lang="san">kālakuṭa</term>, which turned his throat blue (hence, he is also called Nīlakaṇṭha). The two scenes are divided by the flying figure of Bhāvanī, a multi-armed aspect of the goddess Pārvatī.</item>
+                                    <item>On <locus from="5" to="5">page 5</locus>, the painting is divided in two scenes: to the left, Dhanvantari with the pot containing the <term xml:lang="san">amṛta</term>, the elixir of immortality, the last gem to emerge from the ocean, is represented between a demon who is trying to snatch the magical liquor and Mohinī, i.e., Viṣṇu in disguise as a beatuful damsel, who will manage to seduce the demons and retrieve the <term xml:lang="san">amṛta</term>; to the right, Mohinī distributes the elixir of life to the gods. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> manthānaṃ mandaraṃ kṛtvā, tathā netraṃ ca vāsukiṃ, | devā mathitum ārabdhāḥ samudraṃ nidhim ambhasāṃ ||</term>. It corresponds closely to <title xml:lang="san">Mahābhārata</title> 1.16.12.</item>
+                                    <item>On <locus from="6" to="6">page 6</locus>, the gods (probably, Varuṇa, Brahmā, Indra and Viṣṇu), invigorated by the <term xml:lang="san">amṛta</term>, defeat the demons. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> athāvaraṇamukhyāni,, nānāpraharaṇāni ca,, | <sic>pragṛhyābhadrān_</sic> devān_,, sahitā daītyadānavāḥ ||</term>. It corresponds closely to <title xml:lang="san">Mahābhārata</title> 1.17.1 (with a mistake).</item>
+                                    <item>On <locus from="7" to="7">page 7</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>, the Snake Sacrifice (<term xml:lang="san">sarpasattra</term>). To the left, Janamejaya and a priest are hurling snakes into the fire, and they have just conjured up Indra with whom Takṣaka, the snake king who had killed Jamanejaya's father Parikṣit, had sought refuge. To the right, the sage Āstika, whose mother was the sister of the snake Vāsuki, has just been granted a boon by the king and asks for the snake sacrifice to be stopped, to the dismay of Janamejaya and his priests. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> indrasya bhavane viprā yadi nāgaḥ sa takṣakaḥ | tam indreṇaiva sahitaṃ pātayadhvaṃ vibhāvasau ||</term>. It corresponds closely to <title xml:lang="san">Mahābhārata</title> 1.51.11 </item>
+                                    <item>On <locus from="8" to="8">page 8</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. To the left, Bhīma sets the lacquer house on fire. To the right, Bhīma escapes with the Pāṇdavas and Kuntī. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> tato jatugṛhadvāraṃ,, dīpayām āsa pā<damage>ṇḍa</damage>vaḥ | samantato dadau paścā,,d agnin tatra niveśane,, ||</term>. It corresponds closely to <title xml:lang="san">Mahābhārata</title> 1.136.9. <!--CHECK THE CRITICAL EDITION--></item>
+                                    <item>On <locus from="9" to="9">page 9</locus>, the painting is divided in three scenes, from the <title xml:lang="san">Mahābhārata</title>. To the left, the Pāṇḍavas and Kuntī are seating in the forest. In the centre, Bhīma is approached by a beautiful woman who proposes to him. She is Hiḍimbā, a Rākṣasa woman sent by his brother Hiḍimba to fetch the Pāṇḍavas, but she falls in love with Bhīma. To the right, Hiḍimba, enraged, wrestles with Bhīma. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> mā bhais tvaṃ vipulaśroṇi, naiṣa kaścit mayi sthite,, | aham enam hani<g>@</g>ṣyami preṣyantyās te sumadhyame ||</term>. It corresponds closely to <title xml:lang="san">Mahābhārata</title> 1.140.7.</item>
+                                    <item>On <locus from="10" to="10">page 10</locus>, the painting is divided in three scenes, from the <title xml:lang="san">Mahābhārata</title>. To the left, Bhīma breaks Hiḍimba's spine. In the centre, Bhīma and Hiḍimbā are united in a loving intercourse that takes them all over the world. To the right, Bhīma and Hiḍimbā are saluted by their Rākṣasa son, Ghaṭotkaca. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> bāhubhyām <sic>yokramitvā</sic> taṃ valavān_ pāṇḍunandanaḥ | madhye bhaṃktvā mahābāhu,,r harṣayām āsa pāṇḍavān_ ||</term>. It roughly corresponds to <title xml:lang="san">Mahābhārata</title> 1.142.30</item>
+                                    <item>On <locus from="11" to="11">page 11</locus>,  the painting is divided in three scenes, from the <title xml:lang="san">Mahābhārata</title>. To the left, Bhīma is attacked from behind by the Rākṣasa Baka, as he starts eating the food that he had brought to the moster that was terrorizing the town of Ekacakrā. In the centre, Bhīma and Baka are fighting. To the left, Bhīma defeats Baka. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> tato sya jānunā pṛṣṭha,,m avapīḍya balād iva | bāhunā parijagrāha, dakṣiṇena śirodharāṃ || <g>$</g> virathaṃ viplutaṃ taṃ tu, sa gandharvvam ma¦</term>. 1.151.22 and 1.158.29, which continues in the next page.</item>
+                                    <item>On <locus from="12" to="12">page 12</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. To the left, Arjuna is in the river Ganges, surrounded by Gandharva women (the wives of the Gandharva Citraratha). In the centre, attacked by Citraratha, Arjuna defeats him with the <term xml:lang="san">āgneya</term> missile. To the left, Citraratha's wife prays for mercy, which Yudhiṣṭhira grants. The caption in Nepālākṣarā characters reads: <term xml:lang="san">hābalaṃ | astratejaḥpramūḍhaṃ ca, prapatantam avāṅmukhaṃ | śiroruheṣu jagrāha,, mālyavatsu dhanaṃjayaḥ || <g>@</g> ||</term>. It corresponds closely to the end of <title xml:lang="san">Mahābhārata</title> 1.158.29, following from the previous page. </item>
+                                    <item>On <locus from="13" to="13">page 13</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>, the <term xml:lang="san">lakṣyabheda</term>. Surrounded by the princes gathered at Drupadī's <term xml:lang="san">svayaṃvara</term>, Arjuna is about to shoot an arrow and hit the target. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> sajyaṃ sa cakre tha<unclear reason="damaged">ni-1-</unclear>eva mātrā, ccharāṃś ca jagrāha daśārddhasaṃkhyāṇ_ | vivyādha lakṣyaṃ nipapāta tac ca chidreṇa bhūmau sahasābhividdham_ ||</term>.  It roughly corresponds to <title xml:lang="san">Mahābhārata</title> 1.179.16.</item>
+                                    <item>On <locus from="14" to="14">page 14</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The fight between the Pānḍavas (here Bhīma wielding a tree and Arjuna with his bow) and the other princes, led by Karṇa and Śalya, who gathered for the <term xml:lang="san">svayaṃvara</term> and are now disappointed after Arjuna's success in the challenge of hitting the target. Draupadī stands in a corner, defended by Bhīma and Arjuna. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> tāv ubhāv api nirdeśyau,, lāghavāj jayatāṃ varau | ayudhyetāṃ susaṃrabdhā,,v anyonyavijayaiṣiṇau ||</term>.  It roughly corresponds to <title xml:lang="san">Mahābhārata</title> 1.181.11.</item>
+                                    <item>On <locus from="15" to="15">page 15</locus>, two scenes from the <title xml:lang="san">Mahābhārata</title>. To the left, Kṛṣṇa and Arjuna meet the Fire God, who asks their help to devour the Khāndava forest, currently protected by Indra. To the right, the Fire God gives them new powerful weapons, a bow, quivers, and a chariot to Arjuna, and a discus to Kṛṣṇa. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> prādād vaī danuratnaṃ ta,,d akṣayyau ca maheṣudhī | rathaṃ <g>@</g> ca divyāśvayujaṃ,, kapipravaraketanaṃ ||</term>.  It roughly corresponds to <title xml:lang="san">Mahābhārata</title> 1.216.7cd-8ab.</item>
+                                    <item>On <locus from="16" to="16">page 16</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. In an apocalyptic scene, Arjuna and Kṛṣṇa help the Fire God to destroy the Khāṇḍava forest. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> tau rathābhyām rathaśreṣṭhau dāvasyobhayataḥ sthitau <g>@</g> dikṣu <unclear reason="damaged">sa</unclear>rvāsu bhūtānāṃ, cakrāte kadanaṃ mahat_ ||</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 1.217.1.</item>
+                                    
+                                    <item>On <locus from="17" to="17">page 17</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> sa tu senāpati rājā, sasmāra bharatarṣabha | kauśikaṃ citrasenaṃ ca, tasmin_ yuddha upasthite ||</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 2.20.30.</item>
+                                    <item>On <locus from="18" to="18">page 18</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>: the killing of Śiśupāla by Kṛṣṇa (aka <term xml:lang="san">śiśupālavadha</term>). The illumination represents "Yudhiṣṭhira washing Kṛṣṇa's feet when the latter attended the Rājasūya sacrifice performed by the king. Śiśupāla, a cousin of Kṛṣṇa, who also was a guest, began insulting both Bhiṣma and Kṛṣṇa, and instigated by other, ultimately challenged Kṛṣṇa. Kṛṣṇa then decapitated him with his discus. In the illumination the princes and sages sit together in two registers, while in the middle Yudhiṣṭira is busy washing Kṛṣṇa's feet. Kṛṣṇa's right hand holds the discus, which has returned after cutting off Śiśupāla's head, and the artist even shows us the path followed by the weapon (Pal 1970, 97)." The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> atha bruvuta evāsya,, bhagavān_ madhusūdanaḥ | vyapāharac chiraḥ kruddha,ś cakreṇāmitrakarṣaṇaḥ || </term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 2.42.21.</item>
+                                    <item>On <locus from="19" to="19">page 19</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>: Duryodhana and Yudhiṣṭira play dice, surrounded by the Pāṇḍavas and the Kauravas. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> etac chrutvā vyavasito,, nikṛtiṃ samupāśritaḥ | jitam ity eva śakuni,,s tān akṣān_ pratyapadyata ||</term>.  It closely corresponds to <title xml:lang="san">Mahābhārata</title> 2.58.10.</item>
+                                    <item>On <locus from="20" to="20">page 20</locus>, the painting is divided in two scenes, from the <title xml:lang="san">Mahābhārata</title>: Duḥśāsana grabs Draupadī by the hair; and then he drags her to the court, where she begs Bhīma to save her honour.The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> rajasvalā vā bhava yājñaseni, ekāmbarā vāpy athavā vivastrā | dyute jitā cāsi kṛtās <add place="end">dāsi</add>  sā <unclear>kāmayāsmāṃś</unclear> ca yathopajoṣaṃ ||</term>.  It closely corresponds to <title xml:lang="san">Mahābhārata</title> 2.60.27.</item>
+                                    
+                                    <item>On <locus from="21" to="21">page 21</locus>, the painting is divided in three scenes, from the <title xml:lang="san">Mahābhārata</title>. To the left, the powerful and menacing forest-dweller Hiḍimba faces the five Pāṇḍava brothers and Draupadī; in the centre, Bhīma fights with him; to the right, Bhīma finally subdues Hiḍimba. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> hiḍimbaṃ nihitaṃ dṛṣṭvā,, saṃhṛṣtās te tarasvinaḥ | apūjayan naravyāghraṃ,, bhīmasenam arindamaṃ || <g>@</g> ||</term>.  It closely corresponds to <title xml:lang="san">Mahābhārata</title> 1.142.31. Strangely, this scene is a repetition of the scene portrayed in <locus from="10" to="10">page 10</locus>, and it is out of sequence here, as the killing of Hiḍimba occurs in the first book and here the story has moved to the second book. Probably, a mistake of the artist.</item>
+                                    
+                                    <item>On <locus from="22" to="22">page 22</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> 
+                                    <unclear reason="damaged">tau</unclear> muktau sāyakau tābhyāṃ,, samaṃ tatra nipetatuḥ | mūkasya gatre vistīrṇṇe, śailasaṃhanane tada ||</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 3.40.14.</item>
+                                    <item>On <locus from="23" to="23">page 23</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> tac ca mālyaṃ tadā pārthaḥ <sic>kirāṭasirasi</sic> sthitaṃ | apaśyat_ pāṇḍavaśreṣṭo,, harṣeṇa prakṛtiṃ gataḥ ||</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 3.40.51.<!--CHECK THE CRITICAL EDITION--></item>
+                                    <item>On <locus from="24" to="24">page 24</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> evam uktvā tataḥ kṛṣṇā,m uvāca sa ghaṭotkacaḥ | <sic>pāṇḍūnā</sic> madhyago vīraḥ pāṇḍavān api cāpare ||</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 3.145.7.</item>
+                                    <item>On <locus from="25" to="25">page 25</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> uccikṣepa punar dorbhyām indrāyudham ivocchritaṃ | noddhartum <sic>asakad</sic> bhīmo,, dārbhyam api mahābalaḥ ||</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 3.147.18.</item>
+                                    <item>On <locus from="26" to="26">page 26</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>.</item>
+                                    <item>On <locus from="27" to="27">page 27</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> gandharvā bahusāhasrās tilaso vyadhamad rathaṃ | tato rathād avaplutya,, sūtaputro sicarmabhṛt_ || duryodhanaṃ citraseno virathaṃ patitaṃ bhuvi ḥ | a</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 3.230.30cd-31ab and 3.231.6, continuing in the next page.</item>
+                                    <item>On <locus from="28" to="28">page 28</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san"> bhidrutya mahābāhur jīvagrāhaṃ athāgrahīt_ || <g>$</g> pāṇḍavenābhyanujñato,, rājā durjodhanas tadā | abhivādya dhamaputraṃ,, gatendriya ivāturaḥ || </term>. It closely corresponds to the end of <title xml:lang="san">Mahābhārata</title> 3.231.6, following from the previous page, and 3.235.23.</item>
+                                    <item>On <locus from="29" to="29">page 29</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> ity uktvā hriyamānāṃ tāṃ,, <sic>rājaputrī yaśasvinaḥ</sic> | <sic>anugacchan</sic> tato dhaumyaḥ padātigaṇamadhyagaḥ || <g>$</g> abhidrutya nijagrāha keśa<unclear reason="damaged">galya</unclear> tyamarṣa</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 3.252.27 and 3.256.2, continuing in the next page. </item>
+                                    <item>On <locus from="30" to="30">page 30</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">ṇaḥ | sa<unclear reason="damaged">magṛhya</unclear> tataṃ bhīmo niṣpipeṣa mahītale || <g>$</g> darśayām āsa bhīmas tu tadavasthaṃ jayadrathaṃ | taṃ rājā prāhasad drṣṭvā,, mucyatāṃ api cābravīt_ || </term>. It closely corresponds to the end of <title xml:lang="san">Mahābhārata</title> 3.256.2 and to 3.256.15.</item>
+                                    <item>On <locus from="31" to="31">page 31</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> kuṇḍale me prayacchasva,, varma caiva śarīrajaṃ | gṛhāṇa karṇṇa me śakti,,m anena samayena ca ||</term>. It corresponds closely to <title xml:lang="san">Mahābhārata</title> 3.294.23.</item>
+                                    <item>On <locus from="32" to="32">page 32</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> ākramya tu kaṭīdeśe,, jānunā kīcakādhamaṃ | apīḍayata bāhubhyām kṛṣṇakopopaśāntaye ||</term>. It corresponds closely to <title xml:lang="san">Mahābhārata</title> 4.21.58. <!--CHECK THE CRITICAL EDITION--></item>
+                                    <item>On <locus from="33" to="33">page 33</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> ūrddhvapucchaṃ vidhunvānā,, vepamānāḥ samantataḥ | gāvaḥ pratinivarttante,, diśam āsthāya dākṣiṇāṃ ||</term>. It corresponds closely to <title xml:lang="san">Mahābhārata</title> 4.48.23</item>
+                                    <item>On <locus from="34" to="34">page 34</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> dṛṣṭyā bhavantaḥ saṃprāptāḥ sarve kuśalino vanāt_ | dṛṣṭya ca vāritaṃ kṛcchaṃ,, kleśitāś ca durātmabhiḥ ||</term>. It corresponds closely to <title xml:lang="san">Mahābhārata</title> 4.66.25.</item>
+                                    <item>On <locus from="35" to="35">page 35</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>: Arjuna witnessing the cosmic form of Kṛṣṇa/Viṣṇu (aka <term xml:lang="san">viśvarūpadarśana</term>). "The battlefield is indicated by the confronted chariots of Arjuna and Kṛṣṇa on the one side and of the Kauravas on the other. The dark central figure with many arms and legs, multiple heads and faces, some of them awesome and painted even on his belly and chest, represents the universal manifestation. On the chariot to the left, the bewildered and frightened Arjuna shrinks away from the manifestation with enjoined palms. The human Kṛṣṇa is seated in front of the chariot, assuring Arjuna with his right hand, and holding the reins of the horses with the left. The insignia on the Pāṇḍava standard behind Kṛṣṇa is a monkey in a flying posture. This is no doubt Hanumān who, on an earlier occasion, had told Bhīma that he would be present at the battle of Kurukṣetra. On the other side of the manifestation are the Kauravas, led by Duryodhana, and they also seem wonder-struck, although only Arjuna was supposed to have beheld the manifestation. The insignia on their standard appears to be a lion (Pal 1970, 97-98)." The barely legible caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <damage>
+                                       <term>anekabāhūdarava</term>
+                                    </damage>ktranetraṃ paśyāmi tvāṃ sarvatonantarūpaṃ | <damage>
+                                       <term>nāntaṃ na ma</term>
+                                    </damage>dhyaṃ na puna<damage>
+                                       <term>s tavā</term>
+                                    </damage>diṃ paśyā<damage>
+                                       <term>mi vi</term>
+                                    </damage>śveśvara viśvarūpa ḥ ||</term> It corresponds to <title xml:lang="san">Bhagavadgītā</title> 11.16.</item>
+                                    <item>On <locus from="36" to="36">page 36</locus>, a battle scene from the <title xml:lang="san">Mahābhārata</title>, probably the one following the episode of the <term xml:lang="san">Bhagavdgītā</term>.</item>
+                                    <item>On <locus from="37" to="37">page 37</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> sa bhinnahṛdayo rājā, bhagadattaḥ kirīṭinā | śarāsanaṃ śarāṃś caiva, ga<g>@</g>tāsuḥ pramumoca ha ||</term>. It corresponds closely to <title xml:lang="san">Mahābhārata</title> 7.28.41.</item>
+                                    <item>On <locus from="38" to="38">page 38</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> tasmin kāle śaktinir<unclear reason="script">bhinna</unclear>marmā,, babhau rājan meghaśailaprakāśaḥ | tato ntarīkṣad apatad gatāsuḥ sa rākṣasendro bhuvi bhnnadehaḥ</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 7.154.59.</item>
+                                    <item>On <locus from="39" to="39">page 39</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> dṛṣṭadyumno vadhīd dronāḥ <g>@</g> rathatalpe nararṣabha ¦ śonitena parikli<unclear reason="script">nno</unclear> rathād bhumim arindamaḥ || lohitāmga ivādityo, du<unclear reason="script">rda</unclear>rśaḥ pratyapadyata ||</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 7.165.53.</item>
+                                    <item>On <locus from="40" to="40">page 40</locus>,  the painting is divided in three scenes, from the <title xml:lang="san">Mahābhārata</title>. To the left, Bhīma on a chariot throws an arrow at Duḥśāsana, who does the same; in the centre, they enter hand-to-hand combat; to the right, Bhīma subdues Duḥśāsana and is on the point of drinking his blood, as promised long before. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> tato nipātyāsya śiro pāhṛtya tenāśinā tava putrasya rājan_ | satyaṃ cikīrṣur matimān pratijñān_, bhimo 'pibac chonitam aysa koṣṇaṃ ||</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 8.61.6 (936).</item>
+                                    <item>On <locus from="41" to="41">page 41</locus>, the painting is divided in two scenes, from the <title xml:lang="san">Mahābhārata</title>: Bhīma has just finished drinking the blood of Duḥśāsana; the duel between Arjuna and Karṇa, both on the respective chariots. But the wheel of Karṇa's chariot sinks, and he is killed while trying to set it free. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> pātho parāhṇe śira uccakartta, vaikarttanasyātha mahendradūnuḥ | tat prāpatac cāṃjalikena cchina,m athāsya kāyo ni<g>@</g>papāta paścāt_ ||</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 8.67.23 (1159.5-8).</item>
+                                    <item>On <locus from="42" to="42">page 42</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. After fleeing from the battle, Duryodhana, hidden in a tank, is urged by his allies to return to the fight. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> rājan uttiṣṭha yudhyasva, <sic>sahāsmābhi</sic> yudhiṣṭḥaraṃ | jitvā vā pṛthivīṃ bhuṃkṣva, hato vā <sic>svā<g>@</g>rav</sic>āpnuhi <g>@</g> ||</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 9.29.11.</item>
+                                    <item>On <locus from="43" to="43">page 43</locus>, the painting is divided in three scenes from the <title xml:lang="san">Mahābhārata</title>: Bhīma discovers Duryodhana's hideaway; he drags him out, into a fight; and overpowers him. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> sā vajraniṣpeṣasamā prahitā bhīmakarmaṇā | ūrū duryodhanasyātha,, babhaṃja priyadarśato | <g>$</g> saṃnipatya</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 9.57.44 and 10.1.39, continuing in the next page.</item>
+                                    <item>On <locus from="44" to="44">page 44</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. Yudhiṣṭhira and other survivors mourn the death of many warriors and the destruction on the battlefield, as ravens, vultures and other birds sweep down to feed on the corpses. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> tu śākhāyāṃ, nyagrodhasya vihaṃgamaḥ | suptāñ jaghāna subahū,n vāyasān vāyasāntakaḥ || upadeśaḥ kṛto nena, pakṣiṇā mama saṃyuge | śatrūnāṁ kṣapaṇe yuktaḥ, prāptaḥ kālaś ca me mataḥ ||</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 10.1.39, following from the previous page, and 10.1.44.</item>
+                                    <item>On <locus from="45" to="45">page 45</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> vṛttaṃ bhūtagaṇair ghoraīḥ kravyādaiś ca samantataḥ | yathā dhanaṃ lipsamanai,,r bhṛtyair nṛpatisattamaḥ ||</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 9.64.7.</item>
+                                    <item>On <locus from="46" to="46">page 46</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> iyam ātmānam <unclear reason="damaged">adyāhaṃ jātam āṃgirasaḥ kule</unclear> | agnau juhomi bhagavan_ <sic>pratigṛhnaṣva</sic> māṃ baliṃ ||</term>. It closely corresponds to <title xml:lang="san">Mahābhārata</title> 10.7.54</item>
+                                    <item>On <locus from="47" to="47">page 47</locus>, a scene from the <title xml:lang="san">Mahābhārata</title>. Bhīṣma is lying on his deathbed of arrows (<term xml:lang="san">śaraśayyā</term>) and teaching everybody about the <term xml:lang="san">dharma</term>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> śarasaṃghakṣataṃ vīraṃ, sāśrukaṇṭhas tadā vṛṣaḥ | bhīṣma bhīṣma mahābāho ity uvāca mahādyutiḥ ||</term> It corresponds closely to <title xml:lang="san">Mahābhārata</title> 6.117.4.</item>
+                                    <item>On <locus from="48" to="48">page 48</locus>, the last scene from the <title xml:lang="san">Mahābhārata</title> story: the crowning of Yudhiṣṭhira surrounded by the Pāṇḍavas. The caption in Nepālākṣarā characters reads: <term>
+                                    <g>$</g> rājasūyāvabhṛthena, snāto rājā yudhiṣṭhiraḥ | brahmakṣatriviśamadhye śuśubhe surarāḍ iva || <g>@</g> ||</term> It actually corresponds closely to <title xml:lang="san">Bhāgavatapurāṇa</title> 10.74.51.</item>
+                                    <item>On <locus from="49" to="49">page 49</locus>, the painting is divided in three parts. </item>
+                                    <item>On <locus from="50" to="50">page 50</locus>, a scene from the Buddhist Kinnarī Jātaka. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="51" to="51">page 51</locus>, a scene from the Buddhist Kinnarī Jātaka. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="52" to="52">page 52</locus>, a scene from the Buddhist Kinnarī Jātaka. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="53" to="53">page 53</locus>, a scene from the Buddhist Kinnarī Jātaka. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="54" to="54">page 54</locus>, a scene from the Buddhist Kinnarī Jātaka. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="55" to="55">page 55</locus>, a scene from the Buddhist Kinnarī Jātaka. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="56" to="56">page 56</locus>, a scene from the Buddhist Kinnarī Jātaka. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="57" to="57">page 57</locus>, a scene from the Buddhist Kinnarī Jātaka. Sudhana scaling mountains and facing dangers in search of Kinnarapura, where his beloved Manoharā lives. The king of monkeys is showing the way.</item>
+                                    <item>On <locus from="58" to="58">page 58</locus>, a scene from the Buddhist Kinnarī Jātaka. <!--The caption in Nepālākṣarā characters reads: --> </item>
+                                    <item>On <locus from="59" to="59">page 59</locus>, a scene from the Buddhist Kinnarī Jātaka. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="60" to="60">page 60</locus>, a scene from the Buddhist Kinnarī Jātaka. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="61" to="61">page 61</locus>, a scene from the Buddhist Kinnarī Jātaka. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="62" to="62">page 62</locus>, a scene from the Buddhist Kinnarī Jātaka. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="63" to="63">page 63</locus>, a scene from the Buddhist Kinnarī Jātaka. Sudhana is finally reunited with Manoharā and back in his kingdom. They sit in front of Sudhana's father withina pavilion, while the musicians represent the jubilation of the city.</item>
+                                    <item>On <locus from="64" to="64">page 64</locus>, a scene from the Buddhist Kinnarī Jātaka, on the left. Sudhana and Manoharā ascend to heaven. The caption in Nepālākṣarā characters reads: <term xml:lang="san">svargavaṃḍā ||</term>. To the right, the court of king Vikramāditya, while he is being blessed by a Brahmin. The image serves as an introduction to the following folios where scenes from the <title xml:lang="san">Vetālapañcaviṃśati</title> are illustrated. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> śrīvikramādityarājasabhā sabrāhmaṇa na, cauracakravarttī ||</term>
+                              </item>
+                                    <item>On <locus from="65" to="65">page 65</locus>, a scene from the <title xml:lang="san">Vetālapañcaviṃśati</title>. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="66" to="66">page 66</locus>, a scene from the <title xml:lang="san">Vetālapañcaviṃśati</title>. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="67" to="67">page 67</locus>, a scene from the <title xml:lang="san">Vetālapañcaviṃśati</title>. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="68" to="68">page 68</locus>, a scene from the <title xml:lang="san">Vetālapañcaviṃśati</title>. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="69" to="69">page 69</locus>, a scene from the <title xml:lang="san">Vetālapañcaviṃśati</title>. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="70" to="70">page 70</locus>, a scene from the <title xml:lang="san">Vetālapañcaviṃśati</title>. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="71" to="71">page 71</locus>, a scene from the <title xml:lang="san">Vetālapañcaviṃśati</title>. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="72" to="72">page 72</locus>, a scene from the <title xml:lang="san">Vetālapañcaviṃśati</title>. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                        
+                                    <item>On <locus from="73" to="73">page 73</locus>, "a multi-armed Śiva dancing on his bull and attended by two companions. The lighter figure on Śiva's right is identified as Nandi, but the inscripton below the dark and fierce-looking figure to Śiva's left is illegible. But there is little doubt that it is Mahākāla, on of the many <term xml:lang="san">pratihāra</term>s ["guardians"] of Śiva. (Pal 1967: 24)" This page is the first one of the other side of the accordion book. It represent an alternative beginning, so to say. Pal (1967) considers it as the actual beginnig, which is also possile, although it seems more likely that the host of divinity at the other end of the book should be considered as the beginning of the work.</item>
+                                    <item>On <locus from="74" to="74">page 74</locus>, "a dancing Gaṇeśa in the company of four females—who also appear to be dancing—and a male, perhaps a <term xml:lang="san">gaṇa</term>. (Pal 1967: 24)"</item>
+                                    <item>On <locus from="75" to="75">page 75</locus>, the painting is divided in three scenes from the <title xml:lang="san">Rāmāyaṇa</title>: Rāma and Lakṣmaṇa bidding farewell to Daśaratha and Kaikeyī; Rāma and Lakṣmaṇa proceeding to the forest with Sītā; and Rāma and Sītā seating on a lotus-throne, probably in a cave. Here start the scenes from the <term xml:lang="san">Rāmāyaṇa</term>. <!--The caption in Nepālākṣarā characters reads: <term xml:lang="san">gapibhiśaraṇau pūrvaṃ praṇipatya kṛtaṃ | jalibhatatāvarvada praṇataḥ kaikaryācaraṇahṛyaṃ || pātiṣṭhata sahasrājā caidadyapi parantapaśnanarāpasthte | dhīman </term>--></item>
+                                    <item>On <locus from="76" to="76">page 76</locus>, the painting is divided in three scenes from the <title xml:lang="san">Rāmāyaṇa</title>: Sītā pointing out the golden deer to Rāma and Lakṣmaṇa; Rāma chasing the golden deer; and Rāvaṇa appearing in the guise of an ascetic. <!--The caption in Nepālākṣarā characters reads: paśya hemamayamṛga | āścaryabhūtakākuñcha kāmāt svayam upāgatam || samārīcasya hṛdayavibhedaririvahaṇaḥ | tāla --></item>
+                                    <item>On <locus from="77" to="77">page 77</locus>, the painting is divided in three scenes from the <title xml:lang="san">Rāmāyaṇa</title>: Rāvaṇa fights Jaṭāyu and abducts Sītā; Rāma and Lakṣaṇa talk to the dying Jaṭāyu; and a final scene, probably representing the desperation of Rāma. <!--The caption in Nepālākṣarā characters reads: sabhitrapakṣaḥ sahasārākṣasābhīmakarmaṇaḥ --></item>
+                                    <item>On <locus from="78" to="78">page 78</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. The duel between Bali and Sugrīva. <!--The caption in Nepālākṣarā characters reads: sugrīvo rādyavaṇai va camasya svmuyāgato prahṛṣṭamanaso virauvute | nanabhānavau || tataḥ śareṇābhihato rāmenākṛṣṭamanā | papāta sahasā bhūmau nikṛtta iva pādapaḥ || It closely corresponds to <term xml:lang="san">Rāmāyaṇa</term> 4.17.1--></item>
+                                    <item>On <locus from="79" to="79">page 79</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. Surrounded by other monkeys, Hanumaṇ prepares to jump the ocean and look for Sītā. <!--The caption in Nepālākṣarā characters reads: sasāga.....śra, vikramya haripuṃgavaḥ | citrakūṭataṭe laṃkā, sthitaḥ svastho niraikṣataḥ || kapir madodanī tatra, śayānaṃ śayanentubhaḥ --></item>
+                                    <item>On <locus from="80" to="80">page 80</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. <!--The caption in Nepālākṣarā characters reads: dadarśa nīlajalada, hālantīm iva vidyutaṃ || jayāmamadanonmaṇḍa, daśagrīvo mahābalaḥ | kāvanīddīpikāś citrājagṛṅgastrayoṣitaḥ || --></item>
+                                    <item>On <locus from="81" to="81">page 81</locus>, the painting is divided in three scenes from the <title xml:lang="san">Rāmāyaṇa</title>: Rāvaṇa visits Sītā in the <term xml:lang="san">aśoka</term> grove; Hanumān converses with Sītā; Hanumān destroys the city of the <term xml:lang="san">rākṣasa</term>s. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="82" to="82">page 82</locus>, the painting is divided in three scenes from the <title xml:lang="san">Rāmāyaṇa</title>: Hanumān is defeating a <term xml:lang="san">rākṣasa</term>; Hanumān is overpowered in the fight; and he is tied up with a snake and brought before Rāvaṇa. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="83" to="83">page 83</locus>, the painting is divided in two scenes from the <title xml:lang="san">Rāmāyaṇa</title>. On the right, Hanumān escapes from Laṅka and gives it to the flames. The caption in Nepālākṣarā characters reads: <term xml:lang="san">mumoca hanumān āgniṃ, saṃdīpya <unclear>
+                                       <term>vanbha</term>
+                                    </unclear>tāśanaṃ | pradīptam agniṃ pavana,s teṣu veśmasu cārayat_ ||</term>. It roughly corresponds to <title xml:lang="san">Rāmāyaṇa</title> 5.52.7a and 5.52.9cd.  On the left, back in the presence of Rāma and Lakṣaṇa, surrounded by the other monkeys, Hanumān tells them about Sītā. The caption in Nepālākṣarā characters reads: <term xml:lang="san">praṇamya śirasā rāmaṃ,, lakṣmaṇaṃ ca mahārathaṃ | pravṛttim atha śītāyā, ākhyātuṃ upacakramaḥ</term>. It roughly corresponds to <title xml:lang="san">Rāmāyaṇa</title> 5.63.1cd and 5.63.2ab. </item>
+                                    <item>On <locus from="84" to="84">page 84</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>, commonly known as <term xml:lang="san">setubandha</term>, the construction of the bridge. Rāma, Lakṣmaṇa, Vibhīṣaṇā, Hanumān and the other monkeys assault the island of Laṅka and build a bridge over the ocean. On the other side, Rāvaṇa is flying in his <term xml:lang="san">vimāna</term>. <!--The caption in Nepālākṣarā characters reads: prasetur mahān carddha, sāgaravarunālaye | kṛtakṛtyāsyāsmarāte tu ratālaṃkā na saṃśayaḥ || śrūtvā setukriyāṃ bhīto, rāvaṇo lokarāvaṇa | āgatya sadasā setuṃ dadarśa rākṣa--></item>
+                                    <item>On <locus from="85" to="85">page 85</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. <!--The caption in Nepālākṣarā characters reads: rere rāvaṇa irmate raprayatesetailākṣadīkṣāguroḥ prādāvjabhā śiro nidhāya sahasā śitāṃ satīm  arpasa | ityavacaṅgagarhmyabhānaṇaparaḥ --></item>
+                                    <item>On <locus from="86" to="86">page 86</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. <!--The caption in Nepālākṣarā characters reads: paśya rudaśāsparanaṃ,, śrutaṃ śyātitaḥ śitaṃ sacakitaṃ pahyāṃ jaghānāṃ gadaḥ || --></item>
+                                    <item>On <locus from="87" to="87">page 87</locus>, the painting is divided in two scenes from the <title xml:lang="san">Rāmāyaṇa</title>, illustrating the killing of Kumbhakarṇa. On the left, our heroes fight against Kumbhakarṇa, a younger brother of Rāvana who was fighting on his side. On the right, they defeat him. The caption in Nepālākṣarā characters reads: <term xml:lang="san">pravisisto balavatā, rāmena niśitaḥ śāraḥ | kumbhakarṇṇasya hṛdayaṃ dadāra tu vicā<unclear>vi</unclear>sat_ || kumbhakarṇṇavadhaḥ ||</term> 
+                              </item>
+                                    <item>On <locus from="88" to="88">page 88</locus>, the painting is divided in two scenes from the <title xml:lang="san">Rāmāyaṇa</title>. On the left, prompted by Rāvaṇa, the magician Vidyujjihva presents an illusory severed head of Rāma to Sītā, in order to break her resolve. On the right, a demon theratens to kill an illusory Sītā in front of the distressed Rāma, Lakṣaṇa, Vibhīṣaṇa, Hanumān and the monkeys. <!--The caption in Nepālākṣarā characters reads: ravaśo hyata nantastaccinatriyadarśanaṃ | puno nidhāya śitāyāḥ kipramantaradhīmataḥ || śītā śākavatī drṣṭā nirolaghupateḥ satī | pranaṣṭamagnima--></item>
+                                    <item>On <locus from="89" to="89">page 89</locus>, the painting is divided in two scenes from the <title xml:lang="san">Rāmāyaṇa</title>. On the left, Sītā shows the illusory severed head of Rāma to Hanumān. On the right, Hanumān has taken the illusory head in front of Rāma, Lakṣmaṇa, Vibhīṣaṇa and the monkeys, all struck by utter amazement. The body of the illusory Sitā, slain, still lies on the ground.<!--The caption in Nepālākṣarā characters reads: karo,kkvlitaṃrakasāpuraḥ || ātītaṃ vāyusuvraṇaṃ, svānānanasaṃaṃ śiraḥ | tat_ rāmacandro'pi,, ḍṛśṭvā vismayaṃ paramaṃ gataḥ || <g>@</g> ||--></item>
+                                    <item>On <locus from="90" to="90">page 90</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. <!--The caption in Nepālākṣarā characters reads: pravarttamānayajñaṃ tu, buddhāvijñavibhīṣaṇaḥ | yavighnaṃ vidhāyainaṃ ghātayām āsa taṃ tadā || <g>@</g> <g>$</g> iha tvaṃ jātaṛddhaś ca bhrātā sākṣat pitur mama 6.74.11ab--></item>
+                                    <item>On <locus from="91" to="91">page 91</locus>, the painting is divided in two scenes from the <title xml:lang="san">Rāmāyaṇa</title>. The caption in Nepālākṣarā characters reads: <term xml:lang="san">kathaṃ drakṣasi putrasya pitṛvyo nidhanaṃ mama <g>@</g>
+                                 </term>. It corresponds closely to <title xml:lang="san">Rāmāyaṇa</title> 6.74.11cd. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> tac chiraḥ saśiras trāṇāṃ śrīmaj jvalitakuṇḍalaṃ | pramathyendrajitaḥ krodhāt pātayām āsa bhutale ||</term> It corresponds closely to <title xml:lang="san">Rāmāyaṇa</title> 6.78.33.</item>
+                                    <item>On <locus from="92" to="92">page 92</locus>, the painting is divided in two scenes from the <title xml:lang="san">Rāmāyaṇa</title>. On the left, a group of defeated <term xml:lang="san">rākṣasa</term>s inform Rāvaṇa of the death of his son, Indrajit. The caption in Nepālākṣarā characters is divided in two parts. The first reads: <term xml:lang="san">tataḥ paulastya sacivā, vijñāyendrajitaṃ hataṃ | vijñāya yāmāsuratho rāvaṇaṃ sahitās tadā || <g>@</g> ||</term> The first part corresponds closely to 6.80.1ab of the <title xml:lang="san">Rāmāyaṇa</title>.  I On the right, the furious Rāvaṇa runs to battle. The caption in Nepālākṣarā characters reads: <term xml:lang="san">tato rāvaṇavegena, sudūram avagāḍhayā, śa</term>. It corresponds closely to <title xml:lang="san">Rāmāyaṇa</title> 6.88.35 and continues in the next page.</item>
+                                    <item>On <locus from="93" to="93">page 93</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. Rāvaṇa, riding a chariot in the clouds, fights against Lakṣmaṇa, helped by Vibhīṣaṇa and the monkeys, and defeats him. The first part of the caption in Nepālākṣarā characters reads: <term xml:lang="san">tyā nirbhinnahṛdayaḥ papāta bhuvi lakṣmaṇaḥ || </term> It corresponds closely to the end of <title xml:lang="san">Rāmāyaṇa</title> 6.88.35, following from the previous page, although the fall of Lakṣṃaṇa is depicted in the following page. <!--The second part of the caption reads: <g>$</g> pralāyānalasaṃkāśās ācantriṃ lakṣanaṃ prati | śaktidadhāra sahasā hanumān_ paravīrahā || śaktivilo--></item> 
+                                    <item>On <locus from="94" to="94">page 94</locus>, the painting is divided in two scenes, from the <title xml:lang="san">Rāmāyaṇa</title>: Lakṣmaṇa, unconscious after the fight with Rāvaṇa, lies on the lap of Vibhīṣaṇa, surrounded by the wailing monkeys. The monkeys, led by Hanumān, inform Rāma about the defeat of Lakṣmaṇa.  <!--The caption in Nepālākṣarā characters reads: ...to lakṣaṇaṃ kamalararaṃ |ḍattiṣṭhāttiṣṭhati gada ...rāvaṇā rutaḥ ||    <g>$</g> vanato  vāśanaṃ prāptaḥ śītāvyaṇaradaḥ khitaḥ | kva gacchasi mahā --></item>
+                                    <item>On <locus from="95" to="95">page 95</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. A broken-hearted Rāma seats with the wounded Lakṣmaṇa on his lap. Vibhīṣaṇa, Hanumān and the monkeys surround them. <!--The caption in Nepālākṣarā characters reads: māhe | ślomitrebhrata vatsala || nānāsatvaravair ghuṣṭaḥ girimānīyasatvaraḥ | ābhagāmā--></item>
+                                    <item>On <locus from="96" to="96">page 96</locus>, the painting is divided in two scenes from the <title xml:lang="san">Rāmāyaṇa</title>: Hanumān flies through the air, carrying the mountain Gandhamādana, the seat of numerous magical medicinal herbs, while Bharata and Śatrughna unwittingly shoot arrows at him. Still on Rāma's lap, Lakṣmaṇa is restored to life by the elixir <term xml:lang="san">viśalyakaraṇī</term>, under the astonished eyes of Vibhīṣaṇa and the monkeys.  <!--The first part of the caption in Nepālākṣarā characters reads: ṇḍavegena, hanumān_ nāma saṃnidhau ||--> The second part of the caption reads: <term xml:lang="san">tāṃ viśalyāṃ samāghrāya lakṣmaṇaḥ paravīrahā || viśalyo nīrujaḥ śighram udatiṣṭḥat_ mahītale ||</term>. It corresponds closely to <title xml:lang="san">Rāmāyaṇa</title> 6.89.24.</item>
+                                    <item>On <locus from="97" to="97">page 97</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. Lakṣṃaṇa is now restored to life and greets Rāma. Vibhīṣaṇa, Hanumān and the monkeys surround them. <!--The caption in Nepālākṣarā characters reads: mācite lakṣmaṇenaiva, durddhāre rāvāṇātmaje | sāyusāḥ dhatitaṃ nāma, āliliṃge svakānujaḥ || --> </item>
+                                    <item>On <locus from="98" to="98">page 98</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. Rāvaṇa's great sacrifice is disrupted by Rāma, Lakṣmaṇa and the army of monkeys.<!--The caption in Nepālākṣarā characters reads:  <g>$</g> rāvaṇasya mahāyajña,pravṛttasya durātmanaḥ | nalo nāma kapiśreṣṭo, vabhaṃjā śukratuṃ mudā ||   || rāvaṇayajñavidhvaṃsaḥ || <g>@</g> ||--></item>
+                                    <item>On <locus from="99" to="99">page 99</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. The final duel between Rāma and Rāvaṇa. The caption in Nepālākṣarā characters is divided in two parts. The first part reads: <term xml:lang="san">
+                                    <g>$</g> nāma rāvaṇayuddhaḥ || <g>@</g> ||</term>. The second part reads: <term xml:lang="san">
+                                    <g>$</g> gatāsur bhīmavegena rā..seto gatadyutiḥ | papāta sahasā bhumau, vṛtro vajrahato yathā ||</term>. It corresponds closely to <title xml:lang="san">Rāmāyaṇa</title> 6.97.21</item>
+                                    <item>On <locus from="100" to="100">page 100</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. Sītā's <term xml:lang="san">agniparīkṣā</term>. <!--The caption in Nepālākṣarā characters reads: tānukṣipya tato vakṣir maithilī nāma vyudyacāna | kākutstha dayitāṃ sādhī tvam asaṃkṣipyata--></item>
+                                    <item>On <locus from="101" to="101">page 101</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. After Sītā's trial by fire, Rāma and his wife are happily reunited, and surrounded by all victors, <!--The caption in Nepālākṣarā characters is divided in two parts. The first concludes the verse in the previous page: <term xml:lang="san">kathaḥ ||</term>. The second part reads: <term xml:lang="san"><g>$</g> svarociyā viśuddhāṃ tām, janakīṃ janasaṃmatāṃ | dadāv agnim udāṃmukhe , kākuṣṭhāya mahātmane, || <g>@</g> ||</term>--></item>
+                                    <item>On <locus from="102" to="102">page 102</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. Vibhīṣaṇa is consecrated king of Laṅkā by Rāma and Hanumān, surrounded by Lakṣmaṇa and the monkeys. The caption in Nepālākṣarā characters reads: <term xml:lang="san">tathety uktvā tu saṃhṛṣṭaḥ sauvarṇaghaṭam ādade | sutena tena saumitri,r abhyaṣiṃcat vibhīṣaṇaṃ ||</term>. This corresponds closely to <title xml:lang="san">Rāmāyaṇa</title> 6.100.11 (with a mistake). The caption continues.<!--:  <g>$</g> bhatrā  daśāsyaṃ tuvanaikavīraṃ--></item>
+                                    <item>On <locus from="103" to="103">page 103</locus>, a scene from the <title xml:lang="san">Rāmāyaṇa</title>. the journey back to Ayodhyā. <!--The caption in Nepālākṣarā characters reads: rakṣaṃ pradāyāsu vibhīṣaṇāya | ādāya śātāṃ raghunaṃdano the | surīma yoṣyāṃ purarājagāma || <g> $<g/> --></item>
+                                    <item>On <locus from="104" to="104">page 104</locus>, Rāma and Sītā back in Ayodhyā are consecrated by Brahmins, surrounded by Lakṣmaṇa, Hanumān and the monkeys. The final scene from the <title xml:lang="san">Rāmāyaṇa</title>. <!--The caption in Nepālākṣarā characters reads: --></item>
+                                    <item>On <locus from="105" to="105">page 105</locus>, representation of three of the sixty-four <term xml:lang="san">mahāsiddha</term>s: Ādinātha and Pārvati seated on Nandi and ensconsed in a cave; Macchendranātha, one of the patron saints of Nepal ("first seen appearig from a fish with his arms raised. Then he is seated with a <term xml:lang="san">yogapaṭṭa</term> tied around his knees, and surrounded by four fishes. He is also given the horizontal third-eye); and Cauraṅgī, seated on a tiger skin.</item>
+                                    <item>On <locus from="106" to="106">page 106</locus>, representation of four of the sixty-four <term xml:lang="san">mahāsiddha</term>s: Vaṃsāpā, playing the flute; Gorakṣanātha, seated on a bull and overpowering another; Lūyīpā (Luipa) eating entrails of fish in front of Dānīrāja, king of Orissa; and Indrabhūti with an elaborate crown, accompanied by a female partner.</item>
+                                    <item>On <locus from="107" to="107">page 107</locus>, representation of three of the sixty-four <term xml:lang="san">mahāsiddha</term>s: Virūpā carrying a skull in his right hand and pointing at the sun and the moon with his left, accompanied by a female partner whose caption seems to read Śauṇḍinī; Vyākipā (probably Vyālipā) with a female partner; and Nāgārjuna seating on a serpent (whose hoods form a canopy over his head), in front of a disciple.</item>
+                                    <item>On <locus from="108" to="108">page 108</locus>, representation of three of the sixty-four <term xml:lang="san">mahāsiddha</term>s: the first one (caption illegible) seated on a <term xml:lang="san">nāga</term> and accompanied by a female partner; the second one (caption illegible) feeding a monkey and accompanied by a female partner; Gorakṣanātha, seated on a bull and overpowering another, accompanied by a female partner.</item>
+                                    <item>On <locus from="109" to="109">page 109</locus>, representation of four of the sixty-four <term xml:lang="san">mahāsiddha</term>s: Jñānākarapā, with a bull and a female partner; Kāmālīpā (probably Kāmāripā) working metal with a female partner; Karṇṇapā with two attendants; and Bhadrapā (?) while beating a female character.</item>
+                                    <item>On <locus from="110" to="110">page 110</locus>, representation of four of the sixty-four <term xml:lang="san">mahāsiddha</term>s: Camārīpā killing a boar, accompanied by a female partner; Kukkurīpā carrying a dog, accompanied by a female attendand; Ghaṇṭāpā dancing with a female partner; and Godhiyāpā with birds and a female partner.</item>
+                                    <item>On <locus from="111" to="111">page 111</locus>, Sūrya is represented in his chariot within a circular golden frame, with two attendants throwing arrows at <term xml:lang="san">rākṣasas</term> on the backgound of a forest.</item>
+                                    <item>On <locus from="112" to="112">page 112</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>.</item>
+                                    <item>On <locus from="113" to="113">page 113</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>.</item>
+                                    <item>On <locus from="114" to="114">page 114</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>.</item>
+                                    <item>On <locus from="115" to="115">page 115</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>. The captions in Nepālākṣarā characters read: <g>$</g> sūryavāhana ; <g>$</g> uttara ; <g>$</g> sunāha</item>
+                                    <item>On <locus from="116" to="116">page 116</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>. The caption in Nepālākṣarā characters reads: <g>$</g> kurāha</item>
+                                    <item>On <locus from="117" to="117">page 117</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>.</item>
+                                    <item>On <locus from="118" to="118">page 118</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>.</item>
+                                    <item>On <locus from="119" to="119">page 119</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>.</item>
+                                    <item>On <locus from="120" to="120">page 120</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>.</item>
+                                    <item>On <locus from="121" to="121">page 121</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>.</item>
+                                    <item>On <locus from="122" to="122">page 122</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>.</item>
+                                    <item>On <locus from="123" to="123">page 123</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>.</item>
+                                    <item>On <locus from="124" to="124">page 124</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>.</item>
+                                    <item>On <locus from="125" to="125">page 125</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>.</item>
+                                    <item>On <locus from="126" to="126">page 126</locus>, horses from the <title xml:lang="san">Aśvaśāstra</title>.</item>
+                                    <item>On <locus from="127" to="127">page 127</locus>, the painting is divided in two scenes. A man, probably a groom, is leading a saddled horse from its bridles, probably to his master. A man is riding a horse, accompanied by two attendants.</item>
+                                    <item>On <locus from="128" to="128">page 128</locus>, a hunting scene. The hunter is in the position known as <term xml:lang="san">pratyālīḍha</term>
+                              </item>
+                                    <item>On <locus from="129" to="129">page 129</locus>, sports of animals.</item>
+                                    <item>On <locus from="130" to="130">page 130</locus>, a scene with birds, possibly representing a tale from the <title xml:lang="san">Hitopadeśa</title> or some similar collection of fables. "Along the left we see a man discoursing with two birds, one of them white (a dove?) and the other a raven. In the middle portion the white bird is apparently attacked by a flock of ravens. To the right the white bird with a raven biting its neck arrives before the same man, and again he appears to be instructing them (Pal 1967: 26)."</item>
+                                   
+                                    <item>On <locus from="131" to="131">page 131</locus>, the painting is divided in two scenes. On the left, the king of elephants, Gajendra, and several other elephants are sporting on a river bank, while a crocodile, or some aquatic monster, is approching from below. On the right, Viṣṇu appears in the skies riding Garuḍa and rushes to save his devotee, Gajendra, as the crocodile has caught its foot. This episode is known as <term xml:lang="san">gajendramokṣa</term>. <!--The caption in Nepālākṣarā characters reads:  <term xml:lang="san">sāntaḥ sarasyanuvat na gṛhīta ātodṛṣṭāgarutmatiharisvadupā tu cakra | utkṣipyasaṃvujakaraṃ śirasātikṛcchratnā</term>--></item>
+                                    <item>On <locus from="132" to="132">page 132</locus>, this painting is divided in three scenes. On the right, Viṣṇu in the form of the <term xml:lang="san">avatāra</term> Vāmana, the dwarf, tricks the now too powerful demon Bali, along with his priest Śukrācārya, into giving him as much land as he could cover with three steps. In the centre, to the amazement of the onlookers, Viṣṇu assumes his cosmic form and covers the three worlds with three effortless strides. To the right, Bali is subdued by Garuḍa in front of Brahmā and Indra. This episode is commonly known as <term xml:lang="san">trivikrama</term>. <!--The caption in Nepālākṣarā characters reads: <term xml:lang="san">krattvā padena gagaṇaṃ bhuvanaṃ pareṇa svargaṃ pareṇa sahasā ca baliṃ ca baddhā | yo  </term>--></item>
+                                    <item>On <locus from="133" to="133">page 133</locus>, the painting is divided in three scenes. Kaṃsa is depicted with a raised sword, just about to kill his own sister Devakī, the future mother of Kṛṣṇa. She is lying on a chariot with his husband Vasudeva, who with clasped hands is trying to dissuade Kaṃsa from the dreadful act. The scene captures Kaṃsa's murderous intent after the prophetic dream that his sister's eighth son would kill him. But Vasudeva manages to dissuade him on the promise that all their children will be handed over to him. The central scene represents Kaṃsa taking the eight son from Devakī and Vasudeva. The third scene represents Kaṃsa as he is about to smash the baby on a stone altar, but the goddess Māyā appears in the sky and reveals that the child is just a substitute and that the real son of Devakī is safe and sound and out of his reach. The caption in Nepālākṣarā characters reads: <term xml:lang="san"> ity uktaḥ sa khalaḥ pāpo, bhojanāṃ kulapāṃśalaḥ | bhaginīṃ hantum ārabdhaḥ khaḍgapāṇiḥ kace grahīt ||</term>. This closely corresponds to <title xml:lang="san">Bhāgavatapurāṇa</title> 10.01.35. The caption continues: <term xml:lang="san"> sā taddhastāt samutpatya, sadyo <sic>devyombaraṃ</sic> gatā | adṛśye</term>. It closely corresponds to the beginnig of <title xml:lang="san">Bhāgavatapurāṇa</title> 10.04.09, and it ends in the next page.</item>
+                                    <item>On <locus from="134" to="134">page 134</locus>, the painting is divided in two scenes. To the right, Kṛṣṇa is represented with his foster mother Yaśodā. To the left, Kṛṣṇa is represented as he jumps out of Yaśodā's arms and suckles one of the breasts of the demoness Putanā, who in pain falls over Kṛṣṇa's foster father Nanda and two other shepards. The episode is known as <term xml:lang="san">Putanāvadha</term>. The caption in Nepālākṣarā characters is divided in two portions. The first is the second part of a verse (<title xml:lang="san">Bhāgavatapurāṇa</title> 10.04.09) referred to the previous page: <term xml:lang="san"> 
+                                    <damage>-1-</damage>nujā viṣṇoḥ sāyudhāṣṭā mahābhujā ||</term>. <!--The second portion of the caption reads: <term xml:lang="san"> </term>--></item>
+                                    <item>On <locus from="135" to="135">page 135</locus>, the painting is divided in three scenes: to the right, the Gopīs and the cows behold the fight represented in the central scene; in the centre, by dancing on his flaming hoods, Kṛṣṇa defeats the <term xml:lang="san">nāga</term> Kāliya, who had poisoned the river Yamunā. Kṛṣṇa's elder brother Balarāma is represented in the tree beholding the fight; and to the right, Kṛṣṇa plays the flute, surrounded by the cows and the dancing Gopīs. The episode is known as <term xml:lang="san">Kāliyadamana</term>. <!--The caption in Nepālākṣarā characters reads: <term xml:lang="san">saghacchinonanamateṃgasahasraśīrṣastattatmmardakhanadaṇḍadharoṃśripātaiḥ | kṣiṇāyuṣanuvdhiramukhanamāṇḍatajra, nnaṣṭāvamantaramakaśmalamāyanāgaḥ || govardhanaḥ</term>--></item>
+                                    <item>On <locus from="136" to="136">page 136</locus>, a representation of the scene known as <term xml:lang="san">vastrāharaṇa</term>: as the Gopīs, the cowgirls, are bathing in the river Yamunā, Kṛṣṇa playfully steals their clothes and climbs up a <term xml:lang="san">nīpa</term> tree. The caption in Nepālākṣarā characters reads: <term xml:lang="san">
+                                    <g>$</g> 
+                                    <unclear xml:lang="san">so</unclear> mbhasy alaṃ yuvatibhiḥ pariṣicyamānaḥ <sic>premnokṣitaḥ</sic> prahasatībhi<g>@</g>r itas tato ṃga | vaimānikaiḥ ku<g>@</g>su<g>@</g>mavarṣibhir īdyamāno, reme sva<g>@</g>yaṃ svaratir atra gajendralīlaḥ ||</term>. It closely corresponds to <title xml:lang="san">Bhāgavatapurāṇa</title> 10.33.23.</item>
+                                    <item>On <locus from="137/138" to="137/138">page 137 and 138</locus>, a two-page-wide <term xml:lang="san">maṇḍala</term>-like representation of the episode known as <term xml:lang="san">rāsalīlā</term>, the joyful dance and amorous sport among Kṛṣṇa and the Gopīs that occured on the night of the full moon in the month of Kārttika (aka <term xml:lang="san">rāsapūrṇimā</term>). Kṛṣṇa is represented at the centre of the <term xml:lang="san">maṇḍala</term> as he plays with his flute the melody that enchants all the Gopīs. In the outer circle, Kṛṣṇa is represented again and again, for eight times, as he amorsouly sports with eight Gopīs at the same time, thanks to his supernatural powers. Outside the circle, deities and gandharvas are playing drums in the skies, while the animals of the forest of Vṛndāvana are raptured by the melody of the divine cowherd. On the bottom, the river Yamunā flows alive with fishes of various colours. <!--The caption in Nepālākṣarā characters reads: <term xml:lang="san"> </term>--></item>
+                                    <item>On <locus from="139" to="139">page 139</locus>, the painting is divided in two scenes. On the left, Kṛṣṇa defeats the elephant Kuvalayapīḍa. The caption in Nepālākṣarā characters reads: <term xml:lang="san">kuvalayapīḍavadhaḥ</term>, the name of this episode. On the right, while a number of wrestlers (?) are engaged in an acrobatic feat, Kṛṣṇa defeats, and dances over, his evil uncle Kaṃsa, in front of his warriors and, probably, his wife. The rest of the caption reads: <term xml:lang="san">pragṛhya keśeṣu caratkirīṭaṃ, nipātya raṃgopari tuṃgamaṃcāt_ | tasyopariṣṭāt_ svayam abjanābhaḥ <sic>prapāta</sic> viśvāśraya ātmatantraḥ ||</term>. It closely corresponds to <title xml:lang="san">Bhāgavatapurāṇa</title> 10.44.37.</item>
+                                    <item>On <locus from="140" to="140">page 140</locus>, unidentified scene. <!--The caption in Nepālākṣarā characters reads: <term xml:lang="san"> </term>--></item>
+                                    <item>On <locus from="141" to="141">page 141</locus>, unidentified scene. <!--The caption in Nepālākṣarā characters reads: <term xml:lang="san"> </term>--></item>
+                                    <item>On <locus from="142" to="142">page 142</locus>, unidentified scene. <!--The caption in Nepālākṣarā characters reads: <term xml:lang="san"> </term>--></item>
+                                    <item>On <locus from="143" to="143">page 143</locus>, unidentified scene. <!--The caption in Nepālākṣarā characters reads: <term xml:lang="san"> </term>--></item>
+                                    <item>On <locus from="144" to="144">page 144</locus>, unidentified scene. <!--The caption in Nepālākṣarā characters reads: <term xml:lang="san"> </term>--></item>                                 
+                                </list>
+                                    <p>The pictorial style of the images has been thoroughly discussed in the often quoted Pal (1967). It is worth quoting one more paragraph (1967, 28): "The most striking feature of the style is the manner of the delineation of the background, which is conceived as a sort of a stage back-drop, decorated with a florid pattern of scroll work. 
+                                        This not only adds to the exuberance of the style but also enhances its decorative quality. The design of the scroll-work shows a remarkable variation, from stylized floral motifs, tracery-like light arabesques, swaying flame or cloud patterns to naturalistic lotuses, curving and voluting on slender and inter-twined tendrils.
+                                        Generally, the colours employsed for this ornate and delicately rendered background are red and blue, but occasionally green is also used."</p>
+                        </desc>
+                            </decoNote>
+                        </decoDesc>
+                        
+                  <!--                        <additions>
+                            <list>
+                                <head>Marginalia</head>
+                                <item>
+                                    <marginalia type="corrections">On the bottom right margin of folio <locus from="61r" to="61r">61r5</locus>, ..... .</marginalia>
+                                </item>
+                                <item>
+                                    <marginalia type="annotations">On the top right margin of folio <locus from="61r" to="61r">61r5</locus>, ..... .</marginalia>
+                                </item>
+                            </list>
+                        </additions>-->
+                        <bindingDesc>
+                            <p>
+                        <material>Decorated wood cover</material>,  original binding.</p>
+                            <p>Pal (1967: 23) describes the decorations of both the <locus from="cover" to="cover">front</locus> and the <locus from="back cover" to="back cover">back cover</locus> as follows: "The edge of each cover has petals of lotus; and then, within two borders in gold, a bright green dragon motif, borrowed no doubt from Chinese art through Tibet, stretches along the entire edge. In the remaining space inter-twining lotus tendrils from circular medallions, within each of which is sketched in black outline, hardly visible, a figure of a divinity. The vegetal motifs and the figures are set off against a background of light red, and the entire surface of the cover is glossed over with a lacquer slip which enhances the cover's dazzling quality."</p>
+                        </bindingDesc>
+                    </physDesc>
+                    
+                    <history>
+                        <origin>
+                            <origDate calendar="Nepali" notBefore="1575" notAfter="1625">Around the end of the 16th or beginning of the 17th century.</origDate>
+                            <origPlace xml:lang="eng" key="1000132">Nepal.</origPlace>
+                        </origin>
+                        <provenance>Bought by <name type="person" role="dnr" key="local_00002 VIAF_7477330">
+                        <persName type="standard" xml:lang="eng">Wright,
+                                    Daniel</persName>
+                        <persName type="display" xml:lang="eng">Dr. D.
+                                    Wright</persName>
+                     </name> in <date calendar="Gregorian" when="1873">1873</date>.
+                        </provenance>
+                        <acquisition>
+                     <date calendar="Gregorian" when="1873-02-26">26 February 1873 (ULIB
+                            7/3/55; <stamp>
+                           <date calendar="Gregorian" when="1873-07-21">21 July 1873</date> University Library
+                                stamp</stamp>).</date>
+                  </acquisition>
+                    </history>
+                    
+                    <additional>
+                        
+                        <adminInfo>
+                            <recordHist>
+                                <source>Pal (1967), Direct inspection.</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+                        
+                        <listBibl type="ms_descriptions">
+                            <head>Descriptions of the manuscript</head>
+                            
+                            <biblStruct type="manuscript" xml:id="ULIB7355Bradshaw1870">
+                                <monogr>
+                                    <title level="m">Notes on the collections of Oriental, Thibetan and
+                                        'Additional' manuscripts [unpublished manuscript]</title>
+                                    <author>
+                                        <forename>Henry</forename>
+                                        <surname>ULIB 7/3/55 =
+                                            Bradshaw</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1870-80</date>
+                                        
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="manuscript" xml:id="ULIB714Griffith1873">
+                                <monogr>
+                                    <title level="m">Assorted lists of manuscripts and books, chiefly Oriental,
+                                        acquired by the Library, with related papers</title>
+                                    <author>
+                                        <forename>Ralph T. H.</forename>
+                                        <surname>ULIB 7/1/4 =
+                                            Griffith</surname>
+                                    </author>
+                                    <author>
+                                        <forename>Daniel</forename>
+                                        <surname>Wright</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1873</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">ULIB 7/1/4</idno>
+                            </biblStruct>
+                            
+                     <!--                            <biblStruct type="manuscript" xml:id="zoteroItem_243">
+                                <monogr>
+                                    <title level="m">List Add.923-1827 = List of Additional Manuscripts 923-1827 [unpublished manuscript]</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1878</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Handlist_Add_1878</idno>
+                            </biblStruct>-->
+                            
+                            <!--                     <biblStruct type="book" xml:id="Bendall1883">
+                        <monogr>
+                           <title>Catalogue of the Buddhist Sanskrit Manuscripts in the University Library, Cambridge. 
+With Introductory Notices and Illustrations of the Palæography and Chronology of Nepal and Bengal</title>
+                           <author>
+                              <forename>Cecil</forename>
+                              <surname>Bendall</surname>
+                           </author>
+                           <imprint>
+                              <pubPlace>Cambridge</pubPlace>
+                              <publisher>University Press</publisher>
+                              <date>1883</date>
+                           </imprint>
+                        </monogr>
+                        <idno type="callNumber">Bendall_1883</idno>
+                     </biblStruct>-->
+                            
+                            <biblStruct type="manuscript" xml:id="Handlist_1900">
+                                <monogr>
+                                    <title>List of Oriental MSS. Class Catalogue of Oriental MSS. [unpublished manuscript]</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1900–</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Handlist_1900</idno>
+                            </biblStruct>
+                            
+                            <biblStruct type="manuscript" xml:id="de_La_Vallée_Poussin1916">
+                                <monogr>
+                                    <title>U[niversity.L[ibrary].C[ambridge]. Catalogue of Sanskrit MSS [unpublished card catalogue]</title>
+                                    <author>
+                                        <forename>Louis</forename>
+                                        <surname>LVP = de La Vallée Poussin</surname>
+                                    </author>
+                                    <author>
+                                        <forename>Caroline Mary</forename>
+                                        <surname>Ridding</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1916</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">LVP</idno>
+                            </biblStruct>
+                        </listBibl>
+                        
+                  <!--                        <listBibl type="manuscripts">
+                            <head>Manuscripts</head>
+                            <bibl>
+                                <placeName>Bhadgaon</placeName>, <orgName>National Art Gallery</orgName>: ???.
+                            </bibl>
+                        </listBibl>-->
+                        
+                  <!--                        <listBibl>
+                            <head>Edition(s)</head>
+                            <ref type="biblio" target="Name_19XX"></ref>
+                            <biblStruct></biblStruct>
+                            <biblStruct></biblStruct>
+                        </listBibl>-->
+                        
+                        <listBibl> 
+                            <head>Secondary Literature</head>
+                            <biblStruct type="journalArticle" xml:id="Pal1967">
+                                <analytic>
+                                    <title level="a">A Kalāpustaka from Nepal</title>
+                                    <author>
+                              <forename>Pratapaditya</forename>
+                              <surname>Pal</surname>
+                           </author>
+                                </analytic>
+                                <monogr>
+                                    <title level="j">Bulletin of the American Academy of Benares</title>
+                                    <imprint>
+                                        <biblScope type="vol">1</biblScope>
+                                        <biblScope type="pp">23-34</biblScope>
+                                        <date>1967</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                     <!--                            <biblStruct type="journalArticle" xml:id="Pal1967">
+                                <analytic>
+                                    <title level="a"></title>
+                                    <author><forename>Pratapaditya</forename><surname>Pal</surname></author>
+                                </analytic>
+                                <monogr>
+                                    <title level="j">Bulletin of the Prince of Wales Museum</title>
+                                    <imprint> FINDFIND!!!!ā
+                                        <biblScope type="vol"></biblScope>
+                                        <biblScope type="pp"></biblScope>
+                                        <date>after 1967</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>-->
+                            <biblStruct type="book" xml:id="Pal1970">
+                                <monogr>
+                                    <title level="m">Vaisnava iconology in Nepal: a study in art and
+                                        religion</title>
+                                    <author>
+                              <forename>Pratapaditya</forename>
+                              <surname>Pal</surname>
+                           </author>
+                                    <edition>Asiatic Society</edition>
+                                    <imprint>
+                                        <pubPlace>Calcutta</pubPlace>
+                                        <date>1970</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            <biblStruct type="book" xml:id="Pal1978">
+                                <monogr>
+                                    <title level="m">The arts of Nepal</title>
+                                    <author>
+                              <forename>Pratapaditya</forename>
+                              <surname>Pal</surname>
+                           </author>
+                                    <imprint>
+                                        <pubPlace>Leiden</pubPlace>
+                                        <biblScope type="vol">part 2: Painting</biblScope>
+                                        <publisher>E. J. Brill</publisher>
+                                        <date>1978</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080761.html">Manuscripts, Sanskrit</ref>
+                        </item>
+                    </list>
+                </keywords>
+                <keywords scheme="local">
+                    <list>
+                        <item>Itihāsa</item>
+                        <item>Nīti</item> 
+                        <item>Bauddha</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-08-31">
+                <persName>Daniele Cuneo.</persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+      <graphic decls="#document-thumbnail"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00001_files/8/0_0.jpg"
+               rend="landscape"/>
+      <surface n="cover" xml:id="i1">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00001_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="1" xml:id="i2">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00002_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="2" xml:id="i3">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00003.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00003_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="3" xml:id="i4">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00004.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00004_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="4" xml:id="i5">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00005.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00005_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="5" xml:id="i6">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00006.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00006_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="6" xml:id="i7">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00007.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00007_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="7" xml:id="i8">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00008.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00008_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="8" xml:id="i9">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00009.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00009_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="9" xml:id="i10">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00010.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00010_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="10" xml:id="i11">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00011.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00011_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="11" xml:id="i12">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00012.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00012_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="12" xml:id="i13">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00013.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00013_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="13" xml:id="i14">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00014.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00014_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="14" xml:id="i15">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00015.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00015_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="15" xml:id="i16">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00016.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00016_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="16" xml:id="i17">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00017.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00017_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="17" xml:id="i18">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00018.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00018_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="18" xml:id="i19">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00019.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00019_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="19" xml:id="i20">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00020.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00020_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="20" xml:id="i21">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00021.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00021_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="21" xml:id="i22">
+         <graphic height="2924px"
+                  width="6631px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00022.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00022_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="22" xml:id="i23">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00023.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00023_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="23" xml:id="i24">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00024.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00024_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="24" xml:id="i25">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00025.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00025_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="25" xml:id="i26">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00026.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00026_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="26" xml:id="i27">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00027.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00027_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="27" xml:id="i28">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00028.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00028_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="28" xml:id="i29">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00029.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00029_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="29" xml:id="i30">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00030.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00030_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="30" xml:id="i31">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00031.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00031_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="31" xml:id="i32">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00032.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00032_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="32" xml:id="i33">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00033.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00033_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="33" xml:id="i34">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00034.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00034_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="34" xml:id="i35">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00035.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00035_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="35" xml:id="i36">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00036.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00036_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="36" xml:id="i37">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00037.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00037_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="37" xml:id="i38">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00038.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00038_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="38" xml:id="i39">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00039.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00039_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="39" xml:id="i40">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00040.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00040_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="40" xml:id="i41">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00041.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00041_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="41" xml:id="i42">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00042.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00042_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="42" xml:id="i43">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00043.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00043_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="43" xml:id="i44">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00044.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00044_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="44" xml:id="i45">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00045.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00045_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="45" xml:id="i46">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00046.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00046_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="46" xml:id="i47">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00047.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00047_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="47" xml:id="i48">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00048.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00048_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="48" xml:id="i49">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00049.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00049_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="49" xml:id="i50">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00050.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00050_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="50" xml:id="i51">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00051.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00051_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="51" xml:id="i52">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00052.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00052_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="52" xml:id="i53">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00053.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00053_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="53" xml:id="i54">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00054.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00054_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="54" xml:id="i55">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00055.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00055_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="55" xml:id="i56">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00056.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00056_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="56" xml:id="i57">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00057.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00057_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="57" xml:id="i58">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00058.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00058_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="58" xml:id="i59">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00059.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00059_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="59" xml:id="i60">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00060.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00060_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="60" xml:id="i61">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00061.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00061_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="61" xml:id="i62">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00062.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00062_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="62" xml:id="i63">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00063.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00063_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="63" xml:id="i64">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00064.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00064_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="64" xml:id="i65">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00065.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00065_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="65" xml:id="i66">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00066.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00066_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="66" xml:id="i67">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00067.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00067_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="67" xml:id="i68">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00068.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00068_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="68" xml:id="i69">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00069.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00069_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="69" xml:id="i70">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00070.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00070_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="70" xml:id="i71">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00071.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00071_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="71" xml:id="i72">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00072.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00072_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="72" xml:id="i73">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00073.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00073_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="73" xml:id="i74">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00074.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00074_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="74" xml:id="i75">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00075.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00075_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="75" xml:id="i76">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00076.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00076_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="76" xml:id="i77">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00077.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00077_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="77" xml:id="i78">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00078.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00078_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="78" xml:id="i79">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00079.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00079_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="79" xml:id="i80">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00080.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00080_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="80" xml:id="i81">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00081.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00081_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="81" xml:id="i82">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00082.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00082_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="82" xml:id="i83">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00083.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00083_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="83" xml:id="i84">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00084.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00084_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="84" xml:id="i85">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00085.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00085_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="85" xml:id="i86">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00086.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00086_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="86" xml:id="i87">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00087.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00087_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="87" xml:id="i88">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00088.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00088_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="88" xml:id="i89">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00089.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00089_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="89" xml:id="i90">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00090.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00090_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="90" xml:id="i91">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00091.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00091_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="91" xml:id="i92">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00092.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00092_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="92" xml:id="i93">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00093.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00093_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="93" xml:id="i94">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00094.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00094_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="94" xml:id="i95">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00095.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00095_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="95" xml:id="i96">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00096.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00096_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="96" xml:id="i97">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00097.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00097_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="97" xml:id="i98">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00098.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00098_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="98" xml:id="i99">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00099.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00099_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="99" xml:id="i100">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00100.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00100_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="100" xml:id="i101">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00101.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00101_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="101" xml:id="i102">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00102.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00102_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="102" xml:id="i103">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00103.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00103_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="103" xml:id="i104">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00104.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00104_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="104" xml:id="i105">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00105.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00105_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="105" xml:id="i106">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00106.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00106_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="106" xml:id="i107">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00107.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00107_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="107" xml:id="i108">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00108.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00108_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="108" xml:id="i109">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00109.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00109_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="109" xml:id="i110">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00110.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00110_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="110" xml:id="i111">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00111.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00111_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="111" xml:id="i112">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00112.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00112_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="112" xml:id="i113">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00113.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00113_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="113" xml:id="i114">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00114.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00114_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="114" xml:id="i115">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00115.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00115_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="115" xml:id="i116">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00116.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00116_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="116" xml:id="i117">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00117.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00117_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="117" xml:id="i118">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00118.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00118_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="118" xml:id="i119">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00119.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00119_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="119" xml:id="i120">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00120.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00120_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="120" xml:id="i121">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00121.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00121_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="121" xml:id="i122">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00122.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00122_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="122" xml:id="i123">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00123.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00123_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="123" xml:id="i124">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00124.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00124_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="124" xml:id="i125">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00125.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00125_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="125" xml:id="i126">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00126.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00126_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="126" xml:id="i127">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00127.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00127_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="127" xml:id="i128">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00128.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00128_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="128" xml:id="i129">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00129.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00129_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="129" xml:id="i130">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00130.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00130_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="130" xml:id="i131">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00131.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00131_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="131" xml:id="i132">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00132.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00132_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="132" xml:id="i133">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00133.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00133_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="133" xml:id="i134">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00134.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00134_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="134" xml:id="i135">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00135.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00135_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="135" xml:id="i136">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00136.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00136_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="136" xml:id="i137">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00137.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00137_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="137" xml:id="i138">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00138.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00138_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="138" xml:id="i139">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00139.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00139_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="137/138" xml:id="i140">
+         <graphic height="4236px"
+                  width="6605px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00140.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00140_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="139" xml:id="i141">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00141.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00141_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="140" xml:id="i142">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00142.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00142_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="141" xml:id="i143">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00143.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00143_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="142" xml:id="i144">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00144.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00144_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="143" xml:id="i145">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00145.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00145_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="144" xml:id="i146">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00146.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00146_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="back cover" xml:id="i147">
+         <graphic height="3265px"
+                  width="6458px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00147.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00864-000-00147_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+   </facsimile>
+    <text>
+        <body>
+         <div>
+            <pb xml:id="pb-cover" n="cover" facs="#i1"/>
+            <pb xml:id="pb-1" n="1" facs="#i2"/>
+            <pb xml:id="pb-2" n="2" facs="#i3"/>
+            <pb xml:id="pb-3" n="3" facs="#i4"/>
+            <pb xml:id="pb-4" n="4" facs="#i5"/>
+            <pb xml:id="pb-5" n="5" facs="#i6"/>
+            <pb xml:id="pb-6" n="6" facs="#i7"/>
+            <pb xml:id="pb-7" n="7" facs="#i8"/>
+            <pb xml:id="pb-8" n="8" facs="#i9"/>
+            <pb xml:id="pb-9" n="9" facs="#i10"/>
+            <pb xml:id="pb-10" n="10" facs="#i11"/>
+            <pb xml:id="pb-11" n="11" facs="#i12"/>
+            <pb xml:id="pb-12" n="12" facs="#i13"/>
+            <pb xml:id="pb-13" n="13" facs="#i14"/>
+            <pb xml:id="pb-14" n="14" facs="#i15"/>
+            <pb xml:id="pb-15" n="15" facs="#i16"/>
+            <pb xml:id="pb-16" n="16" facs="#i17"/>
+            <pb xml:id="pb-17" n="17" facs="#i18"/>
+            <pb xml:id="pb-18" n="18" facs="#i19"/>
+            <pb xml:id="pb-19" n="19" facs="#i20"/>
+            <pb xml:id="pb-20" n="20" facs="#i21"/>
+            <pb xml:id="pb-21" n="21" facs="#i22"/>
+            <pb xml:id="pb-22" n="22" facs="#i23"/>
+            <pb xml:id="pb-23" n="23" facs="#i24"/>
+            <pb xml:id="pb-24" n="24" facs="#i25"/>
+            <pb xml:id="pb-25" n="25" facs="#i26"/>
+            <pb xml:id="pb-26" n="26" facs="#i27"/>
+            <pb xml:id="pb-27" n="27" facs="#i28"/>
+            <pb xml:id="pb-28" n="28" facs="#i29"/>
+            <pb xml:id="pb-29" n="29" facs="#i30"/>
+            <pb xml:id="pb-30" n="30" facs="#i31"/>
+            <pb xml:id="pb-31" n="31" facs="#i32"/>
+            <pb xml:id="pb-32" n="32" facs="#i33"/>
+            <pb xml:id="pb-33" n="33" facs="#i34"/>
+            <pb xml:id="pb-34" n="34" facs="#i35"/>
+            <pb xml:id="pb-35" n="35" facs="#i36"/>
+            <pb xml:id="pb-36" n="36" facs="#i37"/>
+            <pb xml:id="pb-37" n="37" facs="#i38"/>
+            <pb xml:id="pb-38" n="38" facs="#i39"/>
+            <pb xml:id="pb-39" n="39" facs="#i40"/>
+            <pb xml:id="pb-40" n="40" facs="#i41"/>
+            <pb xml:id="pb-41" n="41" facs="#i42"/>
+            <pb xml:id="pb-42" n="42" facs="#i43"/>
+            <pb xml:id="pb-43" n="43" facs="#i44"/>
+            <pb xml:id="pb-44" n="44" facs="#i45"/>
+            <pb xml:id="pb-45" n="45" facs="#i46"/>
+            <pb xml:id="pb-46" n="46" facs="#i47"/>
+            <pb xml:id="pb-47" n="47" facs="#i48"/>
+            <pb xml:id="pb-48" n="48" facs="#i49"/>
+            <pb xml:id="pb-49" n="49" facs="#i50"/>
+            <pb xml:id="pb-50" n="50" facs="#i51"/>
+            <pb xml:id="pb-51" n="51" facs="#i52"/>
+            <pb xml:id="pb-52" n="52" facs="#i53"/>
+            <pb xml:id="pb-53" n="53" facs="#i54"/>
+            <pb xml:id="pb-54" n="54" facs="#i55"/>
+            <pb xml:id="pb-55" n="55" facs="#i56"/>
+            <pb xml:id="pb-56" n="56" facs="#i57"/>
+            <pb xml:id="pb-57" n="57" facs="#i58"/>
+            <pb xml:id="pb-58" n="58" facs="#i59"/>
+            <pb xml:id="pb-59" n="59" facs="#i60"/>
+            <pb xml:id="pb-60" n="60" facs="#i61"/>
+            <pb xml:id="pb-61" n="61" facs="#i62"/>
+            <pb xml:id="pb-62" n="62" facs="#i63"/>
+            <pb xml:id="pb-63" n="63" facs="#i64"/>
+            <pb xml:id="pb-64" n="64" facs="#i65"/>
+            <pb xml:id="pb-65" n="65" facs="#i66"/>
+            <pb xml:id="pb-66" n="66" facs="#i67"/>
+            <pb xml:id="pb-67" n="67" facs="#i68"/>
+            <pb xml:id="pb-68" n="68" facs="#i69"/>
+            <pb xml:id="pb-69" n="69" facs="#i70"/>
+            <pb xml:id="pb-70" n="70" facs="#i71"/>
+            <pb xml:id="pb-71" n="71" facs="#i72"/>
+            <pb xml:id="pb-72" n="72" facs="#i73"/>
+            <pb xml:id="pb-73" n="73" facs="#i74"/>
+            <pb xml:id="pb-74" n="74" facs="#i75"/>
+            <pb xml:id="pb-75" n="75" facs="#i76"/>
+            <pb xml:id="pb-76" n="76" facs="#i77"/>
+            <pb xml:id="pb-77" n="77" facs="#i78"/>
+            <pb xml:id="pb-78" n="78" facs="#i79"/>
+            <pb xml:id="pb-79" n="79" facs="#i80"/>
+            <pb xml:id="pb-80" n="80" facs="#i81"/>
+            <pb xml:id="pb-81" n="81" facs="#i82"/>
+            <pb xml:id="pb-82" n="82" facs="#i83"/>
+            <pb xml:id="pb-83" n="83" facs="#i84"/>
+            <pb xml:id="pb-84" n="84" facs="#i85"/>
+            <pb xml:id="pb-85" n="85" facs="#i86"/>
+            <pb xml:id="pb-86" n="86" facs="#i87"/>
+            <pb xml:id="pb-87" n="87" facs="#i88"/>
+            <pb xml:id="pb-88" n="88" facs="#i89"/>
+            <pb xml:id="pb-89" n="89" facs="#i90"/>
+            <pb xml:id="pb-90" n="90" facs="#i91"/>
+            <pb xml:id="pb-91" n="91" facs="#i92"/>
+            <pb xml:id="pb-92" n="92" facs="#i93"/>
+            <pb xml:id="pb-93" n="93" facs="#i94"/>
+            <pb xml:id="pb-94" n="94" facs="#i95"/>
+            <pb xml:id="pb-95" n="95" facs="#i96"/>
+            <pb xml:id="pb-96" n="96" facs="#i97"/>
+            <pb xml:id="pb-97" n="97" facs="#i98"/>
+            <pb xml:id="pb-98" n="98" facs="#i99"/>
+            <pb xml:id="pb-99" n="99" facs="#i100"/>
+            <pb xml:id="pb-100" n="100" facs="#i101"/>
+            <pb xml:id="pb-101" n="101" facs="#i102"/>
+            <pb xml:id="pb-102" n="102" facs="#i103"/>
+            <pb xml:id="pb-103" n="103" facs="#i104"/>
+            <pb xml:id="pb-104" n="104" facs="#i105"/>
+            <pb xml:id="pb-105" n="105" facs="#i106"/>
+            <pb xml:id="pb-106" n="106" facs="#i107"/>
+            <pb xml:id="pb-107" n="107" facs="#i108"/>
+            <pb xml:id="pb-108" n="108" facs="#i109"/>
+            <pb xml:id="pb-109" n="109" facs="#i110"/>
+            <pb xml:id="pb-110" n="110" facs="#i111"/>
+            <pb xml:id="pb-111" n="111" facs="#i112"/>
+            <pb xml:id="pb-112" n="112" facs="#i113"/>
+            <pb xml:id="pb-113" n="113" facs="#i114"/>
+            <pb xml:id="pb-114" n="114" facs="#i115"/>
+            <pb xml:id="pb-115" n="115" facs="#i116"/>
+            <pb xml:id="pb-116" n="116" facs="#i117"/>
+            <pb xml:id="pb-117" n="117" facs="#i118"/>
+            <pb xml:id="pb-118" n="118" facs="#i119"/>
+            <pb xml:id="pb-119" n="119" facs="#i120"/>
+            <pb xml:id="pb-120" n="120" facs="#i121"/>
+            <pb xml:id="pb-121" n="121" facs="#i122"/>
+            <pb xml:id="pb-122" n="122" facs="#i123"/>
+            <pb xml:id="pb-123" n="123" facs="#i124"/>
+            <pb xml:id="pb-124" n="124" facs="#i125"/>
+            <pb xml:id="pb-125" n="125" facs="#i126"/>
+            <pb xml:id="pb-126" n="126" facs="#i127"/>
+            <pb xml:id="pb-127" n="127" facs="#i128"/>
+            <pb xml:id="pb-128" n="128" facs="#i129"/>
+            <pb xml:id="pb-129" n="129" facs="#i130"/>
+            <pb xml:id="pb-130" n="130" facs="#i131"/>
+            <pb xml:id="pb-131" n="131" facs="#i132"/>
+            <pb xml:id="pb-132" n="132" facs="#i133"/>
+            <pb xml:id="pb-133" n="133" facs="#i134"/>
+            <pb xml:id="pb-134" n="134" facs="#i135"/>
+            <pb xml:id="pb-135" n="135" facs="#i136"/>
+            <pb xml:id="pb-136" n="136" facs="#i137"/>
+            <pb xml:id="pb-137" n="137" facs="#i138"/>
+            <pb xml:id="pb-138" n="138" facs="#i139"/>
+            <pb xml:id="pb-137-138" n="137/138" facs="#i140"/>
+            <pb xml:id="pb-139" n="139" facs="#i141"/>
+            <pb xml:id="pb-140" n="140" facs="#i142"/>
+            <pb xml:id="pb-141" n="141" facs="#i143"/>
+            <pb xml:id="pb-142" n="142" facs="#i144"/>
+            <pb xml:id="pb-143" n="143" facs="#i145"/>
+            <pb xml:id="pb-144" n="144" facs="#i146"/>
+            <pb xml:id="pb-back-cover" n="back cover" facs="#i147"/>
+         </div>
+      </body>
+    </text>
+</TEI>
+<!--a) if the manuscript has final rubrics for sections
+
+b) if the manuscript has a final rubric
+
+c) if the manuscript has a colophon:
+
+- presence of an introductory formula and/or other types of text (ye dharmā etc.) (form; formye)
+
+- place of copying (pc)
+
+- occasion of copying (oc)
+
+-date (d)
+
+- final formula (śubham astu etc.) (ff)
+
+- name of the scribe(s) (write the full name)-->

@@ -1,0 +1,3044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS Add.1703</title>
+                <funder>AHRC</funder>
+                <principal>Vincenzo Vergiani</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+                </address>
+                </pubPlace>
+                <idno>Sanskrit</idno>
+
+                <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image ©
+                        Cambridge University Library, All rights reserved.</p>
+            </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made
+                        available for download are licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This
+                        metadata is licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+
+            </publicationStmt>
+            <sourceDesc>
+
+                <msDesc xml:id="Sanskrit" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Additional Manuscripts</collection>
+                        <idno>MS Add.1703</idno>
+                        <altIdentifier type="internal">
+                            <collection type="CUL_collection">sanskrit</collection>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary> The <title xml:lang="san">Vajrāvalī</title>, also known as <title xml:lang="san" type="alt">Vajrāvalī nāma Maṇḍalopāyikā</title> is
+                                <quote>a ritual compendium compiled by the famous abbot of
+                                Vikramaśila monastery, Abhayākaragupta (late 11th–early 12th century
+                                CE). It is one of the largest works of tantric Buddhism that deals
+                                exhaustively with the various rituals and ceremonies to be performed
+                                within a monastic compound</quote> (Mori 2009: 1). According to the
+                            colophon, this manuscript was written in 1429 CE at Pātan in the famous
+                            Golden Monastery (<term xml:lang="san">hiraṇyavarṇavihāra</term>) by the
+                            Buddhist monk Jivayībhadra, at the beginning of king <name type="person" key="local_00167 VIAF_">
+                        <persName type="standard" xml:lang="san">Jayayakṣamalla</persName>
+                     </name>'s reign (1428-1482 CE). </summary>
+
+                        <msItem n="1">
+                            <author>
+                                <name type="person" role="aut" key="local_00154 VIAF_23192648">
+                           <persName type="standard" xml:lang="san">Abhayākaragupta</persName>
+                        </name>
+                            </author>
+
+                            <title xml:lang="san">Vajrāvalī</title>
+                            <title xml:lang="san" type="alt">Vajrāvalī nāma Maṇḍalopāyikā</title>
+
+                            <rubric>
+                        <locus from="1v1" to="1v1">[1v1]</locus>
+                                <unclear>
+                           <g>$</g> namaḥ śrīvajrasatvāyaḥ</unclear> || </rubric>
+                            <incipit xml:lang="san">
+                        <locus from="1v" to="1v">[1v1]</locus> vande
+                                śrīkuliśeśvaraṃ smarata re mārā bhavāreḥ padaṃ krodhā dhāvata dikṣu
+                                maṅgalagiro gāyantu vajrāṅganāḥ | śrīmadvajrabhṛto mahimni
+                                jaga[1v2]d ādhātuṃ mahāmaṇḍale niṣpratyām ihābhayasya mahasā
+                                    va<g>%</g>jrāvalī mīlatu || </incipit>
+                            <explicit xml:lang="san">
+                        <locus from="126r" to="126r">[126r1]</locus>
+                                ghaṇṭālakṣaṇādividhiḥ || <g>@</g> || iti paramamunīnāṃ vāgudandhaty
+                                agādhe śrutim api na prarīyuḥ ke pi ke pi plavante |
+                                sakṛpamatimahimnāsmābhir antarnimajjyāmṛta[126r2]m idam upanīta
+                                prītaye te bhujandāḥ <!--? --> || sukṛtam uditam uccair
+                                        <sic>jyo<g>%</g>tin</sic> antarjvalad yan prasṛtam iha
+                                mahimnām <sic>ākasyāśu trābhyā</sic> | vilasantu mama
+                                vajrapreyasīsa¦[126r3]rmadhāmni trijagadabhayabhartur maṇḍale
+                                    viśva<sic>marttaḥ</sic>
+                            </explicit>
+                            <finalRubric xml:lang="san">
+                        <locus from="126r" to="126r">[126r3]</locus>
+                                <sic>mahāpa¦<g>%</g>ditā</sic> abhayākaraguptaviracitā vajrāvalī
+                                nāma maṇḍalopāyikā <sic>samāptaḥ ||</sic>
+                     </finalRubric>
+                            <colophon xml:lang="san">
+                        <locus from="126r" to="126r">[126r3]</locus> ye
+                                dharmā [126r4] hetu-prabhavā hetun <sic>teṣā</sic> tathāgato <sic>jo
+                                    ṇirodha evāṃdī mahā<g>%</g>śramanaḥ</sic> || śrīyo 'stu ḥ samvat
+                                549 bhādrapada śuklaḥ <sic>pañcamyā</sic> yā tithau<!--? -->
+                                <sic>viśāṣa</sic>¦[126r5]nakṣatre ḥ śaṇicaravāśureḥ <subst>
+                                    <del type="illegible">-4-</del>
+                                    <add>rājādhirā</add>
+                                </subst>japrarameśva¦<g>%</g>rasya śrīśrī<del>śrī</del>
+                                <sic>jayajakṣamaladevasya</sic> vijayarāje ḥ likhita śrī māṇigalake
+                                ḥ utravi¦[126r6]hāre ḥ srīharṇṇavarṇṇamahāvihārāvasthitaḥ bhikṣu ^
+                                srījivayībhadreṇa svahastena likhitaṃm iti ḥ <sic>jathā</sic> dṛṣṭa <subst>
+                                    <del type="illegible">-1-</del>
+                                    <add>ta</add>
+                                </subst>thā likhita lekhināsti <unclear>do.a</unclear>yāmī ḥ śubham
+                                astu || [126v1] <unclear>oṃ namo bu</unclear>ddhāya || </colophon>
+                            <textLang mainLang="san">Sanskrit</textLang>
+                        </msItem>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc form="tālapatra">
+                            <supportDesc material="palm_leaf">
+
+                                <support>Palm leaf. <p>
+                                        <dimensions type="folio" unit="cm">
+                                            <height>4.6</height>
+                                            <width>29.3</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+
+                                <extent xml:id="folio" n="126">126 ff.</extent>
+
+                                <foliation n="1" type="original">Nepālākṣarā letter numbers,
+                                    mid-left margin, verso.</foliation>
+                                <foliation n="2" type="original">Nepālākṣarā numerals, mid-right
+                                    margin, verso.</foliation>
+                                <!--<foliation n="4" xml:id="modern"><p>TO BE FOLIATED</p></foliation> -->
+
+                                <condition> Complete, in relatively good condition, often
+                                    worm-eaten. Several modern restorations. The writing is
+                                    sometimes faded. Folio 59 verso and 96 verso are stained. The
+                                    first and last pages are worn out. </condition>
+                            </supportDesc>
+
+                            <layoutDesc>
+                                <layout columns="1" writtenLines="6">
+                                    <dimensions type="written" unit="cm">
+                                        <height>3</height>
+                                        <width>24.5</width>
+                                    </dimensions>
+                                    <p>6 lines per page, approximately 64 <term xml:lang="san">akṣara</term>s per line. <dimensions type="akṣara" unit="mm">
+                                            <height>4</height>
+                                        </dimensions>
+                                        <dimensions type="interlinear space" unit="mm">
+                                            <height>1</height>
+                                        </dimensions>
+                           </p>
+                                    <p>Some <term xml:lang="san">puṣpikā</term>s, <term xml:lang="san">daṇda</term>s and <term xml:lang="san">visarga</term>s are highlighted in red. Both in the
+                                        final rubric and the colophon, a <term xml:lang="san">visarga</term> with a red highlight in the middle is
+                                        seemingly employed as a sort of <term xml:lang="san">daṇḍa</term> (in the transcription, it is rendered as
+                                        an isolated <term xml:lang="san">visarga</term>).</p>
+                                    <stringHole quantity="1" type="true">One string hole,
+                                        approximately in the middle of a blank space 2 to 2.50 cm
+                                        wide. </stringHole>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+
+                        <handDesc>
+                            <handNote scope="sole" script="nepālākṣarā" medium="blackink">
+                                <desc>Hooked Nepālākṣarā script in black ink.</desc>
+                                <p>
+                           <hi rend="bold">Scribe:</hi>
+                                    <name type="person" role="scr" key="00155">
+                              <persName type="standard" xml:lang="san">Jivayībhadra</persName>
+                           </name>.</p>
+                                <p>
+                           <hi rend="bold">Note</hi>: <quote>In some cases, the <term xml:lang="san">anusvāra</term> is represented by a
+                                        particular sign of two small circles which can be sometimes
+                                        confused with <term xml:lang="san">visarga</term>. Normally
+                                        the <term xml:lang="san">anusvāra</term> is located very
+                                        close to the upper horizontal line of each character and is
+                                        therefore very difficult to determine. [...] The letter r
+                                        before consonants is quite often dropped, as such is also
+                                        the case with the anusvāra. A fair amount of confusion
+                                        between short and long vowels occurs in many places. The
+                                        vowel a is sometimes inserted between two consonants in
+                                        certain words (e. g. pra becomes para; atma becomes atama).
+                                        The scribe often confuses the following letters: sa/śa/ṣa,
+                                        na/ṇa, hya/ha, dya/da. Some words are always spelled
+                                        wrongly: <term xml:lang="san">viseṣa</term> becomes <term xml:lang="san">viśiṣa</term>, <term xml:lang="san">tṛtīyam</term> becomes <term xml:lang="san">tṛtiyam</term>, <term xml:lang="san">tiryak</term>
+                                        becomes <term xml:lang="san">triryak</term>
+                           </quote> (Mori
+                                    2009: 32). Some <term rend="italics">visarga</term>s are to be
+                                    understood as <term rend="italics">daṇḍa</term>s (see the
+                                    transcription of the colophon).</p>
+                            </handNote>
+                        </handDesc>
+
+                        <!--<decoDesc>
+<!-\-                            <decoNote type="illustration">
+                                <desc><!-\-In <locus from="0" to="0">several pages</locus>, -\->figures of the five Śaktis at the beginning of each chapter</desc>
+                            </decoNote>-\->
+                            </decoDesc>-->
+
+                        <additions>
+                            <p>
+                        <locus from="1r" to="1r">Folio 1 recto</locus>, first column, in
+                                Nepālākṣarā characters: </p>
+                            <list>
+                                <item>
+                                    <sic>vārjāvalīmaṇḍalo[1r2]pāya</sic> || <g>@</g> ||. </item>
+                            </list>
+                            <p>
+                        <locus from="1r" to="1r">Folio 1 recto</locus>, second column, in
+                                Nepālākṣarā characters:</p>
+                            <list>
+                                <item> 126 jamādupratra. </item>
+                            </list>
+                            <p>
+                        <locus from="126v" to="126v">Folio 126 verso</locus>, first column,
+                                invocation to the <term xml:lang="san">triratna</term> in
+                                Nepālākṣarā characters:</p>
+                            <list>
+                                <item>
+                                    <sic>āṃthabhra</sic>
+                                    <g>$</g> namo <sic>budhāya</sic>, namo dharmāya, namo
+                                        saṃghāya<sic>ḥ</sic> || </item>
+                            </list>
+                            <head>Marginalia</head>
+                     <list>
+                                <item>
+                                    <marginalia type="corrections">Several marginal
+                                        corrections.</marginalia>
+                                </item>
+                                <item>
+                                    <marginalia type="annotations">Marginal annotations by different
+                                        hands in Nepālākṣarā and hooked Nepālākṣarā scripts (see for
+                                        instance folios <locus from="22r" to="22r">22r</locus>,
+                                            <locus from="64r" to="64r">64r7</locus>, <locus from="114v" to="114v">114v</locus> and <locus from="115r" to="115r'">115r</locus>). </marginalia>
+                                </item>
+                            </list>
+                        </additions>
+
+                        <bindingDesc>
+                            <p>
+                        <material>Cardboard cover</material>, library binding.</p>
+                        </bindingDesc>
+                    </physDesc>
+
+                    <history>
+                        <origin>
+                            <origDate calendar="Nepali" when="1429"> 549 Nepāla Saṃvat / Saturday,
+                                September 3rd 1429 CE (Petech 1984: 168-9).</origDate>
+                            <origPlace xml:lang="eng" key="1000132">Nepāl</origPlace>
+                            <origPlace xml:lang="san" key="1083300">Pātan</origPlace>.
+                        </origin>
+                        <provenance> Bought by <name type="person" role="col" key="local_00002 VIAF_7477330">
+                        <persName xml:lang="eng" type="display">Dr. D. Wright</persName>
+                                <persName xml:lang="eng" type="standard">Wright,
+                                Daniel</persName>
+                     </name> in <date calendar="Gregorian" from="1873" to="1876">1873-6</date>. </provenance>
+                        <acquisition>
+                            <date calendar="Gregorian" when="1878-08-06">06 August 1878
+                                        (<stamp>
+                           <locus from="1r" to="1r">University Library
+                                        stamp</locus>
+                        </stamp>).</date>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <ref type="biblio" target="Bendall_1883">Bendall (1883:
+                                        197)</ref>, <ref type="biblio" target="Mori_2009">Mori
+                                        (2009: 32)</ref>, direct inspection.</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+
+                        <listBibl type="ms_descriptions">
+
+                            <head>Descriptions of the manuscript</head>
+                            <biblStruct type="manuscript" xml:id="zoteroItem_243">
+                        <monogr>
+                                    <title level="m">List Add.923-1827 = List of Additional Manuscripts 923-1827 [unpublished manuscript]</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1878</date>
+                                    </imprint>
+                                </monogr>
+                        <idno type="callNumber">Handlist_Add_1878</idno>
+                     </biblStruct>
+                            
+                            
+                            <biblStruct type="book" xml:id="Bendall1883">
+                                <monogr>
+                                    <title>Catalogue of the Buddhist Sanskrit Manuscripts in the
+                                        University Library, Cambridge. With Introductory Notices and
+                                        Illustrations of the Palæography and Chronology of Nepal and
+                                        Bengal</title>
+                                    <author>
+                                        <forename>Cecil</forename>
+                                        <surname>Bendall</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <publisher>University Press</publisher>
+                                        <date>1883</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Bendall_1883</idno>
+                            </biblStruct>
+
+                            <biblStruct type="manuscript" xml:id="Handlist_1900">
+                                <monogr>
+                                    <title>List of Oriental MSS. Class Catalogue of Oriental
+                                        MSS.</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1900–</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Handlist_1900</idno>
+                            </biblStruct>
+                        </listBibl>
+
+                        <listBibl type="Manuscripts">
+                            <head>Manuscripts</head>
+                            <bibl>
+                        <orgName>NGMCP</orgName>: <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/w/index.php?title=Special%3ASearch&amp;profile=advanced&amp;search=vajravali+catalogued&amp;fulltext=Search&amp;ns0=1&amp;redirs=1&amp;profile=advanced">7 catalogued mss</ref>.</bibl>
+                            <bibl>For further manuscripts bibliography, see Mori (2009:
+                                31-36).</bibl>
+                        </listBibl>
+
+                        <listBibl type="Editions">
+                            <head>Edition</head>
+                            <!--<bibl><ref type="biblio" target="Mori_2009"></ref></bibl>-->
+                            <biblStruct type="book" xml:id="Mori2009">
+                                <monogr>
+                                    <title>Vajrāvalī of Abhayākaragupta: Edition of Sanskrit and
+                                        Tibetan Versions</title>
+                                    <author>
+                                        <forename>Masahide</forename>
+                                        <surname>Mori</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Tring, UK</pubPlace>
+                                        <publisher>The Institute of Buddhist Studies</publisher>
+                                        <date>2009</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Mori_2009</idno>
+                            </biblStruct>
+                        </listBibl>
+
+                        <listBibl type="secondary_literature">
+                            <head>Secondary Literature</head>
+                            <!--                            <bibl><ref type="biblio" target="Vajravali_Nispannayogavali_1983"></ref></bibl>-->
+                            <!--                            <biblStruct type="book" xml:id="Abhayākaragupta1983">
+                                <monogr>
+                                    <title>The Vajrāvali and Niṣpannayogāvali in Tibetan</title>
+                                    <author>
+                                        <name>Abhayākaragupta</name>
+                                    </author>
+                                    <author>
+                                        <name>Maṇikaśrījñāna</name>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Darjeeling</pubPlace>
+                                        <publisher>Kargyud Sungrab Nyamso Khang</publisher>
+                                        <date>1983</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Vajravali_Nispannayogavali_1983</idno>
+                            </biblStruct>-->
+                            <biblStruct type="bookSection" xml:id="Bhattacharyya1981">
+                                <analytic>
+                                    <title>The Vajrāvalī-nāma-maṇḍalopāyikā of
+                                        Abhayākaragupta</title>
+                                    <author>
+                                        <forename>D. C</forename>
+                                        <surname>Bhattacharyya</surname>
+                                    </author>
+                                </analytic>
+                                <monogr>
+                                    <title>Tantric and Taoist Studies in Honour of R. A.
+                                        Stein</title>
+                                    <edition>Institute Nelge des Hautes Etudes Chinoises</edition>
+                                    <imprint>
+                                        <pubPlace>Bruxelles</pubPlace>
+                                        <biblScope type="pp">70-95</biblScope>
+                                        <date>1981</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Bhattacharyya_1981</idno>
+                            </biblStruct>
+                            <biblStruct type="book" xml:id="Lee">
+                                <monogr>
+                                    <title>Synthesizing a Liturgical Heritage: Abhayākaragupta's
+                                        Vajrāvalī and the Kālacakramaṇḍala</title>
+                                    <author>
+                                        <forename>Yong-Hyun</forename>
+                                        <surname>Lee</surname>
+                                    </author>
+                                    <edition>Phd Dissertayion</edition>
+                                    <imprint>
+                                        <pubPlace>University of Wisconsin-Madison</pubPlace>
+                                        <date>n.d</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            <biblStruct type="book" xml:id="Petech1984a">
+                                <monogr>
+                                    <title>Mediaeval History of Nepal</title>
+                                    <author>
+                                        <forename>Luciano</forename>
+                                        <surname>Petech</surname>
+                                    </author>
+                                    <edition>2., thoroughly revised edition</edition>
+                                    <imprint>
+                                        <pubPlace>Roma</pubPlace>
+                                        <publisher>Istituto Italiano per il Medio ed Estremo
+                                            Oriente</publisher>
+                                        <date>1984</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>Serie orientale Roma</title>
+                                </series>
+                            </biblStruct>
+                            <bibl>For further bibliographical references, see Mori (2009:
+                                xvi-xxvi).</bibl>
+                        </listBibl>
+
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            <taxonomy>
+               <bibl>Image Role Typology</bibl>
+               <category xml:id="document-thumbnail">
+                  <catDesc>document-thumbnail</catDesc>
+               </category>
+               <category xml:id="download">
+                  <catDesc>download</catDesc>
+               </category>
+               <category xml:id="thumbnail">
+                  <catDesc>thumbnail</catDesc>
+               </category>
+            </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080761.html">Manuscripts, Sanskrit</ref>
+                        </item>
+                        <!--                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh87004934.html">Manuscripts, Prakrit</ref>
+                        </item>-->
+                        <!--<item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080774.html">Manuscripts, Tamil</ref>
+                        </item>-->
+                    </list>
+                </keywords>
+                <keywords scheme="local">
+                    <list>
+                        <item>Bauddha</item>
+                        <item>Bauddha Tantra</item>
+                    </list>
+                </keywords>
+            </textClass>
+
+        </profileDesc>
+        <revisionDesc>
+            <change when="2012-10-02">
+                <persName>Daniele Cuneo, Camillo Formigatti.</persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail"
+               rend="landscape"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00001_files/8/0_0.jpg"/>
+        <surface n="1r" xml:id="i1">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00001_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="1v" xml:id="i2">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00002_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="2r" xml:id="i3">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00003.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00003_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="2v" xml:id="i4">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00004.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00004_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="3r" xml:id="i5">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00005.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00005_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="3v" xml:id="i6">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00006.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00006_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="4r" xml:id="i7">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00007.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00007_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="4v" xml:id="i8">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00008.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00008_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="5r" xml:id="i9">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00009.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00009_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="5v" xml:id="i10">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00010.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00010_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="6r" xml:id="i11">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00011.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00011_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="6v" xml:id="i12">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00012.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00012_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="7r" xml:id="i13">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00013.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00013_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="7v" xml:id="i14">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00014.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00014_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="8r" xml:id="i15">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00015.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00015_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="8v" xml:id="i16">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00016.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00016_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="9r" xml:id="i17">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00017.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00017_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="9v" xml:id="i18">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00018.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00018_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="10r" xml:id="i19">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00019.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00019_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="10v" xml:id="i20">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00020.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00020_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="11r" xml:id="i21">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00021.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00021_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="11v" xml:id="i22">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00022.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00022_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="12r" xml:id="i23">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00023.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00023_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="12v" xml:id="i24">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00024.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00024_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="13r" xml:id="i25">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00025.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00025_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="13v" xml:id="i26">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00026.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00026_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="14r" xml:id="i27">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00027.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00027_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="14v" xml:id="i28">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00028.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00028_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="15r" xml:id="i29">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00029.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00029_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="15v" xml:id="i30">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00030.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00030_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="16r" xml:id="i31">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00031.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00031_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="16v" xml:id="i32">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00032.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00032_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="17r" xml:id="i33">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00033.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00033_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="17v" xml:id="i34">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00034.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00034_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="18r" xml:id="i35">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00035.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00035_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="18v" xml:id="i36">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00036.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00036_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="19r" xml:id="i37">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00037.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00037_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="19v" xml:id="i38">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00038.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00038_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="20r" xml:id="i39">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00039.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00039_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="20v" xml:id="i40">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00040.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00040_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="21r" xml:id="i41">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00041.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00041_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="21v" xml:id="i42">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00042.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00042_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="22r" xml:id="i43">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00043.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00043_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="22v" xml:id="i44">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00044.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00044_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="23r" xml:id="i45">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00045.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00045_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="23v" xml:id="i46">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00046.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00046_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="24r" xml:id="i47">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00047.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00047_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="24v" xml:id="i48">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00048.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00048_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="25r" xml:id="i49">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00049.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00049_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="25v" xml:id="i50">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00050.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00050_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="26r" xml:id="i51">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00051.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00051_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="26v" xml:id="i52">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00052.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00052_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="27r" xml:id="i53">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00053.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00053_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="27v" xml:id="i54">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00054.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00054_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="28r" xml:id="i55">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00055.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00055_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="28v" xml:id="i56">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00056.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00056_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="29r" xml:id="i57">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00057.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00057_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="29v" xml:id="i58">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00058.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00058_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="30r" xml:id="i59">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00059.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00059_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="30v" xml:id="i60">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00060.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00060_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="31r" xml:id="i61">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00061.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00061_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="31v" xml:id="i62">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00062.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00062_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="32r" xml:id="i63">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00063.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00063_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="32v" xml:id="i64">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00064.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00064_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="33r" xml:id="i65">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00065.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00065_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="33v" xml:id="i66">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00066.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00066_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="34r" xml:id="i67">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00067.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00067_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="34v" xml:id="i68">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00068.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00068_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="35r" xml:id="i69">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00069.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00069_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="35v" xml:id="i70">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00070.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00070_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="36r" xml:id="i71">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00071.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00071_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="36v" xml:id="i72">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00072.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00072_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="37r" xml:id="i73">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00073.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00073_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="37v" xml:id="i74">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00074.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00074_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="38r" xml:id="i75">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00075.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00075_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="38v" xml:id="i76">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00076.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00076_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="39r" xml:id="i77">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00077.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00077_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="39v" xml:id="i78">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00078.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00078_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="40r" xml:id="i79">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00079.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00079_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="40v" xml:id="i80">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00080.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00080_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="41r" xml:id="i81">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00081.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00081_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="41v" xml:id="i82">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00082.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00082_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="42r" xml:id="i83">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00083.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00083_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="42v" xml:id="i84">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00084.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00084_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="43r" xml:id="i85">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00085.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00085_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="43v" xml:id="i86">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00086.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00086_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="44r" xml:id="i87">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00087.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00087_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="44v" xml:id="i88">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00088.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00088_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="45r" xml:id="i89">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00089.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00089_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="45v" xml:id="i90">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00090.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00090_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="46r" xml:id="i91">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00091.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00091_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="46v" xml:id="i92">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00092.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00092_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="47r" xml:id="i93">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00093.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00093_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="47v" xml:id="i94">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00094.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00094_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="48r" xml:id="i95">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00095.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00095_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="48v" xml:id="i96">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00096.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00096_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="49r" xml:id="i97">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00097.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00097_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="49v" xml:id="i98">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00098.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00098_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="50r" xml:id="i99">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00099.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00099_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="50v" xml:id="i100">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00100.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00100_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="51r" xml:id="i101">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00101.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00101_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="51v" xml:id="i102">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00102.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00102_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="52r" xml:id="i103">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00103.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00103_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="52v" xml:id="i104">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00104.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00104_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="53r" xml:id="i105">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00105.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00105_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="53v" xml:id="i106">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00106.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00106_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="54r" xml:id="i107">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00107.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00107_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="54v" xml:id="i108">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00108.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00108_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="55r" xml:id="i109">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00109.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00109_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="55v" xml:id="i110">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00110.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00110_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="56r" xml:id="i111">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00111.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00111_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="56v" xml:id="i112">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00112.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00112_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="57r" xml:id="i113">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00113.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00113_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="57v" xml:id="i114">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00114.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00114_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="58r" xml:id="i115">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00115.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00115_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="58v" xml:id="i116">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00116.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00116_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="59r" xml:id="i117">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00117.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00117_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="59v" xml:id="i118">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00118.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00118_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="60r" xml:id="i119">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00119.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00119_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="60v" xml:id="i120">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00120.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00120_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="61r" xml:id="i121">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00121.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00121_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="61v" xml:id="i122">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00122.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00122_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="62r" xml:id="i123">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00123.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00123_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="62v" xml:id="i124">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00124.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00124_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="63r" xml:id="i125">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00125.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00125_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="63v" xml:id="i126">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00126.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00126_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="64r" xml:id="i127">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00127.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00127_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="64v" xml:id="i128">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00128.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00128_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="65r" xml:id="i129">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00129.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00129_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="65v" xml:id="i130">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00130.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00130_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="66r" xml:id="i131">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00131.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00131_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="66v" xml:id="i132">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00132.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00132_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="67r" xml:id="i133">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00133.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00133_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="67v" xml:id="i134">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00134.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00134_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="68r" xml:id="i135">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00135.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00135_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="68v" xml:id="i136">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00136.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00136_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="69r" xml:id="i137">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00137.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00137_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="69v" xml:id="i138">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00138.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00138_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="70r" xml:id="i139">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00139.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00139_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="70v" xml:id="i140">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00140.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00140_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="71r" xml:id="i141">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00141.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00141_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="71v" xml:id="i142">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00142.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00142_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="72r" xml:id="i143">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00143.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00143_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="72v" xml:id="i144">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00144.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00144_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="73r" xml:id="i145">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00145.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00145_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="73v" xml:id="i146">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00146.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00146_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="74r" xml:id="i147">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00147.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00147_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="74v" xml:id="i148">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00148.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00148_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="75r" xml:id="i149">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00149.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00149_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="75v" xml:id="i150">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00150.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00150_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="76r" xml:id="i151">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00151.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00151_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="76v" xml:id="i152">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00152.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00152_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="77r" xml:id="i153">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00153.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00153_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="77v" xml:id="i154">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00154.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00154_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="78r" xml:id="i155">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00155.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00155_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="78v" xml:id="i156">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00156.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00156_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="79r" xml:id="i157">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00157.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00157_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="79v" xml:id="i158">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00158.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00158_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="80r" xml:id="i159">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00159.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00159_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="80v" xml:id="i160">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00160.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00160_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="81r" xml:id="i161">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00161.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00161_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="81v" xml:id="i162">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00162.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00162_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="82r" xml:id="i163">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00163.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00163_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="82v" xml:id="i164">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00164.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00164_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="83r" xml:id="i165">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00165.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00165_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="83v" xml:id="i166">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00166.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00166_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="84r" xml:id="i167">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00167.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00167_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="84v" xml:id="i168">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00168.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00168_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="85r" xml:id="i169">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00169.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00169_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="85v" xml:id="i170">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00170.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00170_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="86r" xml:id="i171">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00171.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00171_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="86v" xml:id="i172">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00172.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00172_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="87r" xml:id="i173">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00173.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00173_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="87v" xml:id="i174">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00174.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00174_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="88r" xml:id="i175">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00175.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00175_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="88v" xml:id="i176">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00176.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00176_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="89r" xml:id="i177">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00177.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00177_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="89v" xml:id="i178">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00178.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00178_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="90r" xml:id="i179">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00179.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00179_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="90v" xml:id="i180">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00180.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00180_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="91r" xml:id="i181">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00181.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00181_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="91v" xml:id="i182">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00182.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00182_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="92r" xml:id="i183">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00183.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00183_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="92v" xml:id="i184">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00184.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00184_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="93r" xml:id="i185">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00185.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00185_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="93v" xml:id="i186">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00186.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00186_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="94r" xml:id="i187">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00187.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00187_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="94v" xml:id="i188">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00188.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00188_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="95r" xml:id="i189">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00189.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00189_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="95v" xml:id="i190">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00190.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00190_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="96r" xml:id="i191">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00191.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00191_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="96v" xml:id="i192">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00192.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00192_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="97r" xml:id="i193">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00193.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00193_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="97v" xml:id="i194">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00194.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00194_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="98r" xml:id="i195">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00195.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00195_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="98v" xml:id="i196">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00196.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00196_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="99r" xml:id="i197">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00197.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00197_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="99v" xml:id="i198">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00198.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00198_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="100r" xml:id="i199">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00199.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00199_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="100v" xml:id="i200">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00200.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00200_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="101r" xml:id="i201">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00201.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00201_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="101v" xml:id="i202">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00202.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00202_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="102r" xml:id="i203">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00203.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00203_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="102v" xml:id="i204">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00204.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00204_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="103r" xml:id="i205">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00205.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00205_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="103v" xml:id="i206">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00206.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00206_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="104r" xml:id="i207">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00207.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00207_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="104v" xml:id="i208">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00208.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00208_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="105r" xml:id="i209">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00209.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00209_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="105v" xml:id="i210">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00210.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00210_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="106r" xml:id="i211">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00211.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00211_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="106v" xml:id="i212">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00212.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00212_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="107r" xml:id="i213">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00213.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00213_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="107v" xml:id="i214">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00214.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00214_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="108r" xml:id="i215">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00215.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00215_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="108v" xml:id="i216">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00216.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00216_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="109r" xml:id="i217">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00217.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00217_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="109v" xml:id="i218">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00218.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00218_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="110r" xml:id="i219">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00219.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00219_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="110v" xml:id="i220">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00220.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00220_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="111r" xml:id="i221">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00221.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00221_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="111v" xml:id="i222">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00222.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00222_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="112r" xml:id="i223">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00223.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00223_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="112v" xml:id="i224">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00224.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00224_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="113r" xml:id="i225">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00225.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00225_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="113v" xml:id="i226">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00226.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00226_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="114r" xml:id="i227">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00227.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00227_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="114v" xml:id="i228">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00228.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00228_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="115r" xml:id="i229">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00229.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00229_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="115v" xml:id="i230">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00230.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00230_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="116r" xml:id="i231">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00231.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00231_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="116v" xml:id="i232">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00232.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00232_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="117r" xml:id="i233">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00233.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00233_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="117v" xml:id="i234">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00234.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00234_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="118r" xml:id="i235">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00235.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00235_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="118v" xml:id="i236">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00236.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00236_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="119r" xml:id="i237">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00237.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00237_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="119v" xml:id="i238">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00238.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00238_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="120r" xml:id="i239">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00239.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00239_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="120v" xml:id="i240">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00240.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00240_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="121r" xml:id="i241">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00241.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00241_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="121v" xml:id="i242">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00242.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00242_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="122r" xml:id="i243">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00243.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00243_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="122v" xml:id="i244">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00244.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00244_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="123r" xml:id="i245">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00245.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00245_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="123v" xml:id="i246">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00246.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00246_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="124r" xml:id="i247">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00247.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00247_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="124v" xml:id="i248">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00248.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00248_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="125r" xml:id="i249">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00249.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00249_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="125v" xml:id="i250">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00250.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00250_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="126r" xml:id="i251">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00251.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00251_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="126v" xml:id="i252">
+            <graphic height="2387px"
+                  width="7800px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00252.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01703-000-00252_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb n="1r" facs="#i1"/>
+                <pb n="1v" facs="#i2"/>
+                <pb n="2r" facs="#i3"/>
+                <pb n="2v" facs="#i4"/>
+                <pb n="3r" facs="#i5"/>
+                <pb n="3v" facs="#i6"/>
+                <pb n="4r" facs="#i7"/>
+                <pb n="4v" facs="#i8"/>
+                <pb n="5r" facs="#i9"/>
+                <pb n="5v" facs="#i10"/>
+                <pb n="6r" facs="#i11"/>
+                <pb n="6v" facs="#i12"/>
+                <pb n="7r" facs="#i13"/>
+                <pb n="7v" facs="#i14"/>
+                <pb n="8r" facs="#i15"/>
+                <pb n="8v" facs="#i16"/>
+                <pb n="9r" facs="#i17"/>
+                <pb n="9v" facs="#i18"/>
+                <pb n="10r" facs="#i19"/>
+                <pb n="10v" facs="#i20"/>
+                <pb n="11r" facs="#i21"/>
+                <pb n="11v" facs="#i22"/>
+                <pb n="12r" facs="#i23"/>
+                <pb n="12v" facs="#i24"/>
+                <pb n="13r" facs="#i25"/>
+                <pb n="13v" facs="#i26"/>
+                <pb n="14r" facs="#i27"/>
+                <pb n="14v" facs="#i28"/>
+                <pb n="15r" facs="#i29"/>
+                <pb n="15v" facs="#i30"/>
+                <pb n="16r" facs="#i31"/>
+                <pb n="16v" facs="#i32"/>
+                <pb n="17r" facs="#i33"/>
+                <pb n="17v" facs="#i34"/>
+                <pb n="18r" facs="#i35"/>
+                <pb n="18v" facs="#i36"/>
+                <pb n="19r" facs="#i37"/>
+                <pb n="19v" facs="#i38"/>
+                <pb n="20r" facs="#i39"/>
+                <pb n="20v" facs="#i40"/>
+                <pb n="21r" facs="#i41"/>
+                <pb n="21v" facs="#i42"/>
+                <pb n="22r" facs="#i43"/>
+                <pb n="22v" facs="#i44"/>
+                <pb n="23r" facs="#i45"/>
+                <pb n="23v" facs="#i46"/>
+                <pb n="24r" facs="#i47"/>
+                <pb n="24v" facs="#i48"/>
+                <pb n="25r" facs="#i49"/>
+                <pb n="25v" facs="#i50"/>
+                <pb n="26r" facs="#i51"/>
+                <pb n="26v" facs="#i52"/>
+                <pb n="27r" facs="#i53"/>
+                <pb n="27v" facs="#i54"/>
+                <pb n="28r" facs="#i55"/>
+                <pb n="28v" facs="#i56"/>
+                <pb n="29r" facs="#i57"/>
+                <pb n="29v" facs="#i58"/>
+                <pb n="30r" facs="#i59"/>
+                <pb n="30v" facs="#i60"/>
+                <pb n="31r" facs="#i61"/>
+                <pb n="31v" facs="#i62"/>
+                <pb n="32r" facs="#i63"/>
+                <pb n="32v" facs="#i64"/>
+                <pb n="33r" facs="#i65"/>
+                <pb n="33v" facs="#i66"/>
+                <pb n="34r" facs="#i67"/>
+                <pb n="34v" facs="#i68"/>
+                <pb n="35r" facs="#i69"/>
+                <pb n="35v" facs="#i70"/>
+                <pb n="36r" facs="#i71"/>
+                <pb n="36v" facs="#i72"/>
+                <pb n="37r" facs="#i73"/>
+                <pb n="37v" facs="#i74"/>
+                <pb n="38r" facs="#i75"/>
+                <pb n="38v" facs="#i76"/>
+                <pb n="39r" facs="#i77"/>
+                <pb n="39v" facs="#i78"/>
+                <pb n="40r" facs="#i79"/>
+                <pb n="40v" facs="#i80"/>
+                <pb n="41r" facs="#i81"/>
+                <pb n="41v" facs="#i82"/>
+                <pb n="42r" facs="#i83"/>
+                <pb n="42v" facs="#i84"/>
+                <pb n="43r" facs="#i85"/>
+                <pb n="43v" facs="#i86"/>
+                <pb n="44r" facs="#i87"/>
+                <pb n="44v" facs="#i88"/>
+                <pb n="45r" facs="#i89"/>
+                <pb n="45v" facs="#i90"/>
+                <pb n="46r" facs="#i91"/>
+                <pb n="46v" facs="#i92"/>
+                <pb n="47r" facs="#i93"/>
+                <pb n="47v" facs="#i94"/>
+                <pb n="48r" facs="#i95"/>
+                <pb n="48v" facs="#i96"/>
+                <pb n="49r" facs="#i97"/>
+                <pb n="49v" facs="#i98"/>
+                <pb n="50r" facs="#i99"/>
+                <pb n="50v" facs="#i100"/>
+                <pb n="51r" facs="#i101"/>
+                <pb n="51v" facs="#i102"/>
+                <pb n="52r" facs="#i103"/>
+                <pb n="52v" facs="#i104"/>
+                <pb n="53r" facs="#i105"/>
+                <pb n="53v" facs="#i106"/>
+                <pb n="54r" facs="#i107"/>
+                <pb n="54v" facs="#i108"/>
+                <pb n="55r" facs="#i109"/>
+                <pb n="55v" facs="#i110"/>
+                <pb n="56r" facs="#i111"/>
+                <pb n="56v" facs="#i112"/>
+                <pb n="57r" facs="#i113"/>
+                <pb n="57v" facs="#i114"/>
+                <pb n="58r" facs="#i115"/>
+                <pb n="58v" facs="#i116"/>
+                <pb n="59r" facs="#i117"/>
+                <pb n="59v" facs="#i118"/>
+                <pb n="60r" facs="#i119"/>
+                <pb n="60v" facs="#i120"/>
+                <pb n="61r" facs="#i121"/>
+                <pb n="61v" facs="#i122"/>
+                <pb n="62r" facs="#i123"/>
+                <pb n="62v" facs="#i124"/>
+                <pb n="63r" facs="#i125"/>
+                <pb n="63v" facs="#i126"/>
+                <pb n="64r" facs="#i127"/>
+                <pb n="64v" facs="#i128"/>
+                <pb n="65r" facs="#i129"/>
+                <pb n="65v" facs="#i130"/>
+                <pb n="66r" facs="#i131"/>
+                <pb n="66v" facs="#i132"/>
+                <pb n="67r" facs="#i133"/>
+                <pb n="67v" facs="#i134"/>
+                <pb n="68r" facs="#i135"/>
+                <pb n="68v" facs="#i136"/>
+                <pb n="69r" facs="#i137"/>
+                <pb n="69v" facs="#i138"/>
+                <pb n="70r" facs="#i139"/>
+                <pb n="70v" facs="#i140"/>
+                <pb n="71r" facs="#i141"/>
+                <pb n="71v" facs="#i142"/>
+                <pb n="72r" facs="#i143"/>
+                <pb n="72v" facs="#i144"/>
+                <pb n="73r" facs="#i145"/>
+                <pb n="73v" facs="#i146"/>
+                <pb n="74r" facs="#i147"/>
+                <pb n="74v" facs="#i148"/>
+                <pb n="75r" facs="#i149"/>
+                <pb n="75v" facs="#i150"/>
+                <pb n="76r" facs="#i151"/>
+                <pb n="76v" facs="#i152"/>
+                <pb n="77r" facs="#i153"/>
+                <pb n="77v" facs="#i154"/>
+                <pb n="78r" facs="#i155"/>
+                <pb n="78v" facs="#i156"/>
+                <pb n="79r" facs="#i157"/>
+                <pb n="79v" facs="#i158"/>
+                <pb n="80r" facs="#i159"/>
+                <pb n="80v" facs="#i160"/>
+                <pb n="81r" facs="#i161"/>
+                <pb n="81v" facs="#i162"/>
+                <pb n="82r" facs="#i163"/>
+                <pb n="82v" facs="#i164"/>
+                <pb n="83r" facs="#i165"/>
+                <pb n="83v" facs="#i166"/>
+                <pb n="84r" facs="#i167"/>
+                <pb n="84v" facs="#i168"/>
+                <pb n="85r" facs="#i169"/>
+                <pb n="85v" facs="#i170"/>
+                <pb n="86r" facs="#i171"/>
+                <pb n="86v" facs="#i172"/>
+                <pb n="87r" facs="#i173"/>
+                <pb n="87v" facs="#i174"/>
+                <pb n="88r" facs="#i175"/>
+                <pb n="88v" facs="#i176"/>
+                <pb n="89r" facs="#i177"/>
+                <pb n="89v" facs="#i178"/>
+                <pb n="90r" facs="#i179"/>
+                <pb n="90v" facs="#i180"/>
+                <pb n="91r" facs="#i181"/>
+                <pb n="91v" facs="#i182"/>
+                <pb n="92r" facs="#i183"/>
+                <pb n="92v" facs="#i184"/>
+                <pb n="93r" facs="#i185"/>
+                <pb n="93v" facs="#i186"/>
+                <pb n="94r" facs="#i187"/>
+                <pb n="94v" facs="#i188"/>
+                <pb n="95r" facs="#i189"/>
+                <pb n="95v" facs="#i190"/>
+                <pb n="96r" facs="#i191"/>
+                <pb n="96v" facs="#i192"/>
+                <pb n="97r" facs="#i193"/>
+                <pb n="97v" facs="#i194"/>
+                <pb n="98r" facs="#i195"/>
+                <pb n="98v" facs="#i196"/>
+                <pb n="99r" facs="#i197"/>
+                <pb n="99v" facs="#i198"/>
+                <pb n="100r" facs="#i199"/>
+                <pb n="100v" facs="#i200"/>
+                <pb n="101r" facs="#i201"/>
+                <pb n="101v" facs="#i202"/>
+                <pb n="102r" facs="#i203"/>
+                <pb n="102v" facs="#i204"/>
+                <pb n="103r" facs="#i205"/>
+                <pb n="103v" facs="#i206"/>
+                <pb n="104r" facs="#i207"/>
+                <pb n="104v" facs="#i208"/>
+                <pb n="105r" facs="#i209"/>
+                <pb n="105v" facs="#i210"/>
+                <pb n="106r" facs="#i211"/>
+                <pb n="106v" facs="#i212"/>
+                <pb n="107r" facs="#i213"/>
+                <pb n="107v" facs="#i214"/>
+                <pb n="108r" facs="#i215"/>
+                <pb n="108v" facs="#i216"/>
+                <pb n="109r" facs="#i217"/>
+                <pb n="109v" facs="#i218"/>
+                <pb n="110r" facs="#i219"/>
+                <pb n="110v" facs="#i220"/>
+                <pb n="111r" facs="#i221"/>
+                <pb n="111v" facs="#i222"/>
+                <pb n="112r" facs="#i223"/>
+                <pb n="112v" facs="#i224"/>
+                <pb n="113r" facs="#i225"/>
+                <pb n="113v" facs="#i226"/>
+                <pb n="114r" facs="#i227"/>
+                <pb n="114v" facs="#i228"/>
+                <pb n="115r" facs="#i229"/>
+                <pb n="115v" facs="#i230"/>
+                <pb n="116r" facs="#i231"/>
+                <pb n="116v" facs="#i232"/>
+                <pb n="117r" facs="#i233"/>
+                <pb n="117v" facs="#i234"/>
+                <pb n="118r" facs="#i235"/>
+                <pb n="118v" facs="#i236"/>
+                <pb n="119r" facs="#i237"/>
+                <pb n="119v" facs="#i238"/>
+                <pb n="120r" facs="#i239"/>
+                <pb n="120v" facs="#i240"/>
+                <pb n="121r" facs="#i241"/>
+                <pb n="121v" facs="#i242"/>
+                <pb n="122r" facs="#i243"/>
+                <pb n="122v" facs="#i244"/>
+                <pb n="123r" facs="#i245"/>
+                <pb n="123v" facs="#i246"/>
+                <pb n="124r" facs="#i247"/>
+                <pb n="124v" facs="#i248"/>
+                <pb n="125r" facs="#i249"/>
+                <pb n="125v" facs="#i250"/>
+                <pb n="126r" facs="#i251"/>
+                <pb n="126v" facs="#i252"/>
+            </div>
+        </body>
+    </text>
+</TEI>

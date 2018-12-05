@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>MS Add.1278</title>
+                <funder>AHRC</funder>
+                <principal>Vincenzo Vergiani</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+                </address>
+                </pubPlace>
+                <idno>Sanskrit</idno>
+                
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made
+                        available for download are licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This
+                        metadata is licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                
+                <msDesc xml:id="Sanskrit" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Additional Manuscripts</collection>
+                        <idno>MS Add.1278</idno>
+                        <altIdentifier type="internal"> 
+                     <collection type="CUL_collection">sanskrit</collection> 
+                     <idno/>
+                  </altIdentifier>
+                    </msIdentifier>
+                    
+                    <msContents defective="false">
+                        <summary>This Nepalese paper manuscript, dated 1866 CE, contains a Tantric
+                            Buddhist text called <title xml:lang="san">Sarvadurgatipariśodhanasamādhi</title>, 
+<!--                            CHECK IF IT CONTAINS ONLY THE FIRST SAMDHI-->
+                            <!--<title xml:lang="san" type="general"
+                                >Ādiyogasamādhi</title>-->, belonging to the
+                                <title>Sarvadurgatipariśodhana</title> cycle. Most of the textual
+                            material of the present work is included in the so-called Version B of
+                            the <title xml:lang="san">Sarvadurgatipariśodhanatantra</title> (see
+                            Skorupski 1983: xviii), where it susbtitues the 'Basic Tantra'
+                            (consisting of the description of the ritual <term xml:lang="san">maṇḍala</term>). In the present text, the rite for the elimination
+                            of all evil destinies, aimed at procuring a better rebirth for the dead
+                            and a a better life for the living, is described in its different
+                            elements (for instance, the various <term xml:lang="san">mantra</term>s,
+                            the visualization of <term xml:lang="san">maṇḍala</term>s, the
+                            transference of merits, the vow for the development of the supreme
+                            Enlightment-mind, Skt. <term xml:lang="san">bodhicitta</term> etc.).
+                            This manuscript seems to give particular importance to the hand-gestures
+                                (<term xml:lang="san">mudrā</term>s) to be perfomed during the rite,
+                            which are carefully depicted in numerous polychrome illustrations
+                            throughout the book. As in the case of many other ritual texts from
+                            Nepal, the manuscript is an accordion book (or concertina), the ideal
+                            format to be read and consulted during the performance of often complex
+                            ritual practices. Possibly, the colophon recorded also the name of the
+                            owner of this manuscript, which has subsequently been erased (probably
+                            due to some change of ownership). </summary>
+                        
+                        <msItem n="1" defective="false">
+                            <author>
+                                <!--if no viaf entry, provide local number in key, prefixed with x, and omit ref attribute-->
+                                <name type="person" role="aut" key="local_00000">
+                           <persName xml:lang="san" type="standard">Unknown</persName>
+                        </name>
+                                <!--these optional, delete if not used-->    
+                            </author>
+                            
+                            <title xml:lang="san">Sarvadurgatipariśodhanasamādhi</title>
+                            <title xml:lang="san" type="alt">Ādiyogasamādhi</title>
+                            <title xml:lang="san" type="alt">Sarvadurgatipariśodhanatantra</title>
+
+                            
+                            <rubric xml:lang="san">
+                        <locus from="0-3" to="0-3">[1l1]</locus> 
+                        <g>$</g> oṃ nama śrīśāyasiṃ¦<graphic/>[<hi rend="italic">miniature</hi>]<graphic/>hāya || ^^ ||</rubric>
+                            
+                            <incipit xml:lang="san" defective="false">
+                        <locus from="0-3" to="0-3">[1l1]</locus> 
+                                samanvā[1l2]haraṃtu māṃ buddhā aśeṣa¦<graphic/>[<hi rend="italic">miniature</hi>]<graphic/>dikṣu saṣṭhitā || 
+                                vidhu[1l3]tasarvasaṃkalpa bhāvābha<graphic/>[<hi rend="italic">miniature</hi>]<graphic/>vavivarjjita || 
+                                śā[1l4]kyasiṃhaṃ namaskutyaṃ suddha<graphic/>[<hi rend="italic">miniature</hi>]<graphic/>prak<del>i</del>atinirmalaṃ || 
+                                oṃ [1l5] svabhāvaśuddhā sarvadharmā <graphic/>[<hi rend="italic">miniature</hi>]<graphic/> svabhāvaśuddho haṃ || 
+                            </incipit>
+                           
+                            <explicit xml:lang="san" defective="false">
+                        <locus from="77-80" to="77-80">[78l4]</locus>    
+                                anena doṣaduṣa[78l5]nanāya kāyankṛtaṃ nūnaṃ, pā[78l6]paṃ tat sarva deśayāmy ahaṃ, 
+                                anena kuśarenāhaṃ buddhatvaṃm a<locus from="77-80" to="77-80">[79l2]</locus>dhigaṃmya catārapahaṃ || jagat sarva || 
+                                magādhābhavevaśāśanāt_ || ^^ || viśarjanaṃ kuryyāt_ 
+<!--                                CHECK-->
+                            </explicit>
+                                                        
+                            <finalRubric xml:lang="san">
+                        <locus from="77-80" to="77-80">[79l2]</locus>
+                                iti śrīmatthākyarājasarvadurggatipariśodhanamukhākhyāna prathama ādiyoga nāma samādhi samāptaḥ || ^^ ||
+<!--                                CHECK-->
+                            </finalRubric>
+                            
+                            <colophon xml:lang="san">
+                        <locus from="77-80" to="77-80">[79l3]</locus>
+                                <del>-2-</del>na<del>-1-</del>takasya bhavati || 986 sti jeṣṭha śudi 13 [88l4] śubhaḥ || ^^ ||
+                            </colophon>
+                            
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                            
+                        </msItem>                                         
+                    </msContents>
+                    
+                    <physDesc>
+                        <objectDesc form="accordion_book"> 
+                            <supportDesc material="nep_multi_layered_paper">
+                                <support>Nepalese multi-layered paper.
+                                <p>
+                                    <dimensions type="folio" scope="most" unit="cm">
+                                        <height quantity="8" unit="mm">8</height>
+                                        <width quantity="17" unit="mm">17</width>
+                                    </dimensions>
+                                </p>
+                                </support>
+
+                                <extent xml:id="folio" n="41"> 41 ff. (including the cardboard covers attached to the paper concertina).</extent>
+                                
+                        <!--                                <foliation n="1" type="original">Nepālākṣarā numerals, bottom right margin, verso.</foliation>-->
+                                <foliation n="1" type="additional">Pagination, Roman numerals,
+                                    mid-left margin, verso (the numbering is wrong as it starts from
+                                    the other side of the accordion. It reads 1-37 and
+                                    50-90).</foliation>
+                                
+                                <condition>
+                                    Complete, in good condition.
+                                </condition>
+                            </supportDesc>
+
+                            <layoutDesc>
+                               <layout columns="1" writtenLines="6">
+                                   <dimensions type="written area" unit="cm">
+                                       <height quantity="5.3" unit="mm">ca. 5.3</height>
+                                       <width quantity="13.5" unit="mm">ca. 13.5</width> 
+                                   </dimensions>
+                                   <p>6 lines per page, approximately 30 <term xml:lang="san">akṣara</term>s per line.</p>
+                                   <dimensions type="akṣara" unit="mm" n="24">
+                                       <height quantity="5" unit="mm">5</height>
+                                   </dimensions>
+                                   <dimensions type="interlinear space" scope="most" unit="mm">
+                                       <height quantity="4" unit="mm">4</height>
+                                   </dimensions>
+                                   <p>Triple marginal frame lines
+                                        in red ink. The illustration are framed by double lines in
+                                        red ink. Ruling. <term xml:lang="san">Daṇḍa</term>s in red
+                                        ink.</p>
+                               </layout>
+                           </layoutDesc>
+                        </objectDesc>
+
+                        <handDesc>
+                            <handNote scope="major" script="nepālākṣarā" medium="blackink">
+                                <desc>Nepālākṣarā in black ink</desc>
+                            </handNote>
+                        </handDesc>
+                        
+                        
+                        
+                        <decoDesc>
+                            <decoNote type="miniature"> The manuscript is illustrated with numerous
+                                polychrome depictions of hand-gestures (<term xml:lang="san">mudrā</term>s), also employing drums, bells, flowers, weapons,
+                                    <term xml:lang="san">vajra</term>s. Some other Buddhist
+                                iconographic themes are also depicted. <desc>
+                                    <list type="simple">
+                                        <item> On <locus from="0-3" to="0-3">page 1</locus>,
+                                            depiction of a Buddha seated in <term xml:lang="san">dharmacakramudrā</term>. </item>
+                                        <item> On <locus from="4-7" to="4-7">page 4</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="4-7" to="4-7">page 5</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="4-7" to="4-7">page 6</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="4-7" to="4-7">page 7</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="8-11" to="8-11">page 8</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="8-11" to="8-11">page 9</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="8-11" to="8-11">page 10</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="8-11" to="8-11">page 11</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="12-15" to="12-15">page 12</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="12-15" to="12-15">page 13</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="12-15" to="12-15">page 14</locus>,
+                                            depictions of one <term xml:lang="san">mudrā</term>, on
+                                            the left side of the page. </item>
+                                        <item> On <locus from="16-19" to="16-19">page 19</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="20-23" to="20-23">page 20</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="20-23" to="20-23">page 21</locus>,
+                                            depictions of two <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="20-23" to="20-23">page 22</locus>,
+                                            depictions of two <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="24-27" to="24-27">page 25</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="24-27" to="24-27">page 26</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="24-27" to="24-27">page 27</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="28-31" to="28-31">page 28</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="28-31" to="28-31">page 29</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="28-31" to="28-31">page 30</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="28-31" to="28-31">page 31</locus>,
+                                            depictions of two <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="36-39" to="36-39">page 36</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="36-39" to="36-39">page 37</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="36-39" to="36-39">page 38</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="36-39" to="36-39">page 39</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="45-48" to="45-48">page 45</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="45-48" to="45-48">page 46</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="45-48" to="45-48">page 47</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="45-48" to="45-48">page 48</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="49-52" to="49-52">page 49</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="49-52" to="49-52">page 50</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="49-52" to="49-52">page 51</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="49-52" to="49-52">page 52</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="53-56" to="53-56">page 53</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="53-56" to="53-56">page 54</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="53-56" to="53-56">page 55</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="53-56" to="53-56">page 56</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="57-60" to="57-60">page 57</locus>,
+                                            depictions of one <term xml:lang="san">mudrā</term>, on
+                                            the left of the page. </item>
+                                        <item> On <locus from="57-60" to="57-60">page 60</locus>,
+                                            depictions of two <term xml:lang="san">mudrā</term>s, on
+                                            the centre and right of the page. </item>
+                                        <item> On <locus from="61-64" to="61-64">page 63</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="61-64" to="61-64">page 64</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="65-68" to="65-68">page 65</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="65-68" to="65-68">page 66</locus>,
+                                            depictions of an altar adorned with skulls. </item>
+                                        <item> On <locus from="69-72" to="69-72">page 69</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="69-72" to="69-72">page 70</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="69-72" to="69-72">page 71</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="69-72" to="69-72">page 72</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="73-76" to="73-76">page 73</locus>,
+                                            depictions of two <term xml:lang="san">mudrā</term>s, on
+                                            the left and the center of the page. </item>
+                                        <item> On <locus from="73-76" to="73-76">page 74</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s
+                                            (the one on the left has not been coloured). </item>
+                                        <item> On <locus from="73-76" to="73-76">page 75</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="73-76" to="73-76">page 76</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="77-80" to="77-80">page 77</locus>,
+                                            depictions of three <term xml:lang="san">mudrā</term>s. </item>
+                                        <item> On <locus from="77-80" to="77-80">page 78</locus>,
+                                            depictions of two <term xml:lang="san">mudrā</term>s, on
+                                            the left and the center of the page. </item>
+                                    </list>
+                                </desc>
+                                <!--One could improve the description by adding the names of the various mudrās-->
+                            </decoNote>
+                        </decoDesc>
+
+                        <additions>
+                            
+                          <list type="simple">
+                                <item> On the <locus from="cover" to="cover">front cover</locus>,
+                                    the title (<hi rend="italic">durggatipariso[l2]dhanasamādhi</hi>) and some partial
+                                    invocations (<hi rend="italic">oṃ nama</hi>, <hi rend="italic">oṃ nama</hi>, <hi rend="italic">oṃ</hi>, <hi rend="italic">oṃ nama</hi>, <hi rend="italic">oṃ nama</hi>). </item>
+                                <item> On the mid-left margins, some designations of sections and
+                                    topics treated in the text (<term xml:lang="san">bhāvanā</term>,
+                                    on <locus from="12-15" to="12-15">page 14</locus>; <term xml:lang="san">puṣpanyāśa</term>, on <locus from="16-19" to="16-19">page 19</locus>; <term xml:lang="san">
+                                        <unclear>luci</unclear>naṃtiya</term>, on <locus from="57-60" to="57-60">page 57</locus>) </item>
+                              <item>
+                                  On the <locus from="back cover" to="back cover">back cover</locus>, classmark and title in Latin script.
+                              </item>
+                            </list>
+                        </additions>
+                       
+                        
+                        
+                        <bindingDesc>
+                            <p>
+                        <material>Cardboard</material> cover with classmark, original binding.</p>
+                        </bindingDesc>
+                       
+                    </physDesc>
+
+                    <history>
+                        <origin>
+                            <origDate calendar="Gregorian" when="1866">986 Nepāla / 1866 CE.</origDate>
+                            <origPlace xml:lang="eng" key="1000132">Nepal.</origPlace>
+                        </origin>
+                        <provenance>
+                            Bought by <name type="person" role="dnr" key="local_00002 VIAF_7477330">
+                                <persName type="standard" xml:lang="eng">Wright, Daniel</persName>
+                                <persName type="display" xml:lang="eng">Dr. D. Wright </persName>
+                            </name> 
+                            in <date calendar="Gregorian" from="1873" to="1875">1873-5</date>.
+                        </provenance>
+                        <acquisition>
+                            <date calendar="Gregorian" when="1878-08-07">07 August 1875 (<stamp>University Library stamp</stamp>).</date>
+                        </acquisition>
+                    </history>
+ 
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                           <ref target="#Bendall1883">Bendall (1883: 39-40)</ref>, direct inspection.</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                            </availability>
+                            <note anchored="true"/>
+                        </adminInfo>
+                        
+                        <listBibl type="ms_descriptions">
+                            <head>Descriptions of the manuscript</head>   
+                            
+                            <biblStruct type="manuscript" xml:id="ULIB7355Bradshaw1870">
+                                <monogr>
+                                    <title level="m">Notes on the collections of Oriental, Thibetan and
+                                        'Additional' manuscripts [unpublished manuscript]</title>
+                                    <author>
+                                        <forename>Henry</forename>
+                                        <surname>ULIB 7/3/55 =
+                                            Bradshaw</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1870-80</date>
+                                        <!--<note type="url"
+                                            ><ref target="http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0265%2FULIB%207%2F3%2F55">[link]</ref></note>-->
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            
+                            <biblStruct type="manuscript" xml:id="ULIB714Griffith1873">
+                                <monogr>
+                                    <title level="m">Assorted lists of manuscripts and books, chiefly Oriental,
+                                        acquired by the Library, with related papers [unpublished manuscript]</title>
+                                    <author>
+                                        <forename>Ralph T. H.</forename>
+                                        <surname>ULIB 7/1/4 =
+                                            Griffith</surname>
+                                    </author>
+                                    <author>
+                                        <forename>Daniel</forename>
+                                        <surname>Wright</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1873</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">ULIB 7/1/4</idno>
+                            </biblStruct>
+                            
+                            <biblStruct type="manuscript" xml:id="zoteroItem_243">
+                        <monogr>
+                                <title level="m">List Add.923-1827 = List of Additional Manuscripts 923-1827 [unpublished manuscript]</title>
+                                <imprint>
+                                    <pubPlace>Cambridge</pubPlace>
+                                    <date>1878</date>
+                                </imprint>
+                            </monogr>
+                        <idno type="callNumber">Handlist_Add_1878</idno>
+                     </biblStruct>
+                            
+                            <biblStruct type="manuscript" xml:id="Handlist_1900">
+                                <monogr>
+                                    <title>List of Oriental MSS. Class Catalogue of Oriental MSS.</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1900–</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Handlist_1900</idno>
+                            </biblStruct>
+                            
+                            <biblStruct type="book" xml:id="Bendall1883">
+                                <monogr>
+                                    <title>Catalogue of the Buddhist Sanskrit Manuscripts in the
+                                        University Library, Cambridge. With Introductory Notices and
+                                        Illustrations of the Palæography and Chronology of Nepal and
+                                        Bengal</title>
+                                    <author>
+                                        <forename>Cecil</forename>
+                                        <surname>Bendall</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <publisher>University Press</publisher>
+                                        <date>1883</date>
+                                    </imprint>
+                                </monogr>
+                                <idno type="callNumber">Bendall_1883</idno>
+                            </biblStruct>
+                        </listBibl>
+                        
+                        <listBibl type="manuscripts">
+                            <head>Manuscripts</head>
+                            <bibl>
+                                <orgName>NGMCP</orgName>: <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/w/index.php?title=Special%3ASearch&amp;profile=advanced&amp;search=*durgatiparisodhana*&amp;fulltext=Search&amp;ns0=1&amp;redirs=1&amp;profile=advanced">102 mss.</ref>, under various names and with no distinction
+                                among the various versions of the
+                                    <title>Sarvadurgatipariśodhānatantra</title> and the textual material 
+                                it includes.
+                            </bibl>
+                        </listBibl>
+                        
+                        <listBibl type="Editions">
+                            <head>Edition</head>
+                            <bibl>The <title xml:lang="san">Ādiyogasamādhi</title>
+                                is unpublished, but most of the textual material it contains is
+                                included in Skorupski (1983).</bibl>                                
+                        </listBibl>
+                        
+                        <listBibl type="Secondary Literature">
+                            <head>Secondary Literature</head>
+                            <biblStruct type="book" xml:id="Skorpuski1983">
+                                <monogr>
+                                    <title>The Sarvadurgatipariśodhana Tantra</title>
+                                    <author>
+                                        <forename>Tadeusz</forename>
+                              <surname>Skorupski</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Delhi</pubPlace>
+                                        <publisher>Motilal Banarsidass</publisher>
+                                        <date>1983</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list type="simple">
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080761.html">Manuscripts, Sanskrit</ref>
+                        </item>
+                        <!--<item>
+                            <ref target="http://id.loc.gov/authorities/names/n83129963.html"></ref>
+                        </item>-->
+                        <!--<item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh95009296.html"
+                                >Jaina Prakrit literature</ref>
+                        </item>-->
+                    </list>
+                </keywords>
+                <keywords scheme="local">
+                    <list type="simple">
+                        <item>Bauddha</item>
+                        <item>Tantra</item>
+                        <item>Karmakāṇḍa</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-03-28">
+                <persName>Daniele Cuneo and Camillo Formigatti.</persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+      <graphic decls="#document-thumbnail"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00001_files/8/0_0.jpg"
+               rend="landscape"/>
+      <surface n="cover" xml:id="i1">
+         <graphic height="4190px"
+                  width="5570px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00001_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="cover (without string)" xml:id="i2">
+         <graphic height="4190px"
+                  width="5570px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00002_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="0-3" xml:id="i3">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00003.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00003_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="4-7" xml:id="i4">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00004.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00004_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="8-11" xml:id="i5">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00005.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00005_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="12-15" xml:id="i6">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00006.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00006_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="16-19" xml:id="i7">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00007.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00007_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="20-23" xml:id="i8">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00008.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00008_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="24-27" xml:id="i9">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00009.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00009_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="28-31" xml:id="i10">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00010.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00010_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="32-35" xml:id="i11">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00011.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00011_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="36-39" xml:id="i12">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00012.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00012_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="40-41" xml:id="i13">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00013.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00013_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="42-44" xml:id="i14">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00014.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00014_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="45-48" xml:id="i15">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00015.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00015_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="49-52" xml:id="i16">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00016.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00016_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="53-56" xml:id="i17">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00017.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00017_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="57-60" xml:id="i18">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00018.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00018_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="61-64" xml:id="i19">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00019.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00019_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="65-68" xml:id="i20">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00020.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00020_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="69-72" xml:id="i21">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00021.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00021_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="73-76" xml:id="i22">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00022.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00022_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="77-80" xml:id="i23">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00023.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00023_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="81-82" xml:id="i24">
+         <graphic height="8984px"
+                  width="6029px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00024.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00024_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="back cover" xml:id="i25">
+         <graphic height="5259px"
+                  width="3559px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00025.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01278-000-00025_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+   </facsimile>
+    <text>
+      <body>
+         <div>
+            <pb xml:id="pb-cover" n="cover" facs="#i1"/>
+            <pb xml:id="pb-cover-without-string"
+                n="cover (without string)"
+                facs="#i2"/>
+            <pb xml:id="pb-0-3" n="0-3" facs="#i3"/>
+            <pb xml:id="pb-4-7" n="4-7" facs="#i4"/>
+            <pb xml:id="pb-8-11" n="8-11" facs="#i5"/>
+            <pb xml:id="pb-12-15" n="12-15" facs="#i6"/>
+            <pb xml:id="pb-16-19" n="16-19" facs="#i7"/>
+            <pb xml:id="pb-20-23" n="20-23" facs="#i8"/>
+            <pb xml:id="pb-24-27" n="24-27" facs="#i9"/>
+            <pb xml:id="pb-28-31" n="28-31" facs="#i10"/>
+            <pb xml:id="pb-32-35" n="32-35" facs="#i11"/>
+            <pb xml:id="pb-36-39" n="36-39" facs="#i12"/>
+            <pb xml:id="pb-40-41" n="40-41" facs="#i13"/>
+            <pb xml:id="pb-42-44" n="42-44" facs="#i14"/>
+            <pb xml:id="pb-45-48" n="45-48" facs="#i15"/>
+            <pb xml:id="pb-49-52" n="49-52" facs="#i16"/>
+            <pb xml:id="pb-53-56" n="53-56" facs="#i17"/>
+            <pb xml:id="pb-57-60" n="57-60" facs="#i18"/>
+            <pb xml:id="pb-61-64" n="61-64" facs="#i19"/>
+            <pb xml:id="pb-65-68" n="65-68" facs="#i20"/>
+            <pb xml:id="pb-69-72" n="69-72" facs="#i21"/>
+            <pb xml:id="pb-73-76" n="73-76" facs="#i22"/>
+            <pb xml:id="pb-77-80" n="77-80" facs="#i23"/>
+            <pb xml:id="pb-81-82" n="81-82" facs="#i24"/>
+            <pb xml:id="pb-back-cover" n="back cover" facs="#i25"/>
+         </div>
+      </body>
+    </text>
+</TEI>

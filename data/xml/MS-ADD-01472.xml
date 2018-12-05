@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS Add.1472</title>
+                <funder>AHRC</funder>
+                <principal>Vincenzo Vergiani</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+                </address>
+                </pubPlace>
+                <idno>Sanskrit</idno>
+                
+                <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                
+                <msDesc xml:id="Sanskrit" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Additional Manuscripts</collection>
+                        <idno>MS Add.1472</idno>
+                    <altIdentifier type="internal"> 
+                     <collection type="CUL_collection">Sanskrit</collection> 
+                     <idno/> 
+                  </altIdentifier>
+                    </msIdentifier>
+                  
+                    <msContents defective="true">
+                        <summary>
+                            This quite recent manuscript (18th or 19th century) contains the <title xml:lang="san">Vṛṣṭicintāmaṇi</title>, a <quote>charm for rain in 34 numbered sections or stanzas</quote> (Bendall 1883: 103), composed by Rāja Jayapratāpa Malla (1641-1674). 
+                            In this <term xml:lang="san">stotra</term> ("poem of praise"), the heroic <term xml:lang="san">śaiva</term> king claims mastery of the Buddhist world
+                            by descending into the <term xml:lang="lat">sancta sanctorum</term> of the great Buddhist <term xml:lang="san">stūpa</term> of Svayambhū and by besting the <term>nāga</term>s in order to bring rain to a drought-stricken country.
+                        </summary>
+                        
+                        <msItem n="1">
+
+                            <author>
+                                <name type="person" role="aut" key="local_00318 VIAF_78325815">
+                           <persName xml:lang="eng" type="standard">Jayapratāpa Malla</persName>
+                        </name>
+                            </author>
+                        
+                            <title xml:lang="san">Vṛṣṭicintāmaṇi</title>
+
+                            <rubric>
+                                <locus from="1v" to="1v">[1v1]</locus> 
+                                <g>$</g> oṃ namaḥ śrīśivaśaktyātmakai <del>namaḥ</del> || ^^^ ||
+                            </rubric>
+                            
+                            <incipit xml:lang="san">
+                                <locus from="1v" to="1v">[1v1]</locus> 
+                                raṃjitasugatamakuṭamaṇicaraṇaṃ, nirjita[1v2]nikhilavibhudhajanaśaraṇaṃ || 
+                                yoginigaṇavṛtasulalitaradanaṃ, vahalavilasevita[1v3]kaliharaṇaṃ || 1 || 
+                            </incipit>
+                       
+                            <explicit type="section">
+                        <locus from="6r" to="6r">[6r2]</locus> 
+                                tasmiṃ kāle sukāle sa[6r3]karajanamanollāsinīvāripūrṇāḥ, jātā vṛṣṭiḥ samantād vimalataravare bhūtale sā[6r4]rabhūtā | 
+                                kṛtvā tatkarmma cograṃ vividha khalu prajāpālanārthaṃ kṛpārthaṃ, rājendraśrīpra[6r5]tāpo nikhila kila sadā prāṇināṃ modamāya || 34 ||
+                                <!--CHECK-->
+                            </explicit>
+                                                        
+                            <finalRubric type="section">
+                        <locus from="6r" to="6r">[6r5]</locus> iti <choice>
+                                    <orig>śrīmahārā¦[6r6]jādhirājarājendraśrīśrīkavīndrajayapratāpamalladevaviracitaṃ</orig>
+                           <reg type="hyphenated">śrīmahārā¦[6r6]jarājendra-śrīśrīkavīndra-jayapratāpamalladeva-viraciitaṃ</reg>
+                        </choice> 
+                        <sic>vṛṣṭhi</sic>cintāma¦
+                                <locus from="6v" to="6v">[6v1]</locus>ṇir nāma stotra saṃpūrṇaṃ || <g>@</g> ||
+                                <!--CHECK-->
+                            </finalRubric>
+
+                            <colophon>
+                        <locus from="6v" to="6v">[6v1]</locus> śubham_ || <g>@</g> || <g>@</g> ||
+                            </colophon>
+                            
+                            <textLang mainLang="san">Sanskrit.</textLang>
+                        </msItem>
+                    </msContents>
+                    
+                    <physDesc>
+                        <objectDesc form="pothī"> 
+                            <supportDesc material="paper">
+                                <support>Paper.
+                                <p>
+                                    <dimensions type="folio" unit="cm">
+                                        <height quantity="9.5">9.5</height>
+                                        <width quantity="21.5">21.5</width>
+                                    </dimensions>
+                                </p>
+                                </support>
+                                
+                                <extent>6 ff.</extent>
+                                
+                        <!--                                <foliation n="1" type="original">Nepalākṣarā letter-numerals, mid-left margin, verso.</foliation>-->
+                                <foliation n="1" type="original">Nepalākṣarā numerals, top ledt margin, verso, below running marginal title.</foliation>
+                                <foliation n="2" type="original">Nepalākṣarā numerals, bottom right margin, verso, below running marginal invocation.</foliation>
+                                <foliation n="3" type="modern">Arabic numerals in pencil, top right margin, verso.</foliation> 
+                                
+                                <condition>
+                                    Complete, in good condition.
+                                </condition>
+                            </supportDesc>
+                            
+                           <layoutDesc>
+                               <layout columns="1" writtenLines="6">
+                                   <dimensions type="written area" unit="cm">
+                                       <height quantity="5.4">5.4</height>
+                                       <width quantity="16">16</width>
+                                   </dimensions>
+                                   <p>6 lines per page, approximately 32 <term xml:lang="san">akṣara</term>s per line.</p>
+                                    <dimensions type="akṣara" unit="mm" n="32">
+                                        <height atLeast="4" atMost="5">4-5</height>
+                                    </dimensions>
+                                   <dimensions type="interlinear space" unit="mm">
+                                       <height atLeast="4" atMost="5">4-5</height>
+                                   </dimensions>                        
+                           <!--                                   <stringHole type="true" quantity="2"> Two string holes. It is approximately in the middle of 2 to 2 cm-wide blank space.-->
+                           <!--                                   </stringHole>-->
+                           <!--                                   <commentaryForm type="Continous"></commentaryForm>-->
+                                   <p>Two pairs of double marginal frame lines. Some passages are highlighted with red powder.</p>
+                                </layout>
+                           </layoutDesc>                            
+                        </objectDesc>
+                        
+                        
+                        <handDesc>
+                            <handNote scope="sole" script="naipālanāgarī" medium="blackink">
+                                <desc>Nepalese Devanāgarī in black ink.</desc>
+                            </handNote>                        
+                        </handDesc>
+                        
+                  <!--                        <decoDesc>
+                            <decoNote type="miniature">
+                                <desc>The beginnings of the various <term xml:lang="san">dhāraṇi</term>s are decorated with polichrome miniatures of approximately 7 cm in width, put in the centre of the page and protected by a layer of Japanese paper..  
+                                    <list>
+                                        <item>
+                                            On <locus from="1v" to="1v">f. 1v</locus>, representation of the goddess Pratisarā.
+                                        </item>
+                                        <item>
+                                            On <locus from="38v" to="38v">f. 38v</locus>, representation of the goddess Sāhasrapramardanī.
+                                        </item>
+                                        <item>
+                                            On <locus from="78v" to="78v">f. 78v</locus>, representation of the goddess Māyūrī. 
+                                        </item>
+                                        <item>
+                                            On <locus from="142v" to="142v">f. 142v</locus>, representation the goddess Śītavatī.
+                                        </item>
+                                        <item>
+                                            On <locus from="147v" to="147v">f. 147v</locus>, representation of the goddess Mantrānusāraṇī.
+                                        </item>
+                                    </list>
+                                    
+                                </desc>
+                            </decoNote>
+                        </decoDesc>-->
+                        
+                        
+                        <additions>
+                            <list>
+                                <item>
+                                    On folio <locus from="1r" to="1r">1 recto</locus>, a modern note in pencil: <hi rend="italic">Bristicintamani composed by Raja Pratāpa Malla - Recital of this produces rain!</hi>.
+                                </item>
+                            </list>
+                            <list>
+                                <head>Marginalia</head>
+                                <item>
+                                    <marginalia type="title">Running title (<title xml:lang="san">vṛ° ciṃ°</title>), top left margin, verso.</marginalia>
+                                </item>
+                                <item>
+                                    <marginalia type="invocations">Running invocation (<term xml:lang="san">guruḥ</term>), bottom right margin, verso.</marginalia>
+                                </item>
+                            </list>
+                        </additions> 
+                        
+                        <bindingDesc>
+                            <p>
+                        <material>Cardboard cover</material>, library binding.</p>
+                     <!--                            <stringHole type="true" quantity="2"> Two string holes.</stringHole>-->
+                     <!--                            <decoNote type="other">
+                                <desc>On the <locus from="cover" to="cover">outer side of the front cover</locus>, traces of materials smeared on the manuscript during worship rites.</desc>
+                            </decoNote>-->
+                        </bindingDesc>
+
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate calendar="Nepali" notBefore="1701" notAfter="1900"> 18-19th century.</origDate>
+                            <origPlace xml:lang="eng" key="1000132">Nepāl.</origPlace>
+                        </origin>
+                        <provenance>Bought by <name type="person" role="col" key="local_ 00002 VIAF_7477330">
+                        <persName type="standard" xml:lang="eng">Wright, Daniel</persName>
+                        <persName type="display" xml:lang="eng">Dr. D. Wright</persName>
+                     </name> in <date calendar="Gregorian" when="1875">1875</date>.</provenance>
+                        <acquisition>
+                            <date calendar="Gregorian" when="1875-12-08">8 December 1875 (ULIB 7/3/55;</date> 
+                            <date calendar="Gregorian" when="1875-12-09">9 December 1875, <stamp>University Library stamp</stamp>).</date>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                           <ref target="#Bendall1883">Bendall (1883: 103)</ref>, direct inspection.</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>    
+                            
+                            <listBibl type="ms_descriptions">
+                                <head>Descriptions of the manuscript</head>
+                                <biblStruct type="manuscript" xml:id="ULIB7355Bradshaw1870">
+                                    <monogr>
+                                        <title level="m">Notes on the collections of Oriental, Thibetan and
+                                            'Additional' manuscripts [unpublished manuscript]</title>
+                                        <author>
+                                            <forename>Henry</forename>
+                                            <surname>ULIB 7/3/55 =
+                                                Bradshaw</surname>
+                                        </author>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <date>1870-80</date>
+                                            <!--<note type="url"
+                                            ><ref target="http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0265%2FULIB%207%2F3%2F55">[link]</ref></note>-->
+                                        </imprint>
+                                    </monogr>
+                                </biblStruct>
+                                
+                                <biblStruct type="manuscript" xml:id="ULIB714Griffith1873">
+                                    <monogr>
+                                        <title level="m">Assorted lists of manuscripts and books, chiefly Oriental,
+                                            acquired by the Library, with related papers [unpublished manuscript]</title>
+                                        <author>
+                                            <forename>Ralph T. H.</forename>
+                                            <surname>ULIB 7/1/4 =
+                                                Griffith</surname>
+                                        </author>
+                                        <author>
+                                            <forename>Daniel</forename>
+                                            <surname>Wright</surname>
+                                        </author>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <date>1873</date>
+                                        </imprint>
+                                    </monogr>
+                                    <idno type="callNumber">ULIB 7/1/4</idno>
+                                </biblStruct>
+                                
+                                <biblStruct type="manuscript" xml:id="zoteroItem_243">
+                        <monogr>
+                                    <title level="m">List Add.923-1827 = List of Additional Manuscripts 923-1827 [unpublished manuscript]</title>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <date>1878</date>
+                                    </imprint>
+                                </monogr>
+                        <idno type="callNumber">Handlist_Add_1878</idno>
+                     </biblStruct>
+                                
+                                
+                                <!--  <ref type="biblio" target="Bendall_1883"> -->                                
+                                <biblStruct type="book" xml:id="Bendall1883">
+                                    <monogr>
+                                        <title>Catalogue of the Buddhist Sanskrit Manuscripts in the University Library, Cambridge. 
+                                            With Introductory Notices and Illustrations of the Palæography and Chronology of Nepal and Bengal</title>
+                                        <author>
+                                            <forename>Cecil</forename>
+                                            <surname>Bendall</surname>
+                                        </author>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <publisher>University Press</publisher>
+                                            <date>1883</date>
+                                        </imprint>
+                                    </monogr>
+                                    <idno type="callNumber">Bendall_1883</idno>
+                                </biblStruct>
+                                
+                                <biblStruct type="manuscript" xml:id="Handlist_1900">
+                                    <monogr>
+                                        <title>List of Oriental MSS. Class Catalogue of Oriental MSS. [unpublished manuscript]</title>
+                                        <imprint>
+                                            <pubPlace>Cambridge</pubPlace>
+                                            <date>1900–</date>
+                                        </imprint>
+                                    </monogr>
+                                    <idno type="callNumber">Handlist_1900</idno>
+                                </biblStruct>
+                        </listBibl>
+                        
+                        <listBibl type="manuscripts">
+                            <head>Manuscripts</head>
+                     <!--                            <bibl><placeName>Cambridge</placeName><orgName>, Cambridge University Library</orgName>: 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01325/1">MS Add.1325</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01395/1">MS Add.1395</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01460/1">MS Add.1460</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01475-00001/1">MS Add.1475.1</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01644/1">MS Add.1644</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01647/1">MS Add.1647</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01656/1">MS Add.1656</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01662/1">MS Add.1662</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01688/1">MS Add.1688</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-ADD-01701-00001/1">MS Add.1701.1</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-ADD-02196-00001/1">MS Add.2196.1</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-OR-00130">MS Or.130</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-OR-00725-00002">MS Or.725.2</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-OR-01811">MS Or.1811</ref>, 
+                                <ref type="extant_mss" target="http://cudl.lib.cam.ac.uk/view/MS-OR-02258">MS Or.2258</ref>.</bibl>
+                            <bibl>
+                                <ref type="biblio" target="#Sastri1905">Śāstri 1905: 36 (1113 ca)</ref>
+                            </bibl>
+                            <bibl>
+                                <placeName>Oxford</placeName><orgName>, Bodleian Library</orgName>: <ref type="extant_mss" target="">MS No. 1448</ref>, Sansk.a. 8 (R).
+                            </bibl>
+                            <bibl>
+                                <placeName>London</placeName><orgName>, British Library</orgName>: <ref type="extant_mss" target="">MS No. Or.3346</ref>.
+                            </bibl>
+                            <bibl>
+                                <placeName>Kolkata</placeName><orgName>, Asiatic Society of Bengal</orgName>: <ref type="extant_mss" target="">MS No. 4078</ref>.
+                            </bibl>-->
+                            
+                            <bibl>
+                        <orgName>NGMCP</orgName>: 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_930-12%2842%29_V%E1%B9%9B%E1%B9%A3%E1%B9%ADicint%C4%81ma%E1%B9%87in%C4%81mastotra">E 930-12(42)</ref>; 
+                                <ref type="extant_mss"
+                             target="http://catalogue.ngmcp.uni-hamburg.de/wiki/E_3021-7%282%29_V%E1%B9%9B%E1%B9%A3%E1%B9%ADicint%C4%81ma%E1%B9%87i%28n%C4%81ma%29stotra">E 3021-7(2)</ref>.
+                            </bibl>
+                        </listBibl>
+                        
+                        
+                  <!--                      
+                        <listBibl type="editions">
+                            
+                            <head>Edition(s)</head>
+                            
+                            <biblStruct>The <title xml:lang="san">Vṛṣṭicintāmaṇi</title> is still unpublished.</biblStruct>
+                        </listBibl>-->
+                        
+                        
+                        <listBibl type="secondary_literature">
+                            <head>Secondary literature</head>
+                            <biblStruct type="book">
+                                <monogr>
+                                    <title>Written in Stone: Inscriptions of the Kathmandu Valley's Three Kingdoms</title>
+                                    <author>
+                                        <forename>Bronwen</forename>
+                                        <surname>Bledsoe</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Chicago, Illinois</pubPlace>
+                                        <publisher>Unpublished PhD dissertation</publisher>
+                                        <date>2004</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>                            
+                        </listBibl>
+                        
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080761.html">Manuscripts, Sanskrit</ref>
+                        </item>
+                    </list>
+                </keywords>
+                <keywords scheme="local">
+                    <list>
+                        <item>Stotra</item>
+                        <item>Śaiva</item>
+                        <item>Bauddha</item>
+                    </list>
+                </keywords>
+            </textClass>
+            
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-12-02">
+                <persName>Daniele Cuneo and Camillo Formigatti.</persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00001_files/8/0_0.jpg"
+               rend="landscape"/>
+        <surface n="cover" xml:id="i1">
+            <graphic height="3879px"
+                  width="6186px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00001.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00001_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="cover (inside)" xml:id="i2">
+            <graphic height="3879px"
+                  width="6186px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00002.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00002_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="1r" xml:id="i3">
+            <graphic height="3760px"
+                  width="5916px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00003.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00003_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="1v" xml:id="i4">
+            <graphic height="3760px"
+                  width="5916px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00004.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00004_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="2r" xml:id="i5">
+            <graphic height="3760px"
+                  width="5916px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00005.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00005_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="2v" xml:id="i6">
+            <graphic height="3760px"
+                  width="5916px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00006.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00006_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="3r" xml:id="i7">
+            <graphic height="3760px"
+                  width="5916px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00007.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00007_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="3v" xml:id="i8">
+            <graphic height="3760px"
+                  width="5916px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00008.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00008_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="4r" xml:id="i9">
+            <graphic height="3760px"
+                  width="5916px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00009.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00009_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="4v" xml:id="i10">
+            <graphic height="3760px"
+                  width="5916px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00010.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00010_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="5r" xml:id="i11">
+            <graphic height="3760px"
+                  width="5916px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00011.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00011_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="5v" xml:id="i12">
+            <graphic height="3760px"
+                  width="5916px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00012.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00012_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="6r" xml:id="i13">
+            <graphic height="3760px"
+                  width="5916px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00013.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00013_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="6v" xml:id="i14">
+            <graphic height="3610px"
+                  width="5916px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00014.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00014_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="back cover (inside)" xml:id="i15">
+            <graphic height="3610px"
+                  width="5916px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00015.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00015_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="back cover" xml:id="i16">
+            <graphic height="3610px"
+                  width="5916px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00016.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01472-000-00016_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+            <pb n="cover" facs="#i1"/>
+            <pb n="cover (inside)" facs="#i2"/>
+            <pb n="1r" facs="#i3"/>
+            <pb n="1v" facs="#i4"/>
+            <pb n="2r" facs="#i5"/>
+            <pb n="2v" facs="#i6"/>
+            <pb n="3r" facs="#i7"/>
+            <pb n="3v" facs="#i8"/>
+            <pb n="4r" facs="#i9"/>
+            <pb n="4v" facs="#i10"/>
+            <pb n="5r" facs="#i11"/>
+            <pb n="5v" facs="#i12"/>
+            <pb n="6r" facs="#i13"/>
+            <pb n="6v" facs="#i14"/>
+            <pb n="back cover (inside)" facs="#i15"/>
+            <pb n="back cover" facs="#i16"/>
+            </div>
+        </body>
+    </text>
+</TEI>
