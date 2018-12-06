@@ -7,6 +7,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Properties;
 import java.util.Set;
 
 import org.apache.commons.io.FileUtils;
@@ -21,10 +22,21 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class CUDLData {
 
-    public static String rootDir="/home/marc/cudl-import/data";
-
+    public static String rootDir=null;
+    public static Properties props;
     public static HashMap<String,JsonNode> JSON_INF;
     public static HashMap<String,String> XML_INF;
+
+    static {
+        props=new Properties();
+        try {
+            props.load(CUDLData.class.getClassLoader().getResourceAsStream("cudl.properties"));
+            rootDir=props.getProperty("rootDir");
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+    }
 
     static void loadData() throws ClientProtocolException, IOException {
         int start=1;
@@ -101,9 +113,9 @@ public class CUDLData {
         writer.close();
     }
 
-    public static void main(String[] args) throws ClientProtocolException, IOException {
+    /*public static void main(String[] args) throws ClientProtocolException, IOException {
         //CUDLData.loadData();
-        System.out.println(CUDLData.getXMLFileContents(rootDir+"/xml/MS-ADD-01398.xml"));
-    }
+        System.out.println(CUDLData.getNodeFromFile(rootDir+"/json/MS-ADD-01333.json"));
+    }*/
 
 }
