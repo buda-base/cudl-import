@@ -46,6 +46,7 @@ public class CSVBuilder {
             firstLine.add(index,"manifestUrl");
             csvLine.add(index,"https://cudl.lib.cam.ac.uk/iiif/"+id);
             index++;
+            String alt="";
             List<JsonNode> title=node.at("/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msContents/msItem").findValues("title");
             for(JsonNode n:title.get(0)) {
                 if(n.findValue("type")==null) {
@@ -55,10 +56,12 @@ public class CSVBuilder {
                         index++;
                     }
                 }else {
-                    firstLine.add(index,"altTitle");
-                    csvLine.add(index,n.findValue("content").asText());
-                    index++;
+                    alt=alt+","+n.findValue("content").asText();
                 }
+            }
+            if(!alt.equals("")) {
+                firstLine.add(index,"altTitle");
+                csvLine.add(index,alt.substring(1));
             }
             list.add(0,firstLine);
             list.add(1,csvLine);
