@@ -3,7 +3,6 @@ package io.bdrc.cudl;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -15,80 +14,66 @@ import com.opencsv.CSVWriter;
 
 public class CSVBuilder {
 
-    public static ArrayList<ArrayList<String>> getCsvLineAsList(String id) throws IOException{
-        ArrayList<ArrayList<String>> res= new ArrayList<ArrayList<String>>();
-        ArrayList<String> csvLine=new ArrayList<>();
-        ArrayList<String> firstLine=new ArrayList<>();
+    public static String[] headers=
+                         {"rid",
+                          "abstractText",
+                          "abstractShort",
+                          "title",
+                          "manifestUrl",
+                          "mainTitle",
+                          "altTitle",
+                          "material_support"};
+
+    public static String[] getCsvLineAsList(String id) throws IOException{
+        String[] csvLine=new String[8];
         JsonNode node=CUDLData.getNodeFromFile(CUDLData.rootDir+"/json/"+id+".json");
-        csvLine.add(0, id);
-        firstLine.add(0, "rid");
-        csvLine.add(1, node.findValue("abstractText").get(0).asText());
-        firstLine.add(1, "abstractText");
-        csvLine.add(2, node.findValue("abstractShort").get(0).asText());
-        firstLine.add(2, "abstractShort");
-        csvLine.add(3, node.findValue("title").get(0).asText());
-        firstLine.add(3, "title");
-        res.add(0,firstLine);
-        res.add(1,csvLine);
-        return AddXmlData(res,id);
+        csvLine[0]= id;
+        csvLine[1] = node.findValue("abstractText").get(0).asText();
+        csvLine[2]= node.findValue("abstractShort").get(0).asText();
+        csvLine[3]= node.findValue("title").get(0).asText();
+        return AddXmlData(csvLine,id);
     }
 
-    public static ArrayList<ArrayList<String>> AddXmlData(ArrayList<ArrayList<String>> list, String id) throws IOException {
-        ArrayList<String> csvLine=list.get(1);
-        ArrayList<String> firstLine=list.get(0);
-        int index=list.get(0).size();
+    public static String[] AddXmlData(String[] csvLine, String id) throws IOException {
         String xml=CUDLData.getXMLFileContents(CUDLData.rootDir+"/xml/"+id+".xml");
         String json=XML.toJSONObject(xml).toString();
         ObjectMapper mapper=new ObjectMapper();
         JsonNode node=mapper.readTree(json);
         //Should we process this record (does it have images ?)
         if(node.at("/TEI/facsimile").findValue("graphic")!=null) {
-            firstLine.add(index,"manifestUrl");
-            csvLine.add(index,"https://cudl.lib.cam.ac.uk/iiif/"+id);
-            index++;
+            csvLine[4]="https://cudl.lib.cam.ac.uk/iiif/"+id;
             String alt="";
             List<JsonNode> title=node.at("/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msContents/msItem").findValues("title");
             for(JsonNode n:title.get(0)) {
                 if(n.findValue("type")==null) {
                     if(n.findValue("content")!=null) {
-                        firstLine.add(index,"mainTitle");
-                        csvLine.add(index,n.findValue("content").asText());
-                        index++;
+                        csvLine[5]=n.findValue("content").asText();
                     }
                 }else {
                     alt=alt+","+n.findValue("content").asText();
                 }
             }
             if(!alt.equals("")) {
-                firstLine.add(index,"altTitle");
-                csvLine.add(index,alt.substring(1));
+                csvLine[6]=alt.substring(1);
             }
-            list.add(0,firstLine);
-            list.add(1,csvLine);
-            return list;
+            JsonNode support=node.at("/TEI/teiHeader/fileDesc/sourceDesc/msDesc/physDesc/objectDesc/supportDesc/material");
+            csvLine[7]=support.asText();
+            return csvLine;
         }
         return null;
     }
 
     public static void buildCsv() throws IOException {
         List<String> files=getJsonFiles();
-        ArrayList<ArrayList<String>> lines=new ArrayList<>();
         CSVWriter writer = new CSVWriter(new FileWriter(CUDLData.rootDir+"cudl.csv"));
-        boolean header=false;
+        writer.writeNext(headers);
         for(String s:files) {
             if(s.endsWith(".json")) {
-                ArrayList<ArrayList<String>> list= getCsvLineAsList(s.substring(0, s.indexOf(".")));
+                String[] list= getCsvLineAsList(s.substring(0, s.indexOf(".")));
                 if(list!=null) {
-                    if(!header && list.get(0).size()==7) {
-                        lines.add(0,list.get(0));
-                        header=true;
-                    }
-                    lines.add(list.get(1));
+                    writer.writeNext(list);
                 }
             }
-        }
-        for(ArrayList<String> ls:lines) {
-            writer.writeNext(ls.toArray(new String[0]));
         }
         writer.close();
     }
