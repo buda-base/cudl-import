@@ -7,6 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 
 import org.json.XML;
+import org.jsoup.Jsoup;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -19,16 +20,20 @@ public class CSVBuilder {
                           "abstractText",
                           "abstractShort",
                           "title",
-                          "manifestUrl",
                           "mainTitle",
                           "altTitle",
-                          "material_support"};
+                          "manifestUrl",
+                          "material_support",
+                          "origNotBefore",
+                          "origNotAfter",
+                          "origPlaceKey",
+                          "origPlaceName"};
 
     public static String[] getCsvLineAsList(String id) throws IOException{
-        String[] csvLine=new String[8];
+        String[] csvLine=new String[12];
         JsonNode node=CUDLData.getNodeFromFile(CUDLData.rootDir+"/json/"+id+".json");
         csvLine[0]= id;
-        csvLine[1] = node.findValue("abstractText").get(0).asText();
+        csvLine[1] = Jsoup.parse(node.findValue("abstractText").get(0).asText()).text();
         csvLine[2]= node.findValue("abstractShort").get(0).asText();
         csvLine[3]= node.findValue("title").get(0).asText();
         return AddXmlData(csvLine,id);
@@ -41,26 +46,45 @@ public class CSVBuilder {
         JsonNode node=mapper.readTree(json);
         //Should we process this record (does it have images ?)
         if(node.at("/TEI/facsimile").findValue("graphic")!=null) {
-            csvLine[4]="https://cudl.lib.cam.ac.uk/iiif/"+id;
+            csvLine[6]="https://cudl.lib.cam.ac.uk/iiif/"+id;
             String alt="";
             List<JsonNode> title=node.at("/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msContents/msItem").findValues("title");
             for(JsonNode n:title.get(0)) {
                 if(n.findValue("type")==null) {
                     if(n.findValue("content")!=null) {
-                        csvLine[5]=n.findValue("content").asText();
+                        csvLine[4]=n.findValue("content").asText();
                     }
                 }else {
                     alt=alt+","+n.findValue("content").asText();
                 }
             }
             if(!alt.equals("")) {
-                csvLine[6]=alt.substring(1);
+                csvLine[5]=alt.substring(1);
             }
             JsonNode support=node.at("/TEI/teiHeader/fileDesc/sourceDesc/msDesc/physDesc/objectDesc/supportDesc/material");
-            csvLine[7]=support.asText();
+            csvLine[7]=parseNodeValue(support);
+            JsonNode history=node.at("/TEI/teiHeader/fileDesc/sourceDesc/msDesc/history/origin");
+            if(history!=null) {
+                if(history.findValue("origDate")!=null) {
+                    csvLine[8]=parseNodeValue(history.findValue("origDate").findValue("notBefore"));
+                    csvLine[9]=parseNodeValue(history.findValue("origDate").findValue("notAfter"));
+                }
+                if(history.findValue("origPlace")!=null) {
+                    csvLine[10]=parseNodeValue(history.findValue("origPlace").findValue("key"));
+                    csvLine[11]=parseNodeValue(history.findValue("origPlace").findValue("content"));
+                }
+            }
             return csvLine;
         }
         return null;
+    }
+
+    private static String parseNodeValue(JsonNode node) {
+        if(node!=null) {
+            return node.asText();
+        }else {
+            return "";
+        }
     }
 
     public static void buildCsv() throws IOException {
