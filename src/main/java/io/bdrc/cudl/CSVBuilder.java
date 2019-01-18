@@ -27,10 +27,16 @@ public class CSVBuilder {
                           "origNotBefore",
                           "origNotAfter",
                           "origPlaceKey",
-                          "origPlaceName"};
+                          "origPlaceName",
+                          "script",
+                          "lang",
+                          "paperDimHeight",
+                          "paperDimWidth",
+                          "textDimHeight",
+                          "textDimWidth"};
 
     public static String[] getCsvLineAsList(String id) throws IOException{
-        String[] csvLine=new String[12];
+        String[] csvLine=new String[18];
         JsonNode node=CUDLData.getNodeFromFile(CUDLData.rootDir+"/json/"+id+".json");
         csvLine[0]= id;
         csvLine[1] = Jsoup.parse(node.findValue("abstractText").get(0).asText()).text();
@@ -74,6 +80,16 @@ public class CSVBuilder {
                     csvLine[11]=parseNodeValue(history.findValue("origPlace").findValue("content"));
                 }
             }
+            JsonNode script=node.at("/TEI/teiHeader/fileDesc/sourceDesc/msDesc/physDesc/handDesc/handNote/script");
+            csvLine[12]=parseNodeValue(script);
+            JsonNode textLang=node.at("/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msContents/msItem/textLang/mainLang");
+            csvLine[13]=parseNodeValue(textLang);
+            JsonNode paperHeight=node.at("/TEI/teiHeader/fileDesc/sourceDesc/msDesc/physDesc/objectDesc/supportDesc/support");
+            csvLine[14]=getDimension(parseNodeValue(paperHeight.findPath("dimensions").findPath("height").findValue("quantity")));
+            csvLine[15]=getDimension(parseNodeValue(paperHeight.findPath("dimensions").findPath("width").findValue("quantity")));
+            JsonNode textHeight=node.at("/TEI/teiHeader/fileDesc/sourceDesc/msDesc/physDesc/objectDesc/layoutDesc/layout");
+            csvLine[16]=getDimension(parseNodeValue(textHeight.findPath("dimensions").findPath("height").findValue("content")));
+            csvLine[17]=getDimension(parseNodeValue(textHeight.findPath("dimensions").findPath("width").findValue("content")));
             return csvLine;
         }
         return null;
@@ -87,9 +103,17 @@ public class CSVBuilder {
         }
     }
 
+    public static String getDimension(String dim) {
+        if(!dim.contains("-")) {
+            return dim;
+        }else {
+            return dim.split("-")[1];
+        }
+    }
+
     public static void buildCsv() throws IOException {
         List<String> files=getJsonFiles();
-        CSVWriter writer = new CSVWriter(new FileWriter(CUDLData.rootDir+"cudl.csv"));
+        CSVWriter writer = new CSVWriter(new FileWriter(CUDLData.rootDir+"cudl1.csv"));
         writer.writeNext(headers);
         for(String s:files) {
             if(s.endsWith(".json")) {

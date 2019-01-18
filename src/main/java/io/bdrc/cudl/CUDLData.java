@@ -63,6 +63,9 @@ public class CUDLData {
         HttpGet get=new HttpGet(url);
         get.addHeader("Accept","application/xml");
         HttpResponse resp=client.execute(get);
+        if(resp.getStatusLine().getStatusCode()!=200) {
+            System.out.println(" Code >> "+resp.getStatusLine().getStatusCode() + " for URL >>"+url);
+        }
         ByteArrayOutputStream baos=new ByteArrayOutputStream();
         resp.getEntity().writeTo(baos);
         String xml=baos.toString();
@@ -113,9 +116,9 @@ public class CUDLData {
         writer.close();
     }
 
-    /*public static void main(String[] args) throws ClientProtocolException, IOException {
-        //CUDLData.loadData();
-        System.out.println(CUDLData.getNodeFromFile(rootDir+"/json/MS-ADD-01333.json"));
-    }*/
+    public static void main(String[] args) throws ClientProtocolException, IOException {
+        CUDLData.loadData();
+        //System.out.println(CUDLData.getNodeFromFile(rootDir+"/json/MS-ADD-01333.json"));
+    }
 
 }
