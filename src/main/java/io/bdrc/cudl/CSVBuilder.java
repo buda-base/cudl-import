@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
 import org.json.XML;
@@ -113,7 +114,8 @@ public class CSVBuilder {
 
     public static void buildCsv() throws IOException {
         List<String> files=getJsonFiles();
-        CSVWriter writer = new CSVWriter(new FileWriter(CUDLData.rootDir+"cudl1.csv"));
+        Collections.sort(files);
+        CSVWriter writer = new CSVWriter(new FileWriter(CUDLData.rootDir+"cudl.csv"));
         writer.writeNext(headers);
         for(String s:files) {
             if(s.endsWith(".json")) {
